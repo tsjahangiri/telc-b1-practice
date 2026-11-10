@@ -1,0 +1,542 @@
+{
+ "id": "P06",
+ "pages": [
+  62,
+  74
+ ],
+ "answer_key_page": 74,
+ "page_sections": {
+  "L1": [
+   62,
+   63
+  ],
+  "L2": [
+   64,
+   65
+  ],
+  "L3": [
+   66,
+   67
+  ],
+  "SB1": [
+   68
+  ],
+  "SB2": [
+   69
+  ],
+  "H": [
+   70,
+   71,
+   72
+  ],
+  "?": [
+   73
+  ],
+  "LOES": [
+   74
+  ]
+ },
+ "exercises": [
+  {
+   "type": "lesen1",
+   "instructions": "Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.",
+   "headings": [
+    {
+     "key": "a",
+     "text": "Finanzielle Unterstützung für Kunstprojekte mit Schülern"
+    },
+    {
+     "key": "b",
+     "text": "Winterveranstaltung auf dem Eis mit Musik"
+    },
+    {
+     "key": "c",
+     "text": "Aktionsprogramm der Eu:Finanzielle Unterstützung für italienische Künstler"
+    },
+    {
+     "key": "d",
+     "text": "Kunstausstellung von italienischen Schülern"
+    },
+    {
+     "key": "e",
+     "text": "Deutschlernen mit euer Methode im Radio"
+    },
+    {
+     "key": "f",
+     "text": "Geld für gemeinsame europäische Projekte"
+    },
+    {
+     "key": "g",
+     "text": "Elternverein organsiert Kunstausstellung"
+    },
+    {
+     "key": "h",
+     "text": "Mit der Eisenbahn ins winterliche Wien"
+    },
+    {
+     "key": "i",
+     "text": "Mehr Geld für österreichische Musikschulen"
+    },
+    {
+     "key": "j",
+     "text": "Wie Sprachaufenthalte auswählen?"
+    }
+   ],
+   "texts": [
+    {
+     "num": 1,
+     "text": "Rund 150,000 Sprachreisen werden von Deutschen jährlich unternommen. Der Wunsch, eine andere Sprache zu lernen, kann verschieden Gründe haben: private, schulische oder berufliche. Das Angebot an Sprachreisen wächst ständig, über die Qualität ist jedoch wenig oder nichts bekannt. Im Marktplatz geht es diesmal um Kriterien für das Lernen mit Erfolg. Welche Methoden sind zu empfehlen, welche Anbieter kosten? Ihre Fragen werden am Hörertelefon unter 0800-839601 von Fachleuten beantwortet."
+    },
+    {
+     "num": 2,
+     "text": "Die Metropole Wien lädt zum winterlichen Eisvergnügen vor dem Wiener Rathaus ein: vom 22. Januar bis 7.März kann man auf 1800 Quadratmetern übers Eis fahren. Die Musik dazu bestimmt den Fahrstil und reicht vom klassischen Walzer bis zur Diskomusik. Nachts werden auf der Eisbahn Partys veranstaltet, vom Samba - Fest bis zum Hip-Hop –Event. Speisen und Getränke gibt es an verschiedenen Ständen, Schlittschuhe und Stiefel kann man leihen. Informationen: Wiener Tourismusverband."
+    },
+    {
+     "num": 3,
+     "text": "Für das Aktionsprogramm der Europäischen Union (EU) zur beruflichen Weiterbildung, Leonardo da Vinci, können noch bis zum 31. März Anträge gestellt werden. Ziel des Programms ist es, europäische Projekte zur beruflichen Weiterbildung zu unterstützen Anträge auf finanzielle unterstützen können die Institutionen stellen, die mit mindestens zwei weiteren europäischen Partnern an einem Projekt arbeiten wollen. Information: Nationale Koordinerungsstelle Leonardo da Vinci, Fehrbelliner Platz 3, D-10707 Berlin, Tel, 030/8643-0, Fax- 2637."
+    },
+    {
+     "num": 4,
+     "text": "Wien(SN.APA). Wie das Unterrichtsministerlum mitteilte, sollen im kommenden. Jahr monatlich 70,000 Euro für Kulturprojekte an Schulen zur Verfügung gestellt werden. Unterstützt würden damit Veranstaltungen und Projekte, die das Verständnis der Kinder und Jugendlichen für die Künste wecken, das Interesse am Musisch – Kreativen verstärken und zu Kontakten und einer Auseinandersetzung mit Künstlern führen. Dadurch soll in altersgemäßer Form die ganzheitliche Entwicklung der Persönlichkeit von Kindern und Jugendlichen gefördert werden."
+    },
+    {
+     "num": 5,
+     "text": "Zum sechsten Mal veranstaltet das Comitato Geniton Binnigen/ Bottmingen seine breit angelegte multikulturelle Kunstausstellung Arte. An der Veranstaltung nehmen 70 Künstlerinnen und Künstler aus der Region sowie Gäste aus Italien, Frankreich, Deutschland und weiteren Ländern teil. Bei dem vor 18 Jahren gegründeten Comitato handelt es sich um einen Elternverein, der damals italienischsprachigen Kindern bei ihren Schulprobiemen hilfreich zur Seite stand. Da die jetzige dritte Kindergeneration nicht mehr diese Probleme hat, suchte das Comitato nach neuen Aufgeben und fand in der Organisation der alljährlichen Kunstausstellung ein neues, interessantes Betätigungsfeld."
+    }
+   ],
+   "id": "P06-L1",
+   "section": "Leseverstehen, Teil 1",
+   "pages": [
+    62,
+    63
+   ],
+   "topic": "Unterstützung",
+   "solution": {
+    "1": "j",
+    "2": "b",
+    "3": "f",
+    "4": "a",
+    "5": "g"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen2",
+   "instructions": "Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.",
+   "title": "Die Angst vor Buchstaben abbauen",
+   "subtitle": "",
+   "text": "Etva 800 000 Menschen in der Schweiz haben zwar die Schule besucht, können aber Dennoch nicht richtig lesen und schreiben. Einige holen das Versäumte später nach. Von Gabriela Baumgartner\nDas Qualifikationsgespräch mit dem Chef sei sehr positiv gewiesen erzählt Kurt Hunziker seiner Gruppe. Auch beim Sprechen fühle ich mich heute viele sicherer. Der 33-Jährige lächelt und blick noch etwas unsicher in die Runde. Es hat sich wirklich gelohnt.\n## Immer wieder Angst.\nNeben ihm sitzt Sonja Kündig. Seit bald zwei Jahren sind die Teilnehmerinnen und Teilnehmer dieses Kurses damit beschäftigt nachzubholen, was sie alle im Laufe ihres Lebens irgendwann einmal aufgegeben hatten: Lesen und Schreiben. Einmal pro Woche besuchen sie den Kurs über, tauschen Erfahrungen aus, motivieren sich gegenseitig.\n## Wahrheit lange vertuscht\nFast zehn Jahre lang arbeitete Sonja Kündig bei einer Schweizer Grossbank. Ich verstand einfache Texte wie Witze in Zeitschriften. Schreiben aber konnte die heute 45-jährige Mutter zweier Söhne nur gerade mal ihre Adresse. Dafür hatte sie einen außergewöhnlich Sinn für Genauigkeit und ein gutes Gedächtnis für Zahlen. Problematich wurde es erst, als sie ihren Mann kennenlernte. Ich hatte furchtbare Angst, ihm die Wahrheit zu sagen. Würde er mich für dumm halten? Ihr Mitstreiter Michael Feller schwankt noch immer ständig zwischen Hoffnung und Verzweiflung. Weil seine Eltern häufig den Wohnort wechselten, hatte der 36- Jährige große Probleme in der Schule. Als ich vor vier Jahren hierher kam, konnte ich gar nichts. Ich schämte mich, lebte sehr zurückgezogen und hatte kaum Bekannte. In der Zwischenzeit hat er aufgeholt, kann sich jetzt auch mündlich besser verständigen.\nZum ersten Mal in seinem Leben traut er sich, mitzureden und seine Meinung zu sagen. Zufrieden ist Michael Feller aber noch nicht. Beim Lesen einer Zeitung oder eines Buches hat noch immer Probleme. Manchmal verstehe ich einzelne Wörter nicht, und dann macht. Verzweifelt wirft er in solchen Situationen den Text weg. Manchmal kommt es mir vor, als würde ich einen Teufel in meinen Händen halten.\nBesseres Selbstwertgefühl\nLese- und Schreibschwächen drücken auf das Selbstwertgefühls, erklärt Silvia Herdeg, Kursleiterin am Verein Lesen und Schreiben für Erwachsenes. In diesen Kursen wird deshalb nicht nur stur Grammatik gelernt, Trainiert wird ein neuer Kommunikationsstil. Die Leute sind erleichtert, dass sie hier mit ihrem Problem nicht alleine sind. Mit jedem Fortschritt öffnen sie sich ein Stück weiter. Nach zwei Jahren sind viele wie verwandelt. Einige Teilnehmende haben überhaupt erst nach dem Kurs gewagt, eine anspruchsvollere Stelle zu suchen. Andere haben ihre Unabhängigkeit zurückgewonnen. Früher habe ich nie mit Kollegen über einen Zeitungsartikel diskutieren können, erklärt Christian Koller. Meine Angst war zu gross, ich könnte etwas falsch verstanden haben und mich dadurch lächerlich machen. Heute rede ich mit .",
+   "questions": [
+    {
+     "num": 6,
+     "stem": "In der Schweiz gibt es etwa 800.000 Menschen, die",
+     "options": {
+      "a": "als Kind Angst vor der Schule hatten.",
+      "b": "beim Lesen und Schreiben große Schwierigkeiten haben.",
+      "c": "erst als Erwachsene Lesen und Schreiben lernen."
+     }
+    },
+    {
+     "num": 7,
+     "stem": "Sonja Kündig",
+     "options": {
+      "a": "besitzt die Fähigkeit, sich Zahlen sehr gut zu merken.",
+      "b": "hat nach dem Kurs eine Stelle bei einer Bank gefunden.",
+      "c": "lernte ihren Mann im Kurs kennen."
+     }
+    },
+    {
+     "num": 8,
+     "stem": "Michael Feller",
+     "options": {
+      "a": "ist heute mit seinen Lernfortschritten zufrieden.",
+      "b": "versucht jetzt, trotz Schwierigkeiten längere Taxte zu lesen.",
+      "c": "wechselte den Wohnort, weil er Probleme in der Schule hatte."
+     }
+    },
+    {
+     "num": 9,
+     "stem": "Die Leiterin des Kurses stellt fest, dass",
+     "options": {
+      "a": "der Kurs die Teilnehmenden selbstsicherer macht.",
+      "b": "die Teilnehmenden keinen Grammatikunterricht brauchen.",
+      "c": "sie selbst einen neuen Kommunikationsstil lernen muss."
+     }
+    },
+    {
+     "num": 10,
+     "stem": "Christian Koller",
+     "options": {
+      "a": "diskutiert nun auch mit Kollegen über Themen aus der Zeitung.",
+      "b": "hat noch nie einen Zeitungsartikel gelesen.",
+      "c": "wurde früher von seinen Kollegen oft ausgelacht."
+     }
+    }
+   ],
+   "id": "P06-L2",
+   "section": "Leseverstehen, Teil 2",
+   "pages": [
+    64,
+    65
+   ],
+   "topic": "Buchstaben",
+   "solution": {
+    "6": "b",
+    "7": "a",
+    "8": "b",
+    "9": "a",
+    "10": "a"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Bold subheadings 'Immer wieder Angst.' and 'Wahrheit lange vertuscht' restored as subheadings (merged into paragraphs by the text layer)."
+   ],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen3",
+   "instructions": "Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.",
+   "situations": [
+    {
+     "num": 11,
+     "text": "Während Ihres Sommerurlaubs in der Schweiz möchten Sie ein Konzert besuchen Sie interessieren sich für die traditionelle Musik dieses Landes."
+    },
+    {
+     "num": 12,
+     "text": "Ein Freund von Ihnen interessiert sich für Norwegen. Sie wollen ihm ein passendes Buch."
+    },
+    {
+     "num": 13,
+     "text": "Sie möchten gerne in einem Restaurant mit Live-Musik essen."
+    },
+    {
+     "num": 14,
+     "text": "Sie suchen ein Geschenk für die 12-jährige Tochter Ihrer Schweizer Freunde."
+    },
+    {
+     "num": 15,
+     "text": "Sie suchen für Ihre Freunde ein passendes Geschenk. Ihre Freunde kochen gern selbst und probieren oft neue Rezepte."
+    },
+    {
+     "num": 16,
+     "text": "Sie möchten am Samstagabend griechisch essen gehen."
+    },
+    {
+     "num": 17,
+     "text": "Sie suchen ein Restaurant, in dem Sie draußen sitzen können ."
+    },
+    {
+     "num": 18,
+     "text": "Sie sind im Juni in München und möchten ein Konzert mit Gesang besuchen ."
+    },
+    {
+     "num": 19,
+     "text": "Sie sind in der Schweiz und suchen ein Souvenir für Ihre Freunde."
+    },
+    {
+     "num": 20,
+     "text": "Sie sind am Flughafen und möchten etwas essen."
+    }
+   ],
+   "ads": [
+    {
+     "key": "a",
+     "text": "DAS MUSIKERLEBNIS\n{{Sonntag, 17.6., 20 Uhr}}\n{{Münchner Philharmonie, Prinzregentenplatz}} [unleserlich]\nHaydn Symphonie {{Hob. 1:82}}\n„Der Bär“\nBeethoven Chorfantasie, c-Moll,\nop. 80, Symphonie Nr. 1, C-Dur,\nop. 21\n{{Es singen:}} [unleserlich – Namen der Solisten (Sopran, Tenor, Bass), Chor]\n{{Leitung: Hans-Martin Schneidt}}\n{{Euro}} [unleserlich – Preise]"
+    },
+    {
+     "key": "b",
+     "text": "Herzlichen Glückwunsch!\n[unleserlich – zwei Zeilen Text]\nSPICK\nDIE ZEITSCHRIFT FÜR SCHÜLERINNEN\nUND SCHÜLER\n{{Bestellen Sie ein Probeheft oder – noch}}\n{{besser – gleich ein Abonnement, ganz}}\n{{einfach per Telefon 01 404}} [unleserlich] {{oder}}\n{{E-Mail abo-service@spick.ch}}"
+    },
+    {
+     "key": "c",
+     "text": "KOREA PAVILLON\n{{Jeden Mittwoch und Sonntag}}\n{{Buffet à discrétion ab 19.30 Uhr}}\n{{Unser Personal bedient Sie in}}\n{{original koreanischer Nationaltracht}}\n[unleserlich]\n{{Klimatisierte Räume}}\n{{Echt koreanische Spezialitäten}}\n{{Badenerstrasse}} [unleserlich]\n{{Telefon (01)}} [unleserlich]"
+    },
+    {
+     "key": "d",
+     "text": "CH-5000 Aarau, Schweiz\nIm Saalbau:\nSamstag, 30. Januar,\n17.00 Uhr\nDas Casal Quartett spielt\nWerke von\nLudwig van Beethoven,\nGeorg Crumb\nAntonín Dvořák\nVorverkauf:\nInfo Aarau 062 822 75 22"
+    },
+    {
+     "key": "e",
+     "text": "Cantino\nDas Restaurant im\nMuseum für Musikinstrumente\nRestaurant mit Sonnenterrasse\nMontag–Freitag\n12:00 bis 15:00 Uhr und 18:00 bis 23:00 Uhr\nSamstag ab 18:00 Uhr\nSonntag TAPAS-Brunch 12:00 bis 15:00 Uhr\nEssen Sie Tapas, so viele Sie wollen!\nModern gestalteter Innenraum.\nEingang direkt neben der Museumskasse."
+    },
+    {
+     "key": "f",
+     "text": "Zürich\nGrosser Saal\nDonnerstag, 17. Juli 19.30 Uhr\nGALAKONZERT\nSymphonisches Blasorchester\nStadtharmonie Zürich\nOerlikon Seebach\nLeitung: Eric Conus\nmit Werken von\nCarl Maria von Weber · Edvard Grieg\nPeter Iljitsch Tschaikowsky\nDmitri Schostakowitsch · Franco Cesarini\nAlfred Reed · Philip Sparke\nKarten zu Fr. 19.–, 27.– und 35.– erhältlich bei:\nBillett-Service Migros (City Shopping)\nTel. 01 221 16 71\nBillettzentrale Tel. 01 221 22 83\nMusikhaus Bucher, 8050 Zürich,\nTel. 01 312 58 43\nAbendkasse am Konzerttag ab 18.00 Uhr"
+    },
+    {
+     "key": "g",
+     "text": "Gastland NORWEGEN\nKULINARISCHE Märchen\naus Fjordlachs\nVOM 26. MAI BIS 22. JUNI\nFrisch aus Norwegen und köstlich\nzubereitet.\nLassen Sie sich von unseren sommer-\nlichen Lachskreationen überraschen.\nFlughafenrestaurants TOP AIR, ASIA\nCOFFEE SHOP, BINARIO UNO und\nBRASSERIE\nReservation 01-816 60 60"
+    },
+    {
+     "key": "h",
+     "text": "Alpenklänge\nDie andere Schweizer Volksmusik\nDo 17. Juli 20 Uhr Oberwalliser Spillit\nGast: Sina\nPaul Locher, Geige Elmar Schmid, Klarinette\nKlaus Schmid, Klarinette Oswald Bumann, Bassgei-\nge Sabine Gertschen, Hackbrett Marcel Volken,\nSchwyzerörgeli Edmund Volken, Hackbrett\nDo 24. Juli 20 Uhr Roots of Communication\nGast: Erika Stucky\nRobert Morgenthaler, Posaune, Alphorn, Didgeridoo\nJean-Jacques Pedretti, Alphorn, Posaune Lukas Niggli,\nSchlagzeug, Perkussion\nHOFKONZERTE\nZentrum am Obertor 8, Winterthur\nVorverkauf: Zentrum am Obertor, Tel. 052213 88 88\nTourist-Service, Tel. 052 26926 66\nBei schlechter Witterung: Neuwiesenhof-Saal, Wartstr. 17,\nAuskunft am Veranstaltungstag über Nr. 1600"
+    },
+    {
+     "key": "i",
+     "text": "Hiltl. Vegetarisch\nnach\nLust und Laune\nVegetarische Küche liegt im Trend!\nZum Jubiläum des Hiltl in Zürich,\ndes ersten vegetarischen Restaurants in E{{uropa,}}\nveröffentlicht Rolf Hiltl über 60 der belie{{btesten}}\nRezepte zum Nachkochen.\nHiltl. Vegetarisch nach Lust und {{Laune}}\n168 Seiten, 120 farbige Abbild{{ungen,}}\ngebunden, Fr. 59.–\nWERDERVERLAG\nPostfach, 8021 Züric{{h}}\nTel. 0846 860 560, Fax 01 / […]\nInternet www.werderver{{lag.ch}}\nJetzt im Buchhandel er{{hältlich}}"
+    },
+    {
+     "key": "j",
+     "text": "András Adorján\nFlöte\nUwe Komischke\nTrompete\nFriedmann Winklhofer\nCembalo und Leitung\nKonzert für Orchester,\nTrompeten und Flöten\n{{D}}i., 22.6 20 Uhr\n{{(B}}ei schlechtem Wetter im\n{{H}}erkulessaal)"
+    },
+    {
+     "key": "k",
+     "text": "SCHWEIZER HEIMATWERK – Geschenke\nvon hier von heute von Hand\nHier finden Sie das optimale Geschenk für jede und jeden!\nTraditionelles Kunsthandwerk und Trachten, Panorama-Poster.\njetzt neu:\ngroße Auswahl an CDs\nverschiedenster\nSchweizer Künstler\nGenf\nAarau\nSt. Gallen\nZürich, Tel. 01 211 57 80\nhttp://www.heimatwerk.ch"
+    },
+    {
+     "key": "l",
+     "text": "Neuburger […]\nGenießen Sie unsere Gastf{{reundschaft und}}\ndie sagenhafte Auswahl {{unserer Küche.}}\nAm Woche{{nende}}\ngriechische Sp{{ezialitäten}}\nHopfenstraße 19, be[…]\nTelefon 01 […]\nMo.–Fr.: 11:30–14:00 […]\nSamstag/Sonnta{{g:}} […]"
+    }
+   ],
+   "ads_image_page": 67,
+   "id": "P06-L3",
+   "section": "Leseverstehen, Teil 3",
+   "pages": [
+    66,
+    67
+   ],
+   "topic": "Musik",
+   "solution": {
+    "11": "h",
+    "12": "x",
+    "13": "x",
+    "14": "b",
+    "15": "i",
+    "16": "l",
+    "17": "e",
+    "18": "a",
+    "19": "k",
+    "20": "g"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Ads page p67 is an angled photo; top row blurred, right/left edges cropped. Website shows the original page image alongside the transcription."
+   ],
+   "uncertain": [
+    {
+     "location": "p67, ads a, b, c (top row)",
+     "note": "BLURRY: top row of the photo is out of focus (both photos p67 and p447). Large headlines are original. Smaller lines were RECONSTRUCTED from blurred letter shapes and context during the second-pass audit; every reconstructed segment is marked {{…}} in the data and shown with a dotted 'rekonstruiert' marker on the website. Names, prices and digits that could not be inferred remain [unleserlich]."
+    },
+    {
+     "location": "p67, ads i and l (right edge)",
+     "note": "Right edge of the page is cut off in the photo. Cut-off word endings were RECONSTRUCTED (Task: reconstruct Lesen 3) and are marked {{…}} (dotted 'rekonstruiert' on the website). Names, phone/fax digits, address details and opening hours cannot be inferred linguistically and are shown as […] (cut off, not reconstructable). See audit/reconstructed_words.md."
+    },
+    {
+     "location": "p67, ad j (left edge)",
+     "note": "Left edge cut off. The photo shows no heading above 'András Adorján' (the earlier placeholder line was removed). Single cut first letters (D, (B, H) reconstructed and marked {{…}}. See audit/reconstructed_words.md."
+    },
+    {
+     "location": "p67, ad f",
+     "note": "Slightly blurred small print; names and phone numbers read with moderate confidence."
+    }
+   ],
+   "verified": true
+  },
+  {
+   "type": "sprach1",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen",
+   "text": "Liebe Dominique,\nda ich dich telefonisch nicht erreiche, auch nicht per E-Mail, schreibe ich dir einen Brief. Es ist nämlich etwas ganz Besonderes [[21]] : Stelle [[22]] vor, ich habe die Stelle bei der EU in Brüssel bekommen!\nDu weißt noch: Es gab ungefähr 300 Bewerber, und unter denen [[23]] die besten ausgesucht. Ich hatte mich auf das Vorstellungsgespräch schon [[24]] Zeit vorher vorbereitet. Trotzdem – ohne meine Sprachkenntnisse und meine Auslandserfahrung ich die Stelle sicher nicht bekommen. Aber ein bisschen Glück braucht [[25]] auch,[[26]] so etwas gelingt.\nNun bitte ich dich [[27]] ein paar gute Tipps. Vielleicht kennst du auch jemanden, von[[28]] ich Informationen über das Leben in Belgien bekommen kann? Ich würde dich am liebsten kürz [[29]] , um mit dir persönlich zu sprechen. Geht das vielleicht [[30]] zwei Wochen, Z.B. am übernächsten Wochenende? Bitte gib mir Beschreiben.\nHerzlich Grüße\nKatie",
+   "gaps": [
+    {
+     "num": 21,
+     "options": {
+      "a": "geschah",
+      "b": "geschehen",
+      "c": "geschieht"
+     }
+    },
+    {
+     "num": 22,
+     "options": {
+      "a": "dich",
+      "b": "dir",
+      "c": "Du"
+     }
+    },
+    {
+     "num": 23,
+     "options": {
+      "a": "halten",
+      "b": "wären",
+      "c": "wurden"
+     }
+    },
+    {
+     "num": 24,
+     "options": {
+      "a": "lange",
+      "b": "langem",
+      "c": "langer"
+     }
+    },
+    {
+     "num": 25,
+     "options": {
+      "a": "er",
+      "b": "ich",
+      "c": "man"
+     }
+    },
+    {
+     "num": 26,
+     "options": {
+      "a": "als",
+      "b": "damit",
+      "c": "ob"
+     }
+    },
+    {
+     "num": 27,
+     "options": {
+      "a": "über",
+      "b": "um",
+      "c": "vor"
+     }
+    },
+    {
+     "num": 28,
+     "options": {
+      "a": "dem",
+      "b": "den",
+      "c": "denen"
+     }
+    },
+    {
+     "num": 29,
+     "options": {
+      "a": "getroffen",
+      "b": "treffe",
+      "c": "treffen"
+     }
+    },
+    {
+     "num": 30,
+     "options": {
+      "a": "bis",
+      "b": "in",
+      "c": "an"
+     }
+    }
+   ],
+   "id": "P06-SB1",
+   "section": "Sprachbausteine, Teil 1",
+   "pages": [
+    68
+   ],
+   "topic": "Dominique",
+   "solution": {
+    "21": "b",
+    "22": "b",
+    "23": "c",
+    "24": "a",
+    "25": "c",
+    "26": "b",
+    "27": "b",
+    "28": "a",
+    "29": "c",
+    "30": "b"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "sprach2",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.",
+   "text": "Sehr geehrte Frau Borner,\nes gibt ganz viele Raschläge, wie man sich ernähren soll, was man essen soll und was nicht. Die meisten Empfehlungen sind aber nicht für etwas, [[31]] gegen etwas, und zwar immer wieder gegen etwas anderes: gegen Fleisch zum Beispiel oder gegen Zucker, aber auch gegen Milch. So [[32]] man etwa, wer kein Fleisch isst, lebt nicht nur gesünder, sondern fühlt sich auch besser.\n[[33]] ich eine Zeitschrift durchsah, ist mir Ihre Anzeige aufgefallen, und nun habe ich folgende Fragen an Sie: Von [[34]] Nahrungsmitteln darf man eigentlich so viel essen, wie man will? Was [[35]] jeden Tag gegessen werden? Und wie ist das mit der Milch? Die einen sagen, Milch ist sehr gesund wegen der vielen [[36]] Nährstoffe. Andere meinen, wer viel Milch trinkt, kann Probleme mit dem Magen bekommen. Außerdem kann man [[37]] Milch auch Mineralwasser trinken. Was soll ich jetzt glauben?\nFür eine Antwort [[38]] meine Fragen danke ich Ihnen im Voraus. Könnten Sie mir auch noch eine Broschüre schicken? Das Thema Essen und Sport [[39]] mich besonders interessieren, [[40]] ich selber viel Sport treibe.\nMit freundlichen Grüßen\nSilvia Schönenberger",
+   "words": [
+    {
+     "key": "a",
+     "word": "ALS"
+    },
+    {
+     "key": "b",
+     "word": "AUF"
+    },
+    {
+     "key": "c",
+     "word": "DESWEGEN"
+    },
+    {
+     "key": "d",
+     "word": "MÖCHTE"
+    },
+    {
+     "key": "e",
+     "word": "NENNT"
+    },
+    {
+     "key": "f",
+     "word": "SAGT"
+    },
+    {
+     "key": "g",
+     "word": "SOLLTE"
+    },
+    {
+     "key": "h",
+     "word": "SONDERN"
+    },
+    {
+     "key": "i",
+     "word": "STATT"
+    },
+    {
+     "key": "j",
+     "word": "WAS"
+    },
+    {
+     "key": "k",
+     "word": "WEIL"
+    },
+    {
+     "key": "l",
+     "word": "WELCHEN"
+    },
+    {
+     "key": "m",
+     "word": "WICHTIGEN"
+    },
+    {
+     "key": "n",
+     "word": "WÜRDE"
+    },
+    {
+     "key": "o",
+     "word": "ZUM"
+    }
+   ],
+   "id": "P06-SB2",
+   "section": "Sprachbausteine, Teil 2",
+   "pages": [
+    69
+   ],
+   "topic": "essen",
+   "solution": {
+    "31": "h",
+    "32": "f",
+    "33": "a",
+    "34": "l",
+    "35": "g",
+    "36": "m",
+    "37": "i",
+    "38": "b",
+    "39": "n",
+    "40": "k"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Variant of P01 Sprachbausteine Teil 2 (Frau Borner): same letter, but some gap positions and the word bank differ."
+   ],
+   "uncertain": [],
+   "verified": true
+  }
+ ],
+ "missing_sections": [],
+ "paper_notes": []
+}

@@ -1,0 +1,49 @@
+0.065 0.561 0.30	plaipale
+0.076 0.084 1.00	Sprachausteine, Teil 2
+0.093 0.070 1.00	LANGUAGE Tests
+0.101 0.536 0.30	CDO &AUO
+0.170 0.060 1.00	Lesen sie den Text und schließen Sie
+0.190 0.060 1.00	Lücken 31 - 40. Benutzen Sie die Wörter
+0.209 0.060 1.00	(a, o) Jedes Wort passt nur einmal.
+0.230 0.062 1.00	Markieren Sie Ihre Lösungen für die
+0.250 0.062 1.00	Aufgaben 31 - 40 auf dem
+0.270 0.062 1.00	Antwortbogen.
+0.362 0.047 1.00	Sehr geehrte Herr Blanco Ruiz
+0.397 0.045 1.00	Ich schreibe Ihnen auf die Anzeige, die (31) in der heutigen Bild - Zeitung aufgefallen ist. Da
+0.420 0.043 1.00	ich (32) einige Monate beruflich nach Südamerika gehe, muss ich sehr schnell Spanisch lernen.
+0.443 0.047 1.00	Für einen richtigen Sprachkurs habe ich leider (33) Zeit. Aber Ihre Methode interessiert mich,
+0.467 0.045 1.00	vor allem die Sprachübungen (34) den CDs. Ich denke, damit könnte ich ganz (35) Ich arbeite
+0.490 0.043 1.00	(36) liebsten mit meinem PC. Sie schreiben, (37) Ihr Programm besonders die alltägliche
+0.513 0.047 1.00	Kommunikation fördert. Wie lange wird es dauern, (38) ich mich meinen Geschäftsfreunden
+0.536 0.047 1.00	richtig unterhalten kann? Und wie viele Stunden (39) Woche sollte man mindestens üben?
+0.561 0.047 1.00	Können Sie mir eine Musterlektion schicken ich? (40) gerne ausprobieren, wie ihre Methode
+0.570 0.608 0.50	schul
+0.583 0.045 1.00	funktioniert
+0.619 0.047 1.00	Mit freundlichen Grüßen
+0.651 0.045 1.00	Ihre KARIN ÜBERSCHÄR
+0.807 0.057 0.50	a
+0.802 0.127 1.00	AM
+0.804 0.224 0.30	d
+0.799 0.292 1.00	FÜR
+0.807 0.388 1.00	g
+0.802 0.456 1.00	MICH
+0.800 0.622 1.00	MÖCHTE
+0.807 0.749 0.50	m
+0.802 0.823 1.00	WÄHREND
+0.824 0.055 1.00	b
+0.823 0.129 1.00	BIS
+0.827 0.224 1.00	e
+0.822 0.285 0.50	GUTER
+0.824 0.388 1.00	h
+0.823 0.468 1.00	MIR
+0.825 0.637 1.00	OHNE
+0.827 0.756 1.00	n
+0.822 0.846 1.00	WÄRE
+0.849 0.060 0.30	C
+0.843 0.119 1.00	DASS
+0.844 0.228 1.00	f
+0.843 0.283 1.00	KENIE
+0.844 0.392 0.50	i
+0.844 0.468 1.00	MIT
+0.846 0.645 1.00	PRO
+0.843 0.829 1.00	WÜRDEN

@@ -1,0 +1,29 @@
+=== P01-H1 [Urlaub] p[9] src=text_layer key p13
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören diese Texte nur einmal. / Entscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.
+  41. Der Sprecher hätte gern Urlaub wie die anderen Kinder gemacht.   [+]
+  42. Dem Sprecher hat der Wanderurlaub nicht so gut gefallen.   [+]
+  43. Die Sprecherin hat die Ferien bei Verwandten verbracht.   [-]
+  44. Die Sprecherin hat mit ihren Eltern regelmäßig Fahrradausflüge gemacht.   [-]
+  45. Der Sprecher hat den Urlaub mit den Eltern gemeinsam geplant.   [+]
+  nums=[41, 42, 43, 44, 45] complete=True
+=== P01-H2 [Schütz] p[10] src=text_layer key p13
+INSTR: Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. / Sie hören das Gespräch zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.
+  46. Herr Schütz arbeitet erst seit kurzer Zeit als Taxifahrer   [-]
+  47. In der Kleinstadt hatte Herr Schütz keine Geschäftsleute als Kunden.   [+]
+  48. Herr Schütz hat sich schon einmal in einen Fahrgast verliebt.   [-]
+  49. Die Fahrgäste erzählen viel, weil sie den Taxifahrer nicht kennen.   [+]
+  50. Männer sprechen oft über unpersönliche Dinge.   [-]
+  51. Herr Schütz bekommt von den Fahrgästen manchmal auch einen Tipp.   [-]
+  52. In der Freizeit steht Sport für Herrn Schütz an erster Stelle.   [+]
+  53. Beim Schwimmen kann sich Herr Schütz von einem anstrengenden Tag erholen.   [-]
+  54. Herr Schütz hat sich entschieden, nur am Tag Taxi zu fahren.   [+]
+  55. Nach Meinung von Herrn Schütz haben jüngere Taxifahrer weniger Angst, nachts zu an.   [-]
+  nums=[46, 47, 48, 49, 50, 51, 52, 53, 54, 55] complete=True
+=== P01-H3 [Mannheim] p[11] src=text_layer key p13
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören jeden Text zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen.
+  56. Der Zug nach Mannheim fährt um 13:14 Uhr ab.   [+]
+  57. Dr. Hoffmann ist um Urlaub unter der Nummer 957 30 75 zu erreichen.   [-]
+  58. Sie können den Film das Leben ist schön um 18: 15 Uhr im Central sehen.   [-]
+  59. Heute Abend beginnt es zu schneien.   [-]
+  60. Katrin hätte am Dreiundzwanzigsten Zeit.   [+]
+  nums=[56, 57, 58, 59, 60] complete=True

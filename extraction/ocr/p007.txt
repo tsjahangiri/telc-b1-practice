@@ -1,0 +1,61 @@
+0.064 0.076 1.00	Sprachausteine, Teil 1
+0.058 0.754 0.30	„ ș!|
+0.081 0.062 1.00	LANGUAGE Tests
+0.132 0.045 1.00	Lesen sie den Text und schließen Sie Lücken 21 - 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.
+0.151 0.047 1.00	Markieren sie Ihre Lösungen für die Aufgaben 21 - 30 auf dem Antwortbogen
+0.222 0.047 1.00	Sehr geehrter Herr Schmidt,
+0.256 0.045 1.00	im Januar hatte ich bei (21) für mich und meine Familie einen Flug nach Indien gebucht. Leider
+0.281 0.047 1.00	entsprach unser Flug überhaupt nicht dem, (22)bei der Buchung am Telefon ausgemacht
+0.303 0.047 1.00	worden war.
+0.350 0.045 1.00	(23) ich ausdrücklich einen Direktflug nach Mumbai bestellt hatte, haben Sie mir einen Flug
+0.374 0.045 1.00	(24) Zwischenstopp in Delhi ausgestellt. Wir mussten eine Nacht in Delhi verbringen und
+0.397 0.047 1.00	kamen so (25) einen Tag später als geplant in Mumbai an. Doch damit nicht genug. Der Flug
+0.420 0.047 1.00	war nicht nur anders als vereinbart, (26) auch noch viel teurer. statt (27) erwarteten 640 Euro
+0.445 0.047 1.00	kostete der Flug 720 Euro.
+0.487 0.045 1.00	Ich darf Sie daher (28) Rückzahlung der zu viel verrechneten Kosten auf mein Konto (29) der
+0.507 0.049 1.00	Deutschen Bank in Mumbai bitten. Meine Bankdaten haben Sie bereits.
+0.548 0.051 1.00	Ich bitte Sie, die Angelegenheit bald zu klären und (30) dann zu antworten.Mit
+0.586 0.051 1.00	freundlichen Grüßen
+0.626 0.047 1.00	Harish Khurana
+0.648 0.062 1.00	21.
+0.648 0.109 0.50	A ihnen
+0.648 0.265 1.00	24.
+0.648 0.316 1.00	A für
+0.650 0.497 1.00	27.
+0.648 0.552 0.50	A der
+0.653 0.684 1.00	30.
+0.650 0.729 0.50	A mich
+0.667 0.117 1.00	B Ihnen
+0.670 0.314 1.00	B mit
+0.670 0.550 1.00	B deren
+0.670 0.735 0.50	B mir
+0.692 0.119 0.30	c Sie
+0.695 0.316 0.30	c zu
+0.693 0.573 1.00	die
+0.693 0.758 1.00	sich
+0.754 0.060 1.00	22.
+0.751 0.117 0.50	A das
+0.754 0.261 1.00	25.
+0.753 0.316 0.30	A
+0.747 0.546 0.50	A für
+0.757 0.341 1.00	erst
+0.757 0.489 1.00	28.
+0.777 0.117 0.30	B was
+0.775 0.314 0.50	B nach
+0.773 0.544 0.30	B um
+0.795 0.119 0.50	c wie
+0.798 0.333 0.50	] seit
+0.798 0.546 0.30	czu
+0.843 0.057 1.00	23.
+0.836 0.117 0.50	A Danach
+0.842 0.259 1.00	26.
+0.837 0.316 1.00	A besonders
+0.846 0.489 1.00	29.
+0.843 0.550 0.30	A
+0.847 0.571 1.00	an
+0.860 0.119 0.50	B Obwohl
+0.860 0.316 0.50	B sondern
+0.863 0.571 0.50	bei
+0.878 0.142 1.00	Nämlich
+0.882 0.339 1.00	sonst
+0.882 0.575 0.50	vor

@@ -1,0 +1,19 @@
+0.103 0.090 1.00	Hörverstehen, Teil 2
+0.121 0.076 1.00	LANGUAGE Tests
+0.192 0.047 1.00	Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.
+0.211 0.047 1.00	Sie hören das Gespräch zweimal.
+0.230 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 46 - 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.250 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 46 - 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.272 0.047 1.00	falsch auf dem Antwortbogen.
+0.292 0.047 1.00	Lesen Sie jetzt die Aufgaben 46 - 55. Sie haben dazu 30 Sekunden Zeit.
+0.382 0.045 1.00	46. Frau Reiter ist die einzige Lokführerin in Deutschland.
+0.423 0.045 1.00	47. Sie wollte schon mit 10 Jahren Lokführerin werden.
+0.464 0.047 1.00	48. Frau Reiter hat nach der Schule eine Lehrstell als Elektronikerin gefunden.
+0.507 0.045 1.00	49. Nach der Lehre hat Frau Reiter als Automechanikerin gearbeitet.
+0.548 0.045 1.00	50. Frau Reiters Eltern waren mit der Berufswahl ihre Tochter einverstanden.
+0.592 0.047 1.00	51. Frau Reiter muss manchmal Reparaturen machen.
+0.587 0.607 0.50	schull
+0.635 0.049 1.00	52. Frau Reiter macht gerne Nachtdienst.
+0.676 0.045 1.00	53. Von der Arbeit ist Frau Reiter oft müde.
+0.718 0.045 1.00	54. Der Mann von Frau Reiter hat regelmäßige Arbeitszeiten.
+0.760 0.047 1.00	55. Frau Reiter möchte später Lokführer und Lokführerinnen ausbilden

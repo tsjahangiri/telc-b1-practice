@@ -1,0 +1,23 @@
+0.064 0.754 0.30	wulseü
+0.078 0.086 1.00	Schriftlicher Ausdruck
+0.096 0.070 0.50	LANGUAGE Tests
+0.128 0.047 1.00	Sie haben von Ihnen Freund folgende E-Mail erhalten:
+0.235 0.047 1.00	Liebe(r).
+0.270 0.049 1.00	nach unserm schönen, gemeinsamen Erlebnis letztes Jahr möchte ich auch dieses Jahr wieder einen Ausflug
+0.291 0.047 1.00	für uns alle organisieren. Ich hoffe sehr, dass ihr Zeit habt und mitkommen könnt - ich freue mich schon jetzt,
+0.309 0.049 1.00	euch alle bald wieder zu sehen! Das Dumme ist nur, dass ich mir vor drei Wochen beim Basketball das Bein
+0.330 0.047 1.00	gebrochen habe und noch nicht so gut zu Fuß bin. Deshalb habe ich einen gemütlichen Ausflug mit Bus und
+0.350 0.047 1.00	Schiff geplant - hoffentlich ist dann auch das Wetter gut für die Schiffsfahrt! Wohin es geht, möchte ich euch
+0.369 0.049 1.00	aber noch nicht verraten - das soll eine Überraschung werden.
+0.403 0.372 1.00	Termin: übernächster Samstag.
+0.434 0.345 1.00	Zeit und Treffpunkt: 9:30 Uhr bei mir.
+0.465 0.053 1.00	Bitte schreibt mir doch, ob ihr beim Ausflug dabei sein könnt!
+0.499 0.047 1.00	Hoffentlich bis bald.
+0.533 0.047 1.00	Thomas
+0.603 0.047 1.00	Antworten Sie Thomas. Schreiben Sie etwas zu allen vier Punkten:
+0.628 0.045 1.00	• Alternativvorschlag für Schlechtes Wetter
+0.650 0.045 1.00	. Einladung annehmen
+0.673 0.045 1.00	• Was Sie noch über den Ausflug wissen wollen
+0.698 0.045 1.00	• Auf Sportunfall reagieren
+0.738 0.049 1.00	Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine
+0.760 0.049 1.00	passende Anrede, Einleitung und einen passenden Schluss.

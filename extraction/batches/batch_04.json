@@ -1,0 +1,313 @@
+{
+ "batch": 4,
+ "pages": [
+  31,
+  40
+ ],
+ "records": [
+  {
+   "page": 31,
+   "paper": "P03",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 1\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.\n…………………………………………………………………………………………………………………………………………………………\n41. Die Sprecherin ist dagegen, dass Kinder so früh eine Fremdsprache lernen.\n42. Die Sprecherin meint, dass das frühe Lernen einer Fremdsprache für viele Kinder\nNachteile  hat.\n43. Der Sprecher findet es schade, dass er im Kindergarten keine Fremdsprache lernen\nkonnte.\n44. Die Sprecherin meint, dass das Fremdsprachenlernen erst in der Schule beginnen sollte.\n45. Der Sprecher ist dagegen, dass Kinder schon früh Fremdsprache lernen.",
+   "arabic_labels_excluded": [
+    "جنبية",
+    "لأ",
+    "اللغة ا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "ääll"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P03; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 32,
+   "paper": "P03",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 2\nLANGUAGE Tests\nSie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.\n……………………………………………………………………………………………………………………………………..\n46. In Deutschland gibt es immer mehr Organisationen, die sich um alte und\nkranke   Menschen.\n47. Die Spitex hat versorgt alte oder kranke Menschen im Krankenhaus.\n48. Die Spitex hat zwei große Aufgabenbereiche.\n49. Es gibt Aufgaben, die nur von einer Krankenschwester gemacht werden dürfen.\n50. Die Spitex kümmert sich nur um alte  Leute.\n51. Die Spitex bekommt Geld von den Krankenkassen.\n52. Die Krankenkassen geben den größten Teil ihres Geldes für die Spitex aus.\n53. Herr Maurer findet den Preis pro Stunde in Ordnung.\n54. Die Spitex ist in der ganzen Schweiz eine private Organisation.\n55. In Zukunft betreut die Spitex auch die alten Menschen in Deutschland.",
+   "arabic_labels_excluded": [
+    "المسنين والمرضى"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P03; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 33,
+   "paper": "P03",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. Der Fahrer des Wagens mit dem Kennzeichen HB-D 256 soll ins Erdgeschoss kommen.\n57. Die Firma liefert das bestellte Sofa am Dienstagnachmittag zwischen drei und sechs Uhr\nliefern.\n58. Der Gasthof Lindner liegt neben einer Tankstelle.\n59. Der Film Komiker wird mehrmals am Tag gezeigt.\n60. Für den Abend wird kein Regen erwartet.",
+   "arabic_labels_excluded": [
+    "السائق"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "schull",
+     "öilull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P03; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 34,
+   "paper": "P03",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nIhr Freund Jan hat Ihnen folgende E-Mail geschrieben:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\nIch sende Dir ganz viele Grüße aus Rom! Du weißt ja, wie sehr mir diese Stadt gefällt. Ich bin\nhier von morgens bis abends nur unterwegs. Diese Museen, Parks Plätze und natürlich das\nEssen – wunderbar! Gestern Abend war ich übrigens in einem Rockkonzert. Ich fand die Musik\nganz toll und die Stimmung war super.\nDoch Leider ist mein Urlaub schon fast vorbei und in drei Tagen muss ich wieder zurück nach\nDeutschland. Welche Stadt ist eigentlich Deine Lieblingsstadt? Hast du schon Pläne für Deinen\nnächsten Urlaub? Vielleicht können wir uns ja mal wieder treffen.\nHerzliche Grüße\nJan\nAntworten Sie Jan. Schreiben Sie etwas zu allen vier Punkte:\n. Ihre Lieblingsstadt\n. Welche Musik Sie mögen.\n.Ihre Pläne für den nächsten Urlaub.\n.Treffen mit Jan?.\nÜberlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine\npassende Anrede, Einleitung und einen passenden Schluss.",
+   "arabic_labels_excluded": [
+    "جان"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P03; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 35,
+   "paper": "P03",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\nZeitung\nSchröder\nFremdsprache\n21 b\nin\n1 D\n41 -\n22 a\nMit\n2 G\n42 +\nschöne\n3 J\n23 a\n43 -\neinfach\n4 H\n24 a\n44 +\nunserem\n5 A\n25 b\n45 +\nnatürlich\n26 a\n27 b\nteil\n28 b\nneben\n29 c\nunbedingt\n30 a\nnoch\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nKinderbetreuerin\nBauer\nkranke\n6\nA\n46 +\n31 G\nINTERESSIERT\n47 +\n7\nC\n32 K\nÖFTER\n8\nB\n48 -\n33 J\nNUR\n9\nC\n49 +\n34 M VOR\n50 -\n10 A\n35 C\nARBEITEN\n51 -\n36 L\nUNBEKANNT\n52 +\n37 I\nMÖGLICH\n53 +\n38 D\nERZÄHLT\n54 -\n39 N\nWÜRDE\n55 -\n40 E\nFALLS\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\nSchweiz\nFahrer\n11 D\n56 +\n12 H\n57 -\n13 I\n58 +\n14 E\n59 +\n15 A\n60 -\n16 X\n17 L\n18 X\n19 F\n20 G",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.929,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "celcs",
+     "daily",
+     "nbrpendent",
+     "nepnilu",
+     "schul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Lösungen P03 compared with parsed keys",
+   "uncertain": []
+  },
+  {
+   "page": 36,
+   "paper": "P04",
+   "section": "L1",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nanallanalgal jl\nLesen Sie die Überschriften a - j und die Texte 1-5. Finden Sie für jeden Text die passende\nÜberschrift.Sie können jede Überschrift nur einmal benutzen\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\nJues 1ejl\na) Der öffentliche Verkehr auf einen Blick.\nochsc\nb) Türen auf für fremde Kulturen.\nc) Ski fahren in der Schweiz.\nd) Schlank werden und trotzdem gut essen.\ne) Herr Ober, es schmeckt mir nicht\", sagen nur wenige Gaste\n41\nf) Die schönsten Bahnstrecken in Deutschland.\ng) Die Deutschen beschweren sich sofort\nh) Wanderungen im Schnee.\ni) Hauptsache es schmeckt - Gesundheit ist Nebensache\nj) Immer beliebter: Studienreisen in die Schweiz",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.89
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": null,
+    "ocr_words_missing_from_textlayer": 59,
+    "sample_missing": [
+     "anallanalgal",
+     "antwortbogen",
+     "aufgaben",
+     "bahnstrecken",
+     "beliebter",
+     "benutzen",
+     "beschweren",
+     "blick",
+     "deutschen",
+     "deutschland",
+     "einen",
+     "einmal",
+     "essen",
+     "fahren",
+     "finden",
+     "fremde",
+     "gaste",
+     "gesundheit",
+     "hauptsache",
+     "herr",
+     "ihre",
+     "immer",
+     "jede",
+     "jeden",
+     "jues"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Image-only page; text transcribed from OCR and checked against image (corrections/P04.json manual L1)",
+   "uncertain": []
+  },
+  {
+   "page": 37,
+   "paper": "P04",
+   "section": "L1",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 1\naalall üNolgall Jilag\nLANGUAGE Tests\n863 BaRKE\nEs stimmt : Wir essen einfach zu viel Fett, zu viel Fleisch und zu wenig Ballaststoffe.\nDoch die wenigsten scheint das zu kümmern . Die Hausmannskost mit Kohlrouladen ,\nSchweine braten und Currywurst sind nach wie vor die Lieblingsgerichte der Deutschen.\nUnd nur jeder Fünfte will sich der Figur zuliebe beim Essen einschränken . Das ergab die\nneueste Umfrage der Gesellschaft für Konsumforschung über - Trends in der Ernährung .\n(aus einer deutschen Zeitung )\nSämtliche Informationen zu den Bahnlinien und ausgesuchten Busverbindungen in der\nBundesrepublik können Sie in gesammelter Form auf der Webseite des Verkehrsclubs\nDeutschland ( www.vcd.net ) finden . Unter dem Menüpunkt Fahrpläne Bus und Bahn\nDeutschland \" können Sie die wichtigsten Daten zum Fernverkehr, zu Regional- und S\nBahnen sowie zu Buslinien abrufen . Per Suchbefehl erhalten Sie außerdem Auskunft über\nVerkehrsverbunde und rund 8000 Bahnhöfe in Deutschland . www.vcd.net\n(aus einer deutschen Zeitung )\nImmer mehr Gäste in den Wintersportorten wollen auch in der kalten Jahreszeit ihrem\nHobby, dem Wandern , frönen und suchen Freude und + Erholung abseits des\nPistenrummels. Sie finden beides auf markierten und vom Schnee geräumten\nWinterwanderwegen in den Bergen . Der Autor Emanuel Balsinger stellt drei Dutzend\nRouten in der Schweiz vor und liefert sämtliche Informationen zu einfachen Spaziergängen\nim Schnee oder anspruchsvollen , längeren Wanderungen. Das Buch kostet CHF 34,80.\nErhältlich im Buchhandel oder direkt bei : Werd Verlag , Postfach, 8021 Zürich.\n( aus einem Schweizer Nachrichtenmagazin )\nDer Service im Restaurant ist schlecht , das Essen lauwarm und mäßig , Beschweren Sie sich ?\nNein ? Dann befinden Sie sich in großer Gesellschaft. Nach dem Ergebnis einer Studie der\nBundesforschungsanstalt für Ernährung hat nur jeder Dritte beim Anblick des bestellten Menüs\ndaran gedacht, sich zu beschweren . Wenige von ihnen machten ihrem Ärger auch tatsächlich Luft\n. Die übrigen zwei Drittel hielten lieber still, weil sie den Aufwand scheuten , keine Zeit hatten oder\nes peinlich fanden . Dabei hatten die Aufmüpfigen durchweg Erfolg . Die meisten erhielten eine\nErsatzleistung. Seltener gab's eine Entschuldigung und noch seltener Preisnachlass.\n( aus einer deutschen Zeitung )\nDie Jugendaustausch - Organisation AFS Interkulturelle Programme Schweiz \" sucht Familien , die\nwährend eines Jahres Schüler und Schülerinnen aus dem Ausland beherbergen möchten. Die 16-\nbis 19 - jährigen Jungen und Mädchen kommen vorwiegend aus Neuseeland und Australien , aber\nauch aus Südafrika, Chile , Simbabwe , Costa Rica und Kolumbien . In ihrem Austauschjahr\nmöchten sie unsere Kultur und Sprache kennen lemen. Die Gastfamilien bieten kostenlos\nUnterkunft und Verpflegung . Es braucht ein offenes Herz, etwas Mut und Humor. Wer sich gerne\nmit neuen Gedanken und Menschen aus fremden Kulturen auseinandersetzt , wendet sich an :\nAFS Interkulturelle Programme Schweiz CH 8037 Zürich , Langstr . 4 Tel .: 01/2116041 ; Fax\n01/2122012 E - Mail : info@afs.chInternet : www.afs.ch\n( aus einer Schweizer Zeitung ).",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.86
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": null,
+    "ocr_words_missing_from_textlayer": 236,
+    "sample_missing": [
+     "aalall",
+     "aber",
+     "abrufen",
+     "abseits",
+     "anblick",
+     "anspruchsvollen",
+     "auch",
+     "aufmüpfigen",
+     "aufwand",
+     "auseinandersetzt",
+     "ausgesuchten",
+     "auskunft",
+     "ausland",
+     "austauschjahr",
+     "australien",
+     "autor",
+     "außerdem",
+     "bahn",
+     "bahnen",
+     "bahnhöfe",
+     "bahnlinien",
+     "ballaststoffe",
+     "balsinger",
+     "barke",
+     "befinden"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Image-only page; text transcribed from OCR and checked against image (corrections/P04.json manual L1)",
+   "uncertain": []
+  },
+  {
+   "page": 38,
+   "paper": "P04",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nPhilipp Reis – der wahre Erfinder des Telefons?\nErfinder, Lehrer, Familienvater – Auf den Spuren von Philipp Reis besuchte Susanne Müller\nseinen Geburtsort.\nWeil sein Vater nie aufgeschrieben habe, was er machte, ist mancher gute Gedanke verloren gegangen, klagt\nspäter einmal Karl Reis. Auch gibt es wenige offizielle Berichte und Dokumente über Philipp Reis in\nFriedrichsdorf und in seiner Geburtsstadt Gelnhausen. Das gilt besonders für das private Leben der Familie\nReis, die ab 1852 in unmittelbarer Nähe des berühmten Garnier – Instituts in Friedrichsdorf ein Haus gefunden\nhatte. Berichte des Sohnes Karl Reis erzählen ein wenig mehr über das Leben des Erfinders. Karl Reis, der beim\nTod des Vaters erst elf Jahre alt war, berichtet von einem lieben und gerechten Vater, der sich sehr um seine\nFrau und seine Kinder gesorgt hat. Wenn der Vater aber seine Experimente machte, vergaß er alles um sich\nherum.\nPhilipp Reis lernte bereits als Junge viele technische Maschinen kennen und machte eine Reihe von\nExperimenten, die er als Lehrer am Garnier – Institut fortsetzte. Er entwickelte eine große Anzahl von\ntechnischen Geräten, die im Institut gut verwendet werden konnten. Auf die Schüler machte Philipp Reis\neinen oft sehr merkwürdigen Eindruck. Verunsichert waren die Schüler besonders dann, wenn Reis Aufsicht\nhatte, aber selbst im Klassenraum gar nicht anwesend war.\nTrotzdem konnte Reis alles hören und wusste, was passiert war. Philipp Reis hatte eine besondere Kamera\ngebaut, mit der er von seinem Arbeitszimmer aus, in dem er gleichzeitig Experimente durchführte, in die\nKlassenraume schauen konnte. Ein Draht, der über den Schulhof in sein Arbeitszimmer führte, diente als\nVorläufer des späteren Telefons. Bei den Schülern und Lehrern entstand so der Ruf, dass der Reis auf\ngeheimnisvolle. Weise alles sehen kann.\n1883 schrieb der englische Professor Silvanus Thompson einen Bericht über Reis und nannte ihn den wahren\nErfinder des Telefons. Philipp Reis habe das Telefon entwickelt, und nicht Graham Bell oder Thomas Edison.\nDiese beiden amerikanischen Forscher hätten auch bei ihren Arbeite zur Entwicklung des Telefons auf Philipp\nReis Experimente in Deutschland hingewiesen. Seine offizielle Anerkennung als Erfinder des Telefons hat\nPhilipp Reis allerdings nicht mehr erlebt. Im Jahre 1874 ist er in Friedrichsdorf an einer Lungenkrankheit\ngestorben.",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 2,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "uses",
+     "vsule"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "P04 compared with structured extraction; matches image",
+   "uncertain": []
+  },
+  {
+   "page": 39,
+   "paper": "P04",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Über das private Leben von Philipp Reis\ngibt es nur wenige Berichte aus seiner Familie.\nA\nkann man im Garnier-Institut viele Berichte finden.\nkann man in Gelnhausen viel erfahren.\nC\n7. Heute weiß man, dass Philipp Reis\nbei seinen Versuchen die Familie vergaß.\nA\nseinen Kindern viel über seine Experimente erzählte.\nsogar mit seiner Familie Experimente machte.\nC\n8. Philipp Reis\nhat viele technische Geräte gebaut.\nA\nleitete als junger Wissenschaftler das Garnier-Institut.\nstudierte am Garnier-Institut.\nC\n9. Die Schüler von Philipp Reis\nkonnten ihren Lehrer in seinem Arbeitszimmer sehen.\nA\nmachen in seinem Arbeitszimmer Experimente.\nwurden von ihrem Lehrer mit einer Kamera beobachtet.\nC\n10. Professor Thompson\nhat bei der Entwicklung des Telefons mitgearbeitet.\nA\nmeinte, dass Reis das Telefon erfunden hat.\nwar ein Studienkollege von Philipp Reis.\nC",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 6,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.968,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "achtet",
+     "beob",
+     "chschul",
+     "ehen",
+     "uses"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P04 L2 questions compared on legible contact sheet; matches",
+   "uncertain": []
+  },
+  {
+   "page": 40,
+   "paper": "P04",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Sie lieben Krimis und möchten daher einer Krimiautorin beim Vorlesen zuhören.\n12. Ihr Bekannter würde gerne am Wochenende ein Boot mieten.\n13. Sie möchten sich in einem Hotel in den Bergen erholen und mit dem Zug anreisen.\n14. Sie möchten sich eine Märchenvorstellung im Theater ansehen.\n15. Ihre Freundin sucht ein angenehmes Hotel, in dem man auch Sport treiben kann.\n16. Am Sonntag wollen Sie einen kleinen Ausflug mit Kindern machen. Die Kinder mögen\nTiere.\n17. Ihre Bekannten möchten gerne im Mai eine Schiffsfahrt machen.\n18. Sie möchten gerne am Wochenende tanzen gehen und suchen eine tolle Disco.\n19. Der kleine Sohn von Freunden ist begeistert von der Eisenbahn. Sie möchten am\nWochenende mit ihm etwas Interessantes machen.\n20. Sie möchten im August eine Woche in den Bergen wandern und brauchen eine erfahren\nPerson, die mit Ihnen geht.",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "P04 compared with structured extraction; matches image",
+   "uncertain": []
+  }
+ ]
+}

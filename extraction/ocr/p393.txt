@@ -1,0 +1,22 @@
+0.076 0.086 1.00	Schriftlicher Ausdruck
+0.093 0.070 1.00	LANGUAGE Tests
+0.129 0.049 1.00	Eine Bekannte hat Ihnen den folgende E-Mail geschrieben:
+0.270 0.047 1.00	Liebe(r).
+0.305 0.045 1.00	endlich habe ich die Deutscheprüfung hinter mir. Ich glaube, es ist gut gelaufen. Jetzt soll für
+0.328 0.047 1.00	unseren Kurs eine Party organisieren. Du hast doch kürzlich erzählt, dass Du für Euren Kurs
+0.352 0.045 1.00	auch ein Abschlussfest organsiert hast. Sicher kannst du mir ein paar Tipps geben. Ich habe
+0.374 0.047 1.00	mir gedacht, wir könnten vielleicht in einem Restaurant feiern .Da kann jeder essen und
+0.398 0.045 1.00	trinken, was er will . Was meinst Du? Essen zu kochen ist doch ziemlich viel Arbeit. und
+0.423 0.047 1.00	natürlich brauchen wir Musik. Welche Musik ist am besten geeignet? Was schlägst Du vor?
+0.458 0.047 1.00	Melde Dich bald.
+0.481 0.045 1.00	Ich freue mich schon auf deine Antwort.
+0.509 0.493 0.30	O
+0.528 0.045 1.00	Liebe Grüße
+0.595 0.622 0.30	gchul.
+0.634 0.047 1.00	Antworten Sie Ihrer Bekannten. Schreiben Sie etwas zu allen vier Punkten:
+0.679 0.047 1.00	Reaktion auf die Prüfung
+0.702 0.045 1.00	• Wo feiern? Restaurant- Ihre Meinung
+0.725 0.043 0.50	. Welche Musik
+0.748 0.045 1.00	• Urlaubpläne
+0.789 0.049 1.00	Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine
+0.811 0.049 1.00	passende Anrede, Einleitung und einen passenden Schluss.

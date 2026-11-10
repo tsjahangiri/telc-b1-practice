@@ -1,0 +1,22 @@
+0.092 0.012 1.00	• Ich möchte dir widersprechen ‚ich glaube am Samstag wäre besser ,am
+0.125 0.045 1.00	nachsten Tag haben wir alle Frei und wir können denn ausruhen ,aber wo
+0.157 0.045 1.00	wird die Olympiade?
+0.190 0.012 0.50	• Im großen Park in Berlin , was meinst de?
+0.225 0.012 1.00	• Ich bin derselben Meinung ,aber welche Sport können wir treiben ,mit fällt
+0.257 0.045 1.00	nichts ein?
+0.292 0.012 1.00	• Wir können nicht nur joggen ‚sondern auch Radfahrren ,was denkst du?
+0.324 0.000 1.00	• Ja ,Ich jogge gern, aber hast du Vorschläge zum Essen ,oder Trinken?
+0.360 -0.000 0.50	• Ja ,darum kann ich mich kümmern ‚und was ist mit dir?
+0.394 0.012 1.00	• Ja, natürlich werden wir zu spanischer Musik tanzen, das ist mein Favorit
+0.425 0.043 0.30	‚was ist mit dir?
+0.461 0.037 1.00	Ich kann auch ein paar Getränke mit bringen ,das wird bestimmt jedem
+0.491 0.043 1.00	schmecken ,Übrigens, Wie viel sollten wir für die Olympiade bezahlen?
+0.528 0.012 1.00	• Ungefähr 25 Euro pro Persom ,aber mit welchen Verkehrsmittle können
+0.561 0.045 1.00	wir fahren?
+0.594 0.012 1.00	• Ich bevorzuge den Zug ,damit wir die Natur genießen können ,Außerdem
+0.628 0.041 1.00	ist er schneller und bequemer ,was denkst du darüber?
+0.660 0.016 1.00	• Du hast Recht ,ich glaube das wird bestimmt ein toller Ausflug.
+0.696 0.010 1.00	• Das glaube ich auch ,ich wünsche dir Hals und Beinbruch.
+0.715 0.784 0.30	41
+0.731 0.014 1.00	• Eben falls.
+0.930 0.010 1.00	www.instagram.com/mahmoudemad007

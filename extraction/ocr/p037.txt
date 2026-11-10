@@ -1,0 +1,43 @@
+0.113 0.070 1.00	Leseverstehen, Teil 1
+0.129 0.690 0.30	aalall üNolgall Jilag
+0.138 0.115 1.00	LANGUAGE Tests
+0.140 0.507 0.30	863 BaRKE
+0.205 0.113 0.50	Es stimmt : Wir essen einfach zu viel Fett, zu viel Fleisch und zu wenig Ballaststoffe.
+0.222 0.113 1.00	Doch die wenigsten scheint das zu kümmern . Die Hausmannskost mit Kohlrouladen ,
+0.240 0.113 1.00	Schweine braten und Currywurst sind nach wie vor die Lieblingsgerichte der Deutschen.
+0.256 0.113 1.00	Und nur jeder Fünfte will sich der Figur zuliebe beim Essen einschränken . Das ergab die
+0.275 0.113 1.00	neueste Umfrage der Gesellschaft für Konsumforschung über - Trends in der Ernährung .
+0.301 0.610 0.50	(aus einer deutschen Zeitung )
+0.336 0.092 1.00	Sämtliche Informationen zu den Bahnlinien und ausgesuchten Busverbindungen in der
+0.355 0.084 1.00	Bundesrepublik können Sie in gesammelter Form auf der Webseite des Verkehrsclubs
+0.370 0.084 1.00	Deutschland ( www.vcd.net ) finden . Unter dem Menüpunkt Fahrpläne Bus und Bahn
+0.386 0.084 1.00	Deutschland " können Sie die wichtigsten Daten zum Fernverkehr, zu Regional- und S
+0.405 0.084 1.00	Bahnen sowie zu Buslinien abrufen . Per Suchbefehl erhalten Sie außerdem Auskunft über
+0.424 0.084 1.00	Verkehrsverbunde und rund 8000 Bahnhöfe in Deutschland . www.vcd.net
+0.451 0.587 0.50	(aus einer deutschen Zeitung )
+0.484 0.111 1.00	Immer mehr Gäste in den Wintersportorten wollen auch in der kalten Jahreszeit ihrem
+0.501 0.113 1.00	Hobby, dem Wandern , frönen und suchen Freude und + Erholung abseits des
+0.519 0.113 1.00	Pistenrummels. Sie finden beides auf markierten und vom Schnee geräumten
+0.536 0.113 1.00	Winterwanderwegen in den Bergen . Der Autor Emanuel Balsinger stellt drei Dutzend
+0.554 0.113 1.00	Routen in der Schweiz vor und liefert sämtliche Informationen zu einfachen Spaziergängen
+0.571 0.111 1.00	im Schnee oder anspruchsvollen , längeren Wanderungen. Das Buch kostet CHF 34,80.
+0.589 0.113 0.50	Erhältlich im Buchhandel oder direkt bei : Werd Verlag , Postfach, 8021 Zürich.
+0.615 0.495 1.00	( aus einem Schweizer Nachrichtenmagazin )
+0.651 0.084 1.00	Der Service im Restaurant ist schlecht , das Essen lauwarm und mäßig , Beschweren Sie sich ?
+0.667 0.082 1.00	Nein ? Dann befinden Sie sich in großer Gesellschaft. Nach dem Ergebnis einer Studie der
+0.685 0.084 1.00	Bundesforschungsanstalt für Ernährung hat nur jeder Dritte beim Anblick des bestellten Menüs
+0.699 0.082 1.00	daran gedacht, sich zu beschweren . Wenige von ihnen machten ihrem Ärger auch tatsächlich Luft
+0.717 0.082 1.00	. Die übrigen zwei Drittel hielten lieber still, weil sie den Aufwand scheuten , keine Zeit hatten oder
+0.732 0.082 1.00	es peinlich fanden . Dabei hatten die Aufmüpfigen durchweg Erfolg . Die meisten erhielten eine
+0.750 0.084 1.00	Ersatzleistung. Seltener gab's eine Entschuldigung und noch seltener Preisnachlass.
+0.775 0.608 0.50	( aus einer deutschen Zeitung )
+0.808 0.115 1.00	Die Jugendaustausch - Organisation AFS Interkulturelle Programme Schweiz " sucht Familien , die
+0.826 0.113 1.00	während eines Jahres Schüler und Schülerinnen aus dem Ausland beherbergen möchten. Die 16-
+0.842 0.113 1.00	bis 19 - jährigen Jungen und Mädchen kommen vorwiegend aus Neuseeland und Australien , aber
+0.858 0.113 0.50	auch aus Südafrika, Chile , Simbabwe , Costa Rica und Kolumbien . In ihrem Austauschjahr
+0.875 0.115 1.00	möchten sie unsere Kultur und Sprache kennen lemen. Die Gastfamilien bieten kostenlos
+0.891 0.113 0.50	Unterkunft und Verpflegung . Es braucht ein offenes Herz, etwas Mut und Humor. Wer sich gerne
+0.907 0.113 1.00	mit neuen Gedanken und Menschen aus fremden Kulturen auseinandersetzt , wendet sich an :
+0.923 0.113 0.50	AFS Interkulturelle Programme Schweiz CH 8037 Zürich , Langstr . 4 Tel .: 01/2116041 ; Fax
+0.939 0.113 0.50	01/2122012 E - Mail : info@afs.chInternet : www.afs.ch
+0.964 0.620 0.50	( aus einer Schweizer Zeitung ).

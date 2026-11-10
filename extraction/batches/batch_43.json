@@ -1,0 +1,293 @@
+{
+ "batch": 43,
+ "pages": [
+  421,
+  430
+ ],
+ "records": [
+  {
+   "page": 421,
+   "paper": "P28",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 2\nLANGUAGE Tests\nSie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.\n……………………………………………………………………………………………………………………………………..\n46. Mit einem Praktikum können sich Jugendliche auf das Studium vorbereiten.\n47. Herrn Mahlers Firma bietet jungen Leuten in verschiedenen Abteilungen ein Praktikum an.\n48. Herrn Mahlers Firma stellt alle Praktikanten nach der Ausbildung ein.\n49. Bei einer Bewerbung ist das Schulzeugnis für Herrn Mahler das Wichtigste.\n50. Praktikanten sollten selbst erkennen, wo man sie brauchen könnte.\n51. Herr Mahler meint, dass die Ideen der Praktikanten bei der Arbeit stören.\n52. Herr Mahler legt großen Wert auf Teamarbeit.\n53. Nach Frau Bachs Meinung verhalten sich Praktikanten im Betrieb oft wie in der\nSchule oder an der Universität.\n54. Für den Praktikanten ist es gut, wenn er Interesse an der Arbeit zeigt.\n55. Herr Mahler empfiehlt den Praktikanten, das Team mit Fleiß und guter Laune\nzu unterstützen.",
+   "arabic_labels_excluded": [
+    "البراكتيكوم"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.977,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "schuleoder",
+     "zuunterstützen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P28; legible contact sheet — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 422,
+   "paper": "P28",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. In Norddeutschland steigen die Temperaturen morgen auf 5 bis 7 Grad.\n57. Hamburg hat öfter gewonnen als Stuttgart.\n58. Nach zwei Monaten müssen Sie für die Zeitschrift bezahlen.\n59. Auf dem Mittleren Ring in München wird die Geschwindigkeit kontrolliert.\n60. Janas Geburtstagsfest findet nicht im LEO statt.",
+   "arabic_labels_excluded": [
+    "شمال ألمانيا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.909,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "lilali",
+     "slaüi"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P28; legible contact sheet — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 423,
+   "paper": "P28",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nSie haben folgenden Brief von einer Freundin erhalten:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\nEntschuldige, dass ich mich erst jetzt wieder melde. Ich weiß, wir hatten ausgemacht, uns öfter mal zu\nschreiben. Aber es war so viel los in letzter Zeit. Ich habe eine Neuigkeit für dich: Meine kleine Schwester\nJanine heiratet im Oktober, und ich habe ihr versprochen, schon mal allen Freunden zu schreiben und\nBescheid zu sagen. Die offizielle Einladung bekommst du natürlich noch von ihr direkt. Eddi, ihr zukünftiger\nMann, ist echt nett, und wir mögen ihn alle sehr. Er ist koch und arbeitet hier in einem Hotel.\nWir planen jetzt alles. Gib mir deshalb möglichst bald Bescheid, ob du kommst und mit wem.\nHerzliche Grüße\nJennifer\nAntworten Sie auf den Brief. Schreiben Sie etwas zu den folgenden vier Punkten:\n. Reaktion auf Neuigkeit\n. Übernachtungsmöglichkeit\n. Sie möchten zur Hochzeit kommen\n. Hochzeitsgeschenk\nBevor Sie den Brief schreiben, überlegen Sie sich eine passende Reihenfolge der punkte, eine passende\nEinleitung und einen passenden Schluss. Vergessen Sie nicht Datum und Anrede.",
+   "arabic_labels_excluded": [
+    "جنيفر"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P28; legible contact sheet — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 424,
+   "paper": "P28",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\nDisco\nOlivia\nEinkäufe im Internet\n21 c\ndes\n1 G\n41 +\n22 b\nmich\n2 A\n42 -\n23 a\nbesondere\n3 J\n43 +\n24 b\nfür\n4 F\n44 -\n25 c\nbeeindruck\n5 D\n45 -\n26 a\nam\n27 c\nAußerdem\n28 a\nerlauben\n29 a\nEinige\n30 c\nmitzunehmen\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nKarl Popper\nADRIAN\nPraktikum\n6\nB\n46 -\n31 B\nAUFTRAG\n7\nA\n47 +\n32 J\nSTATTFINDEN\n8\nB\n48 -\n33 F\nINFORMATIONEN\n9\nB\n49 -\n34 H NENNEN\n10 A\n50 +\n35 D\nGEEIGNET\n51 -\n36 O WEGEN\n52 +\nNUN\n37 I\n53 +\n38 A\nAM\n54 +\n39 K\nTERMIN\n55 +\n40 N\nWÄREN\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\nDB\nNorddeutschland\n11 D\n56 -\n12 G\n57 +\n13 F\n58 +\n14 A\n59 -\n15 I\n60 -\n16 K\n17 X\n18 J\n19 L\n20 B",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "Lösungen P28 compared; matches parsed key",
+   "uncertain": []
+  },
+  {
+   "page": 425,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Musikinstrument*\n Also *Mahmoud* du weißt ja ,wir jetzt viel Freizeit haben ,und wir\nkönnen zusammen Musik lernen ,was hältst du davon?\n Ja,da gehe ich ganz d´accord ,aber welches Instrument können wir lernen?\n,mir fällt nichts ein.\n Ja , Wir können entweder Gitarre ,oder Violine lernen ,was denkst du\ndarüber?\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.52
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.933,
+    "ocr_words_missing_from_textlayer": 29,
+    "sample_missing": [
+     "andt",
+     "einen",
+     "etwas",
+     "finden",
+     "gemacht",
+     "gemeinsam",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "ihre",
+     "ihrem",
+     "ihrer",
+     "jetal",
+     "kaufen",
+     "kosten",
+     "lehrer",
+     "mahnour",
+     "minuten",
+     "musikinstrumer",
+     "musikschule",
+     "nehmen",
+     "notizen",
+     "planen",
+     "schon",
+     "sich",
+     "teil"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 426,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich glaube eine Gitarre wäre besser ,und einfacher zu lernen , Aber wie\nkönnen wir eine Gitarre bekommen ?\n Es gibt in der Blumenstraße einen Laden für Musikinstrumente ,wir\nkönnen eine genüstige Gittare Kaufen ,was meinst du?\n Ich bin derselben Meinung ,aber dafür brauchen wir Unterrichte zu\nnehmen ,hast du einige Vorschläge?\n Ich schlage vor ,dass wir entweder eine Musikschule ,oder einen\nPrivatlehrer besuchen ,was ist deine Meinung?\n Ich bevorzuge eine Musikschule ,damit wir mit anderen Leuten spielen\n,aber weißt du ,wie viel der Kurs kostet?\n Ja ,ungefähr 25 Euro pro Stunde ,passt es dir?\n Ja ,das passt mir gut ,so treffen wir uns morgen ,dann zum Kurs gehen.\n Gut ,so machen wir es ,Ich wünsche dir Hals-und Beinbruch.\n Eben falls.\n Bis morgen.\n Bis dann .\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.984,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "hschul",
+     "instagr"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 427,
+   "paper": "P29",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\na) Hinweis für Besucher der Bregenzer Festspiele\nb) Abendwanderungen ab 89 Euro\nc) Musikveranstaltungen am Nachmittag\nd) Ihre Zeitung folgt Ihnen in den Urlaub\ne) Schlechtes Wetter: Festspiele abgesagt\nf) Rekord: 70.000 Besucher im Bücherdorf\ng) Wandern ohne Gepäck\nh) Neues für Literaturinteressierte\ni) Neue Zeitung für Ihre Urlaubsplanung\nJ) Laute Musik stört den Nachbarn",
+   "arabic_labels_excluded": [
+    "الجريدة(مع جان)"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.04
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.755,
+    "ocr_words_missing_from_textlayer": 3,
+    "sample_missing": [
+     "celeg",
+     "kerpendent",
+     "ötua"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P29 L1 compared on legible contact sheet; identical to verified P03",
+   "uncertain": []
+  },
+  {
+   "page": 428,
+   "paper": "P29",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. Abonnenten-Service\nWenn Sie verreisen, wünschen wir ihnen erholsame und angenehme Ferienlage Bitte denken Sie daran, sich ihre\nZeitung in den Urlaubtort nachsenden zu lassen. Denn mit den Neuigkeiten von zu Hause und aus aller Weil lässt\nsich die schönste Zeit des Jahres erst richtig genießen ganz Europa kostenlos, Die Höhe des Bezeugendes bleibt\nunverändert. Ausführliche Informationen und entsprechende Coupons ihrem Europabericht. Griechisch wird\nmeistens von Zwölftklässlern als dritte Fremdsprache neben Französisch und Englisch gewählt. finden Sie in\nunserem großen Reise Service – Anzeigen oder rufen Sie uns einfach an:\nTelefon 01 30-18 58 50 zum Nulltarif.\nHannoversche Allgemeine\nNeue Presse\n2. Im Luftkurort Stadtkylf in der Mittelgebirgslandschaft des Oberen Kullas werden dreitägige Wanderungen ohne\nGepäck veranstaltet Die Rundwanderung im deutsch – bei gischen Naturpark führt abends zu reservierten\nZimmern. Die Betriebe übernehmen den Gepäcktransport zum nächsten Tagesziel. Die Wanderungen werden\nganzjährig angeboten. In den Wanderprogramm sind drei Übernachtungen mit Frühstück dreimal\nGepäcktransport, eine Wanderkarte, eine Wegbeschreibung und ein Wanderpass enthalten. Der Pauschalbetrag\nbeträgt pro Person 89 Euro.\nAuskünfte:\nVerkehrsverein Erholungsgebiet Oberes Kylltal.\nKurallee, 54589 Stadtkylf, Telefon ( 06597) 28 78.\n3. Für den einen ist es musikalischer Hochgenuss für den anderen schlicht Lärm. Gemeint ist Musik, die aus\nLautsprechen, Radios oder durch Musikinstrumente durch geöffnet Türen und Fenster bei sommerlichen\nTemperaturen ins Freie dringt. Die Gemeinde weist darauf hin, dass der Mittagsruhe von 13 bis 15 Uhr und nachts\nvon 22 bis 7 Uhr keine musikalische Ruhestörung erfolgen darf. Gartengeräte mit Motoren dürfen montags bis\nfreitags nur von 8 bis 13 und von 15 bis 19 Uhr benutzt werden, an Sonnabenden von 9 bis 13 Uhr. An Sonn -\nund Feiertagen dürfen die Geräte nicht zum Einsatz kommen.\n4. Das erste deutsche Bücherdorf hat in Mühlbeck/ Fredersdorf (Sachsen – Anhalt ) seit Ende September seine Tore\ngeöffnet. In acht Antiquarten warten über 70 000 Bücher aus allen Bereichen der Literatur auf Interessenten. Das\nin reizvoller landschaftlicher Umgebung liegende Bücherdorf nahe Bitterfeld - unweit der A19 und des Flughafens\nLeipzig - ist aus allen Teilen Deutschlands leicht zu erreich. Geöffnet sind die Antiquariate auch am Samstag und\nSonntag.\nIn Europa gibt es bereits acht solcher Bücherdörfer in Belgien, Frankreich, Großbritannien, den Niederlanden,\nNorwegen und der Schweiz. Initiatorin des deutschen Bücherdorfes ist Heidi Dehne (Tel. 03493/4 30 43).\n5. Die Bregenzer Festspiele sind bemüht, die Vorstellungen auch bei zweifelhafter Witterung bzw. leichtem Regen\nauf der Seebühne abzuhalten, weshalb es zu Verzögerungen des Beginns oder zu Unterbrechungen kommen\nkann. Sollte die Seeaufführung nicht stattfinden können, wird eine halbszenische Version von Porgy and Bess im\nFestspielhaus gegeben. Wir empfehlen unseren Gästen , bei unsicherer Wetterlage regenfester Kleidung den\nVorzug zu geben und auf Schirme zu verzichten, da diese die Sicht beeinträchtigen. Das Spiel auf dem See wird\nohne Pause gespielt. Die Spieldauer beträgt ca.2 Std. 45 Min.",
+   "arabic_labels_excluded": [
+    "الجريدة(مع جان)"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.992,
+    "ocr_words_missing_from_textlayer": 8,
+    "sample_missing": [
+     "celeg",
+     "dailu",
+     "dale",
+     "mailu",
+     "nachsten",
+     "ndependent",
+     "ubernachtungen",
+     "vittor"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P29 L1 compared on legible contact sheet; identical to verified P03",
+   "uncertain": []
+  },
+  {
+   "page": 429,
+   "paper": "P29",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nBeruf am Flughafen: Kinderbetreuerin\nDem Kind zuliebe in Kloten warten\nAuf keinem anderen Flughafen sei der Aufenthalt familienfeindlicher als in Kloten, sagen\nviele Eltern. Weil die Wartezeit im Flug vergeht – dank der 18 Kinderbetreuerinnen.\nVon Gabriella Hofer\n24000 Kinder aus der ganzen Welt wurden letztes Jahr auf dem Flughafen Zürich-Kloten betreut. Die 18\nMitarbeiterinnen, die sich im Schichtbetrieb ablösen, stehen den Eltern und ihren Kindern täglich von 6.30 bis\n22 Uhr mit Rat und Tat zur Seite. Die vielsprachigen Betreuerinnen – viele von ihnen sind ausgebildete\nKrankenschwestern, Kleinkindererzieherinnen oder Flugbegleiterinnen – verfügen auch über Erste-Hilfe-\nKenntnisse. Der Flughafen Zürich-Kloten ist der einzige in Europa, der seinen kleinsten Gästen in beiden\nTerminals einen eigenen Aufenthaltsraum bietet.\nAufenthalt und Betreuung sind kostenlos. In beiden Räumen stehen vier Wickeltische mit Papierwindeln, eine\nKüche zum Aufwärmen der Kindermahlzeiten, sechs Bettchen, ein Laufgitter, Nachttöpfe und Toiletten für\nKleinkinder zur Verfügung. Außerdem gibt es zahlreiche Stofftierchen, Schaukelpferdchen, Bauklötze,\nPuppenstuben, einen großen Stall, Bilderbücher, Spiele und vieles mehr.\nEs ist ein Erlebnis für die Kinder, mit Kindern zu spielen, die eine andere Muttersprache sprechen oder aus\neinem anderen Kulturkreis kommen, weiß Alice Martin (40). Die ehemalige Kinderschwester, selber Mutter\neines sechsjährigen Sohnes, gehört seit 14 Jahren zum Team der Betreuerinnen. Zusammen mit 17\nKolleginnen ist sie abwechselnd in den beiden Kinderspielzimmern den Terminals A und B beschäftigt.\nBevor Alice Martin 1994 von der Flughafendirektion angestellt wurde, war sie viele Jahre auf einer\nGeburtenabteilung und später noch in einem Behindertenheim beschäftigt. Die Kontakte zu den jetzt von ihr\nbetreuten Kindern seinen nicht mehr so intensiv wie früher im Spital oder im Heim, dafür biete ihr die heutige\nTätigkeit mehr Abwechslung.\nDie kinderliebende Frau reist selber gern und viel. Auch ihre Fremdsprachenkenntnisse kommen ihr hier\nzugute. Alice Martin spricht neben ihrer Muttersprache Englisch, Französisch und Spanisch. Sehr bereichernd\nsei, dass sie in ihrer täglichen Arbeit andere Kulturen kennenlerne.",
+   "arabic_labels_excluded": [
+    "رعاية األطفال بالمطار"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P29 compared on legible contact sheet; identical to verified P03 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 430,
+   "paper": "P29",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Die Kinderbetreuerinnen kümmern sich um\nKinder, die auf dem Flughafen warten müssen.\nA\nKinder, die im Flugzeug krank wurden.\nKinder, die ohne Eltern fliegen müssen.\nC\n7. Die Flughafen Zürich-Kloten ist besonders familienfreundlich,\nseit Alice Martin dort arbeitet.\nA\nweil die Wartezeit kürzer ist als auf anderen Flughäfen.\nweil es Räume gibt, in denen Kinder spielen können.\nC\n8. Frau Alice Martin hat eine Ausbildung als\nFlugbegleiterin.\nA\nKinderschwester.\nPilotin.\nC\n9. In den Aufenthaltsräumen spielen die Kinder\nam liebsten mit 18 Betreuerinnen.\nA\nam liebsten mit Alice Martin.\nauch mit Kindern anderer Kulturen und Sprachen.\nC\n10. Frau Alice Martin findet\ndie Arbeit auf dem Flughafen interessant und abwechslungsreich.\nA\ndie Arbeit auf dem Flughafen nicht so vielseitig wie die Arbeit im Spital.\ndie Kontakte zu den Kindern auf dem Flughafen sehr intensiv.\nC",
+   "arabic_labels_excluded": [
+    "رعاية االطفال بالمطار"
+   ],
+   "images": {
+    "count": 5,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.767,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P29 compared on legible contact sheet; identical to verified P03 (automatic diff confirms)",
+   "uncertain": []
+  }
+ ]
+}

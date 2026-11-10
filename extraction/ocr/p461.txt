@@ -1,0 +1,26 @@
+0.092 0.012 0.50	• Ich bin für ein Sommerfest ,Ich habe das noch nie gefeiert ,aber wann
+0.123 0.045 1.00	können wir feiern?
+0.158 0.012 1.00	• Wie wäre es mit dem nächsten Sonntag ,da haben wir all Zeit.
+0.192 0.012 1.00	• Ich möchte dir widersprechen ‚ich finde es besser ,wenn wir am Samstag
+0.225 0.043 1.00	feiern ‚am nächsten Tag haben wir alle Frei und wir können bis Spät in die
+0.257 0.045 1.00	Nacht richtig feiern ,was meinst du?
+0.292 0.012 1.00	• Ja,du hast Recht,aber wo können wir feiern?
+0.324 -0.000 0.50	• Wir können entweder in einem Restaurant ,oder bei mir zu Hause feiern
+0.357 0.041 1.00	,und im Garten zusammen feiern ,was denkst du?
+0.392 0.012 1.00	• Ich glaube dein Haus wäre besser ‚die Letzte Party ,die wir bei dir zu
+0.426 0.045 1.00	Hause gefeiert haben ,war echt super ,aber hast du Vorschläge zum Essen
+0.459 0.043 1.00	,oder Trinken?
+0.493 0.014 0.50	• Ja ,Ich schlage für ,dass wir Süßigkeiten und Brezel bestellen ,und ich
+0.525 0.045 1.00	kann ein paar Getränke mit bringen ,das wird bestimmt jedem schmecken
+0.558 0.041 0.50	‚oder?
+0.593 0.012 1.00	• Das klingt gut ,ich kann auch einen leckeren Kuchen backen ,aber hast du
+0.625 0.045 1.00	ein Programm für die Party?
+0.658 0.008 1.00	• Ja, natürlich werden wir zu spanischer Musik tanzen, das ist mein Favorit
+0.693 0.043 0.50	,was ist mit dir?
+0.727 0.012 1.00	• Ich habe ein neues Spiel, das ich in Japan gekauft habe, und ich möchte es
+0.759 0.045 1.00	zusammen spielen ‚passt es dir?
+0.794 0.012 1.00	• Das finde es sehr interessant ‚ich glaube das wird sicher eine tolle Party
+0.826 0.043 1.00	,und wir werden viel Spaß haben.
+0.860 0.012 0.50	• Ich auch ,bis dann.
+0.895 0.016 1.00	• Bis bald.
+0.930 0.010 1.00	www.instagram.com/mahmoudemad007

@@ -1,0 +1,354 @@
+{
+ "batch": 22,
+ "pages": [
+  211,
+  220
+ ],
+ "records": [
+  {
+   "page": 211,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Erfahrung*\n- Damit habe ich auch gute Erfahrungen.\n- Bevor ich mein Studium beendete, lebte ich mit meiner Familie in\nunserem eigenen Haus ,dadurch habe ich viel Geld gespart.\n- Und jetzt wegen meiner Arbeit ,bin ich viel unterwegs ,deshalb kann\nich mein Haus nicht kaufen\neigenes Haus zu kaufen ,sondern auch eine große Familie\n                                               zu gründen.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "- Aber nach meiner Pensionierung **تقاعد, plane ich nicht nur mein"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.971,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "aber",
+     "iochschul",
+     "nach",
+     "pensionierung",
+     "plane"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 212,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Firmen*Olympiade*\n Also *Ahmed* du weißt ja ,wir einen Urlaub am Ende des Monats haben\n,und wir können mit unseren Kolleginnen und Kollegen etwas\norganiesieren,was hältst du davon?\n Ja,da gehe ich ganz d´accord ,aber hast du einige Vorscläge ,mir fällt\nnichts ein.\n Ja ,wir können entweder einen Ausflug ,oder eine Firmen-Olympiade\norganiesiern ,was denkst du?\n Ich bin für eine Firlme-Olympiade ,Ich möchte etwas Sport treiben ,aber\nwann können wir die Olympiade machen?\n Wie wäre es mit dem nächsten Sonntag ,da haben wir all Zeit.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.43
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 30,
+    "sample_missing": [
+     "anen",
+     "arbeiten",
+     "atil",
+     "edagon",
+     "essen",
+     "firma",
+     "ganzen",
+     "gemei",
+     "gemeinsam",
+     "germachi",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "getränke",
+     "gleichen",
+     "ihre",
+     "ihrem",
+     "ihren",
+     "ihrer",
+     "kosten",
+     "lang",
+     "minuten",
+     "nonsen",
+     "organisieren",
+     "planen",
+     "sportarfen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 213,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich möchte dir widersprechen ,ich glaube am Samstag wäre besser ,am\nnächsten Tag haben wir alle Frei und wir können denn ausruhen ,aber wo\nwird die Olympiade?\n Im großen Park in Berlin ,was meinst de?\n Ich bin derselben Meinung ,aber welche Sport können wir treiben ,mit fällt\nnichts ein?\n Wir können nicht nur joggen ,sondern auch Radfahrren ,was denkst du?\n Ja ,Ich jogge gern , aber hast du Vorschläge zum Essen ,oder Trinken?\n Ja ,darum kann ich mich kümmern ,und was ist mit dir?\n Ja, natürlich werden wir zu spanischer Musik tanzen, das ist mein Favorit\n,was ist mit dir?\n Ich kann auch ein paar Getränke mit bringen ,das wird bestimmt jedem\nschmecken ,Übrigens , Wie viel sollten wir für die Olympiade bezahlen?\n Ungefähr 25 Euro pro Persom ,aber mit welchen Verkehrsmittle können\nwir fahren?\n Ich bevorzuge den Zug ,damit wir die Natur genießen können ,Außerdem\nist er schneller und bequemer ,was denkst du darüber?\n Du hast Recht ,ich glaube das wird bestimmt ein toller Ausflug.\n Das glaube ich auch ,ich wünsche dir Hals und Beinbruch.\n Eben falls.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.988,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "nachsten"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 214,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Sommerfest*\n Also *Ahmed* du weißt ja ,dass es Sommer ist, und wir können etwas mit\nunseren Kollegen unternehmen ,was denkst du davon?\n Ja,da gehe ich ganz d´accord ,aber hast du einige Vorscläge ,mir fällt\nnichts ein.\n Ja ,wir können einen Ausflug oder ein Sommerfest organisieren ,und\nzusammen richtig Spaß haben ,was denkst du ?\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.54
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 26,
+    "sample_missing": [
+     "arbeiten",
+     "berlegen",
+     "essen",
+     "firma",
+     "gemacht",
+     "gemeinsam",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "getränke",
+     "gleichen",
+     "ihre",
+     "ihrem",
+     "ihrer",
+     "kolleginnnen",
+     "minuten",
+     "musik",
+     "nochsc",
+     "notizen",
+     "planen",
+     "schon",
+     "sich",
+     "sollen",
+     "spiele",
+     "tanz",
+     "wann"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 215,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich bin für ein Sommerfest ,Ich habe das noch nie gefeiert ,aber wann\nkönnen wir feiern?\n Wie wäre es mit dem nächsten Sonntag ,da haben wir all Zeit.\n Ich möchte dir widersprechen ,ich finde es besser ,wenn wir am Samstag\nfeiern ,am nächsten Tag haben wir alle Frei und wir können bis Spät in die\nNacht richtig feiern ,was meinst du?\n Ja ,du hast Recht,aber wo können wir feiern?\n Wir können entweder in einem Restaurant ,oder bei mir zu Hause feiern\n,und im Garten zusammen feiern ,was denkst du?\n Ich glaube dein Haus wäre besser ,die Letzte Party ,die wir bei dir zu\nHause gefeiert haben ,war echt super ,aber hast du Vorschläge zum Essen\n,oder Trinken?\n Ja ,Ich schlage für ,dass wir Süßigkeiten und Brezel bestellen ,und ich\nkann ein paar Getränke mit bringen ,das wird bestimmt jedem schmecken\n,oder?\n Das klingt gut ,ich kann auch einen leckeren Kuchen backen ,aber hast du\nein Programm für die Party?\n Ja, natürlich werden wir zu spanischer Musik tanzen, das ist mein Favorit\n,was ist mit dir?\n Ich habe ein neues Spiel, das ich in Japan gekauft habe, und ich möchte es\nzusammen spielen ,passt es dir?\n Das finde es sehr interessant ,ich glaube das wird sicher eine tolle Party\n,und wir werden viel Spaß haben.\n Ich auch ,bis dann.\n Bis bald.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 216,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "* Stress *\n Teilnehmer A\n- Ich habe einen Beitrag zum Thema *Stress* gelesen.\n- Die Person die sich äußert heißt *Claudia Gärtner*.\n- Sie ist 42 Jahre Alt ,und arbeitet als Sekretärin.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.53
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 51,
+    "sample_missing": [
+     "andere",
+     "arbeit",
+     "auch",
+     "berichten",
+     "berichtet",
+     "dann",
+     "dazu",
+     "deshalb",
+     "eigenen",
+     "eine",
+     "einer",
+     "einfach",
+     "entspannen",
+     "erfahrungen",
+     "erzählen",
+     "etwas",
+     "fami",
+     "fühle",
+     "gern",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "haben",
+     "hause",
+     "hobbys",
+     "hätte"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 217,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Frau *Gärtner* sagt ,dass sie viel arbeitet ,und das ist ihr sehr stressig.\n- Ihr Arbeit ist auch sehr anstrengend.\n- Sie wünscht einen Urlaub machen ,oder mehr Zeit mit ihrer Familie verbringen ,aber\n das ist nicht möglich wegen ihrer Arbeit.\n***************************************************************\n*Meinung*\n- Ich habe eine ähnliche Meinung wie *Claudia* ,je mehr man\n  arbeitet ,desto müder ist er.\n- Ich finde es gut ,wenn man hart arbeitet ,aber er sollte sich auch\nausruhen.\n- Manschmal braucht man einen Urlaub ,oder etwas anderes als\n  Arbeit zu machen , und seinen Tagesablauf zu ändern.\n- Es ist auch wichtig ,dass man mehr Zeit mit seiner Familie verbringt\n,und den Druck der Arbeit vergisst.\n***************************************************************\n*Erfahrung*\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 218,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich habe die folgende Erfahrung , Ich arbeitejetzt als Ingenieur ,und\nverbringe viel Zeit bei der Arbeit.  Familie in unserem eigenen Haus.\n Ich habe keine Zeit für meine Familie.\n Manschmal arbeite ich bis Spät in der Nacht ,und habe nur wenig Zei\nzum Sclafen ,und das ist mir sehr anstrengend.\n Obwohl ich mit meiner Familie lebe ,treffen wir uns manschmal nur\nim Urlaub , Wir haben ein bisschen Zeit füreinander.\n Ab und zu möchte ich mit meinen Freunden ausgehen ,aber wegen\nder Arbeit ist es unmöglich.\n Wenn ich viel Stress habe, treibe ich lieber etwas Sport ,das hilft\n mit sehr gut.\n Hätte ich eine einfache Arbeit gefunden ,hätte ich mehr frei Zeit\ngehabt.\n***************************************************************\n Teilnehmer B\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.27
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 30,
+    "sample_missing": [
+     "abwechslung",
+     "aktiver",
+     "alle",
+     "andreas",
+     "beruflich",
+     "brau",
+     "chschul",
+     "dabei",
+     "durch",
+     "eigentlich",
+     "elbert",
+     "fast",
+     "fühle",
+     "ganze",
+     "hause",
+     "jahre",
+     "kenne",
+     "leben",
+     "medien",
+     "mensch",
+     "mich",
+     "moder",
+     "nicht",
+     "nutze",
+     "reise"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 219,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Ich habe auch einen Beitrag von *……..* gelesen.\n- Er ist 30 Jahre Alt .und arbeitet als Elektroingenieur.\n***************************************************************\n Herr *……* sagt ,dass er zu viel arbeitet ,aber die Arbeit macht ihm viel Spaß.\n Obwohl er viel Zeit während der Arbeit verbringt ,ist das ihm nicht stressig.\n Er mag dir Arbeit ,und Stress kommt für ihn nicht In Frage.\n***************************************************************\n*Meinung*\n* Ich habe eine ähnliche Meinung wie Herr *……*.\n* Wenn man einen Job hat ,den er loebt ,fühlt sie sich nicht gestresst.\n Beruf wählen ,der Job muss uns nicht nur Geld bringen ,sondern auch\n   Spaß machen.\n* Ich finde es auch wichtig ,wenn man mit netten Kollegen arbeitet\n,damit er eine tolle Arbeitatmosphäre hat.\n***************************************************************\n*Erfahrung*\n- Damit habe ich auch gute Erfahrungen.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "* Meiner Meinung nach soll man überlegen**يفكر ,bevor er einen"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "bevor",
+     "meiner",
+     "nach",
+     "soll",
+     "überlegen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 220,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Als ich ein Kind war ,wollte ich Ingenieur werden ,und jetzt habe ich\nmeinen Traumjob ,Des halb fühle ich mich nicht gestresst\n- Ich arbeit ,was ich liebe ,deswegen vergisse ich den Druck der Arbeit,\n- Obwohl ich nicht mit meinen Freunden ausgehen kann ,verbringe\nich tolle Zeit mit meinen Kollegen ,außerdem haben wir zusammen\nviel Spaß.\n- In meinem Heimatland arbeiten wir Lange am Tag ,das finde ich\nsehr anstrengend , und das verursacht viel Arbeitsdruck.\n- Wenn ich Stress habe ,liebe ich etws Sport treiben ,das macht mich\nentspannter und ruhiger.\n- Es wäre besser ,wenn man einen Job wählen ,den er liebt , damit\nihm nicht langweilig wird ,und fühlt er nicht gestresst.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.983,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "chschul",
+     "süiiii"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  }
+ ]
+}

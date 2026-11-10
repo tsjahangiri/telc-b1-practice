@@ -1,0 +1,14 @@
+0.122 0.094 1.00	Hörverstehen, Teil 1
+0.139 0.078 0.50	LANGUAGE Tests
+0.224 0.047 1.00	Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.
+0.246 0.049 1.00	Sie hören diese Texte nur einmal.
+0.263 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 41 - 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.283 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 41 - 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.305 0.047 1.00	falsch auf dem Antwortbogen.
+0.324 0.045 1.00	Lesen Sie jetzt die Aufgaben 41 - 45. Sie haben dazu 30 Sekunden Zeit.
+0.410 0.045 1.00	41. Herr Pawliczek erledigt alle seine Einkäufe im Internet gemacht
+0.462 0.045 1.00	42. Frau Zimmermann legt beim Einkaufen großen Wert auf persönlichen Kontakt.
+0.513 0.045 1.00	43. Frau Schmidt findet zu Hause nicht genug Ruhe, um im Internet einzukaufen.
+0.567 0.045 1.00	44. Frau Ruttnigg ist vom Einkaufen im Internet nicht überzeugt.
+0.598 0.629 0.30	śchull
+0.618 0.045 1.00	45. Herr Krause kauft seine Medikamente am liebsten in der nächsten Stadt.

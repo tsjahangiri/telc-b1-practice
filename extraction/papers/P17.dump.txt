@@ -1,0 +1,150 @@
+##### P17 pages [236, 250] key p250 sections {'L1': [236, 237], 'L2': [238, 239], 'L3': [241, 242], 'SB1': [243, 244], '?': [249], 'SB2': [245], 'H': [246, 247, 248], 'LOES': [250]}
+
+=== P17-L1 [Arbeitsplatz] pages [236, 237] verified=True
+INSTR: Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+  a) Arbeitsplatz: Bezahlung wichtiger als Zufriedenheit
+  b) Ausstellungseröffnung an bayerischem Gymnasium
+  c) Frauen: mehr Spaß am Beruf als Männer
+  d) Gründe für Zufriedenheit am Arbeitsplatz
+  e) Immer mehr Teilzeitarbeitsplätze für Männer
+  f) Karriere ist Männern weniger wichtig als Frauen
+  g) Technik für Kleinkinder
+  h) Technisches Museum vergibt Umwelt-und Technikpreis
+  i) Umwelt- und Technikpreis
+  j) Wünsche von berufstätigen Eltern
+  1. Eine aktuelle Umfrage der Arbeiterkammer unter berufstätigen Eltern zeigt den dringenden Wunsch nach flexiblen Arbeitszeiten (60% der Eltern) und nach Kindergärten im oder in der Nähe des Betriebes (58%). Frauen verlangen aber deutlich mehr Teilzeitarbeitsplätze (50%) als Männer (36%). 52% aller Eltern wünschen eine Ersatzperson, die den Vater oder die Mutter bei Krankheit des Kindes im Betrieb vertritt. Die Arbeiterkammer fordert, dass sich Bedarf der Eltern orientieren.
+  2. MÜNCHEN: Schüler an bayerischen Gymnasien, die sich für Umwelt oder Technik interessieren, können sich auch dieses Jahr wieder um den Carl Friedrich von Martius Umwelt und Technikpreis bewerben. Bei diesem Wettbewerb werden Facharbeiten aus dem letzten Schuljahr bewertet.
+Nähere Informationen erhältlich beim
+GSF- Forschungszentrum unter der Telefonnummer 089/311 87 27 12.
+  3. WIEN. Eine einmalige Abteilung für drei- bis sechsjährige Kinder wurde im Technischen Museum (15, Mariahitferstraße 112 ) eröffnet. In einem speziell für Kinder eingerichteten Bereich können die jüngsten Besucher Technik angreifen. Dort gibt es unter anderem Plasmascheiben, die Blitze erzeugen, ein Laufrad und ein Hüpfklavier, mit dem die Kinder Töne erspringen können. Viel Spaß macht den Kleinen auch, in einem Elektroauto herumzukurven und sich in verschiedenen Zerrspiegeln zu betrachten.
+  4. HAMBURG. Männer haben mehr Karrierechancen, Frauen dafür mehr Freude am Beruf: Das ergab eine große Umfrage in Hamburg. Obwohl nur 8% der weiblichen Arbeitnehmer an ihre Aufstiegschancen glauben, geben 61% an, dass ihre Arbeit ihnen Spaß mache. Bei den Männer ist dieses Verhältnis 23 zu 57 Prozent.
+  5. Für Zufriedenheit am Arbeitsplatz kann Geld allein nicht entscheidend sein. Dies gilt in besonderen Maß für hochqualifizierte europäische Arbeitskräfte, wie eine vergleichende internationale Management-Studie zeigt. Sowohl in Europa wie auch unter japanischen und amerikanischen Managern wird der Möglichkeit, neben der Arbeit auch Zeit für das Privatleben zu haben, ein zentraler Stellenwert beigemessen. Viel stärker als in Japan spielt es unter europäischen Angestellten eine Rolle, dass die Arbeit Spaß macht. Die Analysen zeigen auch, dass neben dem Gehalt der Ruf des Unternehmens für die Arbeitsplatzwahl von europäischen Arbeitnehmern besonders wichtig ist.
+  SOLUTION(complete): 1j 2i 3g 4c 5d
+
+=== P17-L2 [Maus] pages [238, 239] verified=True
+INSTR: Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+  TITLE: Die Sendung mit der Maus / Eine Ausstellung über die berühmte Fernsehserie
+  SPEYER. Mit dem Fragebogen in der Hand marschieren die Grundschüler durch das Historische Museum in Speyer. Wie heißt doch noch mal der, der die Maus gezeichnet hat? Fragt Anna. Lisa entdeckt den Namen neben dem Zeichenpult. Friedrich Streich kritzelt sie auf ihr Blatt. Allerdings erst, nachdem sie sich bei einem erwachsenen Ausstellungsbesucher vergewissert hat, dass diese Information auch richtig ist.
+  Maus Oleum heißt die Ausstellung im Jungen Museum, die sich mit einem Stück Fernsehgeschichte beschäftigt. Sie zeigt über 30 Jahre von der Geschichte der Sendung mit der Maus. In den farbenfrohen Räumen wird gezeigt, was und wer hinter den Lach- und Sachgeschichten steckt. Eine Weltkarte beweist, dass die Maus international bekannt ist. Kaum ein Land, in dem die beliebte Kindersendung nicht zu sehen ist.
+  Die orangefarbene Maus erklärt die Welt, indem sie selbstverständlich gewordene Dinge hinter fragt. Mit welchen Mitteln dies geschieht das zeigt die Ausstellung. Was steckt in einer Parkuhr? Wie funktioniert eine Luftpumpe? Woraus wird Creme gemacht? Wie kommen die Löcher in den Käser? Mit solchen und anderen Fragen verblüfft und fasziniert die Maus auch ihre großen Zuschauer, die sich schlagartig daran erinnern, dass sie einst entscheiden neugieriger waren. Wie Detektive, die im Auftrag der Kinder ganz genau hingucken, gehen die Macher an jede Sendung heran. Sie wollen genauso viel wissen und verstehen wie die Kinder selbst Deshalb wird zum Beispiel die Parkuhr einfach aufgeschraubt oder das Innere einer Fahrradpumpe gezeigt.
+  An Vorschlägen, was die Maus erklären könnte fehlt es nicht. Woche für Woche kommen Briefe aus aller Welt. Einige davon sind auch in der Ausstellung zu lesen. Liebe Maus heißt es da. Wir sind heute an einem Druckzentrum vorbeigefahren. Bitte sage uns doch wie eine Zeitung gemacht wird Seit 1971 ist die Maus aktiv: Sie reist in die Vergangenheit oder blickt in die Zukunft sie beantwortet Fragen und lässt Kinder aus verschiedene Ländern selbst erzählen . Auch schwierige Themen wie Politik sind dank der Maus kinderleicht zu verstehen.
+  Überall da, man in der Ausstellung etwas anfassen ausprobieren kann, wo kleine und große Geheimnisse gelüftet werden, dort staunen die kleinen Besucher. Bilder werden zum Laufen gebracht, Töne erzeugt und Kamers getestet.
+  Die Maus ist inzwischen auch bei Künstlern beliebt. Sie ist auf Bildern, Postkarten und Plakaten auf der ganzen Welt zu sehen. Schöner aber sind die kleinen Kunstwerke aus Kinderhand, die die Fernsehmacher im Laufe der Jahre gesammelt und Papier bunte Bilder und sogar ein Puppen Theater ganz aus Pappe – alles für die Maus
+  ## Öffnungszeiten
+  Die Ausstellung in Speyer ist noch bis zum 27 Oktober geöffnet. Dienstags bis sonntags von 10 bis 18 mittwochs bis 20 Uhr.
+  Q6. Die Maus
+     a) führt Kinder durch das Museum.
+     b) wird in einer Werbefirma gezeichnet.
+     c) wurde von Friedrich Streich erfunden.
+  Q7. Das Thema der Ausstellung
+     a) ist die Geschichte der Sendung mit der Maus.
+     b) ist 30 Jahre Junges Museum.
+     c) sind Kinder aus aller Welt.
+  Q8. Die Sendung mit der Maus
+     a) erhält Post aus der ganzen Welt.
+     b) hat es schwer, noch neue Themen zu finden.
+     c) nimmt nur Vorschläge von Kindern an.
+  Q9. Die Ausstellung
+     a) erlaubt den Kindern, mit den Ausstellungsstücken zu spielen.
+     b) erlaubt den Kindern nicht, die Ausstellungsstücke anzufassen.
+     c) ist nur für Kinder geöffnet.
+  Q10. Die Maus
+     a) erhält von den Kindern Geschenke aus verschiedenen Materialien.
+     b) gibt es nur auf Postkarten und Plakaten zu kaufen.
+     c) ist aus Wolle und Papier.
+  SOLUTION(complete): 6c 7a 8a 9a 10a
+
+=== P17-L2b [Maus] pages [238, 240] verified=True
+INSTR: Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+  TITLE: Die Sendung mit der Maus / Eine Ausstellung über die berühmte Fernsehserie
+  SPEYER. Mit dem Fragebogen in der Hand marschieren die Grundschüler durch das Historische Museum in Speyer. Wie heißt doch noch mal der, der die Maus gezeichnet hat? Fragt Anna. Lisa entdeckt den Namen neben dem Zeichenpult. Friedrich Streich kritzelt sie auf ihr Blatt. Allerdings erst, nachdem sie sich bei einem erwachsenen Ausstellungsbesucher vergewissert hat, dass diese Information auch richtig ist.
+  Maus Oleum heißt die Ausstellung im Jungen Museum, die sich mit einem Stück Fernsehgeschichte beschäftigt. Sie zeigt über 30 Jahre von der Geschichte der Sendung mit der Maus. In den farbenfrohen Räumen wird gezeigt, was und wer hinter den Lach- und Sachgeschichten steckt. Eine Weltkarte beweist, dass die Maus international bekannt ist. Kaum ein Land, in dem die beliebte Kindersendung nicht zu sehen ist.
+  Die orangefarbene Maus erklärt die Welt, indem sie selbstverständlich gewordene Dinge hinter fragt. Mit welchen Mitteln dies geschieht das zeigt die Ausstellung. Was steckt in einer Parkuhr? Wie funktioniert eine Luftpumpe? Woraus wird Creme gemacht? Wie kommen die Löcher in den Käser? Mit solchen und anderen Fragen verblüfft und fasziniert die Maus auch ihre großen Zuschauer, die sich schlagartig daran erinnern, dass sie einst entscheiden neugieriger waren. Wie Detektive, die im Auftrag der Kinder ganz genau hingucken, gehen die Macher an jede Sendung heran. Sie wollen genauso viel wissen und verstehen wie die Kinder selbst Deshalb wird zum Beispiel die Parkuhr einfach aufgeschraubt oder das Innere einer Fahrradpumpe gezeigt.
+  An Vorschlägen, was die Maus erklären könnte fehlt es nicht. Woche für Woche kommen Briefe aus aller Welt. Einige davon sind auch in der Ausstellung zu lesen. Liebe Maus heißt es da. Wir sind heute an einem Druckzentrum vorbeigefahren. Bitte sage uns doch wie eine Zeitung gemacht wird Seit 1971 ist die Maus aktiv: Sie reist in die Vergangenheit oder blickt in die Zukunft sie beantwortet Fragen und lässt Kinder aus verschiedene Ländern selbst erzählen . Auch schwierige Themen wie Politik sind dank der Maus kinderleicht zu verstehen.
+  Überall da, man in der Ausstellung etwas anfassen ausprobieren kann, wo kleine und große Geheimnisse gelüftet werden, dort staunen die kleinen Besucher. Bilder werden zum Laufen gebracht, Töne erzeugt und Kamers getestet.
+  Die Maus ist inzwischen auch bei Künstlern beliebt. Sie ist auf Bildern, Postkarten und Plakaten auf der ganzen Welt zu sehen. Schöner aber sind die kleinen Kunstwerke aus Kinderhand, die die Fernsehmacher im Laufe der Jahre gesammelt und Papier bunte Bilder und sogar ein Puppen Theater ganz aus Pappe – alles für die Maus
+  ## Öffnungszeiten
+  Die Ausstellung in Speyer ist noch bis zum 27 Oktober geöffnet. Dienstags bis sonntags von 10 bis 18 mittwochs bis 20 Uhr.
+  Q6. Die Sendung mit der Maus
+     a) erhält Post aus der ganzen Welt.
+     b) hat es schwer, noch neue Themen zu finden.
+     c) nimmt nur Vorschläge von Kindern an.
+  Q7. Die Maus
+     a) erzählt die Sachgeschichten.
+     b) wird in einer Werbefirma gezeichnet.
+     c) wurde von Friedrich Streich erfunden.
+  Q8. Das Thema der Ausstellung
+     a) ist die Geschichte der Sendung mit der Maus.
+     b) ist 30 Jahre Junges Museum.
+     c) sind Kinder aus aller Welt.
+  Q9. Die Ausstellung
+     a) erlaubt den Kindern, mit den Ausstellungsstücken zu spielen.
+     b) erlaubt den Kindern nicht, die Ausstellungsstücke anzufassen.
+     c) ist nur für Kinder geöffnet.
+  Q10. Die Maus
+     a) erhält von den Kindern Geschenke aus verschiedenen Materialien.
+     b) gibt es nur auf Postkarten und Plakaten zu kaufen.
+     c) ist aus Wolle und Papier.
+  SOLUTION(complete): 6a 7c 8a 9a 10a
+
+=== P17-L3 [arabischen Ländern] pages [241, 242] verified=True
+INSTR: Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+  11. Sie möchten als Student nebenbei Geld verdienen. Sie reisen gern.
+  12. Sie interessieren sich für Literatur aus arabischen Ländern.
+  13. Ihr Freund möchte gerne in einem Kino arbeiten.
+  14. Sie wollen in einem Restaurant arbeiten und dort auch wohnen.
+  15. Ihre Freundin sucht einen Kindergartenplatz für ihren kleinen Sohn.
+  16. Sie möchten am nächsten Wochenende in eine Diskothek gehen.
+  17. Sie möchten tanzen lernen.
+  18. Sie haben große Berufserfahrung in Gaststätten. Jetzt möchten Sie ein Restaurant leiten.
+  19. Sie möchten Filme aus afrikanischen Ländern sehen.
+  20. Sie möchten einen Fotografiekurs besuchen und haben nur abends Zeit.
+  [a] KLOSTER / Andechs / seit 1455 / – Genuss für Leib und Seele – / Für unseren / „Klostergasthof Andechs“ / suchen wir zur Verstärkung unseres / Teams zur Festanstellung und zum bald- / möglichsten Eintritt / Koch und Küchenhelfer / Kost und Wohnen im Haus möglich. / Bitte setzen Sie sich mit / Herrn Urban in Verbindung. / Klostergasthof Andechs / Bergstraße 9 · 82346 Andechs / Telefon 08152/9309-0
+  [b] [Logo, unleserlich] / Eine Woche lang / zeigen wir Spielfilme / aus Nordafrika. / Sie geben das Leben / in Algerien, Marokko, / Tunesien und Libyen / wieder. / www.valentin.de / PROGRAMMKINO VALENTIN, SCHWABING
+  [c] Starnberg – Seniorentreff, kommen- / den Mittwoch: 9 Uhr, Treffen am Hallenbad- / Parkplatz zum Skilanglauf (Informationen unter / 08151/21714); 13.30 Uhr, offener Spielenachmittag; / 14.30 Uhr, Englisch für Fortgeschrittene; 17 Uhr, / Spanischkurs; ab 19 Uhr, Oldie-Disko!!
+  [d] Reisebüro sucht / für Juli und August / junge, unabhängige Leute als / REISELEITER / FÜR BUSREISEN / Fremdsprachenkenntnisse von / Vorteil. / Weitere Auskünfte: / Schneider-Reisen, Frau Hagmann / Tel. 089/87 00 35 von 9–16 Uhr
+  [e] Walzer / Tango / Foxtrott / wer seine Füße im Takt und nach / den richtigen Schritten bewegt ... / Zu Beginn der Ballsaison bieten wir wieder / unsere beliebten Kurse in den Gesell- / schaftstänzen an. / Spezielle Anfänger- und / Auffrischungskurse. / Tanzschule Bäulke / Wolfstrasse 12, 82404 Pullach
+  [f] WIR SUCHEN / für das Restaurant-, Bankett- und Terrassen- / geschäft der Waldwirtschaft Großhesselohe / eine(n) / GESCHÄFTSFÜHRER/-IN / RESTAURANT-FACHMANN/FRAU / Sie sind eine gefestigte Persönlichkeit / mit Verantwortungsbewusstsein und / überdurchschnittlicher Einsatzbereit- / schaft! / • Zufriedene Gäste sind unser oberstes Prinzip • / Bewerbung mit / ausführlichem Lebenslauf / senden Sie bitte an: / Waldwirtschaft Großhesselohe / z.Hd. Herrn Sepp Krätz oder / Frau Carola Schuchardt / Georg-Kalb-Str. 3, / 82049 Großhesselohe/München
+  [g] Fa. TEAM WORK in Landsberg/Lech / sucht dringend / für verschiedene Gebiete in Bayern / freundliche / Damen und Herren / für den Verkauf / von hochwertigen Natur-Spielwaren / im Kindergartenbereich oder Direktverkauf. / Haupt- oder nebenberufliche Tätigkeit / möglich / Vergütung auf Provisionsbasis. / Bitte sprechen Sie mit Herrn Turtenwald: / Tel 0 81 91/942 942
+  [h] Tatzelwurm / hat noch freie Plätze für Drei- bis Vierjährige. / In unserem Kindergarten fühlen sich Ihre Kinder wohl: / • langjährige Erfahrung / • professionelle Betreuung / • großer Garten / • Vollwertküche / Nähere Informationen bei Frau Hammerschmidt, / Dietrich-Allee, 51429 Berg-Gladbach, / Tel 087 709 18 67
+  [i] Tanzschule Wernicke / sucht ab sofort / TANZLEHRER/-IN / für / Tango, Rumba, Samba, Lambada, / Salsa, Cha-Cha-Cha. / Bewerber/-in sollte mehrjährige Erfahrung speziell / mit Anfängerkursen haben, wenn möglich auch Tur- / niererfahrung. Bewerbungen unter Chiffre: 17295
+  [j] Technisch versierter, / zuverlässiger / FILMVORFÜHRER / für Filmkunstkino / • ab sofort gesucht • / Telefonische Anfragen Montag–Freitag, / nur 10–11 Uhr, unter: / 089-2 71 36 78
+  [k] Blickpunkt Orient: / Im Rahmen der Fotoausstellung / „Kairo – uralte Metropole am Nil“ / liest die ägyptische Schriftstellerin / Salwa Bakr aus ihrem Roman / „Der goldene Wagen fährt nicht / zum Himmel“ / und berichtet über das Leben von / Frauen, die in der Millionenstadt / Kairo ihren Alltag bewältigen / müssen. / 20 Uhr, Seidlvilla, Nikolaiplatz 1b.
+  [l] New York aus der Perspektive der / Starfotografin Helen Levitt – noch / bis Sonntag, 10. Januar, sind ihre / Schwarzweiß-Ansichten in der / Villa Stuck zu sehen. Auch die / Ausstellung „Viehweide und Glas- / palast“, Aquarelle und Zeichnungen / der „Münchner Schule“, im / Lenbachhaus endet an diesem / Sonntag. / Beide Ausstellungen sind täglich von / 10 bis 17 Uhr geöffnet. / SZ Extra Redaktion 098/2183-9256, / Fax 098/2183-9397, Anzeigen 098/2183-398, / Fax 098/2193-8711
+  SOLUTION(complete): 11d 12k 13j 14a 15h 16x 17i 18f 19b 20x
+
+=== P17-SB1 [Vollzwinkler] pages [243, 244] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen
+  Liebe Vollzwinkler,
+  wir wohnen jetzt schon [[21]] sechs Wochen in unserer neuen Wohnung. Zwar ist immer noch nicht alles so eingerichtet, wie Wir [[22]] das wünschen .Aber wir wussten ja. Dass das einige Zeit [[23]] würde, bis alles fertig ist. Natürlich haben wir uns zuerst um das Kinderzimmer gekümmert. Unsere beiden Kinder durften sich die Farben für die Wände selbst [[24]] Sie haben sich für Blau und Gelb entschieden. Meinem Mann [[25]] das am Anfang gar nicht gefallen, aber jetzt hat er sich [[26]] gewöhnt. Jetzt fehlt eigentlich nur noch das Wohnzimmer.
+  Wir warten auf die neuen Möbel [[27]] wir gekauft haben. In der [[28]] Woche kommen sie endlich. Dann können auch wieder Gäste zu uns kommen. Wir würden uns alle sehr freuen, wenn Sie und Ihr Mann uns sehr bald besuchen [[29]].Wir waren schließlich fünf Jahre lang Nachbarn! und trotz [[30]] schönen neuen Wohnung sind wir ein bisschen traurig, dass wir nicht mehr neben Ihnen wohnen.
+  Viele Liebe Grüße
+  Ihre
+  Edeltraut Augenthaler
+  C gedauert
+  C davon
+  C würden
+  21: a) ab | b) seit | c) vor
+  22: a) ihnen | b) sich | c) uns
+  23: a) dauern | b) dauert | c) gedauert
+  24: a) ausgesucht | b) aussuchen | c) aussuchten
+  25: a) hat | b) ist | c) wird
+  26: a) daran | b) darüber | c) davon
+  27: a) das | b) den | c) die
+  28: a) nächsten | b) nächster | c) nächstes
+  29: a) worden | b) wurden | c) würden
+  30: a) unser | b) unserer | c) unseres
+  SOLUTION(complete): 21b 22c 23a 24b 25a 26a 27c 28a 29c 30b
+
+=== P17-SB2 [Computerviren] pages [245] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.
+  Sehr geehrte Damen und Herren,
+  vielen Dank für die [[31]] Zusendung der Informationsmaterialien. Ich interessiere mich sowohl für das Seminar Schutz gegen Computerviren als [[32]] für Einführung ins Internet.
+  Dazu habe ich noch [[33]] Fragen: Ist die Veranstaltung Einführung ins Internet auch wirklich für Anfänger gedacht? Da ich noch gar keine Erfahrung habe, möchte ich mich [[34]] jetzt auf das Seminar vorbereiten. [[35]] Sie mir die Schulungsunterlagen bereits vorher schicken?
+  Gibt es für die [[36]] Seminare noch genügend freie Plätze? Bis [[37]] muss ich mich spätestens anmelden?
+  Und nun noch eine Frage zur Bezahlung: Auslandsüberweisungen sind sehr teuer, daher [[38]] ich wissen, [[39]] man im Voraus bezahlen muss oder auch vor Ort bar bezahlen kann.
+  [[40]] ich auch eine Kursbestätigung am Ende des Seminars erhalten?
+  Mit freundlichen Grüßen
+  WILLY GATES
+  WORDS: a=AUCH b=BEIDEN c=EINE d=EINIGE e=KÖNNTEN f=MÖCHTE g=MÜSSEN h=OB i=SCHNELLE j=SCHON k=SOLL l=SONDERN m=VORNE n=WANN o=WERDE
+  SOLUTION(complete): 31i 32a 33d 34j 35e 36b 37n 38f 39h 40o

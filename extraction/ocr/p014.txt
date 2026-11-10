@@ -1,0 +1,17 @@
+0.074 0.084 1.00	Leseverstehen, Teil 1
+0.092 0.072 1.00	LANGUAGE Tests
+0.121 0.786 0.30	Luis)
+0.150 0.047 1.00	Lesen Sie die Überschriften a - j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift
+0.168 0.047 1.00	Sie können jede Überschrift nur einmal benutzen.
+0.189 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+0.356 0.053 1.00	A) Bilder mit dem Computer bearbeiten
+0.410 0.086 1.00	b) Kirche bietet Backkurs für Kinder an
+0.464 0.086 1.00	C) Kirche eröffnet neuen Treffpunkt
+0.517 0.086 1.00	d) Neu: Kochbuch über Weiner Fleischgerichte
+0.556 0.567 0.50	nschull
+0.573 0.086 1.00	E) Neue Computerprogramme werden getestet
+0.625 0.086 1.00	f) Preis für bestes Lernprogramm
+0.679 0.086 1.00	G) Rezepte für Kuchen und Torten
+0.733 0.086 1.00	h) Studie zeigt: Kaffeetrinker sind glücklicher
+0.786 0.084 1.00	I) Warum die Wiener ins Café gehen
+0.840 0.084 1.00	j) Zürcher Fotografen stellen aus

@@ -1,0 +1,20 @@
+0.093 0.012 1.00	• Dort haben wir eine tolle Woche alleine verbracht.
+0.121 0.047 1.00	Während der Reise haben wir heden Tag etwas neues zusammen
+0.157 0.045 1.00	erlebt ,ohne dass jemand uns gefragt hat ,wohin wir gehen.
+0.189 0.012 1.00	• Ich möchte auch im nächsten Sommer einen Urlaub mit meinem Fra
+0.221 0.047 1.00	machen ,und unsere Freiheit ,weg von Bekannten haben, das
+0.250 0.045 1.00	finde ich ist interessant.
+0.297 0.016 0.50	*********
+0.297 0.133 1.00	******:
+0.297 0.462 1.00	***
+0.297 0.739 1.00	*********
+0.320 0.008 0.50	Teilnehmer B
+0.384 0.016 1.00	Urlaub mit Freunden
+0.420 0.016 1.00	Mir wäre es zu langweilig den Urlaub allein zu verbringen. Deshalb fahre ich immer mit einer
+0.443 0.016 1.00	Gruppe von Freunden in den Urlaub. Wir unternehmen dann sehr viel und machen
+0.467 0.014 1.00	gemeinsame Ausflüge. Und abends wird richtig gefeiert!
+0.772 0.760 0.50	••, 29 Jahre, Ingenieur
+0.830 0.004 1.00	- Ich habe auch einen Beitrag von *
+0.831 0.507 0.30	....•.* gelesen.
+0.869 0.006 1.00	- Er ist 29 Jahre Alt .und arbeitet als Ingenieur.
+0.897 0.023 1.00	ww.instagram.com/mahmoudemad007

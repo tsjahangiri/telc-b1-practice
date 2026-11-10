@@ -1,0 +1,26 @@
+0.087 0.355 1.00	*Firmen*Olympiade*
+0.134 0.064 1.00	Teilnehmer/in A/B
+0.167 0.057 1.00	Teil 3 Gemeinsam etwas planen (ca. 6 Minuten)
+0.206 0.053 1.00	Sie und Ihre Gesprächspartnerin/Ihr Gesprächspartner arbeiten in der gleichen Firma, Sie wollen gemei-
+0.219 0.051 1.00	sam mit ihren Kolleginnen und Kollegen eine ,Firmen-Olympiade" organisieren und einen ganzen Tag lang
+0.233 0.049 0.30	viel Spa
+0.247 0.049 0.50	Ube
+0.250 0.107 0.30	edagon anen 2atil mil Nonsen germachi.
+0.247 0.211 0.50	Ihrem Gesprächspartner/Ihrer Gesprächspartnerin, was zu tun ist.
+0.260 0.045 1.00	Sie
+0.330 0.133 0.50	• Wo?
+0.368 0.125 0.50	• Wann?
+0.406 0.121 1.00	• Welche Sportarfen?
+0.448 0.115 0.50	• Essen und Getränke
+0.494 0.113 1.00	• Kosten
+0.584 0.033 1.00	Also *Ahmed* du weißt ja ,wir einen Urlaub am Ende des Monats haben
+0.619 0.043 1.00	,und wir können mit unseren Kolleginnen und Kollegen etwas
+0.651 0.045 1.00	organiesieren, was hältst du davon?
+0.685 0.012 1.00	• Ja,da gehe ich ganz d'accord ‚aber hast du einige Vorscläge ,mir fällt
+0.718 0.045 1.00	nichts ein.
+0.751 0.012 1.00	• Ja ,wir können entweder einen Ausflug,oder eine Firmen-Olympiade
+0.785 0.045 1.00	organiesiern ,was denkst du?
+0.820 0.012 1.00	• Ich bin für eine Firlme-Olympiade ,Ich möchte etwas Sport treiben ‚aber
+0.852 0.045 1.00	wann können wir die Olympiade machen?
+0.887 0.012 1.00	• Wie wäre es mit dem nächsten Sonntag ,da haben wir all Zeit.
+0.930 0.010 1.00	www.instagram.com/mahmoudemad007

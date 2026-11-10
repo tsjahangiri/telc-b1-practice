@@ -1,0 +1,19 @@
+0.084 0.381 0.50	* Heiraten *
+0.147 0.012 1.00	Teilnehmer A
+0.193 0.012 1.00	Teilnehmende/r A
+0.221 0.010 1.00	Teil 2: Über ein Thema sprechen (ca. 6 Minuten)
+0.249 0.010 1.00	Sie haben in einer Zeitschrift etwas zum Thema Heiraten gelesen. Berichten Sie Ihrer
+0.265 0.012 1.00	Gesprächspartnerin/Ihrem Gesprächspartner darüber.
+0.291 0.008 1.00	Ihre Gesprächspartnerin/Ihr Gesprächspartner hat eine andere Meinung dazu gelesen und berichtet Ihnen
+0.307 0.010 1.00	auch darüber.
+0.323 0.010 1.00	Unterhalten Sie sich dann mit Ihrer Gesprächspartnerin/ Ihrem Gesprächspartner über das Thema. Sagen Sie
+0.339 0.008 1.00	Ihre Meinung und erzählen Sie von eigenen Erfahrungen.
+0.385 0.012 1.00	Heiraten
+0.418 0.008 1.00	Ich bin nun seit vier Jahren verheiratet. Unsere Hochzeit war ein ganz großes Fest mit Musik,
+0.438 0.010 1.00	Tanz und mehr als 70 Gästen. Drei Tage lang haben wir gefeiert. So etwas macht man nur
+0.458 0.012 1.00	einmal im Leben, das werde ich nie vergessen.
+0.490 0.012 1.00	Anna Herzog, 36 Jahre, Sekretärin
+0.756 0.008 1.00	- Ich habe einen Beitrag zum Thema *Heiraten* gelesen.
+0.797 0.008 1.00	- Die Person die sich äußert heißt * Anna Herzog*
+0.847 0.008 1.00	- Sie ist 36 Jahre Alt ,und arbeitet als Sekretärin.
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

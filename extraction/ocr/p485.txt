@@ -1,0 +1,15 @@
+0.000 0.458 0.30	Süiiiişşşüşşşüşşşşşşüşı
+0.096 0.008 1.00	- Als ich ein Kind war,wollte ich Ingenieur werden ,und jetzt habe ich
+0.131 0.018 1.00	meinen Traumjob ,Des halb fühle ich mich nicht gestresst
+0.182 0.004 1.00	- Ich arbeit ,was ich liebe,deswegen vergisse ich den Druck der Arbeit
+0.222 0.004 1.00	- Obwohl ich nicht mit meinen Freunden ausgehen kann ‚verbringe
+0.254 0.037 1.00	ich tolle Zeit mit meinen Kollegen ,außerdem haben wir zusammen
+0.284 0.041 1.00	viel Spaß.
+0.322 0.004 1.00	- In meinem Heimatland arbeiten wir Lange am Tag ,das finde ich
+0.353 0.041 1.00	sehr anstrengend , und das verursacht viel Arbeitsdruck.
+0.391 0.043 1.00	Wenn ich Stress habe ,liebe ich etws Sport treiben,das macht mich
+0.424 0.041 1.00	entspannter und ruhiger.
+0.461 0.041 0.50	Es wäre besser , wenn man einen Job wählen ,den er liebt , damit
+0.491 0.039 1.00	ihm nicht langweilig wird,und fühlt er nicht gestresst.
+0.516 0.511 0.50	chschul
+0.897 0.140 1.00	com/mahmoudemad007

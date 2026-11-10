@@ -1,0 +1,284 @@
+{
+ "batch": 11,
+ "pages": [
+  101,
+  110
+ ],
+ "records": [
+  {
+   "page": 101,
+   "paper": "P08",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. Der Fahrer des Wagens mit dem Kennzeichen HB-D 256 soll ins Erdgeschoss kommen.\n57. Die Firma liefert das bestellte Sofa am Dienstag ab drei Uhr nachmittags.\n58. Der Gasthof Lindner ist neben einer Tankstelle.\n59. Der Film Komiker läuft täglich um 20 Uhr.\n60. Das Wetter ist am Abend noch gut.",
+   "arabic_labels_excluded": [
+    "السائق"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.87,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "elull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P08; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 102,
+   "paper": "P08",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nSie haben folgende E-Mail von Ihrer Freundin Sophie bekommen:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\nwir haben lange nichts mehr voreinander gehört. Ich hoffe, es geht dir gut. Gibt es bei dir\nNeuigkeiten? Ich bin nun schon seit zwei Monaten in Würzburg, und mein neuer Job gefällt mir sehr\ngut. In der Firma fühle ich mich wohl, mit meinen Kollegen verstehe ich mich prima und die Arbeit\nmacht mir großen Spaß.\nAllerdings habe ich ein Problem: Außer meinen Kollegen kenne ich hier in der Stadt noch\nniemanden. In meiner Freizeit bin ich oft allein und weiß nicht, was ich machen soll. Wie könnte ich\nneue Leute kennenlernen? Hast du vielleicht einen Tipp für mich?\nWürzburg ist wirklich eine schöne Stadt mit vielen Sehenswürdigkeiten. Hast du Lust, mich mal an\neinem Wochenende zu besuchen? Ich würde mich sehr freuen.\nViele Grüße\nSophie\nAntworten Sie Sophie. Schreiben Sie etwas zu allen vier Punkten:\nWas es Neues bei Ihnen gibt\n. Was Sie selbst gerne in Ihrer Freizeit machen\n. Tipps für Sophie\n. Reaktion auf den Vorschlag\nÜberlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine\npassende Anrede, Einleitung und einen passenden Schluss.",
+   "arabic_labels_excluded": [
+    "صوفي"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schu"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P08; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 103,
+   "paper": "P08",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\nArbeitsplatz\nVollzwinkler\nComputer\n21 b\nseit\n1 J\n41 -\n22 c\nuns\n2 I\n42 -\n23 a\ndauern\n3 G\n43 +\n24 b\naussuchen\n4 C\n44 +\n5 D\n25 a\nhat\n45 -\n26 a\ndaran\n27 c\ndie\n28 a\nnächsten\n29 c\nwürden\n30 b\nunserer\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nMaus\nComputerviren\nBachinger\n46 +\n6\nC A\n31 I\nSCHNELLE\n7\nA C\n47 -\n32 A\nAUCH\n8\nA A\n48 -\n33 D\nEINIGE\n49 +\n9\nA A\n34 J\nSCHON\n10 A A\n50 +\n35 E\nKÖNNTEN\n51 -\n36 B\nBEIDEN\n52 -\n37 N\nWANN\n53 -\n38 F\nMÖCHTE\n54 +\n39 H\nOB\n55 -\n40 O\nWERDE\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\narabischen Ländern\nDer Fahrer\n11 D\n56 +\n12 K\n57 -\n13 J\n58 +\n14 A\n59 +\n15 H\n60 -\n16 X\n17 I\n18 F\n19 B\n20 X",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P08 compared on legible contact sheet against structured extraction; matches (p93 = variant question set, p97 = overflow options)",
+   "uncertain": []
+  },
+  {
+   "page": 104,
+   "paper": "P09",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\nA) Finanzielle Unterstützung für Kunstprojekte mit Schülern\nB) Winterveranstaltung auf dem Eis mit Musik\nc) Aktionsprogramm der Eu:Finanzielle Unterstützung für italienische Künstler\nd) Kunstausstellung von italienischen Schülern\ne) Deutschlernen mit euer Methode im Radio\nF) Geld für gemeinsame europäische Projekte\nG) Elternverein organsiert Kunstausstellung\nh) Mit der Eisenbahn ins winterliche Wien\ni) Mehr Geld für österreichische Musikschulen\nJ) Wie Sprachaufenthalte auswählen?",
+   "arabic_labels_excluded": [
+    "الدعم المالي"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.04
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "hschull",
+     "lalal"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)",
+   "uncertain": []
+  },
+  {
+   "page": 105,
+   "paper": "P09",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. Rund 150,000 Sprachreisen werden von Deutschen jährlich unternommen. Der Wunsch, eine\nandere Sprache zu lernen, kann verschieden Gründe haben: private, schulische oder berufliche.\nDas Angebot an Sprachreisen wächst ständig, über die Qualität ist jedoch wenig oder nichts\nbekannt. Im Marktplatz geht es diesmal um Kriterien für das Lernen mit Erfolg. Welche\nMethoden sind zu empfehlen, welche Anbieter kosten? Ihre Fragen werden am Hörertelefon\nunter 0800-839601 von Fachleuten beantwortet.\n2. Die Metropole Wien lädt zum winterlichen Eisvergnügen vor dem Wiener Rathaus ein: vom 22.\nJanuar bis 7.März kann man auf 1800 Quadratmetern übers Eis fahren. Die Musik dazu bestimmt\nden Fahrstil und reicht vom klassischen Walzer bis zur Diskomusik. Nachts werden auf der\nEisbahn Partys veranstaltet, vom Samba - Fest bis zum Hip-Hop –Event. Speisen und Getränke\ngibt es an verschiedenen Ständen, Schlittschuhe und Stiefel kann man leihen. Informationen:\nWiener Tourismusverband.\n3. Für das Aktionsprogramm der Europäischen Union (EU) zur beruflichen Weiterbildung, Leonardo\nda Vinci, können noch bis zum 31. März Anträge gestellt werden. Ziel des Programms ist es,\neuropäische Projekte zur beruflichen Weiterbildung zu unterstützen Anträge auf finanzielle\nunterstützen können die Institutionen stellen, die mit mindestens zwei weiteren europäischen\nPartnern an einem Projekt arbeiten wollen. Information: Nationale Koordinerungsstelle\nLeonardo da Vinci, Fehrbelliner Platz 3, D-10707 Berlin, Tel, 030/8643-0, Fax- 2637.\n4. Wien(SN.APA). Wie das Unterrichtsministerlum mitteilte, sollen im kommenden. Jahr monatlich\n70,000 Euro für Kulturprojekte an Schulen zur Verfügung gestellt werden. Unterstützt würden\ndamit Veranstaltungen und Projekte, die das Verständnis der Kinder und Jugendlichen für die\nKünste wecken, das Interesse am Musisch – Kreativen verstärken und zu Kontakten und einer\nAuseinandersetzung mit Künstlern führen. Dadurch soll in altersgemäßer Form die ganzheitliche\nEntwicklung der Persönlichkeit von Kindern und Jugendlichen gefördert werden.\n5. Zum sechsten Mal veranstaltet das Comitato Geniton Binnigen/ Bottmingen seine breit\nangelegte multikulturelle Kunstausstellung Arte. An der Veranstaltung nehmen 70 Künstlerinnen\nund Künstler aus der Region sowie Gäste aus Italien, Frankreich, Deutschland und weiteren\nLändern teil. Bei dem vor 18 Jahren gegründeten Comitato handelt es sich um einen\nElternverein, der damals italienischsprachigen Kindern bei ihren Schulprobiemen hilfreich zur\nSeite stand. Da die jetzige dritte Kindergeneration nicht mehr diese Probleme hat, suchte das\nComitato nach neuen Aufgeben und fand in der Organisation der alljährlichen Kunstausstellung\nein neues, interessantes Betätigungsfeld.",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 3,
+    "page_coverage": 0.04
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)",
+   "uncertain": []
+  },
+  {
+   "page": 106,
+   "paper": "P09",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nPhilipp Reis – der wahre Erfinder des Telefons?\nErfinder, Lehrer, Familienvater – Auf den Spuren von Philipp Reis besuchte Susanne Müller\nseinen Geburtsort.\nWeil sein Vater nie aufgeschrieben habe, was er machte, ist mancher gute Gedanke verloren gegangen, klagt\nspäter einmal Karl Reis. Auch gibt es wenige offizielle Berichte und Dokumente über Philipp Reis in\nFriedrichsdorf und in seiner Geburtsstadt Gelnhausen. Das gilt besonders für das private Leben der Familie\nReis, die ab 1852 in unmittelbarer Nähe des berühmten Garnier – Instituts in Friedrichsdorf ein Haus gefunden\nhatte. Berichte des Sohnes Karl Reis erzählen ein wenig mehr über das Leben des Erfinders. Karl Reis, der beim\nTod des Vaters erst elf Jahre alt war, berichtet von einem lieben und gerechten Vater, der sich sehr um seine\nFrau und seine Kinder gesorgt hat. Wenn der Vater aber seine Experimente machte, vergaß er alles um sich\nherum.\nPhilipp Reis lernte bereits als Junge viele technische Maschinen kennen und machte eine Reihe von\nExperimenten, die er als Lehrer am Garnier – Institut fortsetzte. Er entwickelte eine große Anzahl von\ntechnischen Geräten, die im Institut gut verwendet werden konnten. Auf die Schüler machte Philipp Reis\neinen oft sehr merkwürdigen Eindruck. Verunsichert waren die Schüler besonders dann, wenn Reis Aufsicht\nhatte, aber selbst im Klassenraum gar nicht anwesend war.\nTrotzdem konnte Reis alles hören und wusste, was passiert war. Philipp Reis hatte eine besondere Kamera\ngebaut, mit der er von seinem Arbeitszimmer aus, in dem er gleichzeitig Experimente durchführte, in die\nKlassenraume schauen konnte. Ein Draht, der über den Schulhof in sein Arbeitszimmer führte, diente als\nVorläufer des späteren Telefons. Bei den Schülern und Lehrern entstand so der Ruf, dass der Reis auf\ngeheimnisvolle. Weise alles sehen kann.\n1883 schrieb der englische Professor Silvanus Thompson einen Bericht über Reis und nannte ihn den wahren\nErfinder des Telefons. Philipp Reis habe das Telefon entwickelt, und nicht Graham Bell oder Thomas Edison.\nDiese beiden amerikanischen Forscher hätten auch bei ihren Arbeite zur Entwicklung des Telefons auf Philipp\nReis Experimente in Deutschland hingewiesen. Seine offizielle Anerkennung als Erfinder des Telefons hat\nPhilipp Reis allerdings nicht mehr erlebt. Im Jahre 1874 ist er in Friedrichsdorf an einer Lungenkrankheit\ngestorben.",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 2,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)",
+   "uncertain": []
+  },
+  {
+   "page": 107,
+   "paper": "P09",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Heute weiß man, dass Philipp Reis\nA\nbei seinen Versuchen die Familie vergaß.\nseinen Kindern viel über seine Experimente erzählte.\nsogar mit seiner Familie Experimente machte.\nC\n7. Professor Thompson\nhat bei der Entwicklung des Telefons mitgearbeitet.\nA\nmeinte, dass Reis das Telefon erfunden hat.\nwar ein Studienkollege von Philipp Reis.\nC\n8. Die Schüler von Philipp Reis\nkonnten ihren Lehrer in seinem Arbeitszimmer sehen.\nA\nmachen in seinem Arbeitszimmer Experimente.\nwurden von ihrem Lehrer mit einer Kamera beobachtet.\nC\n9. Über das private Leben von Philipp Reis\ngibt es nur wenige Berichte aus seiner Familie.\nA\nkann man im Garnier-Institut viele Berichte finden.\nkann man in Gelnhausen viel erfahren.\nC\n10. Philipp Reis\nhat viele technische Geräte gebaut.\nA\nleitete als junger Wissenschaftler das Garnier-Institut.\nstudierte am Garnier-Institut\nC",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 6,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.937,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "ehschul",
+     "later",
+     "lkonmeten",
+     "schen",
+     "trctimne"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)",
+   "uncertain": []
+  },
+  {
+   "page": 108,
+   "paper": "P09",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Sie lieben Krimis und möchten daher einer Krimiautorin beim Vorlesen zuhören.\n12. Ihr Bekannter würde gerne am Wochenende ein Boot mieten.\n13. Sie möchten sich in einem Hotel in den Bergen erholen und mit dem Zug anreisen.\n14. Sie möchten sich eine Märchenvorstellung im Theater ansehen.\n15. Ihre Freundin sucht ein angenehmes Hotel, in dem man auch Sport treiben kann.\n16. Am Sonntag wollen Sie einen kleinen Ausflug mit Kindern machen. Die Kinder mögen\nTiere.\n17. Ihre Bekannten möchten gerne im Mai eine Schiffsfahrt machen.\n18. Sie möchten gerne am Wochenende tanzen gehen und suchen eine tolle Disco.\n19. Der kleine Sohn von Freunden ist begeistert von der Eisenbahn. Sie möchten am\nWochenende mit ihm etwas Interessantes machen.\n20. Sie möchten im August eine Woche in den Bergen wandern und brauchen eine erfahren\nPerson, die mit Ihnen geht.",
+   "arabic_labels_excluded": [
+    "السكك الحديدية"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)",
+   "uncertain": []
+  },
+  {
+   "page": 109,
+   "paper": "P09",
+   "section": "L3",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\n90 Minuten Leseverstehen und Sprachbausteine\n9\nOBER-GOMS\nWandern Im Wallis\nAusstellung\n06.-10. Junl\n18.-25. Angust\nFr. 425\n.Marchen - Mythen -\nChocolat-Werbung\nКUСТУRТIРP:\n,Septembe\nFr. 7350\nirzählungen\nIm Rahmen der Ausstellung Chocolat-Totler:\nF. 750\nAcht Künstlerinnen zeigen ihre\nDie Geschichte der Schokolade von 1899 bis\nWanderungen/Klettertouren mit\nHaibpension/Führungen/\nArbeiten\nheule\" präsentieren und kommenteren Christian\ngepeüften Bergführem\nvom 2. bis 30. Juni in Thun\nJacquet und Fritz Kobi im Komhausforum alle\nDie Arbeiten werden in der Zeit\nund neue Chocolat-Tobler-Werbefime\nHotel Walser\nvom 2. bis 30. Juni in Schau-\nBern:\n3988 Ulrchen\nfenstern der Innenstadt gezeigt.\nKomhausforum 19 UM\nFax. 022/073 21 20\nTel: 027/973 21 22\nVernissage:\nMehr Ausgehtipps in der ,Berner Woche* und im\n2. Juni, 19.30 Uhr\nIndernet unter www.BernerWoche.ch\nwww.goms.ch/hotel-walser\nSchibenstrasse 21 - Thun\nTel. 033 222 02 47\nd\nsarazena\nDAS ASCHENPUTTEL\nZermalt\nCindenefia, Cenerentola, Aschenputtel\n- einmal erzähit, enmal gespieit:\nSCHWEIZER\nHerzlich wilkommen in unser\nemütichen Ferienhofel in zeptraler Lag\nKULTURTIPP:\nFERIENORT\nPerfekt ausgestattete Zimme\nZERMATT\nmit allem Komfort, Fitnessraum,\nTennishalle, Schwimmbad,\nDie Scheftstellerin\nErholung pur im Naturfreunde-Hotel Zermatt\nreichhaltiges Frühstucksbuffet\nElke Seldenreich\n• Heeriche Wanderwege in den Berger\nBruno & Catherine Wyrsch-Zumiwen\nammen mit dér Basel Sinfonietta\npräsentiert\nTel. 027 /967 44 41 - Fax 027 /967 63\n25\nden bekannten Mürchenstotf\nNATURFREUNDE-HOTEL ZERMATT-\ninternet: www.hotei-sarazena.ch\naut der Bühne\nDanieia + René Zimmermann\nTel. 027 907 27 88 - Fax 967 80 29\nE-Mail: sarazenazermatt@bluewin.ch\nTheaterhaile Bemn, 20.30 Uhe\ng\nTierpark Goldau\nh\nDER\nGeöffnet:\nMo.-Ft. 9.00-19. Ut Sa 9.00-14.00 Uhr\nein Besuch, der sch lohnti\n• Freilautzone\nFEURIGE\nANDREAS TIERWELT\n• Abenteuerspielplatz\nELIAS\n• Vögel - Nager - Pilanzen\n• Restaurant\n• Warm- und Kaltwasserfische\n• 365 Tage im Jahr offen\n• Futter und Zubehör für alle Tierarten\nHistorische Lokomotiven und Waggons, jetat\n• Fachberatung\n+ Aquarion und Terrarian\nEintritt frei für Begleitpersonen\nausgestellt im Bahnmuseum WORB\nvon Gruppen ab 12 Personen\nKreurgasse 14\nFührungen für Kinder und Erwachsene:\nCH 4500 Solothum\nTel 041-855 50 00\nJeden Samstag und Sonntag 11:00 Uhr und 16:00 Uhr\nTel. 032 622 20 20\nwww.berpark.ch\nInfos: RBS, 3048 Worb\nFax 032 621 52 32\nTelefon: (031) 925 55 55\nk\nJÄGGI BUCHHANDLUNG\nViking-Tours\nFlussfahrten ouf der Aare\nTANZ IHPHLSE\nDienstag 8.5., 20 Uhr\ntägliche Fahrten von Mai bis Sep.\nSchule für zeitgenössischen Tanz,\nINGRID NOLL (Live im Loeb)\nAbfahrt der Schitfe: 11 Uhr, 14 Uhr, 16 Uhr\nklassisches Ballett, Malen und Tanz\ndie erfolgreichste und ungewöhnlchste\nTreffpunkt:\nThun/Schwäbis Schiffs-\ndeulsche Krimiautorin liest aus ihrem\nLaufendes Kursangebot für Anfänger und\nsteg\nForgoschrittene, Einführurgskurse zum\nunheimlchen Werk „Selige Witwen\".\nPreise:\n43 Franken\nKennentéirion, piruhetiche Bewugungsachule\nEintritt Ft. 10,00\nSpezialangebot:\nAbendfahrten (Rückkeht\nOtlene Gruppeni für Kindes, Jugendlche und\n23 Uhr), Tanz an Bord,\nErwachsett, max. 10 Tedehmednnen\nTiketCorner.ch\nSpezialangebote für\n0848 800 800\nSenioren\nInfonnation und Beralun\nVorverkaut 2. UG im Loeb Bern\ntanz impulse\nTelefon 031 320:20 20\nTel 01 434 33 66 - Fax: 01 434 33 44\nTel. 027 967 18 18\nEingang Spitalgasse\nviking @viking.ch\nwww.lana-impulbe-bemich\nTürotfnung 30 Min, vor Beginn\nwww.viking.ch",
+   "arabic_labels_excluded": [
+    "السكك الحديدية"
+   ],
+   "images": {
+    "count": 3,
+    "page_coverage": 1.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 239,
+    "sample_missing": [
+     "aare",
+     "abendfahrten",
+     "abenteuerspielplatz",
+     "abfahrt",
+     "acht",
+     "alle",
+     "allem",
+     "ammen",
+     "andreas",
+     "anfänger",
+     "angust",
+     "aquarion",
+     "arbeiten",
+     "aschenputtel",
+     "ausgehtipps",
+     "ausgestattete",
+     "ausgestellt",
+     "ausstellung",
+     "bahnmuseum",
+     "ballett",
+     "basel",
+     "beginn",
+     "begleitpersonen",
+     "bekannten",
+     "bemich"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)",
+   "uncertain": []
+  },
+  {
+   "page": 110,
+   "paper": "P09",
+   "section": "SB1",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 1\nLANGUAGE Tests\nLesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.\nMarkieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen\n……………………………………………………………………………………………………………………………………………………\nAn alle Kunden\nGewinnen\nSehr geehrter Herr Schröder,\nzum Start (21) das neue Geschäftsjahre haben wir uns für Sie etwas ganz Besonders ausgedacht: einen\nattraktiven Gewinn! (22) dem Beginn des neuen Geschäftsjahres feiern wir unsere erfolgreiche Buchidee.\nMachen Sie mit! Es warten auf Sie sehr (23) Gewinne im Wert von vielen Tausend Euro. Mit ihrer\nKundennummer können Sie an einem Preisausschreiben teilnehmen. Senden Sie uns (24) das beigefügte\nAntwortschreiben zurück und bestellen Sie damit – ohne Risiko – das Buch des Monats. Sie erhalten dieses\nBuch mit (25) versprechen, es nach 10 Tage zurückgeben zu können, sollte Ihnen das Buch nicht gefallen.\nOhne irgendetwas zu zahlen! Behalten Sie das Buch, was wir (26) hoffen, zahlen Sie nur 50 Prozent des sonst\nüblichen Preises in einer Buchhandlung. Gleichzeitig nehmen Sie an einem Preisausschreiben (27).\nBitte bedanken Sie: sollte Ihre Kundennummer(28) den richtigen Zahlen sein, haben Sie die Chance, ein Auto\neine Reise und viele weitere Preise zu erhalten. Antworten Sie (29) noch diese Woche! Dann haben Sie in\njedem Fall die Chance auf den Hauptgewinn - einen Mercedes der S-Klasse. Wenn Sie innerhalb der\nkommenden vier Wochen antworten, nehmen Sie immer(30) an unserer Gewinnverteilung teil –\nvorausgesetzt, Sie haben die richtige Kundennummer.\nMit freundlichen Grüßen\nPetra Obermoser\nLeiterin der Abteilung Marketing\n21.\nA auf\n24.\nA einfach\n27.\n30.\nA noch\nA mit\nB\nin\nB\nimmer\nB\nteil\nB\nschon\nüber\nnoch\nzu\nschnell\nC\nC\nC\nC\nA unter\n22.\nA Mit\n25.\nA unsere\n28.\nB Von\nB unserem\nB neben\nC Zwischen\nC unseren\nC vor\nA\nA\n26.\nA\n29.\n23.\nschöne\nnatürlich\nbald\nB\nschönen\nschön\nbereits\nschönes\nviele\nC\nunbedingt\nC\nC",
+   "arabic_labels_excluded": [
+    "شرودر"
+   ],
+   "images": {
+    "count": 7,
+    "page_coverage": 0.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.993,
+    "ocr_words_missing_from_textlayer": 3,
+    "sample_missing": [
+     "bteil",
+     "cnoch",
+     "czwischen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)",
+   "uncertain": []
+  }
+ ]
+}

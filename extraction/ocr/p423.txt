@@ -1,0 +1,20 @@
+0.129 0.086 1.00	Schriftlicher Ausdruck
+0.145 0.070 1.00	LANGUAGE Tests
+0.179 0.045 1.00	Sie haben folgenden Brief von einer Freundin erhalten:
+0.323 0.045 1.00	Liebe(r)..
+0.356 0.049 1.00	Entschuldige, dass ich mich erst jetzt wieder melde. Ich weiß, wir hatten ausgemacht, uns öfter mal zu
+0.376 0.047 1.00	schreiben. Aber es war so viel los in letzter Zeit. Ich habe eine Neuigkeit für dich: Meine kleine Schwester
+0.397 0.047 1.00	Janine heiratet im Oktober, und ich habe ihr versprochen, schon mal allen Freunden zu schreiben und
+0.417 0.049 1.00	Bescheid zu sagen. Die offizielle Einladung bekommst du natürlich noch von ihr direkt. Eddi, ihr zukünftiger
+0.438 0.049 1.00	Mann, ist echt nett, und wir mögen ihn alle sehr. Er ist koch und arbeitet hier in einem Hotel.
+0.469 0.051 1.00	Wir planen jetzt alles. Gib mir deshalb möglichst bald Bescheid, ob du kommst und mit wem.
+0.533 0.047 1.00	Herzliche Grüße
+0.568 0.045 1.00	Jennifer
+0.593 0.613 1.00	schul,
+0.638 0.047 1.00	Antworten Sie auf den Brief. Schreiben Sie etwas zu den folgenden vier Punkten:
+0.685 0.045 1.00	. Reaktion auf Neuigkeit
+0.705 0.045 1.00	. Übernachtungsmöglichkeit
+0.731 0.045 1.00	• Sie möchten zur Hochzeit kommen
+0.754 0.045 0.50	. Hochzeitsgeschenk
+0.796 0.049 1.00	Bevor Sie den Brief schreiben, überlegen Sie sich eine passende Reihenfolge der punkte, eine passende
+0.817 0.049 1.00	Einleitung und einen passenden Schluss. Vergessen Sie nicht Datum und Anrede.

@@ -1,0 +1,312 @@
+{
+ "batch": 27,
+ "pages": [
+  261,
+  270
+ ],
+ "records": [
+  {
+   "page": 261,
+   "paper": "P18",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 1\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.\n…………………………………………………………………………………………………………………………………………………………\n41. Die Sprecherin könnte sich vorstellen, mit dem Bus zur Arbeit zu fahren.\n42. Die Sprecherin geht den ganzen Weg zur Arbeit zu Fuß.\n43. Der Sprecher fährt nie mit dem Auto zur Arbeit.\n44. Der Sprecher benutzt für den Weg zur Arbeit zurzeit verschiedene Verkehrsmittel.\n45. Für die Sprecherin ist der Firmenbus die einzige Möglichkeit zur Arbeit zu kommen.",
+   "arabic_labels_excluded": [
+    "الذهاب إلى العمل بالحافلة"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P18; legible contact sheet — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 262,
+   "paper": "P18",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 2\nLANGUAGE Tests\nSie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.\n……………………………………………………………………………………………………………………………………..\n46. Viele Touristen besuchen Torgau wegen seiner historischen Sehenswürdigkeiten.\n47. Den Spielpark Hartenfels gibt es schon seit vielen Jahren.\n48. Außer dem Spielpark gibt es in der Umgebung viele andere Freizeitmöglichkeiten für die\nKinder.\n49. Der Spielpark bietet den Kindern Spielmöglichkeiten, die sie zu Hause nicht haben.\n50. Die Kinder können im Spielpark auch selbst etwas bauen.\n51. Das Spielen am Back kann für die Kinder gefährlich werden.\n52. Beide Elternteile müssen auf die Kinder aufpassen.\n53. Im Spielpark können Kinder bis zum Alter von sieben von Aufsichtspersonen betreut\nwerden.\n54. Der Eintritt in den Spielpark ist zurzeit frei.\n55. Die Schlossführung bereitet Kindern und Erwachsenen viel Spaß.",
+   "arabic_labels_excluded": [
+    "السياح"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.988,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "etuall",
+     "getahrlich"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P18; legible contact sheet — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 263,
+   "paper": "P18",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. Sie können zwei Flüge nach Griechenland gewinnen.\n57. Für Ihre Gruppe ist ein Wagen im Zug nach Aschaffenburg reserviert.\n58. Auf der Internetseite kann man auch günstige Angebote für Haushaltsgerät.\n59. Erst morgen Abend bildet sich Nebel..\n60. Am besten fahren Sie ab Northeim mit dem Bus.",
+   "arabic_labels_excluded": [
+    "اليونان"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.944,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "lieil"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P18; legible contact sheet — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 264,
+   "paper": "P18",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nEine Freundin hat Ihnen den folgenden Brief geschrieben:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\nWie geht es dir und deiner Familie?\nBei mir läuft alles prima. Endlich habe ich eine neue Arbeitsstelle. Ich habe nur ein kleines Problem: Es ist ein\nbisschen zu weit, um zu Fuß zu gehen.\nUnd der Bus fährt nur alle 30 Minuten. Früher bin ich meist mit dem Fahrrad gefahren, aber hier gibt es keine\nFahrradwege. Und da ist ja auch noch mein Daniel, den ich morgens in den Kindergarten bringen muss.\nDer liegt zum Glück gleich neben meiner neuen Firma. – Wie kommst du denn zur Arbeit oder zum\nDeutschkurs?\nWollen wir uns nicht mal wieder treffen und alle zusammen was unternehmen? Ich würde mich freuen.\nLiebe Grüße\nVera\nAntworten Sie Vera. Schreiben Sie etwas zu allen vier Punkte:\n. Was es bei Ihnen Neues gibt .\n. Was Sie zur Arbeit kommen.\n.Was Sie über Veras neue Stelle wissen wollen .\n.Vorschlag für gemeinsame Unternehmung?\nÜberlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine\npassende Anrede, Einleitung und einen passenden Schluss.",
+   "arabic_labels_excluded": [
+    "فيرا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "chschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P18; legible contact sheet — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 265,
+   "paper": "P18",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\nZeitung\nBeatrice\nBus zur Arbeit\n21 a\nam\n1 D\n41 -\n22 c\nschon\n2 J\n42 -\n23 b\nmeinem\n3 E\n43 +\n24 c\nmir\n4 B\n44\n-\n5 C\n25 c\nFreundinnen\n45 -\n26 b\nobwohl\n27 a\ndaran\nwenig\n28 a\n29 b\nOder\nBis\n30 b\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nComputerprobleme\nAlpen\nTouristen\n6\nA\n46 +\n31 D\nENTDECKT\n7\nA\n47 -\n32 M WEIL\n8\nA\n48 -\nWENN\n33 N\n9\nC\n49 +\nOFT\n34 I\n10 B\n50 +\nKENNEN\n35 G\n51 -\n36 A\nABER\n52 -\n37 K\nUNS\n53 -\n38 O\nWÜRDEN\n54 +\n39 J\nPAAR\n55 -\n40 C\nEINMAL\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\nPraktikum\nGriechenland\n11 D\n56 -\n12 G\n57 +\n13 F\n58 +\n14 A\n59 -\n15 I\n60 +\n16 K\n17 X\n18 J\n19 L\n20 H",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 12,
+    "sample_missing": [
+     "berlner",
+     "cepiger",
+     "csnostauetane",
+     "dieowelte",
+     "frankfuterrundschau",
+     "gemrine",
+     "morgenpe",
+     "stladeulsche",
+     "sunfintr",
+     "tacesspiegel",
+     "voukseetung",
+     "zeiun"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P18 compared on legible contact sheet; identical to verified P14",
+   "uncertain": []
+  },
+  {
+   "page": 266,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "* Urlaub mit Freunden *\n Teilnehmer A\n- Ich habe einen Beitrag zum Thema *Urlaub mit Freunden* gelesen.\n- Die Person die sich äußert heißt *Tamara Rößner*.\n- Sie ist 31 Jahre Alt ,und arbeitet als Lehrerin.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.53
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 52,
+    "sample_missing": [
+     "andere",
+     "auch",
+     "außerdem",
+     "bekannten",
+     "berichten",
+     "berichtet",
+     "dann",
+     "darüber",
+     "dazü",
+     "diese",
+     "eigenen",
+     "eine",
+     "einer",
+     "einfach",
+     "erfahrungen",
+     "erholen",
+     "erzählen",
+     "etwas",
+     "fahren",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "gruppe",
+     "haben",
+     "ihnen",
+     "ihre"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 267,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Frau *Rößner* bevorzugt einen Urlaub ohne ihre Bekannten zu\nmachen.\n Sie findet es besser ,wenn sie und ihr Mann die Zeit alleine verbringen.\n Sie möchten sich auch zusammen ausruhen ,aber das ist nicht\n möglich ,wenn sie in einer Gruppe reisen  .\n***************************************************************\n*Meinung*\n Ich habe eine ähnliche Meinung wie *Tamara* ,ich finde es besser\nwenn ich einen Urlaub nur mit meiner Frau mache ,da könner wir\nunsere Freiheit haben ,um besondere Plätze zu besuchen   ,oder\netwas besonderes zu machen .\n Während wir alleine reisen ,können wir auch unsere Privatheit haben.\n Wir können irgendwo ,und  irgendwann  ausgehen ,ohne ,dass\njemand bei uns ist.\n Wir wollen uns ausruhen ,ohne dass andere uns folgen ,aber das ist\nsehr schwerig bei Reisen mit Verwandten.\n***************************************************************\n*Erfahrung*\nIch habe die folgende Erfahrung :\n Seit 3 Monaten bin ich mit meinem Man nach Alexandria gefahren.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 268,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Dort haben wir eine tolle Woche alleine verbracht.\nWährend der Reise haben wir heden Tag etwas neues zusammen\nerlebt ,ohne dass jemand uns gefragt hat ,wohin wir gehen.\n Ich möchte auch im nächsten Sommer einen Urlaub mit meinem Frau\nmachen ,und  unsere  Freiheit  ,weg  von  Bekannten  haben ,das\nfinde ich ist interessant.\n***************************************************************\n Teilnehmer B\n- Ich habe auch einen Beitrag von *…….* gelesen.\n- Er ist 29 Jahre Alt .und arbeitet als Ingenieur.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.4
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.977,
+    "ocr_words_missing_from_textlayer": 20,
+    "sample_missing": [
+     "abends",
+     "allein",
+     "ausflüge",
+     "dann",
+     "deshalb",
+     "einer",
+     "fahre",
+     "freunden",
+     "gefeiert",
+     "gemeinsame",
+     "gruppe",
+     "immer",
+     "langweilig",
+     "richtig",
+     "sehr",
+     "unternehmen",
+     "verbringen",
+     "viel",
+     "wird",
+     "wäre"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 269,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "***************************************************************\n Herr *……* bevorzugt einen Urlaub mit Freunden zu machen ,weil\nalleine reisen ihm sehr langweilg ist.\n Er findt es sehr interessant ,wenn er Ausflüge mit seinen Freunden\nmacht ,da kann er bis Spät in die Nacht richtig feiern.\n***************************************************************\n*Meinung*\n Da gehe ich ganz d´accord , ich finde es besser ,wenn ich mit\nmeinen Freunden reise ,damit wir zusammen richtig Spaß haben.\n Wir können nicht nur zusammen spielen ,oder Campen ,sondern\nauch gemeinsame Ausflüge machen.\n Falls ich nicht genug Geld habe ,finde ich einfach jemanden ,dermich\nbezahlt , das ist manchmal sehr hilfreich.\n Ich finde, dass Reisen mit Freunden einen besonderen Spaß macht,\n***************************************************************\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "den findet man alleine nicht.*السفر مع األصدقاء متعة لن تجدها وحدك*"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 270,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " *Erfahrung*\n Damit habe ich auch gute Erfahrungen.\n Seit 3 Monaten bin ich mit meinen Freunden nach Louxor gefahren.\n Dort können wir sowohl eine Fahrt aud dem Nil machen ,als auch in\nder Wüste campen.\n Wir haben zusammen eine tolle Woche verbracht ,aber finde ich\nnicht möglich ,falls ich allene reisen.\n Während der Reise könnten wir auch zusammen bis Spät in die\nNacht feriern ,und viel Spaß haben.\n Ich möchte auch im nächsten Sommer einenUrlaub mit meinen\nFreunden mache , Ich denke, diese Erfahrung verdient es, wiederholt\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "zu werden.*أعتقد ان هذه التجربة تستحق أن تتكرر *"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.981,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  }
+ ]
+}

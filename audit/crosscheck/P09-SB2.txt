@@ -1,0 +1,5 @@
+# P09-SB2 pages [111] ratio 0.891
+## website words not in OCR:
+geehrte Herren
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests gethte Hetren Schul

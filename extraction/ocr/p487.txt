@@ -1,0 +1,21 @@
+0.090 0.012 1.00	- Frau *Herzug* bevorzugt eine Hochzeit zu machen.
+0.141 0.012 1.00	- Sie sagt ,dass sie vor vier Jahren ein großes Fest mit Musik gemacht.
+0.190 0.010 1.00	- Sie hat auch viele Leute eingeladen und die Feier hat für drei Tage gedaurt .
+0.237 0.012 1.00	-Sie nennet auch ,dass man einmal heiratet ,deshalb möchte sie eine
+0.285 0.023 1.00	scöne Erinnerung für immer behalten.
+0.328 0.010 0.50	**********
+0.330 0.142 0.30	****
+0.330 0.195 0.30	***********
+0.328 0.355 0.50	:*************************************
+0.370 0.014 1.00	*Meinung*
+0.416 0.031 1.00	Ich habe eine ähnliche Meinung wie *Anna* ,ich finde es wichtig
+0.468 0.039 1.00	wenn man eine Hochzeit macht.
+0.517 0.035 1.00	Ich heirate nur einmal ,deshalb möchte ich nicht nur mit meinen
+0.565 0.041 1.00	Verwandten ,sondern auch mit meinen Freunden feiern .
+0.612 0.025 1.00	Aber der größte Nachteil ist ,dass die Hochzeit viel kostet ,und wir
+0.639 0.030 0.50	brauchen dieses Geld, um unser Haus zu gründen. L
+0.706 0.012 1.00	*************************
+0.706 0.458 0.50	******************************
+0.748 0.016 1.00	*Erfahrung*
+0.802 0.014 1.00	Ich habe die folgende Erfahrung :
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

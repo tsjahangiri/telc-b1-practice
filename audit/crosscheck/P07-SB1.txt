@@ -1,0 +1,5 @@
+# P07-SB1 pages [81] ratio 0.802
+## website words not in OCR:
+junges
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests Cjunges

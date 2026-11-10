@@ -1,0 +1,107 @@
+{
+ "sections": {
+  "L2": [
+   91,
+   92
+  ],
+  "SB1": [
+   96,
+   97
+  ]
+ },
+ "extra": [
+  {
+   "sec": "L2",
+   "suffix": "L2b",
+   "pages": [
+    91,
+    93
+   ],
+   "label": "Variante mit geänderten Aufgaben",
+   "verified": true,
+   "notes": [
+    "Same reading text as P08 Leseverstehen Teil 2; questions on p93 (labelled 'معدل' = modified) are re-ordered and question 7 is changed.",
+    "Answer key: the key page p103 has a second, green column for Teil 2 (6A 7C 8A 9A 10A). The black column (6C 7A 8A 9A 10A) matches the original questions on p92; the green column matches this re-ordered set (e.g. 'Die Sendung mit der Maus – erhält Post aus der ganzen Welt' is now question 6 = A). Association inferred from this consistency."
+   ],
+   "solution": {
+    "6": "a",
+    "7": "c",
+    "8": "a",
+    "9": "a",
+    "10": "a"
+   }
+  }
+ ],
+ "fixes": [
+  [
+   "SB1",
+   "\"b\": \"dauert\"}, \"_flag\": \"parsed 2 options: ['dauern', 'dauert']\"",
+   "\"b\": \"dauert\", \"c\": \"gedauert\"}"
+  ],
+  [
+   "SB1",
+   "\"b\": \"darüber\"}, \"_flag\": \"parsed 2 options: ['daran', 'darüber']\"",
+   "\"b\": \"darüber\", \"c\": \"davon\"}"
+  ],
+  [
+   "SB1",
+   "\"b\": \"wurden\"}, \"_flag\": \"parsed 2 options: ['worden', 'wurden']\"",
+   "\"b\": \"wurden\", \"c\": \"würden\"}"
+  ]
+ ],
+ "notes": {
+  "L2": [
+   "p92 is labelled 'اساسي' (original); the answer key matches this question set. A modified question set on p93 is included separately as P08-L2b (no key)."
+  ],
+  "SB1": [
+   "Options 23c 'gedauert', 26c 'davon' and 29c 'würden' are printed on the following page p97 (page break in the source); joined here."
+  ],
+  "L3": [
+   "Ads page p95 is a photo with handwritten marks by a previous user (not exam content); transcribed manually from 250-dpi crops."
+  ]
+ },
+ "verified": {
+  "L1": true,
+  "L2": true,
+  "L3": true,
+  "SB1": true,
+  "SB2": true
+ },
+ "ads_manual": {
+  "page": 95,
+  "ads": {
+   "a": "KLOSTER\nAndechs\nseit 1455\n– Genuss für Leib und Seele –\nFür unseren\n„Klostergasthof Andechs“\nsuchen wir zur Verstärkung unseres\nTeams zur Festanstellung und zum bald-\nmöglichsten Eintritt\nKoch und Küchenhelfer\nKost und Wohnen im Haus möglich.\nBitte setzen Sie sich mit\nHerrn Urban in Verbindung.\nKlostergasthof Andechs\nBergstraße 9 · 82346 Andechs\nTelefon 08152/9309-0",
+   "b": "[Logo, unleserlich]\nEine Woche lang\nzeigen wir Spielfilme\naus Nordafrika.\nSie geben das Leben\nin Algerien, Marokko,\nTunesien und Libyen\nwieder.\nwww.valentin.de\nPROGRAMMKINO VALENTIN, SCHWABING",
+   "c": "Starnberg – Seniorentreff, kommen-\nden Mittwoch: 9 Uhr, Treffen am Hallenbad-\nParkplatz zum Skilanglauf (Informationen unter\n08151/21714); 13.30 Uhr, offener Spielenachmittag;\n14.30 Uhr, Englisch für Fortgeschrittene; 17 Uhr,\nSpanischkurs; ab 19 Uhr, Oldie-Disko!!",
+   "d": "Reisebüro sucht\nfür Juli und August\njunge, unabhängige Leute als\nREISELEITER\nFÜR BUSREISEN\nFremdsprachenkenntnisse von\nVorteil.\nWeitere Auskünfte:\nSchneider-Reisen, Frau Hagmann\nTel. 089/87 00 35 von 9–16 Uhr",
+   "e": "Walzer\nTango\nFoxtrott\nwer seine Füße im Takt und nach\nden richtigen Schritten bewegt ...\nZu Beginn der Ballsaison bieten wir wieder\nunsere beliebten Kurse in den Gesell-\nschaftstänzen an.\nSpezielle Anfänger- und\nAuffrischungskurse.\nTanzschule Bäulke\nWolfstrasse 12, 82404 Pullach",
+   "f": "WIR SUCHEN\nfür das Restaurant-, Bankett- und Terrassen-\ngeschäft der Waldwirtschaft Großhesselohe\neine(n)\nGESCHÄFTSFÜHRER/-IN\nRESTAURANT-FACHMANN/FRAU\nSie sind eine gefestigte Persönlichkeit\nmit Verantwortungsbewusstsein und\nüberdurchschnittlicher Einsatzbereit-\nschaft!\n• Zufriedene Gäste sind unser oberstes Prinzip •\nBewerbung mit\nausführlichem Lebenslauf\nsenden Sie bitte an:\nWaldwirtschaft Großhesselohe\nz.Hd. Herrn Sepp Krätz oder\nFrau Carola Schuchardt\nGeorg-Kalb-Str. 3,\n82049 Großhesselohe/München",
+   "g": "Fa. TEAM WORK in Landsberg/Lech\nsucht dringend\nfür verschiedene Gebiete in Bayern\nfreundliche\nDamen und Herren\nfür den Verkauf\nvon hochwertigen Natur-Spielwaren\nim Kindergartenbereich oder Direktverkauf.\nHaupt- oder nebenberufliche Tätigkeit\nmöglich\nVergütung auf Provisionsbasis.\nBitte sprechen Sie mit Herrn Turtenwald:\nTel 0 81 91/942 942",
+   "h": "Tatzelwurm\nhat noch freie Plätze für Drei- bis Vierjährige.\nIn unserem Kindergarten fühlen sich Ihre Kinder wohl:\n• langjährige Erfahrung\n• professionelle Betreuung\n• großer Garten\n• Vollwertküche\nNähere Informationen bei Frau Hammerschmidt,\nDietrich-Allee, 51429 Berg-Gladbach,\nTel 087 709 18 67",
+   "i": "Tanzschule Wernicke\nsucht ab sofort\nTANZLEHRER/-IN\nfür\nTango, Rumba, Samba, Lambada,\nSalsa, Cha-Cha-Cha.\nBewerber/-in sollte mehrjährige Erfahrung speziell\nmit Anfängerkursen haben, wenn möglich auch Tur-\nniererfahrung. Bewerbungen unter Chiffre: 17295",
+   "j": "Technisch versierter,\nzuverlässiger\nFILMVORFÜHRER\nfür Filmkunstkino\n• ab sofort gesucht •\nTelefonische Anfragen Montag–Freitag,\nnur 10–11 Uhr, unter:\n089-2 71 36 78",
+   "k": "Blickpunkt Orient:\nIm Rahmen der Fotoausstellung\n„Kairo – uralte Metropole am Nil“\nliest die ägyptische Schriftstellerin\nSalwa Bakr aus ihrem Roman\n„Der goldene Wagen fährt nicht\nzum Himmel“\nund berichtet über das Leben von\nFrauen, die in der Millionenstadt\nKairo ihren Alltag bewältigen\nmüssen.\n20 Uhr, Seidlvilla, Nikolaiplatz 1b.",
+   "l": "New York aus der Perspektive der\nStarfotografin Helen Levitt – noch\nbis Sonntag, 10. Januar, sind ihre\nSchwarzweiß-Ansichten in der\nVilla Stuck zu sehen. Auch die\nAusstellung „Viehweide und Glas-\npalast“, Aquarelle und Zeichnungen\nder „Münchner Schule“, im\nLenbachhaus endet an diesem\nSonntag.\nBeide Ausstellungen sind täglich von\n10 bis 17 Uhr geöffnet.\nSZ Extra Redaktion 098/2183-9256,\nFax 098/2183-9397, Anzeigen 098/2183-398,\nFax 098/2193-8711"
+  }
+ },
+ "uncertain": {
+  "L3": [
+   {
+    "location": "p95, ad a",
+    "note": "Ad is slanted/curved in the photo; small lines ('Für unseren', 'Bitte setzen Sie sich mit Herrn Urban in Verbindung') read with moderate confidence."
+   },
+   {
+    "location": "p95, ad b logo",
+    "note": "Text inside dark round logo unreadable — marked [Logo, unleserlich]."
+   },
+   {
+    "location": "p95, ad h (small print)",
+    "note": "Bullet items and name 'Frau Hammerschmidt' low confidence."
+   },
+   {
+    "location": "p95, ad i",
+    "note": "Chiffre number read as 17295 (could be 17296)."
+   }
+  ]
+ }
+}

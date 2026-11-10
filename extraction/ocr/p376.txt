@@ -1,0 +1,50 @@
+0.074 0.084 1.00	Sprachausteine, Teil 2
+0.093 0.070 1.00	LANGUAGE Tests
+0.163 0.068 1.00	Lesen sie den Text und schließen Sie
+0.183 0.068 1.00	Lücken 31 - 40. Benutzen Sie die Wörter
+0.203 0.068 1.00	(a, o) Jedes Wort passt nur einmal.
+0.224 0.070 1.00	Markieren Sie Ihre Lösungen für die
+0.243 0.068 1.00	Aufgaben 31 - 40 auf dem
+0.263 0.066 1.00	Antwortbogen.
+0.343 0.045 1.00	Sehr geehrte Frau Borner,
+0.379 0.047 1.00	es gibt ganz viele Raschläge, wie man sich ernähren soll, was man essen soll und was nicht. Die
+0.398 0.047 1.00	meisten Empfehlungen sind aber nicht für etwas, (31) gegen etwas, und zwar immer wieder
+0.419 0.045 1.00	gegen etwas anderes: gegen Fleisch zum Beispiel oder gegen Zucker, aber auch gegen Milch.
+0.439 0.045 1.00	so (32) man etwa, wer kein Fleisch isst, lebt nicht nur gesünder, sondern fühlt sich auch
+0.461 0.047 1.00	besser.
+0.491 0.049 1.00	(33) Durchsehen einer Zeitschrift ist mir Ihre Anzeige aufgefallen, und nun habe ich folgende
+0.512 0.047 1.00	Fragen an Sie: Von (34) Nahrungsmitteln darf man eigentlich so viel essen, wie man will? Was
+0.532 0.045 1.00	(35) jeden Tag gegessen werden? Und wie ist das mit der Milch? Die einen sagen, Milch ist
+0.552 0.045 1.00	sehr gesund (36) der vielen wichtigen Nährstoffe. Andere meinen, wer viel Milch trinkt, kann
+0.573 0.047 1.00	Probleme mit dem Magen bekommen. Außerdem kann man anstelle (37) Milch auch
+0.593 0.047 1.00	Mineralwasser trinken. Was soll ich jetzt glauben?
+0.625 0.047 1.00	Für eine Antwort (38) meine Fragen danke ich Ihnen im Voraus. Könnten Sie mir auch noch
+0.645 0.047 1.00	eine Broschüre schicken? Das Thema Essen und Sport (39) mich besonders interessieren, (40)
+0.666 0.045 1.00	ich selber viel Sport treibe.
+0.698 0.047 1.00	Mit freundlichen Grüßen
+0.718 0.045 1.00	Silvia Schönenberger
+0.782 0.127 0.30	AUF
+0.781 0.224 1.00	d
+0.778 0.271 1.00	MÖCHTE
+0.785 0.390 0.50	g
+0.782 0.454 1.00	SOLLTE
+0.782 0.643 1.00	WAS
+0.783 0.749 0.50	m
+0.781 0.825 1.00	WELCHEN
+0.805 0.057 1.00	b
+0.804 0.119 0.30	BEIM
+0.808 0.226 1.00	e
+0.805 0.279 1.00	NENNT
+0.805 0.390 1.00	h
+0.803 0.439 0.50	SONDERN
+0.805 0.575 0.50	k
+0.805 0.626 1.00	WEGEN
+0.808 0.754 0.50	n
+0.804 0.840 1.00	WÜRDE
+0.828 0.090 1.00	DESWEGEN
+0.828 0.228 1.00	f
+0.827 0.287 1.00	SAGT
+0.828 0.394 0.50	i
+0.828 0.456 1.00	VON
+0.828 0.641 1.00	WEIL
+0.828 0.852 0.30	ZUM

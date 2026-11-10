@@ -1,0 +1,21 @@
+0.000 0.458 0.30	SRRRR
+0.094 0.035 1.00	Ja ,ich bin derselben Meinung ,und ich bezahle zuerst ,aber Haben Sie eine
+0.137 0.045 1.00	Vorstellung davon, wie vielen Familien wir helfen können?
+0.185 0.016 1.00	• Vielleicht können wir die Veranstaltung für etwa 50 Familien
+0.228 0.049 1.00	organisieren , was denkst du?
+0.275 0.012 1.00	• Ja ,das klingt gut, Aber wir brauchen einen Platz für etwa 200 Personen
+0.317 0.043 1.00	‚hast du Vorschläge?
+0.357 0.014 1.00	• Ja, Vielleicht können wir uns entweder im Club oder im Garten
+0.406 0.049 1.00	organisieren ‚ was meinst du?
+0.451 0.012 1.00	• Ich denke, der Garten wäre größer und gemütlicher , Und wir können am
+0.494 0.043 1.00	Sonntag sogar anfangen ‚da haben wir alle Frei ,passt es dir ?
+0.539 0.016 1.00	• Ja ,das passt mit sehr gut ,aber Hast du Vorschläge für Aktivitäten, die
+0.584 0.049 1.00	wir machen könnten?
+0.628 0.012 1.00	• Ich schlage vor ‚dass wir sowohl Essen kochen ‚als auch Kleidung kaufen
+0.673 0.043 1.00	,was denlst du darüber?
+0.718 0.016 0.50	• Ich stimmer dir zu ,und ich kann auch ein paar gebrauchte Kleidung
+0.761 0.049 1.00	mitbringen.
+0.807 0.012 0.50	• Ja ,das klingt gut ,so treffen wir uns Morgen ,dann losfahren.
+0.852 0.014 1.00	• Das machen wir,bis bald.
+0.897 0.012 1.00	• Bis bald.
+0.930 0.010 1.00	www.instagram.com/mahmoudemad007

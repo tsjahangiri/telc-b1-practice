@@ -1,0 +1,11 @@
+0.140 0.014 1.00	*Erfahrung*
+0.193 0.012 1.00	- Damit habe ich auch gute Erfahrungen.
+0.244 0.010 1.00	- Bevor ich mein Studium beendete, lebte ich mit meiner Familie in
+0.279 0.016 1.00	unserem eigenen Haus ,dadurch habe ich viel Geld gespart.
+0.324 -0.000 1.00	- Und jetzt wegen meiner Arbeit ,bin ich viel unterwegs ,deshalb kann.
+0.365 0.037 1.00	ich mein Haus nicht kaufen
+0.394 0.008 0.50	- Aber nach meiner Pensionierung *sc lä*, plane ich nicht nur mein
+0.433 0.041 1.00	eigenes Haus zu kaufen ,sondern auch eine große Familie
+0.463 0.396 1.00	zu gründen.
+0.475 0.432 0.50	iochschul
+0.897 0.117 1.00	m.com/mahmoudemad007

@@ -1,0 +1,5 @@
+# P07-L2 pages [77, 78] ratio 0.979
+## website words not in OCR:
+Jährige
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests 41-Jahrige Leseverstehen Teil LANGUAGE Tests chschul

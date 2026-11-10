@@ -1,0 +1,544 @@
+{
+ "id": "P18",
+ "pages": [
+  253,
+  265
+ ],
+ "answer_key_page": 265,
+ "page_sections": {
+  "L1": [
+   253,
+   254
+  ],
+  "L2": [
+   255,
+   256
+  ],
+  "L3": [
+   257,
+   258
+  ],
+  "SB1": [
+   259
+  ],
+  "SB2": [
+   260
+  ],
+  "H": [
+   261,
+   262,
+   263
+  ],
+  "?": [
+   264
+  ],
+  "LOES": [
+   265
+  ]
+ },
+ "exercises": [
+  {
+   "type": "lesen1",
+   "instructions": "Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.",
+   "headings": [
+    {
+     "key": "a",
+     "text": "Abendwanderungen ab 89 Euro"
+    },
+    {
+     "key": "b",
+     "text": "Ausflugsziele für Literaturinteressierte"
+    },
+    {
+     "key": "c",
+     "text": "Hinweis für Besucher der Bregenzer Festspiele"
+    },
+    {
+     "key": "d",
+     "text": "Ihre Zeitung folgt Ihnen in den Urlaub"
+    },
+    {
+     "key": "e",
+     "text": "Laute Musik stört den Nachbarn"
+    },
+    {
+     "key": "f",
+     "text": "Musikveranstaltungen am Nachmittag"
+    },
+    {
+     "key": "g",
+     "text": "Neue Zeitung für Ihre Urlaubsplanung"
+    },
+    {
+     "key": "h",
+     "text": "Rekord: 70.000 Besucher im Bücherdorf"
+    },
+    {
+     "key": "i",
+     "text": "Schlechtes Wetter: Festspiele abgesagt"
+    },
+    {
+     "key": "j",
+     "text": "Wandern ohne Gepäck"
+    }
+   ],
+   "texts": [
+    {
+     "num": 1,
+     "text": "Wenn Sie verreisen, wünschen wir ihnen erholsame und angenehme Ferienlage Bitte denken Sie daran, sich ihre Zeitung in den Urlaubtort nachsenden zu lassen. Denn mit den Neuigkeiten von zu Hause und aus aller Weil lässt sich die schönste Zeit des Jahres erst richtig genießen ganz Europa kostenlos, Die Höhe des Bezeugendes bleibt unverändert. Ausführliche Informationen und entsprechende Coupons ihrem Europabericht. Griechisch wird meistens von Zwölftklässlern als dritte Fremdsprache neben Französisch und Englisch gewählt. finden Sie in unserem großen Reise Service – Anzeigen oder rufen Sie uns einfach an:\nTelefon 01 30-18 58 50 zum Nulltarif.\nHannoversche Allgemeine\nNeue Presse"
+    },
+    {
+     "num": 2,
+     "text": "Im Luftkurort Stadtkylf in der Mittelgebirgslandschaft des Oberen Kullas werden dreitägige Wanderungen ohne Gepäck veranstaltet Die Rundwanderung im deutsch – bei gischen Naturpark führt abends zu reservierten Zimmern. Die Betriebe übernehmen den Gepäcktransport zum nächsten Tagesziel. Die Wanderungen werden ganzjährig angeboten. In den Wanderprogramm sind drei Übernachtungen mit Frühstück dreimal Gepäcktransport, eine Wanderkarte, eine Wegbeschreibung und ein Wanderpass enthalten. Der Pauschalbetrag beträgt pro Person 89 Euro.\nAuskünfte:\nVerkehrsverein Erholungsgebiet Oberes Kylltal.\nKurallee, 54589 Stadtkylf, Telefon ( 06597) 28 78."
+    },
+    {
+     "num": 3,
+     "text": "Für den einen ist es musikalischer Hochgenuss für den anderen schlicht Lärm. Gemeint ist Musik, die aus Lautsprechen, Radios oder durch Musikinstrumente durch geöffnet Türen und Fenster bei sommerlichen Temperaturen ins Freie dringt. Die Gemeinde weist darauf hin, dass der Mittagsruhe von 13 bis 15 Uhr und nachts von 22 bis 7 Uhr keine musikalische Ruhestörung erfolgen darf. Gartengeräte mit Motoren dürfen montags bis freitags nur von 8 bis 13 und von 15 bis 19 Uhr benutzt werden, an Sonnabenden von 9 bis 13 Uhr. An Sonn - und Feiertagen dürfen die Geräte nicht zum Einsatz kommen."
+    },
+    {
+     "num": 4,
+     "text": "In dem Bücherdorf in Mühlbeck/ Fredersdorf(Sachsen – Anhalt ) warten in acht Antiquarten über 7000 Bücher aus allen Bereichen der Literatur auf Interessenten. In acht Antiquariten warten über 70000 Bücher aus allen Bereichen der Literatur auf Interessenten. Das in reizvoller landschaftlicher Umgebung liegende Bücherdorf nahe Bitterfeld unweit der A19 und des Flughafens Leipzig ist aus allen Teilen Deutschlands leicht zu erreich. Geöffnet sind die Antiquariate auch am Samstag und Sonntag. In Europa gibt es bereits zahlreiche solcher Bücherdörfer .u.a. in Belgien Frankreich Großbritannien den Initiatorin des deutschen Bücherdorfes ist Heidi Dehne (Tel. 03493/4 30 43)."
+    },
+    {
+     "num": 5,
+     "text": "Die Bregenzer Festspiele sind bemüht, die Vorstellungen auch bei zweifelhafter Witterung bzw. leichtem Regen auf der Seebühne abzuhalten, weshalb es zu Verzögerungen des Beginns oder zu Unterbrechungen kommen kann. Sollte die Seeaufführung nicht stattfinden können, wird eine halbszenische Version von Porgy and Bess im Festspielhaus gegeben. Wir empfehlen unseren Gästen , bei unsicherer Wetterlage regenfester Kleidung den Vorzug zu geben und auf Schirme zu verzichten, da diese die Sicht beeinträchtigen. Das Spiel auf dem See wird ohne Pause gespielt. Die Spieldauer beträgt ca.2 Std. 45 Min."
+    }
+   ],
+   "id": "P18-L1",
+   "section": "Leseverstehen, Teil 1",
+   "pages": [
+    253,
+    254
+   ],
+   "topic": "Zeitung",
+   "solution": {
+    "1": "d",
+    "2": "j",
+    "3": "e",
+    "4": "b",
+    "5": "c"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Variant of P03 Leseverstehen Teil 1 (same texts, partly different text 4 and headings order; separate key)."
+   ],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen2",
+   "instructions": "Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.",
+   "title": "Computerprobleme – ein Kinderspiel",
+   "subtitle": "Anne und Melanie (beide 6) stehen Erzieherinnen mit Vorschlägen hilfreich zur Seite",
+   "text": "Von Christiane Altenberger\nSie sind die Problemlöser im Kindergarten an der Munckerstraße. Wenn das Malprogram spinnt, plötzlich ein Spiel auftaucht, das keiner kennt, dann rufen die Erzieherinnen nach Anne und Melanie. Die sind zwar erst sechs Jahre alt, aber mit den Computerspielen kennen sie sich aus. Die Kinder wissen manchmal mehr als wir sagt Eva Schilling. Leiterin des Kindergartens. Gelernt haben die beiden ihr Know-how bei Multimedia-Landschaften für Kinder, einem Projekt, das das Schulamt zusammen mit dem Studio im Netz gestartet hat.\nIm Rahmen dieses Projekts werden in städtischen Kindergärten zwei Wanderstationen mit je drei Multimedia-Computern und einem Farbdrucker installiert. Die Stationen wandern durch 14 Kindergärten, wo sie jeweils für vier Wochen installiert werden. Mit dabei in den Kindergärten: ein ganzer Satz von Spiel – Software. Vierjährige am Computer? In Pädagogen kreisen sind viele Berührungsängste da, weiß Edith llg, Fachberaterin für Kindergärten beim Schulamt, aber wir können uns aus dieser Entwicklung nicht ausklinken. Die Kinder wollen sich mit ihrer Umwelt auseinandersetzen. Angefangen hat diese Auseinandersetzung im Studio im Netz – 193 Kinder waren eingeladen, um erste Erfahrungen am Computer zu sammeln. Die Kinder waren absolut begeistert, haben immer wieder gefragt, wann gehen wir da wieder hin, so Frau llg.\nBevor jedoch die Computer in die Kindergärten kamen, waren die Eltern aufzuklären. Bei manchen Eltern löste das Stichwort Computer akute Ängste aus nach dem Motto: Mein fröhliches, gesundes Kind setzt sich vor den Computer und steht sechs Stunden später krank, sprachlos und einsam wieder auf.\nDiese Ängste haben sich inzwischen gelegt und die Erfahrung vor Ort zeigt, dass sie weitgehend über flüssig sind. Die Erzieherinnen achten auch darauf, dass die Kinder nie länger als 15 bis 20 Minuten vor den Computern sitzen, und holen vor allem kreative Software auf den Bildschirm.\nDas einsame Dämmern vor dem Computer ist wohl ohnehin eher Sache der Erwachsenen – die Kinder spielen immer zu zweit oder zu dritt an der Maschine. Eva Schilling hat beobachtet, dass die Kinder am Computer sehr friedlich miteinander umgehen, sie helfen sich gegenseitig, es gibt wenig Konflikte. Dabei entwickeln gerade Kinder, die sich sonst nur schwer auf etwas konzentrieren können, plötzlich ungeahnte Konzentrationszeiten. Eva Schilling kann sich deshalb die Computer als Dauereinrichtung im Kindergarten vorstellen.",
+   "questions": [
+    {
+     "num": 6,
+     "stem": "Das Schulamt hat ein Projekt gestartet, bei dem",
+     "options": {
+      "a": "Computer in Kindergärten aufgestellt werden.",
+      "b": "Computerspiele für Vierjährige entwickelt werden sollen.",
+      "c": "Kinder neue Farbdrucker ausprobieren sollen."
+     }
+    },
+    {
+     "num": 7,
+     "stem": "Die Kinder",
+     "options": {
+      "a": "hatten großen Spaß bei dem Projekt.",
+      "b": "wollten lieber draußen im Freien spielen.",
+      "c": "wussten nicht, wann sie ins Studio im Netz gehen sollten."
+     }
+    },
+    {
+     "num": 8,
+     "stem": "Eltern fürchten, dass",
+     "options": {
+      "a": "der Computer ihren Kindern schadet.",
+      "b": "ihre Kinder nicht so früh aufstehen können.",
+      "c": "ihre Kinder vor dem Computer Angst haben."
+     }
+    },
+    {
+     "num": 9,
+     "stem": "Die Erzieherinnen",
+     "options": {
+      "a": "arbeiten jeden Tag 15 bis 20 Minuten am Computer.",
+      "b": "spielen immer mit zwei oder drei Kindern am Computer.",
+      "c": "wählen für die Kinder die Software aus."
+     }
+    },
+    {
+     "num": 10,
+     "stem": "Wenn die Kinder am Computer sitzen, dann",
+     "options": {
+      "a": "gibt es häufig Streit.",
+      "b": "hilft ein Kind dem anderen.",
+      "c": "können sich die meisten nicht lange konzentrieren."
+     }
+    }
+   ],
+   "id": "P18-L2",
+   "section": "Leseverstehen, Teil 2",
+   "pages": [
+    255,
+    256
+   ],
+   "topic": "Computerprobleme",
+   "solution": {
+    "6": "a",
+    "7": "a",
+    "8": "a",
+    "9": "c",
+    "10": "b"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Same exercise as P05 Leseverstehen Teil 2."
+   ],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen3",
+   "instructions": "Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.",
+   "situations": [
+    {
+     "num": 11,
+     "text": "Sie haben von einer noch unbekannten Schauspielerin gehört und möchten gern einen Film sehen."
+    },
+    {
+     "num": 12,
+     "text": "Sie haben bereits in einem Hotel gearbeitet und suchen wieder eine neue interessante Stelle."
+    },
+    {
+     "num": 13,
+     "text": "Sie interessieren sich für Umweltschutz und suchen eine passende Sendung."
+    },
+    {
+     "num": 14,
+     "text": "Ihr Freund, der am Institut für Film und Bild studiert, sucht einen geeigneten Praktikumsplatz."
+    },
+    {
+     "num": 15,
+     "text": "In einer Sendereihe wird im Fernsehen über die neue politische Entwicklung in Deutschland berichtet. Sie wollen sich informieren."
+    },
+    {
+     "num": 16,
+     "text": "Sie interessieren sich für moderne Stadtentwicklung und suchen dazu eine Sendung im Rundfunk."
+    },
+    {
+     "num": 17,
+     "text": "Sie wollen bei der Deutschen Bahn eine Ausbildung machen."
+    },
+    {
+     "num": 18,
+     "text": "Sie interessieren sich für politisches Theater und möchten am Wochenende dazu etwas hören oder sehen."
+    },
+    {
+     "num": 19,
+     "text": "Sie arbeiten gern mit anderen zusammen und suchen eine Tätigkeit bei einer Werbefirma."
+    },
+    {
+     "num": 20,
+     "text": "Sie studieren Fremdsprachen und suchen einen Job, bei dem Sie mit Kindern arbeiten können."
+    }
+   ],
+   "ads": [
+    {
+     "key": "a",
+     "text": "PRAKTIKANT/IN\nim Bereich Medien- und\nVeranstaltungstechnik\ng e s u c h t\nPraktikumszeit: mind. 6 Monate\nKurze schriftliche Bewerbung an:\nTAPE Media Film GmbH,\n[unleserlich]str. 17, 80939 München"
+    },
+    {
+     "key": "b",
+     "text": "ARTE Themenabend\n20.45 Was ist mit unse-\nrer Jugend los?\n„UNSERE ZUKUNFT“\nWie kommen Jugendliche in\nDeutschland und Frankreich mit\nder Wirtschafts- und Bildungs-\npolitik zurecht?\nbis 23.45 771-605"
+    },
+    {
+     "key": "c",
+     "text": "Wir suchen\njunge\nMitarbeiter für eine\nfreiberufliche Neben-\ntätigkeit\n(telefonische Absprache und Planung\nvon Interviewer-Einsätzen, 15–25 Std./\nWoche). Spezielle Vorkenntnisse sind\nnicht erforderlich, wichtig ist uns sicheres\nAuftreten am Telefon.\nNähere Informationen unter\n☎ (089) 92 23-421\nrb Bahnreisenforschung,\nArabellastr. 33, 81925 München"
+    },
+    {
+     "key": "d",
+     "text": "20.15 Tatort aus Münster\nNun kommen die Fans von Frank\nThiel wieder auf ihre Kosten: Frank\nThiel alias Axel Prahl ermittelt. Ihm\nzur Seite steht Denise Mercier. Die\nSchweizerin spielt die Freundin\ndes rüden Ermittlers – eine Frau\nmit Stil, die Verständnis für Thiels\nLebenswandel zeigt, sich aber auch\nin Szene zu setzen weiß. Mit dieser\nRolle hofft sie, im deutschen Fernse-\nhen bekannt zu werden.\n(bis 21.45 Uhr)"
+    },
+    {
+     "key": "e",
+     "text": "Lukrative Halbtagstätigkeit\nExpandierendes\nHigh-Tech-Unternehmen sucht für\nEmpfang und einfache Büroar-\nbeiten Aushilfe, MS-Office- und\nEnglischkenntnisse erforderlich!\nInteressenten wenden sich an\nLoewe New Media GmbH,\nTel. 089/45 79 00"
+    },
+    {
+     "key": "f",
+     "text": "3Sat\n20.15 LIVE\nDrei Länder – ein Thema\nTALK-SHOW\n„Kommt die Öko-Diktatur – Zünd-\nstoff Benzinpreis“. Wie begegnet\nman in Deutschland, der Schweiz\nund Österreich dem Verkehrskol-\nlaps? Wie retten wir die Umwelt?\nbis 21.30 65-437-662"
+    },
+    {
+     "key": "g",
+     "text": "Bei uns wird\nErfolg belohnt!\nWir suchen für unsere 6 Ho-\ntelbetriebe im gehobenen\n***-Bereich in Mün-\nchen, Frankfurt und Berlin\nMitarbeiter/innen\nam Empfang\nWenn Sie bereits Rezeptionserfahrung oder auch\ngerade ausgelernt haben, mind. eine Fremdsprache\n(E) sprechen und EDV-erfahren sind, senden Sie\nbitte Ihre Bewerbung an:\nBlatti's Hotels Zentralbüro, Geschäftsbereich Personal,\nPostfach 22 11 44, 80501 München"
+    },
+    {
+     "key": "h",
+     "text": "Wir suchen ständig:\n• Studenten für Schüler-Nach-\nhilfeunterricht:\nEnglisch, Französisch, Mathematik\n• Messehostessen\n• Babysitter / Tiersitter\nStd.-Lohn ca. 13,00 EUR\nVermittlungsagentur Gerlsschwager\nTel. 089/74 68 91 93"
+    },
+    {
+     "key": "i",
+     "text": "22.55 Stern TV-Count-\ndown (VOX)\nIn zehn Reportagen zeigt\n„Spiegel TV“-Mann Jörg Haf-\nkemeyer, wie sich die ersten\nMonate der neuen Regierung\ngestalten. Jetzt werden Wei-\nchen für die Zukunft Deutsch-\nlands gestellt.\n(bis 21.45 Uhr)"
+    },
+    {
+     "key": "j",
+     "text": "Max Frisch: Biedermann und die\nBrandstifter;\nSamstag, 19. September,\n20.10–21.17 Uhr, HR2.\n„Ein Lehrstück ohne Lehre“ nannte\nFrisch sein ursprünglich als Hörspiel\ngedachtes und dann für das Theater\nbearbeitetes Stück, das 1958 in Zürich\nuraufgeführt wurde. Man sah darin\nsowohl eine Warnung vor dem Kommu-\nnismus wie vor dem Faschismus. (chw.)"
+    },
+    {
+     "key": "k",
+     "text": "22.15 Radio Bremen\nBei einem internationalen Kon-\ngress präsentierten vergangenes\nWochenende in Bremen Archi-\ntekten ihre Projekte zum Thema\n„Städtische Freiräume“. Weiter-\nhin: Rückschau und Vorschau\nauf das Programm der „Bremer\nSchule für Dichtung“. Und ein\nBericht über die Obdachlosen-\nBetreuung „Wochenklausur“."
+    },
+    {
+     "key": "l",
+     "text": "Lieben Sie den Umgang\nmit Menschen?\nSind Sie obendrein auch noch\ndynamisch und ehrgeizig, dann\nsind Sie bei uns richtig.\nMünchens bekannte PRIMA-\nWerbung bietet Ihnen neben\neinem tollen Team hervorragende\nVerdienst- und Aufstiegsmöglich-\nkeiten.\nWir brauchen Leute wie Sie!\nRufen Sie an!"
+    }
+   ],
+   "ads_image_page": 258,
+   "id": "P18-L3",
+   "section": "Leseverstehen, Teil 3",
+   "pages": [
+    257,
+    258
+   ],
+   "topic": "Praktikum",
+   "solution": {
+    "11": "d",
+    "12": "g",
+    "13": "f",
+    "14": "a",
+    "15": "i",
+    "16": "k",
+    "17": "x",
+    "18": "j",
+    "19": "l",
+    "20": "h"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Same situations and ad page as P14 (p258 is the identical image); transcription re-checked."
+   ],
+   "uncertain": [
+    {
+     "location": "p258, whole ad page",
+     "note": "LOW-RESOLUTION photo: a different edition of the 'DB' ad page (P10/P11). Most text is legible at zoom, but small print is soft; see individual items."
+    },
+    {
+     "location": "p258, ad a (small print)",
+     "note": "Address line under the watermark: street name unreadable — marked [unleserlich]; 'Praktikumszeit: mind. 6 Monate' and 'Kurze schriftliche Bewerbung an' moderate confidence."
+    },
+    {
+     "location": "p258, ad g (small text)",
+     "note": "'Wir suchen für unsere 6 Hotelbetriebe ...' small and blurred; moderate confidence."
+    },
+    {
+     "location": "p258, ad h",
+     "note": "Agency name 'Gerlsschwager' low confidence."
+    }
+   ],
+   "verified": true
+  },
+  {
+   "type": "sprach1",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen",
+   "text": "Liebe Beatrice,\nwie du ja weißt, sind meine Eltern seit Anfang Mai in einem Haus [[21]]Mittelnehmer in Spanien. Zuerst wollen meine Eltern warten, bis ich mit dem Gymnasium fertig bin. Aber dann sind sie doch [[22]] früher gefahren.\nAls ich im Sommer 18 wurde, wollte ich mit [[23]] älteren Bruder zusammen eine kleine Wohnung mieten. Das hat aber nicht geklappt. Eine Freundin hat [[24]] dann ein Zimmer in ihrer Wohngemeinschaft angeboten. Ich wohne jetzt mit drei [[25]] zusammen in der Innenstadt. Ich bin sehr zufrieden, [[26]] mein Zimmer recht klein ist.\nIn der Schule habe ich keine Probleme. Ich staune selbst über meine Noten, wenn ich [[27]] denke, wie [[28]] Zeit ich mir für Hausaufgaben nehme.\nManchmal schicken mir meine Eltern eine E-Mail. [[29]] sie rufen an.\n[[30]] jetzt habe ich jede Woche von ihnen gehört.\nDas war’s für heute, bis bald und liebe Grüße Saskia",
+   "gaps": [
+    {
+     "num": 21,
+     "options": {
+      "a": "am",
+      "b": "in",
+      "c": "zum"
+     }
+    },
+    {
+     "num": 22,
+     "options": {
+      "a": "bloß",
+      "b": "erst",
+      "c": "schon"
+     }
+    },
+    {
+     "num": 23,
+     "options": {
+      "a": "mein",
+      "b": "meinem",
+      "c": "meinen"
+     }
+    },
+    {
+     "num": 24,
+     "options": {
+      "a": "ihr",
+      "b": "mich",
+      "c": "mir"
+     }
+    },
+    {
+     "num": 25,
+     "options": {
+      "a": "Freund",
+      "b": "Freundin",
+      "c": "Freundinnen"
+     }
+    },
+    {
+     "num": 26,
+     "options": {
+      "a": "aber",
+      "b": "obwohl",
+      "c": "trotz"
+     }
+    },
+    {
+     "num": 27,
+     "options": {
+      "a": "daran",
+      "b": "darauf",
+      "c": "darüber"
+     }
+    },
+    {
+     "num": 28,
+     "options": {
+      "a": "wenig",
+      "b": "wenigen",
+      "c": "weniger"
+     }
+    },
+    {
+     "num": 29,
+     "options": {
+      "a": "Damit",
+      "b": "Oder",
+      "c": "Sondern"
+     }
+    },
+    {
+     "num": 30,
+     "options": {
+      "a": "Ab",
+      "b": "Bis",
+      "c": "Seit"
+     }
+    }
+   ],
+   "id": "P18-SB1",
+   "section": "Sprachbausteine, Teil 1",
+   "pages": [
+    259
+   ],
+   "topic": "Beatrice",
+   "solution": {
+    "21": "a",
+    "22": "c",
+    "23": "b",
+    "24": "c",
+    "25": "c",
+    "26": "b",
+    "27": "a",
+    "28": "a",
+    "29": "b",
+    "30": "b"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "sprach2",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.",
+   "text": "Chiffre 2063/9369\nSehr geehrter Unbekannter,\nmein Mann und ich haben Ihre Anzeige in den Mitteilungen des Deutschen. Alpenvereins [[31]]. Wir wohnen etwa 40 km außerhalb von Nürnberg und schreiben Ihnen, [[32]] wir Lust hätten, etwas in einer Gruppe zu machen.\nUnseren Sommerurlaub verbringen wir eigentlich regelmäßig in den Bergen. Und [[33]] es unser Terminkalender erlaubt, gehen wir auch noch am Wochenende wandern, [[34]] fahren wir in die Gegend vom Wilden Kaiser, wo wir inzwischen alle Wanderwege [[35]].\nWir fahren zwar beide auch Ski, [[36]] der Winter den Bergen ist nicht so unbedingt unsere Sache.\nDagegen macht es [[37]] viel Spaß. Fahrrad zu fahren,; hier in Leupoldstein haben wir tolle Radwege, die durch die Felder führen. Daher [[38]] wir uns auch auf gemeinsame Radtouren hier bei uns freuen.\nZum Schluss noch ein [[39]] Worte zu uns selbst. Wir sind 64 und 62. Jahre alt, lieben Musik und gehen ab und zu gern ins Theater.\nRufen Sie uns doch einfach [[40]] an: Tel.: 09243/7448.\nViele Grüße\nIlka und Heiner Grossmann",
+   "words": [
+    {
+     "key": "a",
+     "word": "ABER"
+    },
+    {
+     "key": "b",
+     "word": "AUSSEN"
+    },
+    {
+     "key": "c",
+     "word": "EINMAL"
+    },
+    {
+     "key": "d",
+     "word": "ENTDECKT"
+    },
+    {
+     "key": "e",
+     "word": "ETWAS"
+    },
+    {
+     "key": "f",
+     "word": "HATTEN"
+    },
+    {
+     "key": "g",
+     "word": "KENNEN"
+    },
+    {
+     "key": "h",
+     "word": "LERNEN"
+    },
+    {
+     "key": "i",
+     "word": "OFT"
+    },
+    {
+     "key": "j",
+     "word": "PAAR"
+    },
+    {
+     "key": "k",
+     "word": "UNS"
+    },
+    {
+     "key": "l",
+     "word": "WANN"
+    },
+    {
+     "key": "m",
+     "word": "WEIL"
+    },
+    {
+     "key": "n",
+     "word": "WENN"
+    },
+    {
+     "key": "o",
+     "word": "WÜRDEN"
+    }
+   ],
+   "id": "P18-SB2",
+   "section": "Sprachbausteine, Teil 2",
+   "pages": [
+    260
+   ],
+   "topic": "Alpen",
+   "solution": {
+    "31": "d",
+    "32": "m",
+    "33": "n",
+    "34": "i",
+    "35": "g",
+    "36": "a",
+    "37": "k",
+    "38": "o",
+    "39": "j",
+    "40": "c"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  }
+ ],
+ "missing_sections": [],
+ "paper_notes": [
+  "P18 is a duplicate of P14 (identical exercises and answer key)."
+ ]
+}

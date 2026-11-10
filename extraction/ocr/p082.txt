@@ -1,0 +1,48 @@
+0.074 0.072 1.00	Sprachausteine, Teil 2
+0.092 0.055 1.00	LANGUAGE Tests
+0.150 0.628 0.50	UNDAT POST
+0.164 0.068 1.00	Lesen sie den Text und schließen Sie
+0.158 0.669 0.30	FIREBALA
+0.168 0.713 0.30	RANDA
+0.185 0.068 1.00	Lücken 31 - 40. Benutzen Sie die Wörter
+0.205 0.066 1.00	(a, o) Jedes Wort passt nur einmal.
+0.225 0.070 1.00	Markieren Sie Ihre Lösungen für die
+0.246 0.068 1.00	Aufgaben 31 - 40 auf dem
+0.265 0.066 1.00	Antwortbogen.
+0.357 0.045 1.00	Sehr geehrter Herr Gauberger,
+0.392 0.045 1.00	ihre Anzeige habe ich mit Interesse gelesen. Ich bin (31) lange Rentner und bekomme
+0.416 0.047 1.00	monatlich nur wenig Geld. Wenn ich die Möglichkeit (32) , noch ein wenig zu verdienen,
+0.439 0.047 1.00	würde mir das sehr helfen. Ich bin (33) schon 72 Jahre alt, aber noch bei sehr guter
+0.462 0.047 1.00	Gesundheit. Daher denke ich, dass ich die Arbeit (34) Probleme machen kann. Seit über
+0.485 0.047 1.00	dreißig Jahren treibe ich (35) Tag Sport. Auch das frühe Aufstehen macht mir gar (36) aus.
+0.529 0.051 1.00	Einige Fragen hätte ich trotzdem noch: Müssen die Zeitungen (37) ausgetragen werden und
+0.552 0.047 1.00	wie lange ist man unterwegs? Außerdem möchte ich natürlich wissen, (38) man verdient. Ich
+0.576 0.047 1.00	bin gerne bereit, mich bei (39) vorzustellen, damit Sie sehen können, dass ich für die Tätigkeit
+0.600 0.049 1.00	(40) bin.
+0.647 0.045 1.00	Mit freundlichen Grüßen
+0.670 0.047 1.00	EBERHARD SPITZWEG
+0.753 0.049 0.50	a
+0.751 0.094 1.00	BEOUEM
+0.751 0.273 1.00	IHNEN
+0.754 0.380 1.00	g
+0.751 0.452 1.00	MEHR
+0.751 0.569 0.50	j
+0.751 0.622 1.00	SCHON
+0.754 0.741 0.30	m
+0.751 0.815 1.00	WIE HOCH
+0.775 0.047 1.00	b
+0.775 0.088 1.00	GEEIGNET
+0.778 0.220 1.00	e
+0.774 0.273 1.00	JEDEN
+0.775 0.380 1.00	h
+0.775 0.446 1.00	NICHTS
+0.776 0.643 1.00	SIE
+0.778 0.745 0.50	n
+0.775 0.825 0.50	WIE VIEL
+0.797 0.105 1.00	HÄTTE
+0.798 0.220 1.00	f
+0.796 0.265 1.00	KÖNNTE
+0.798 0.384 0.50	i
+0.799 0.454 1.00	OHNE
+0.796 0.614 1.00	TÄGLICH
+0.799 0.838 1.00	ZWAR

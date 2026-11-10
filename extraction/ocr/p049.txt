@@ -1,0 +1,15 @@
+0.071 0.078 1.00	Leseverstehen, Teil 1
+0.089 0.064 1.00	LANGUAGE Tests
+0.161 0.047 1.00	Lesen Sie die Überschriften a - j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.
+0.180 0.047 1.00	Sie können jede Überschrift nur einmal benutzen.
+0.199 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+0.392 0.055 1.00	_a) Familienbildung Schwerpunkt Beruf und Familie
+0.440 0.064 1.00	_b) Demonstration gegen Fluglarm
+0.493 0.072 1.00	_c) Flughaten Frankturt wird 10 Jahre
+0.544 0.062 1.00	_d) Flughafen Frankfurt beliebter Veranstaltungsort
+0.594 0.057 1.00	__e) Experten gegen Vergrößerung des Flughafens
+0.644 0.053 1.00	_f) Diskussion über Flughafen und Arbeitsplätze
+0.695 0.051 1.00	_g) Neue Kurse: Spiele für Mütter und Kinder
+0.744 0.068 1.00	_h) Umwelt und Flughafen: Ein Informationsabend der Bürger
+0.795 0.053 0.50	—i) Neue Kurse für Kinder
+0.847 0.049 1.00	_j) Neue Kurse: Museumsführung für junge Väter

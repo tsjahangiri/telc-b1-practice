@@ -1,0 +1,30 @@
+0.000 0.458 0.30	Süiiiişşüşşşışışşışüşş
+0.093 0.012 1.00	• Ich habe die folgende Erfahrung , Ich arbeitejetzt als Ingenieur‚und
+0.125 0.045 1.00	verbringe viel Zeit bei der Arbeit. Familie in unserem eigenen Haus.
+0.158 0.012 1.00	• Ich habe keine Zeit fur meine Familie.
+0.190 0.012 1.00	• Manschmal arbeite ich bis Spät in der Nacht ,und habe nur wenig Ze
+0.221 0.045 1.00	zum Sclafen ,und das ist mir sehr anstrengend.
+0.253 0.012 1.00	• Obwohl ich mit meiner Familie lebe ,treffen wir uns manschmal nur
+0.285 0.041 1.00	im Urlaub , Wir haben ein bisschen Zeit füreinander.
+0.315 0.012 1.00	• Ab und zu möchte ich mit meinen Freunden ausgehen ,aber wegen
+0.347 0.045 1.00	der Arbeit ist es unmöglich.
+0.379 0.012 1.00	• Wenn ich viel Stress habe, treibe ich lieber etwas Sport ,das hilft
+0.413 0.012 0.50	• mit sehr gut.
+0.445 0.012 1.00	• Hätte ich eine einfache Arbeit gefunden ,hätte ich mehr frei Zeit
+0.477 0.043 1.00	gehabt.
+0.523 0.012 1.00	******:
+0.523 0.458 1.00	**********
+0.518 0.509 0.50	"chschul,
+0.523 0.793 1.00	*****
+0.565 0.012 1.00	Teilnehmer B
+0.612 0.097 1.00	Stress
+0.796 0.556 1.00	„Ich bin ein sehr aktiver Mensch und brau-
+0.807 0.556 1.00	che ständig Abwechslung
+0.817 0.556 1.00	bin fast nie zu Hause, reise beruflich durch
+0.810 0.797 0.50	im Leben. Ich
+0.827 0.556 1.00	die ganze Welt und nutze dabei alle moder-
+0.837 0.556 1.00	nen Medien. So etwas wie Stress kenne
+0.847 0.552 1.00	ich eigentlich nicht. Ich fühle mich wohl,
+0.857 0.552 1.00	wenn ich viel zu tun habe."
+0.869 0.027 1.00	Andreas Elbert, 35 Jahre, Verkaufsleiter
+0.897 0.010 1.00	www.instagram.com/mahmoudemad007

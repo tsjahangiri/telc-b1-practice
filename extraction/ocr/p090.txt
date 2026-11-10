@@ -1,0 +1,34 @@
+0.074 0.082 1.00	Leseverstehen, Teil 1
+0.092 0.066 1.00	LANGUAGE Tests
+0.138 0.805 0.30	dsell jls
+0.173 0.082 1.00	1. Eine aktuelle Umfrage der Arbeiterkammer unter berufstätigen Eltern zeigt den dringenden
+0.195 0.113 1.00	Wunsch nach flexiblen Arbeitszeiten (60% der Eltern) und nach Kindergärten im oder in der
+0.212 0.113 1.00	Nähe des Betriebes (58%). Frauen verlangen aber deutlich mehr Teilzeitarbeitsplätze (50%) als
+0.230 0.113 1.00	Männer (36%). 52% aller Eltern wünschen eine Ersatzperson, die den Vater oder die Mutter bei
+0.246 0.113 1.00	Krankheit des Kindes im Betrieb vertritt. Die Arbeiterkammer fordert, dass sich Bedarf der
+0.263 0.113 1.00	Eltern orientieren.
+0.324 0.084 1.00	2. MÜNCHEN: Schüler an bayerischen Gymnasien, die sich für Umwelt oder Technik
+0.340 0.113 1.00	interessieren, können sich auch dieses Jahr wieder um den Carl Friedrich von Martius Umwelt
+0.362 0.117 1.00	und Technikpreis bewerben. Bei diesem Wettbewerb werden Facharbeiten aus dem letzten
+0.379 0.115 1.00	Schuljahr bewertet.
+0.397 0.115 1.00	Nahere Informationen erhaltlich beim
+0.397 0.485 1.00	GSF- Forschungszentrum unter der
+0.414 0.115 1.00	Telefonnummer 089/311 87 27 12.
+0.462 0.084 1.00	3. WIEN. Eine einmalige Abteilung für drei- bis sechsjährige Kinder wurde im Technischen
+0.484 0.117 1.00	Museum (15, Mariahitferstraße 112 ) eröffnet. In einem speziell für Kinder eingerichteten
+0.501 0.117 1.00	Bereich können die jüngsten Besucher Technik angreifen. Dort gibt es unter anderem
+0.517 0.117 1.00	Plasmascheiben, die Blitze erzeugen, ein Laufrad und ein Hüpfklavier, mit dem die Kinder Töne
+0.535 0.115 1.00	erspringen können. Viel Spaß macht den Kleinen auch, in einem Elektroauto herumzukurven
+0.552 0.117 1.00	und sich in verschiedenen Zerrspiegeln zu betrachten.
+0.600 0.086 1.00	4. HAMBURG. Männer haben mehr Karrierechancen, Frauen dafür mehr Freude am Beruf: Das
+0.622 0.117 1.00	ergab eine große Umfrage in Hamburg. Obwohl nur 8% der weiblichen Arbeitnehmer an ihre
+0.638 0.117 1.00	Aufstiegschancen glauben, geben 61% an, dass ihre Arbeit ihnen Spaß mache. Bei den Männer
+0.656 0.115 1.00	ist dieses Verhältnis 23 zu 57 Prozent.
+0.702 0.088 1.00	5. Für Zufriedenheit am Arbeitsplatz kann Geld allein nicht entscheidend sein. Dies gilt in
+0.722 0.117 1.00	besonderen Maß für hochqualifizierte europäische Arbeitskräfte, wie eine vergleichende
+0.740 0.115 1.00	internationale Management-Studie zeigt. Sowohl in Europa wie auch unter japanischen und
+0.756 0.117 1.00	amerikanischen Managern wird der Möglichkeit, neben der Arbeit auch Zeit für das
+0.773 0.117 1.00	Privatleben zu haben, ein zentraler Stellenwert beigemessen. Viel stärker als in Japan spielt es
+0.791 0.117 1.00	unter europäischen Angestellten eine Rolle, dass die Arbeit Spaß macht. Die Analysen zeigen
+0.808 0.117 1.00	auch, dass neben dem Gehalt der Ruf des Unternehmens für die Arbeitsplatzwahl von
+0.826 0.117 1.00	europäischen Arbeitnehmern besonders wichtig ist.

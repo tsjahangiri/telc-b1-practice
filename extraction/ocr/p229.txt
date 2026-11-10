@@ -1,0 +1,66 @@
+0.074 0.111 1.00	Sprachausteine, Teil 1
+0.070 0.782 0.30	iHiLS
+0.092 0.094 1.00	LANGUAGE Tests
+0.151 0.045 1.00	Lesen sie den Text und schließen Sie Lücken 21 - 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.
+0.172 0.047 1.00	Markieren sie Ihre Lösungen für die Aufgaben 21 - 30 auf dem Antwortbogen
+0.254 0.047 1.00	Liebe Catherine,
+0.291 0.047 1.00	seit ich dir letzte Mal von meinem Sprachhaufenhalt in der Schweiz (21) habe, ist viel passiert.
+0.315 0.045 1.00	Ich kenne (22) Land jetzt schon recht gut.
+0.339 0.051 1.00	Die Schweiz ist ja wirklich nicht groß. (23) in jeder Gegend wird ein anderer Dialekt oder gar
+0.362 0.047 1.00	eine andere Sprache gesprochen. Das ist (24) mich fast unglaublich! Bei uns in Australien fährt
+0.385 0.047 1.00	man mit dem Auto 24 Stunden lang geradeaus, und (25) man ankommt, dann sprechen die
+0.408 0.049 1.00	Leute dort immer noch dieselbe Sprache.
+0.432 0.047 1.00	Am Anfang hat mich das Sprachgemisch (26) sehr verwirrt, aber (27)verstehe ich fast alles,
+0.455 0.047 1.00	wenn jemand auf Schweizerdeutsch zu mir spricht. Ich kann aber nur auf Hochdeutsch
+0.481 0.049 1.00	antworten.
+0.501 0.047 1.00	Zwischen der Schule hier und unserem Schulsystem in Australien gibt es einige (28) : In der
+0.525 0.045 1.00	Schweiz sprechen die Lehrer viel und die Schüler (29) Vieles im Kopf behalten oder
+0.549 0.047 1.00	aufschreiben. In Australien arbeiten wir meistens im Rahmen von Projekten und machen
+0.573 0.047 1.00	eigentlich alle Aufgaben auf (30) Computer.
+0.596 0.047 1.00	Viele Grüße
+0.619 0.049 0.50	Jack
+0.647 0.057 1.00	21.
+0.647 0.146 0.50	A erzähle
+0.647 0.294 1.00	24.
+0.650 0.363 1.00	A
+0.650 0.382 0.30	• an
+0.647 0.460 1.00	27.
+0.647 0.521 1.00	A früher
+0.647 0.721 0.50	30.
+0.647 0.762 0.50	A dem
+0.664 0.148 0.50	B erzählen
+0.667 0.363 0.50	B für
+0.667 0.522 0.50	B jetzt
+0.667 0.754 0.50	B den
+0.685 0.148 1.00	C erzählt
+0.687 0.363 0.50	C vor
+0.688 0.540 1.00	seit
+0.685 0.786 1.00	der
+0.733 0.055 1.00	22.
+0.730 0.150 1.00	A diese
+0.730 0.290 1.00	25.
+0.727 0.363 0.50	A als
+0.730 0.454 0.50	28.
+0.731 0.522 1.00	A unterschied
+0.750 0.148 1.00	B diesen
+0.748 0.363 0.50	B wann
+0.753 0.522 1.00	B unterschiede
+0.772 0.148 0.50	C dieses
+0.770 0.365 0.50	C wenn
+0.771 0.521 1.00	C unterschieden
+0.817 0.055 1.00	23.
+0.815 0.148 0.50	A
+0.820 0.174 1.00	aber
+0.817 0.290 1.00	26.
+0.812 0.363 0.50	A denn
+0.818 0.450 1.00	29.
+0.814 0.522 1.00	A
+0.819 0.544 1.00	brauchen
+0.836 0.148 1.00	B obwohl
+0.837 0.361 0.50	B ganz
+0.840 0.522 0.30	B
+0.839 0.552 1.00	haben
+0.851 0.168 1.00	sondern
+0.853 0.368 0.30	Cschon
+0.862 0.150 0.50	C
+0.856 0.552 1.00	müssen

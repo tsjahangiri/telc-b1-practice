@@ -1,0 +1,46 @@
+0.062 0.844 0.30	ne Mailu Celeg
+0.073 0.086 1.00	Leseverstehen, Teil 1
+0.074 0.727 0.30	NDEPENDENT
+0.068 0.860 0.50	Dailu
+0.090 0.070 1.00	LANGUAGE Tests
+0.092 0.731 0.30	Vittor
+0.084 0.869 0.30	DALE
+0.133 0.772 0.30	(042tA
+0.195 0.092 1.00	1. Abonnenten-Service
+0.214 0.121 1.00	Wenn Sie verreisen, wünschen wir ihnen erholsame und angenehme Ferienlage Bitte denken Sie daran, sich ihre
+0.228 0.121 1.00	Zeitung in den Urlaubtort nachsenden zu lassen. Denn mit den Neuigkeiten von zu Hause und aus aller Weil lässt
+0.243 0.121 1.00	sich die schönste Zeit des Jahres erst richtig genießen ganz Europa kostenlos, Die Höhe des Bezeugendes bleibt
+0.257 0.121 1.00	unverändert. Ausführliche Informationen und entsprechende Coupons ihrem Europabericht. Griechisch wird
+0.272 0.121 1.00	meistens von Zwölftklässlern als dritte Fremdsprache neben Französisch und Englisch gewählt. finden Sie in
+0.286 0.121 1.00	unserem großen Reise Service - Anzeigen oder rufen Sie uns einfach an:
+0.301 0.121 1.00	Telefon 01 30-18 58 50 zum Nulltarif.
+0.315 0.123 1.00	Hannoversche Allgemeine
+0.315 0.470 1.00	Neue Presse
+0.366 0.088 1.00	2. Im Luftkurort Stadtkylf in der Mittelgebirgslandschaft des Oberen Kullas werden dreitägige Wanderungen ohne
+0.385 0.119 1.00	Gepäck veranstaltet Die Rundwanderung im deutsch - bei gischen Naturpark führt abends zu reservierten
+0.401 0.119 1.00	Zimmern. Die Betriebe übernehmen den Gepäcktransport zum nachsten Tagesziel. Die Wanderungen werden
+0.414 0.119 1.00	ganzjährig angeboten. In den Wanderprogramm sind drei Ubernachtungen mit Frühstück dreimal
+0.427 0.119 1.00	Gepäcktransport, eine Wanderkarte, eine Wegbeschreibung und ein Wanderpass enthalten. Der Pauschalbetrag
+0.442 0.119 1.00	beträgt pro Person 89 Euro.
+0.456 0.119 1.00	Auskünfte:
+0.471 0.119 1.00	Verkehrsverein Erholungsgebiet Oberes Kylltal.
+0.485 0.119 1.00	Kurallee, 54589 Stadtkylf, Telefon ( 06597) 28 78.
+0.532 0.086 1.00	3. Für den einen ist es musikalischer Hochgenuss für den anderen schlicht Lärm. Gemeint ist Musik, die aus
+0.552 0.117 1.00	Lautsprechen, Radios oder durch Musikinstrumente durch geöffnet Türen und Fenster bei sommerlichen
+0.565 0.115 1.00	Temperaturen ins Freie dringt. Die Gemeinde weist darauf hin, dass der Mittagsruhe von 13 bis 15 Uhr und nachts
+0.580 0.115 1.00	von 22 bis 7 Uhr keine musikalische Ruhestörung erfolgen darf. Gartengeräte mit Motoren dürfen montags bis
+0.594 0.117 1.00	freitags nur von 8 bis 13 und von 15 bis 19 Uhr benutzt werden, an Sonnabenden von 9 bis 13 Uhr. An Sonn -
+0.609 0.117 1.00	und Feiertagen dürfen die Geräte nicht zum Einsatz kommen.
+0.657 0.088 1.00	4. Das erste deutsche Bücherdorf hat in Mühlbeck/ Fredersdorf (Sachsen - Anhalt ) seit Ende September seine Tore
+0.676 0.119 1.00	geöffnet. In acht Antiquarten warten über 70 000 Bücher aus allen Bereichen der Literatur auf Interessenten. Das
+0.689 0.117 1.00	in reizvoller landschaftlicher Umgebung liegende Bücherdorf nahe Bitterfeld - unweit der A19 und des Flughafens
+0.703 0.119 1.00	Leipzig - ist aus allen Teilen Deutschlands leicht zu erreich. Geöffnet sind die Antiquariate auch am Samstag und
+0.719 0.119 1.00	Sonntag.
+0.733 0.117 1.00	In Europa gibt es bereits acht solcher Bücherdörfer in Belgien, Frankreich, Großbritannien, den Niederlanden,
+0.749 0.119 1.00	Norwegen und der Schweiz. Initiatorin des deutschen Bücherdorfes ist Heidi Dehne (Tel. 03493/4 30 43).
+0.795 0.090 1.00	5. Die Bregenzer Festspiele sind bemüht, die Vorstellungen auch bei zweifelhafter Witterung bzw. leichtem Regen
+0.814 0.119 1.00	auf der Seebühne abzuhalten, weshalb es zu Verzögerungen des Beginns oder zu Unterbrechungen kommen
+0.828 0.117 1.00	kann. Sollte die Seeaufführung nicht stattfinden können, wird eine halbszenische Version von Porgy and Bess im
+0.843 0.119 1.00	Festspielhaus gegeben. Wir empfehlen unseren Gästen , bei unsicherer Wetterlage regenfester Kleidung den
+0.856 0.119 1.00	Vorzug zu geben und auf Schirme zu verzichten, da diese die Sicht beeinträchtigen. Das Spiel auf dem See wird
+0.872 0.119 1.00	ohne Pause gespielt. Die Spieldauer beträgt ca.2 Std. 45 Min.

@@ -1,0 +1,16 @@
+0.076 0.086 1.00	Schriftlicher Ausdruck
+0.093 0.070 1.00	LANGUAGE Tests
+0.128 0.047 1.00	Eine Bekannte aus der Schweiz hat eine neue Stelle. Sie hat Ihnen den folgenden Brief geschrieben:
+0.270 0.047 1.00	Liebe(r).
+0.305 0.045 1.00	wie geht es denn so mit dem Deutsch lernen? Kommst du gut voran, und was machst du im Moment so? Stell
+0.324 0.045 1.00	dir vor, ich habe die neue Stelle bei der Zeitschrift VIA bekommen! ich arbeite jetzt als Journalistin, und das
+0.344 0.049 1.00	war ja immer mein Traumberuf!
+0.376 0.051 1.00	VIA wird vor allem von jüngeren Leuten gelesen. Deshalb schreiben wir viel über Berufe und Ausbildungen
+0.397 0.049 1.00	und auch über Freizeit und Sport. Für die nächsten Hefte von VIA planen wir jetzt eine neue Serie über Berufs
+0.417 0.049 1.00	wünsche. Was ist eigentlich dein Traumberuf? Wenn du möchtest, schicke ich dir gerne einmal ein Grätschet
+0.436 0.047 1.00	von VIA, damit du siehst, was ich so mache.
+0.468 0.047 1.00	Ich freue mich schon auf deine Antwort.
+0.490 0.464 0.30	Och
+0.533 0.047 1.00	Herzliche Grüße
+0.796 0.049 1.00	Bevor Sie den Brief schreiben, überlegen Sie sich eine passende Reihenfolge der punkte, eine passende
+0.817 0.049 1.00	Einleitung und einen passenden Schluss. Vergessen Sie nicht Datum und Anrede.

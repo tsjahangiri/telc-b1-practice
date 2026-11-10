@@ -1,0 +1,5 @@
+# P12-L2 pages [145, 146] ratio 0.949
+## website words not in OCR:
+Stadtführung besuchten Sprachkurs wichtige Themen informiert eigentlich Österreich wollte dort machen studieren Wer Praktikantin ins braucht Berufserfahrungen
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests 23-jährige Leseverstehen Teil LANGUAGE Tests Stadttührung

@@ -1,0 +1,19 @@
+0.090 0.458 0.50	k*****
+0.090 0.776 1.00	******
+0.130 0.008 1.00	• Herr *Göbel* bevorzugt kein eigenes Haus zu besitzen.
+0.158 0.027 1.00	Wegen seiner Arbeit bleibt er nicht lange in derselben Wohnung.
+0.185 0.033 1.00	Er hat weder Frau ,noch Kinder ,deswegen braucht er nicht so viel Plätz zu leben.
+0.234 0.039 1.00	*************
+0.235 0.458 1.00	********************************
+0.277 0.016 1.00	*Meinung*
+0.324 0.014 0.50	* Ich gehe ganz d'accord ,ich finde es besser ,wenn ich ein Haus miete.
+0.376 0.021 1.00	* Ich mag viel reisen , damit ich verschiedene Kulturen kennenlerne
+0.426 0.041 1.00	,deshalb bleibe ich nicht lange in derselben Wohnung.
+0.472 0.014 1.00	* Ich bin auch am Anfang meiner Karriere ,deswegen habe ich nicht
+0.517 0.030 1.00	genug Geld , um mein eigenes Haus zu kaufen.
+0.568 0.016 1.00	* Ich habe weder Frau noch Kinder ,falls ich in eine neue Stadt reisen
+0.618 0.025 1.00	möchte ,wird es einfach ,eine Wohnung für eine Person zu finden
+0.661 0.021 1.00	,aber das ist sehr schwer wenn ich eine große Familie lebe.
+0.759 0.041 1.00	*******
+0.759 0.799 0.50	<******
+0.897 0.014 1.00	www.instagram.com/mahmoudemad007

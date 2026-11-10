@@ -1,0 +1,5 @@
+# P30-L1 pages [442, 443] ratio 0.97
+## website words not in OCR:
+Getränke
+## OCR words (len>3) not in website:
+Leseverstehen LANGUAGE Tests hschul Leseverstehen LANGUAGE Tests Getranke

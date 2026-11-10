@@ -1,0 +1,537 @@
+{
+ "id": "P20",
+ "pages": [
+  285,
+  298
+ ],
+ "answer_key_page": 298,
+ "page_sections": {
+  "L1": [
+   285,
+   286
+  ],
+  "L2": [
+   287,
+   288
+  ],
+  "L3": [
+   289,
+   290
+  ],
+  "SB1": [
+   291
+  ],
+  "SB2": [
+   292
+  ],
+  "H": [
+   293,
+   294,
+   295
+  ],
+  "?": [
+   296,
+   297
+  ],
+  "LOES": [
+   298
+  ]
+ },
+ "exercises": [
+  {
+   "type": "lesen1",
+   "instructions": "Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.",
+   "headings": [
+    {
+     "key": "a",
+     "text": "Zufriedenheit im Job schützt vor Stress"
+    },
+    {
+     "key": "b",
+     "text": "Erfolgreiche Männer können auch gute Väter sein"
+    },
+    {
+     "key": "c",
+     "text": "Keiner lacht so fröhlich wie der Weihnachtsmann"
+    },
+    {
+     "key": "d",
+     "text": "Wie Männer und Frauen lachen"
+    },
+    {
+     "key": "e",
+     "text": "Weniger Arbeit – weniger Stress"
+    },
+    {
+     "key": "f",
+     "text": "Schlechte Nachrichten? Sagen Sie es mit einem Lächeln"
+    },
+    {
+     "key": "g",
+     "text": "Der Beruf ist für Männer wichtiger als die Familie"
+    },
+    {
+     "key": "h",
+     "text": "Auch ältere Menschen leiden unter Stress"
+    },
+    {
+     "key": "i",
+     "text": "Frauen reagieren besser auf schlechte Nachrichten als Männer"
+    },
+    {
+     "key": "j",
+     "text": "Mit 70 Jahren macht das Leben am meistens Spaß"
+    }
+   ],
+   "texts": [
+    {
+     "num": 1,
+     "text": "Frauen lachen auf viele Arten Sie kichern glucksen und manchmal singen sie fast Bei Männern dagegen kommt das viel seltener vor. Aber gemeinsam ist Männern und Frauen, dass sie in Vokalen lachen die im Mundzentrum gebildet werden. Und das ist entscheidend: Nur wenn die Vokale im Mundzentrum gebildet werden, ist das Lachen für uns fröhlich und positiv. Damit ist bewiesen, dass das Lachen vom Weihnachtsmann, dass wie eine tiefes Ho, ho , ho klingt. Kaum als fröhlich empfunden wird. Denn dieser Laut wird im hinteren Teil des Mundraums gebildet.\n(aus einer deutschen Zeitung)"
+    },
+    {
+     "num": 2,
+     "text": "Viel Arbeit, viel Stress. Wer viel arbeitet muss nicht unbedingt gestresst sein. Frauen in medizinischen Berufen zum Beispiel klagen trotz teilweise hoher Belastung deutlich weniger über stressbedingte Krankheiten als Raumpflegerinnen, Kindergärtnerinnen oder Berufsschullehrerinnen. Dies zeigt eine Untersuchung des Hamburger IPO – Instituts, das für eine Studie 1000 Frauen und Männer befragt hat. Vor Stress schützen laut Studie ein angenehmes Betriebsklima, ein gutes Verhältnis zur Chefin oder zum Chef und die Möglichkeit, die eigene Arbeit selbstständig zu planen.\n(aus einer deutschen Zeitung)"
+    },
+    {
+     "num": 3,
+     "text": "Ein neues Buch zeigt, wie Männer Fähigkeiten aus dem Arbeitsleben auf die Erziehung übertragen können und so zu erfolgreichen Vätern werden. Da wird die gemeinsame Kindererziehung zur Partnerarbeit (oder sogar zum Joint Venture) geschicktes Verhandeln heißt, das Kind zu überzeugen, dass sie Zähne geputzt werden müssen, und der Familienurlaub hat alle Qualitäten einer Tagung oder eines Seminars: Man erhält die Gelegenheit, die Kinder intensiv zu studieren. (aus einer deutschen Zeitung)"
+    },
+    {
+     "num": 4,
+     "text": "Eine Studie der Universität Essex hat ergeben dass wir mit siebzig Jahren am glücklichsten sind. Zwar haben die meisten Menschen in diesem Alter gesundheitliche Probleme, aber dafür genießen sie viel Freizeit und haben keinen Stress mehr. Deshalb macht ihnen das Leben so viel Spaß wie nie zuvor. Die Studie besagt auch, dass wir einen ersten Höhepunkt der Lebensfreude mit fünfzehn Jahren erreichen. Danach geht es bergab zwischen dreißig und fünfzig Jahren tragen wir am meisten Verantwortung das Leben ist geprägt von Sachzwängen.\n(aus einer deutschen Zeitung)"
+    },
+    {
+     "num": 5,
+     "text": "Warum bleiben manche Managerinnen erfolgreich, obwohl sie Nachrichten mitteilen, die ihr Publikum lieber nicht hören möchte? Ganz einfach: Sie verkaufen die schlechte Nachricht mit Humor. Ein Londoner Soziologe hat während einer Studie beobachtet, dass gerade bei Reden unangenehmen Inhalts oft heiter gelacht wird. Das Lachen wird bewusst provoziert, etwa durch bestimmte Wörter oder durch ein eigenes breites Lächeln. Die fröhliche Stimmung soll dafür sorgen, dass die Zuhörenden das Gefühl haben würden mehr wissen als alle anderen.\n(aus einer deutschen Zeitung)"
+    }
+   ],
+   "id": "P20-L1",
+   "section": "Leseverstehen, Teil 1",
+   "pages": [
+    285,
+    286
+   ],
+   "topic": "lachen",
+   "solution": {
+    "1": "d",
+    "2": "a",
+    "3": "b",
+    "4": "j",
+    "5": "f"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Same exercise as P13 Leseverstehen Teil 1."
+   ],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen2",
+   "instructions": "Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.",
+   "title": "Geheimnisse des Schlafes",
+   "subtitle": "Schlafstörungen – die meisten Ursachen sind harmlos",
+   "text": "Lange Zeit hat man geglaubt, dass der Schlaf nur so etwas ist wie der kleine Bruder des Todes Ein Zustand der Körper Energie spart und alles langsamer läuft. Erst in den 50 er Jahren des letzten Jahrhunderts fand man heraus dass schlafen etwas sehr Aktives ist und Nacht für Nacht in unterschiedlichen Abschnitten verläuft. Der Schweizer Schlafforscher Alexander Borbely hat diesen Vorgang mit einer Treppe verglichen, über die wir jede Nacht mehrmals gehen.\nZunächst sind wir wach, dann schlafen wir ein und gehen bis tief hinab in den Keller in einen tiefen Schlaf. Danach geht es wieder hoch in einen leichten Schlaf, der von lebhaften, intensiven Träumen und schnellen Augenbewegungen begleitet wird Daher wird diese Phase auch REM-Schlaf ( rapid-eye-movements = schnelle Augenbewegung) genannt. Dieser Abschnitt ist im Gegensatz zu den anderen Phasen mit etwa 20 Minuten sehr kurz, soll aber äußerst wichtig für die physische Erholung sein.\nDamit hat die Wissenschaft aber noch lange nicht alle Probleme des Schlafes gelöst. Erwiesen ist nur: Wir brauchen ihn zur körperlichen Erholung, auch wenn wir ihn manchmal als Zeitverschwendung empfinden – immerhin verbringen wir ein Drittel unseres Lebens mit schlafen.\nWarum können wir aber nicht immer sofort einschlafen, wenn müde sind? Tatsächlich klagen viele Menschen in den westlichen Industrienationen über gelegentliche oder dauernde Schlafstörungen.\nSo muss unser Körper, ins besonders das Gehirn die Eindrücke des Tages erst einmal verarbeiten damit wir gesund schlafen. Diese System reagiert so sensibel, dass schon kleine Ursachen – äußere und innere – störend wirken können.\nÄußere Ursachen können sein: Lärm, eine ungewohnte Umgebung, ein zu spätes, zu reichliches Essen, kälte oder wärme, alles wirkt sich auf unser Wohlbefinden und somit auch auf den Schlaf aus.\nAls innere Ursachen kommen Schmerzen, Angst oder Ärger über ungelöste Konflikte in Frage.\nErkrankungen beeinflussen den Schlaf, auch Medikamente können eine störende Rolle spielen Alles was uns gedanklich stark beschäftigt, kann unseren Schlaf beeinträchtigen. Wer aber nur gelegentlich nachts aufwacht, oder auch einmal einige Tag schlecht schläft braucht sich keine Sorgen zu machen. Ein paar schlaflose Nächte lassen sich schnell wieder nachholen.\nEin echte Schlafstörung liegt erst dann vor wenn unsere Leistungsfähigkeit oder unsere Gesundheit auf Dauer stark beeinträchtigt werden. Dann sollte man auf jeden Fall ärztlichen Rat suchen.",
+   "questions": [
+    {
+     "num": 6,
+     "stem": "Der Schweizer Schlafforscher Alexander Borbety",
+     "options": {
+      "a": "behauptet, dass der gesunde Schlaf gleichmäßig ist.",
+      "b": "beschäftigt sich seit 50 Jahren mit dem Thema Schlaf.",
+      "c": "meint, dass es beim Schlaf verschiedene Stufen gibt."
+     }
+    },
+    {
+     "num": 7,
+     "stem": "Während der Leichtschlafphase",
+     "options": {
+      "a": "erholt man sich nicht gut.",
+      "b": "träumt man besonders viel.",
+      "c": "wacht man öfter auf."
+     }
+    },
+    {
+     "num": 8,
+     "stem": "Die Wissenschaft ist heute der Meinung, dass",
+     "options": {
+      "a": "alle Probleme des Schlafes gelöst sind.",
+      "b": "der Schlaf der Körperlichen Erholung dient.",
+      "c": "man durch Schlafen viel Zeit verliert."
+     }
+    },
+    {
+     "num": 9,
+     "stem": "Vor allem die Menschen in westlichen Ländern",
+     "options": {
+      "a": "klagen darüber, dass sie schlecht schlafen können.",
+      "b": "können ohne Sorgen und Probleme schlafen.",
+      "c": "werden beim Schlafen gelegentlich gestört."
+     }
+    },
+    {
+     "num": 10,
+     "stem": "Zum Arzt sollen die Menschen gehen, die",
+     "options": {
+      "a": "längere Zeit sehr schlecht schlafen.",
+      "b": "manchmal nachts aufwachen.",
+      "c": "zu viel und zu lange schlafen."
+     }
+    }
+   ],
+   "id": "P20-L2",
+   "section": "Leseverstehen, Teil 2",
+   "pages": [
+    287,
+    288
+   ],
+   "topic": "Schlafstörungen",
+   "solution": {
+    "6": "c",
+    "7": "b",
+    "8": "b",
+    "9": "a",
+    "10": "a"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen3",
+   "instructions": "Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.",
+   "situations": [
+    {
+     "num": 11,
+     "text": "Ihr Bekannter ist Sportlehrer und sucht eine Nebenbeschäftigung in einem Verein."
+    },
+    {
+     "num": 12,
+     "text": "Ein guter Bekannter (39) sucht eine Partnerin. Er ist reiselustig und geht spazieren."
+    },
+    {
+     "num": 13,
+     "text": "Ihre Freundin ist besonders hübsch, Studentin und sucht für die Semesterferien im Sommer einen Job."
+    },
+    {
+     "num": 14,
+     "text": "Sie suchen für das kommende Wochenende eine Konzertkarte."
+    },
+    {
+     "num": 15,
+     "text": "Ihre 30-jährige Freundin hat in einem Hotel in Spanien gearbeitet und sucht jetzt eine ähnliche Arbeit in Deutschland."
+    },
+    {
+     "num": 16,
+     "text": "Ihre 55-jährige Nachbarin sucht jemanden, mit dem sie reisen und klassische Konzerte besuchen kann."
+    },
+    {
+     "num": 17,
+     "text": "Sie möchten lernen, wie Sie kleinere Reparaturen an Ihrem Auto selbst machen können."
+    },
+    {
+     "num": 18,
+     "text": "Die Tochter Ihrer russischen Bekannten sucht eine Au-pair-Stelle in Deutschland. Sie ist erst 18 Jahre alt."
+    },
+    {
+     "num": 19,
+     "text": "Ihre 21-jährige Bekannte sucht eine Stelle als Kindergärtnerin."
+    },
+    {
+     "num": 20,
+     "text": "Eine Freundin braucht ein paar Ratschläge, wie sie erfolgreich eine neue Arbeit finden kann."
+    }
+   ],
+   "ads": [
+    {
+     "key": "a",
+     "text": "MeineWelt\nist Beethoven\nJung gebliebener Rentner,\nehemaliger Musiklehrer (Gymnasium),\nBeethovenfan, besucht (fast) alle\nBeethovenkonzerte und Opern auf\nder ganzen Welt.\nSuche kultur- und musikbegeisterte\nBegleiterin über 50. Zuschriften unter\nA/B 5813 an diese Zeitung"
+    },
+    {
+     "key": "b",
+     "text": "Richtig bewerben – Bewer-\nbungen richtig gestalten\nvon Hans Müller\nDas 11-Punkte-Programm\nzur erfolgreichen Bewerbung\naus dem Milleniums-Verlag, mit vielen\nMusterbeispielen und Checklisten hilft\nIhnen, Bewerbung und Bewerbungs-\ngespräch erfolgreich zu bestehen.\nJetzt neu in Ihrer Buchhandlung!"
+    },
+    {
+     "key": "c",
+     "text": "Wir suchen zum nächstmöglichen Termin\neine/n\nRezeptionisten/\nRezeptionistin\nSie sind:\nzeitlich flexibel, sympatisch und freund-\nlich, zwischen 20 und 35 Jahre alt\nWir bieten:\nüberdurchschnittliche Bezahlung, festes\nArbeitsverhältnis (ganzjährig), gute\nArbeitsatmosphäre\nWir erwarten:\nIhre Bewerbungsunterlagen\nHotel Vier Jahreszeiten\nPostfach 12345"
+    },
+    {
+     "key": "d",
+     "text": "Neuerscheinung zur Buchmesse\n»Ratgeber Au-pair«\nvon Erika und Justus Meier-Krause\naus dem Inhalt:\n• Suche und Auswahl des richtigen\nAu-pair-Mädchens\n• Vertragsbestimmungen\n• Wie hoch ist das passende Ge-\nhalt?\n• Was müssen Sie beachten? uvm.\nMILLENIUMS-VERLAG · HAMBURG"
+    },
+    {
+     "key": "e",
+     "text": "Wir sind\nein Sportclub mit\nengagierten Mitgliedern und\nsuchen für die nächste Saison einen\nneuen\nJugendtrainer\nfür unsere Vereinsjugend.\nSchwerpunkte: Handball, Volleyball,\nBasketball, Fußball\n2 Nachmittage pro Woche\n(je 3 Stunden)\nSportclub Erbach\nTel.: 01233/56744"
+    },
+    {
+     "key": "f",
+     "text": "Nette Lehrerin sucht Partner:\nIch bin über dreißig, aber unter vier-\nzig; meine Hobbys sind Reiten und\nWandern. Ich suche einen humorvol-\nlen, intelligenten Enddreißiger, der\nmit mir zu Fuß oder zu Pferd ferne\nGegenden erkundet und immer ein\noffenes Ohr für mich hat.\nZ/B 2240"
+    },
+    {
+     "key": "g",
+     "text": "Wir stellen ein:\nAutomechaniker/\nAutoschlosser\nSie haben eine abgeschlosse-\nne Berufsausbildung und viel\nFreude\nan Ihrem Beruf?\nDann schwimmen Sie mit uns\nauf der Erfolgswelle.\nBewerbungsunterlagen an:\nAutohaus Robert & Sohn,\nPostfach,\n33378 Rheda-Wiedenbrück"
+    },
+    {
+     "key": "h",
+     "text": "Großes Modehaus sucht\njunge\nModels\n(männlich/weiblich)\nfür Modeschauen in ganz Deutschland und Österreich in den\nMonaten Juli und August\nWir bieten gute Bezahlung bei freier Reise, Kost und Logis.\nBewerbungen mit Foto an:\nModehaus Schwärzinger,\nMarketing-Abteilung, Postfach,\n76530 Baden-Baden"
+    },
+    {
+     "key": "i",
+     "text": "Kindergarten\n„Hokuspokus“\nsucht neue\nMitarbeiterin\nzum 1. September.\nSie sind: kinderlieb, temperamentvoll,\nkreativ und geduldig!\nDann bieten wir Ihnen einen Job in einem\ndynamischen, jungen Team mit guter\nBezahlung!\nBewerbung an:\nHokuspokus, Gartenstr. 19, Karlsruhe"
+    },
+    {
+     "key": "j",
+     "text": "Stadtverwaltung\nErbach\nAbteilung Sport\nUm den Bürgerinnen und Bürgern die\nWahl des richtigen Sportvereins zu\nerleichtern, haben wir eine Informations-\nbroschüre mit den Anschriften aller\nVereine zusammengestellt.\nDie Broschüre\n„SPORTVEREINE BEI UNS“\nist ab sofort kostenlos im Rathaus, im\nBürgerbüro und bei allen Banken und\nSparkassen erhältlich."
+    },
+    {
+     "key": "k",
+     "text": "Immer Ärger\nmit der Autowerkstatt?\nReparaturen zu teuer und schlecht gemacht?\nMachen Sie es doch selbst!\nIn dem Standardwerk\nHANDBUCH AUTO\nvon Heribert Pawa\nfinden Sie – reich bebildert – detaillierte Anleitungen\nfür viele Reparaturarbeiten am eigenen Auto.\nMilleniums-Verlag – Hamburg"
+    },
+    {
+     "key": "l",
+     "text": "Für meine 2 und 4-jährigen Töchter suche ich\nab kommenden Winter nettes, kreatives\nrussisches\nAu-pair-Mädchen\nfür die Betreuung der Kinder und leichte\nHausarbeiten. Voraussetzungen: mindestens\n21 Jahre alt, Studentin, gute Referenzen, mit\nmeinen zweisprachig aufwachsenden Töchtern\nausschließlich Russisch sprechen.\nBewerbung an:\nDr. Igor Kafelnikow,\nStettiner Str. 17, 10178 Berlin"
+    }
+   ],
+   "ads_image_page": 290,
+   "id": "P20-L3",
+   "section": "Leseverstehen, Teil 3",
+   "pages": [
+    289,
+    290
+   ],
+   "topic": "sucht",
+   "solution": {
+    "11": "e",
+    "12": "f",
+    "13": "h",
+    "14": "x",
+    "15": "c",
+    "16": "a",
+    "17": "k",
+    "18": "x",
+    "19": "i",
+    "20": "b"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Same situations and ad page as P15 (p290); transcription re-checked."
+   ],
+   "uncertain": [
+    {
+     "location": "p290, ad k",
+     "note": "Author name 'Heribert Pawa' (very small print) low confidence."
+    },
+    {
+     "location": "p290, ad h",
+     "note": "Small lines 'für Modeschauen in ganz Deutschland ...' moderate confidence."
+    }
+   ],
+   "verified": true
+  },
+  {
+   "type": "sprach1",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen",
+   "text": "Das COMPUTER-MAGAZIN\nHerrn\nMatthias Buschhaus\nAlte Gasse 19\nD-80344 München\nMünchen, den 21. Mai….\n## Ihre Kündigung vom 15. Mai\nSehr geehrter Herr Buschhaus,\nschade, [[21]] Sie CHIP nicht weiter beziehen [[22]]. Die Belieferung beenden wir mit unserem [[23]] Heft. Sie erhalten daher die darauf folgende Ausgabe nicht [[24]].\nWir [[25]] Sie natürlich nur ungern als Abonnenten und würden uns freuen, wenn Sie CHIP [[26]] ab und zu am Kiosk kaufen. Vielleicht gelingt es uns, [[27]] wieder von der Qualität von CHIP zu überzeugen.\n[[28]] Sie noch Fragen haben oder sich wieder für ein Abonnement entscheiden, stehen wir Ihnen gerne unter [[29]] Nummer 0781/639 6259 von montags bis freitags von 8 bis 18 Uhr zur Verfügung.\nMit [[30]] Grüßen\nIhr CHIP-Aboservice",
+   "gaps": [
+    {
+     "num": 21,
+     "options": {
+      "a": "darum",
+      "b": "dass",
+      "c": "weil"
+     }
+    },
+    {
+     "num": 22,
+     "options": {
+      "a": "möchte",
+      "b": "möchten",
+      "c": "möchtest"
+     }
+    },
+    {
+     "num": 23,
+     "options": {
+      "a": "nächste",
+      "b": "nächsten",
+      "c": "nächstes"
+     }
+    },
+    {
+     "num": 24,
+     "options": {
+      "a": "mehr",
+      "b": "noch",
+      "c": "nur"
+     }
+    },
+    {
+     "num": 25,
+     "options": {
+      "a": "verlieren",
+      "b": "verliert",
+      "c": "verloren"
+     }
+    },
+    {
+     "num": 26,
+     "options": {
+      "a": "obwohl",
+      "b": "trotz",
+      "c": "trotzdem"
+     }
+    },
+    {
+     "num": 27,
+     "options": {
+      "a": "Ihnen",
+      "b": "sie",
+      "c": "Sie"
+     }
+    },
+    {
+     "num": 28,
+     "options": {
+      "a": "Aber",
+      "b": "Falls",
+      "c": "Wann"
+     }
+    },
+    {
+     "num": 29,
+     "options": {
+      "a": "das",
+      "b": "der",
+      "c": "die"
+     }
+    },
+    {
+     "num": 30,
+     "options": {
+      "a": "freundlich",
+      "b": "freundlichem",
+      "c": "freundlichen"
+     }
+    }
+   ],
+   "id": "P20-SB1",
+   "section": "Sprachbausteine, Teil 1",
+   "pages": [
+    291
+   ],
+   "topic": "Buschhaus",
+   "solution": {
+    "21": "b",
+    "22": "b",
+    "23": "b",
+    "24": "a",
+    "25": "a",
+    "26": "b",
+    "27": "c",
+    "28": "b",
+    "29": "b",
+    "30": "c"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Letter header: sender block 'Das COMPUTER-MAGAZIN' (right) and recipient address (left) are printed side by side; reordered so that the recipient address lines stay together."
+   ],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "sprach2",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.",
+   "text": "Sehr geehrter Herr Maier,\nich habe Ihre Anzeige in der Zeitung vom letzten [[31]] gelesen und interessiere mich sehr [[32]] das Angebot. Ich [[33]] mit meiner Mutter und ihrer Schwester, die beide schon etwas ältere Damen sind, im September ein paar [[34]] Urlaub machen und benötige daher einige Informationen.\nIst die Benutzung des Hallenbads und der Sauna im Preis enthalten oder [[35]] wir diese extra bezahlen? Weiters würde mich noch interessieren, [[36]] Pensionisten eine Ermäßigung bekommen. Sie schreiben darüber leider [[37]] in Ihrer Anzeige. [[38]] möchte ich wissen, ob man in der Gegend um das Hotel einfache Wanderungen unternehmen kann.\nIch wäre Ihnen sehr dankbar, [[39]] Sie mir Bildmaterial zum Hotel und der Landschaft sowie eine Preisliste zukommen lassen könnten.\nIch bedanke mich im [[40]] für die Informationen.\nMit freundlichen Grüßen\nANNELIESE SCHNEEBERGER",
+   "words": [
+    {
+     "key": "a",
+     "word": "AUSSERDEM"
+    },
+    {
+     "key": "b",
+     "word": "DÜRFEN"
+    },
+    {
+     "key": "c",
+     "word": "ERSTENS"
+    },
+    {
+     "key": "d",
+     "word": "FÜR"
+    },
+    {
+     "key": "e",
+     "word": "KEINES"
+    },
+    {
+     "key": "f",
+     "word": "MÖCHTE"
+    },
+    {
+     "key": "g",
+     "word": "MÜSSEN"
+    },
+    {
+     "key": "h",
+     "word": "NICHTS"
+    },
+    {
+     "key": "i",
+     "word": "OB"
+    },
+    {
+     "key": "j",
+     "word": "OBWOHL"
+    },
+    {
+     "key": "k",
+     "word": "TAGE"
+    },
+    {
+     "key": "l",
+     "word": "ÜBER"
+    },
+    {
+     "key": "m",
+     "word": "VORAUS"
+    },
+    {
+     "key": "n",
+     "word": "WENN"
+    },
+    {
+     "key": "o",
+     "word": "WOCHENENDE"
+    }
+   ],
+   "id": "P20-SB2",
+   "section": "Sprachbausteine, Teil 2",
+   "pages": [
+    292
+   ],
+   "topic": "Maier",
+   "solution": {
+    "31": "o",
+    "32": "d",
+    "33": "f",
+    "34": "k",
+    "35": "g",
+    "36": "i",
+    "37": "h",
+    "38": "a",
+    "39": "n",
+    "40": "m"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  }
+ ],
+ "missing_sections": [],
+ "paper_notes": [
+  "P20 is a duplicate of P15 (identical exercises and answer key)."
+ ]
+}

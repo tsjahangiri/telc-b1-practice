@@ -1,0 +1,48 @@
+0.076 0.084 1.00	Sprachausteine, Teil 2
+0.094 0.070 1.00	LANGUAGE Tests
+0.123 0.148 0.30	(til) ah qall
+0.170 0.060 1.00	Lesen sie den Text und schließen Sie
+0.190 0.060 1.00	Lücken 31 - 40. Benutzen Sie die Wörter
+0.209 0.060 1.00	(a, o) Jedes Wort passt nur einmal.
+0.230 0.062 1.00	Markieren Sie Ihre Lösungen für die
+0.250 0.060 1.00	Aufgaben 31 - 40 auf dem
+0.270 0.060 1.00	Antwortbogen.
+0.365 0.045 1.00	Sehr geehrter Herr Maier,
+0.400 0.043 1.00	ich habe Ihre Anzeige in der Zeitung vom letzten (31) gelesen und interessiere mich sehr (32)
+0.424 0.047 1.00	das Angebot. Ich (33) mit meiner Mutter und ihrer Schwester, die beide schon etwas altere
+0.448 0.047 1.00	Damen sind, im September ein paar (34) Urlaub machen und benötige daher einige
+0.471 0.047 1.00	Informationen.
+0.503 0.049 1.00	Ist die Benutzung des Hallenbads und der Sauna im Preis enthalten oder (35) wir diese extra
+0.529 0.047 1.00	bezahlen? Weiters würde mich noch interessieren, (36) Pensionisten eine Ermäßigung
+0.552 0.047 1.00	bekommen. Sie schreiben darüber leider (37) in Ihrer Anzeige. (38) möchte ich wissen, ob
+0.576 0.047 1.00	man in der Gegend um das Hotel einfache Wanderungen unternehmen kann.
+0.597 0.622 0.30	Schuł
+0.610 0.049 1.00	Ich wäre Ihnen sehr dankbar, (39) Sie mir Bildmaterial zum Hotel und der Landschaft sowie
+0.635 0.049 1.00	eine Preisliste zukommen lassen könnten.
+0.670 0.045 1.00	Ich bedanke mich im (40) für die Informationen.
+0.705 0.047 1.00	Mit freundlichen Grüßen
+0.741 0.047 1.00	ANNELIESE SCHNEEBERGER
+0.831 0.088 0.50	AUSSERDEM
+0.830 0.232 1.00	d
+0.827 0.296 1.00	FÜR
+0.833 0.394 1.00	g
+0.828 0.452 1.00	MÜSSEN
+0.831 0.622 1.00	OBWOHL
+0.831 0.834 1.00	VORAUS
+0.855 0.057 1.00	b
+0.852 0.109 0.50	DÜRFEN
+0.858 0.232 1.00	e
+0.853 0.285 1.00	KEINES
+0.855 0.394 1.00	h
+0.853 0.456 1.00	NICHTS
+0.855 0.577 0.50	k
+0.855 0.641 1.00	TAGE
+0.858 0.754 0.50	n
+0.855 0.846 1.00	WENN
+0.876 0.107 0.50	ERSTENS
+0.878 0.236 0.50	f
+0.875 0.277 0.50	MÖCHTE
+0.876 0.398 1.00	i
+0.879 0.478 0.30	OB
+0.875 0.643 1.00	ÜBER
+0.879 0.805 1.00	WOCHENENDE

@@ -1,0 +1,20 @@
+0.088 0.012 1.00	- Herr *Schmetz* bevorzugt Geld zu sparen.
+0.141 0.012 1.00	- Falls er etwas kaufen möchte ,überlegt er es sich gut.
+0.189 0.012 1.00	- Er kauft weder teure ,noch unnötige Dinge.
+0.234 0.012 1.00	****************
+0.234 0.458 0.30	********
+0.276 0.016 1.00	*Meinung*
+0.323 0.010 1.00	- Ich habe eine ähnliche Meinung wie Marco ,ich finde es wichtig
+0.375 0.039 1.00	wenn ich Geld spare
+0.418 0.012 1.00	- Falls ich mein Geld behalte ,kann ich später etwes anderes machen .
+0.469 0.012 1.00	-Zum Beispiel ,kann ich nicht nur einen Urlaub machen ,sondern auch
+0.517 0.023 1.00	einen Auto oder Motorrad kaufen ,das macht mir viel Spaß.
+0.565 0.012 1.00	- Aber es gibt auch Nachteile , Ich kann die Dinge, die ich liebe, nicht
+0.613 0.043 1.00	kaufen, um Geld zu sparen .
+0.658 0.010 1.00	***************************************************************
+0.701 0.014 1.00	*Erfahrung*
+0.754 0.014 1.00	• Ich habe die folgende Erfahrung :
+0.786 0.049 1.00	Ich bevorzuge immer einen Einkaufsplan zu machen,zum Beispiel
+0.818 0.045 1.00	kaufe ich ,wenn es eine Ermäßigung gibt , dadurch spare ich
+0.849 0.045 1.00	viel Geld.
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

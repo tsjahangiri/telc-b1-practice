@@ -1,0 +1,13 @@
+0.166 0.084 1.00	Hörverstehen, Teil 3
+0.183 0.070 1.00	LANGUAGE Tests
+0.251 0.047 1.00	Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.
+0.272 0.047 1.00	Sie hören jeden Text zweimal.
+0.291 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 56 - 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.311 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 56 - 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.331 0.045 1.00	falsch auf dem Antwortbogen.
+0.422 0.045 1.00	56. Ihr Flug nach Prag ist nicht pünktlich.
+0.472 0.045 1.00	57. Im Speisewagen kann man ins Internet gehen.
+0.525 0.045 1.00	58. Montags bis freitags ab 8:00 Uhr kann man sich persönlich beraten lassen.
+0.577 0.045 1.00	59. Das Hörspiel Katzen in der Nacht wird morgen um 20:30 Uhr gesendet.
+0.598 0.629 0.50	schull
+0.629 0.045 1.00	60. Das Flugzeug landet mit 20 Minuten Verspätung in Leipzig.

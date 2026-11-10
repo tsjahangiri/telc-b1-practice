@@ -1,0 +1,5 @@
+# P25-L3 pages [373, 374] ratio 0.615
+## website words not in OCR:
+Metall einzeln direkter Tägliche Aktivitäten Zachenberg
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests 20.Ihre Leseverstehen Teil LANGUAGE Tests Minuten Leseverstehen Sprachbausteine Metali einzein Leseverstehen direkt Tagliche Aktivitaten ZachenDerg

@@ -1,0 +1,36 @@
+0.080 0.092 1.00	Leseverstehen, Teil 2
+0.097 0.076 1.00	LANGUAGE Tests
+0.173 0.047 1.00	Lesen Sie den Text und die Aufgaben 6 - 10. Welche Lösung (a, b oder c) ist jeweils richtig?
+0.192 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+0.247 0.125 0.30	Ca 300000 Manschen in der schwciz halben zwar die schul bssucht, könncnaber
+0.247 0.244 1.00	Die Angst vor Buchstaben abbauen
+0.294 0.156 1.00	Dennoch nicht richtig lesen und schreiben. Einige holen das Versäumte später nach.
+0.315 0.392 1.00	Von Gabriela Baumgartner
+0.353 0.049 1.00	Das Qualifikationsgespräch mit dem Chef sei sehr positiv gewiesen erzählt Kurt Hunziker seiner Gruppe. Auch beim
+0.371 0.047 1.00	Sprechen fühle ich mich heute viele sicherer. Der 33-Jährige lächelt und blick noch etwas unsicher in die Runde. Es hat
+0.391 0.047 1.00	sich wirklich gelohnt.
+0.411 0.045 1.00	Immer wieder Angst.
+0.432 0.049 1.00	Neben ihm sitzt Sonja Kündig. Seit bald zwei Jahren sind die Teilnehmerinnen und Teilnehmer dieses Kurses damit
+0.451 0.049 1.00	beschäftigt nachzubholen, was sie alle im Laufe ihres Lebens irgendwann einmal aufgegeben hatten: Lesen und
+0.469 0.047 1.00	Schreiben. Einmal pro Woche besuchen sie den Kurs über, tauschen Erfahrungen aus, motivieren sich gegenseitig.
+0.488 0.047 1.00	Wahrheit lange vertuscht
+0.510 0.047 1.00	Fast zehn Jahre lang arbeitete Sonja Kündig bei einer Schweizer Grossbank. Ich verstand einfache Texte wie Witze in
+0.529 0.047 1.00	Zeitschriften. Schreiben aber konnte die heute 45-jährige Mutter zweier Söhne nur gerade mal ihre Adresse. Dafür hatte
+0.546 0.047 1.00	sie einen außergewöhnlich Sinn für Genauigkeit und ein gutes Gedächtnis für Zahlen. Problematich wurde es erst, als sie
+0.565 0.047 1.00	ihren Mann kennenlernte. Ich hatte furchtbare Angst, ihm die Wahrheit zu sagen. Würde er mich für dumm halten? Ihr
+0.583 0.049 1.00	Mitstreiter Michael Feller schwankt noch immer ständig zwischen Hoffnung und Verzweiflung. Weil seine Eltern häufig
+0.602 0.047 1.00	den Wohnort wechselten, hatte der 36- Jährige große Probleme in der Schule. Als ich vor vier Jahren hierher kam,
+0.621 0.047 1.00	konnte ich gar nichts. Ich schämte mich, lebte sehr zurückgezogen und hatte kaum Bekannte. In der Zwischenzeit hat er
+0.638 0.047 1.00	aufgeholt, kann sich jetzt auch mündlich besser verständigen.
+0.657 0.047 1.00	Zum ersten Mal in seinem Leben traut er sich, mitzureden und seine Meinung zu sagen. Zufrieden ist Michael Feller aber
+0.676 0.049 1.00	noch nicht. Beim Lesen einer Zeitung oder eines Buches hat noch immer Probleme. Manchmal verstehe ich einzelne
+0.693 0.049 1.00	Wörter nicht, und dann macht. Verzweifelt wirft er in solchen Situationen den Text weg. Manchmal kommt es mir vor,
+0.712 0.047 1.00	als würde ich einen Teufel in meinen Händen halten.
+0.733 0.047 1.00	Besseres Selbstwertgefühl
+0.753 0.047 1.00	Lese- und Schreibschwächen drücken auf das Selbstwertgefühls, erklärt Silvia Herdeg, Kursleiterin am Verein Lesen und
+0.772 0.047 1.00	Schreiben für Erwachsenes. In diesen Kursen wird deshalb nicht nur stur Grammatik gelernt, Trainiert wird ein neuer
+0.791 0.049 1.00	Kommunikationsstil. Die Leute sind erleichtert, dass sie hier mit ihrem Problem nicht alleine sind. Mit jedem Fortschritt
+0.808 0.047 1.00	öffnen sie sich ein Stück weiter. Nach zwei Jahren sind viele wie verwandelt. Einige Teilnehmende haben überhaupt erst
+0.827 0.049 1.00	nach dem Kurs gewagt, eine anspruchsvollere Stelle zu suchen. Andere haben ihre Unabhängigkeit zurückgewonnen.
+0.846 0.049 1.00	Früher habe ich nie mit Kollegen über einen Zeitungsartikel diskutieren können, erklärt Christian Koller. Meine Angst
+0.865 0.047 1.00	war zu gross, ich könnte etwas falsch verstanden haben und mich dadurch lächerlich machen. Heute rede ich mit .

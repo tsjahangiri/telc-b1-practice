@@ -1,0 +1,11 @@
+0.105 0.084 1.00	Hörverstehen, Teil 3
+0.097 0.832 0.30	Elull
+0.121 0.070 1.00	LANGUAGE Tests
+0.188 0.047 1.00	Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.
+0.208 0.047 1.00	Sie hören jeden Text zweimal.
+0.227 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 56 - 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.247 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 56 - 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.267 0.045 1.00	falsch auf dem Antwortbogen.
+0.359 0.045 1.00	56. Der Fahrer des Wagens mit dem Kennzeichen HB-D 256 soll ins Erdgeschoss kommen.
+0.410 0.045 1.00	57. Die Firma liefert das bestellte Sofa am Dienstag ab drei Uhr nachmittags.
+0.461 0.047 1.00	58. Der Gasthof Lindner ist neben einer Tankstelle.

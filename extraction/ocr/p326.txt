@@ -1,0 +1,17 @@
+0.084 0.417 0.50	*Geld *
+0.145 0.012 1.00	Teilnehmer A
+0.201 0.055 0.50	Unterhaiten Sie sich dann mit ihrer Gesprächspartnerin/Ihrem Gesprächspartner über das Thema.
+0.222 0.053 0.50	Sagen
+0.222 0.189 0.50	Meinung und erzähien Sie von eigenen Erfahruingen.
+0.289 0.111 1.00	Geld
+0.545 0.544 0.30	C
+0.594 0.595 1.00	AIch bin ein sparsamer Mensch und
+0.613 0.595 0.50	übeflege mir ganz genau, wann ich
+0.629 0.593 0.50	was kaufe. Ich gebe nicht gern Geid
+0.647 0.591 1.00	für überflüssige und teure Dinge aus.
+0.666 0.591 1.00	Ich spare mein Geld lieber."
+0.712 0.060 1.00	Marco Schmetz, 24 Jahre, Bankangestellter
+0.754 0.008 1.00	- Ich habe einen Beitrag zum Thema *Geld* gelesen.
+0.799 0.008 1.00	- Die Person die sich äußert heißt *Marco Schmetz*
+0.847 0.008 1.00	- Sie ist 24 Jahre Alt ,und arbeitet als Bankangestellter.
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

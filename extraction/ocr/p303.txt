@@ -1,0 +1,14 @@
+0.090 0.016 1.00	*Erfahrung*
+0.144 0.012 1.00	- Damit habe ich auch gute Erfahrungen.
+0.196 0.010 1.00	- Ich mag nicht alleine bleiben,deshalb habe ich einen besten Freund
+0.227 0.012 0.50	,mit ihm ich immer irrgend wo gehe.
+0.279 0.006 0.50	- Während der Hochzeit meiner Schwester ,war er in meiner Nähe ,un
+0.310 0.041 1.00	hat mir viel geholfen
+0.340 0.039 1.00	Seit etwa 3 Monaten bicn ich aus meiner alten Wohnung
+0.372 0.041 0.50	ausgezogen ,obwohl er müde war ,kann er sofort ,um mir zu helfn .
+0.442 0.031 1.00	Und nachdem ich die Prüfung bestanden war ,hat er mir eine
+0.465 0.041 0.50	Überraschungsparty*aLés Jés* gemacht ,das war sehr
+0.503 0.041 1.00	beeindruckend.
+0.574 0.008 1.00	- Ich glaube, ich habe die beste Freundin der Welt.
+0.586 0.611 1.00	schul
+0.897 0.117 1.00	m.com/mahmoudemad007

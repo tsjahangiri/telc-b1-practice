@@ -1,0 +1,5 @@
+# P17-SB2 pages [245] ratio 0.882
+## website words not in OCR:
+
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests

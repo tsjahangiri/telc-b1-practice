@@ -1,0 +1,19 @@
+0.086 0.265 0.50	* Urlaub mit Freunden *
+0.147 0.012 1.00	Teilnehmer A
+0.192 0.025 1.00	Teilnehmende/r A
+0.218 0.023 1.00	Teil 2: Über ein Thema sprechen (ca. 6 Minuten)
+0.247 0.021 1.00	Sie haben in einer Zeitschrift etwas zum Thema Urlaub mit Freunden gelesen. Berichten Sie
+0.263 0.023 1.00	Gesprächspartnerin/lhrem Gesprächspartner darüber.
+0.289 0.021 1.00	Ihre Gesprächspartnerin / Ihr Gesprächspartner hat eine andere Meinung dazü gelesen und berichtet Ihnen
+0.307 0.021 1.00	auch darüber.
+0.318 0.021 1.00	Unterhalten Sie sich dann mit Ihrer Gesprächspartnerin/Ihrem Gesprächspartner über das Thema. Sagen Sie
+0.337 0.021 1.00	Ihre Meinung und erzählen Sie von eigenen Erfahrungen.
+0.385 0.025 1.00	Urlaub mit Freunden
+0.417 0.023 1.00	Mein Mann und ich fahren nie zusammen mit Bekannten in den Urlaub. Wir möchten diese
+0.440 0.023 1.00	Zeit lieber zu zweit verbringen. Außerdem wollen wir unsere Ruhe haben und uns erholen.
+0.461 0.023 1.00	Einfach nur das tun, wozu wir Lust haben. Das wäre in einer Gruppe zu schwierig.
+0.717 0.575 1.00	Tamara Rößner, 31 Jahre, Lehrerin
+0.756 0.008 1.00	- Ich habe einen Beitrag zum Thema *Urlaub mit Freunden* gelesen.
+0.801 0.008 1.00	- Die Person die sich äußert heißt *Tamara Rößner*
+0.847 0.006 1.00	- Sie ist 31 Jahre Alt ,und arbeitet als Lehrerin.
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

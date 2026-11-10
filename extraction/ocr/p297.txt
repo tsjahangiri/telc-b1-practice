@@ -1,0 +1,13 @@
+0.357 0.016 1.00	Liebe Eva,
+0.379 0.014 1.00	vielen Dank für Deinen netten Brief. Ich habe mich sehr darüber gefreut.
+0.424 0.014 1.00	Ich freue mich sehr , dass du endlich eine neue Stelle gefunden hast und Deinen Traumberuf machen
+0.449 0.014 1.00	kannst.
+0.516 0.012 1.00	Ich habe Fortschritte beim Deutschlehren gemacht.
+0.539 0.014 1.00	Ich kann meine Probleme ohne meinen Mann lösen.
+0.563 0.016 0.50	Z.B .....etw
+0.651 0.014 1.00	Im Momentan bereite ich mich vor, um die Deutsch Zertifikat B1 Prüfung zu machen.
+0.676 0.014 1.00	Zur Zeit habe ich keine Neuigkeiten in meinem Leben.
+0.743 0.016 1.00	Mein Traumberuf war Kinderlehren , weil ich die Kinder sehr liebe.
+0.789 0.021 1.00	viele Gruße
+0.812 0.014 1.00	Liebe Grüße
+0.836 0.016 1.00	Herzliche Grüße.....etw

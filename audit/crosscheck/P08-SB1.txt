@@ -1,0 +1,5 @@
+# P08-SB1 pages [96, 97] ratio 0.785
+## website words not in OCR:
+
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests cuns telcc1hochschul

@@ -1,0 +1,16 @@
+0.093 0.078 1.00	Hörverstehen, Teil 1
+0.086 0.756 0.30	äuiąğ|ääll
+0.110 0.062 1.00	LANGUAGE Tests
+0.225 0.047 1.00	Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.
+0.246 0.047 1.00	Sie hören diese Texte nur einmal.
+0.265 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 41 - 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.285 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 41 - 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.305 0.047 1.00	falsch auf dem Antwortbogen.
+0.324 0.045 1.00	Lesen Sie jetzt die Aufgaben 41 - 45. Sie haben dazu 30 Sekunden Zeit.
+0.410 0.051 1.00	41. Die Sprecherin ist dagegen, dass Kinder so früh eine Fremdsprache lernen.
+0.461 0.045 1.00	42. Die Sprecherin meint, dass das frühe Lernen einer Fremdsprache für viele Kinder
+0.517 0.076 1.00	Nachteile hat.
+0.570 0.045 1.00	43. Der Sprecher findet es schade, dass er im Kindergarten keine Fremdsprache lernen
+0.620 0.074 1.00	konnte.
+0.672 0.053 1.00	44. Die Sprecherin meint, dass das Fremdsprachenlernen erst in der Schule beginnen sollte.
+0.725 0.045 1.00	45. Der Sprecher ist dagegen, dass Kinder schon früh Fremdsprache lernen.

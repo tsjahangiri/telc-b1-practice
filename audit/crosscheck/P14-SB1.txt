@@ -1,0 +1,5 @@
+# P14-SB1 pages [177] ratio 0.783
+## website words not in OCR:
+ihrer Grüße Saskia zum erst schon
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests inihrer GrüßeSaskia czum Berst cschon

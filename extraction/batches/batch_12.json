@@ -1,0 +1,274 @@
+{
+ "batch": 12,
+ "pages": [
+  111,
+  120
+ ],
+ "records": [
+  {
+   "page": 111,
+   "paper": "P09",
+   "section": "SB2",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 2\nLANGUAGE Tests\nLesen sie den Text und schließen Sie\nLücken 31 – 40. Benutzen Sie die Wörter\n(a, o) Jedes Wort passt nur einmal.\nMarkieren Sie Ihre Lösungen für die\nAufgaben 31 – 40 auf dem\nAntwortbogen.\nSehr geehrte Damen und Herren,\nseit längerem plane ich eine Wanderreise in die Sahara-Länder. Nun ist mir beim Lesen der\nZeitschrift Berge die Anzeige von Geo-Tours aufgefallen, denn (31) steht, dass Sie auf\nErlebnisreisen in Wüstenregionen spezialisiert sind. Vielleicht haben Sie das richtige Angebot\nfür uns - (32) für mich und meine 17-Jährige Tochter. Unsere Vorstellungen sind im Einzelnen\ndiese:\nZuerst eine Wanderreise, etwa 10 Tage, möglichst leichte Tageswanderungen(ca. 4 – 5\nStunden), und (33) ein Erholungsurlaub am Meer. Bieten Sie solche Kombinationen an? Und\n(34) ja, zu welchem Preis? Zur Wanderreise (35) ich noch folgende Fragen: Wird das Gepäck\nvon einem Übernachtungsort zum nächsten transportiert? Schläft man immer (36) freiem\nHimmel? Ich (37) auch wissen, wie die Reisegruppen zusammengesetzt sind, (38) Sprache die\nReiseleiterin/ der Reiseleiter spricht und ob ein Arzt (39) ist.\nIch freue mich auf Ihr (40).\nMit freundlichen Grüßen\nANNETTE LUCHSINGER\na\nANFRAGE\nd\nDAFÜR\ng\nDESHALB\nj\nMÖCHTE\nm\nWÄRE\nb\nANGEBOT\ne\nDANACH\nh\nHÄTTE\nk\nNÄMLICH\nn\nWELCHE\nc\nDABEI\nf\nDARIN\ni\nMIT\nl\nUNTER\no\nWENN",
+   "arabic_labels_excluded": [
+    "المناطق الصحراوية"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.09
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.982,
+    "ocr_words_missing_from_textlayer": 3,
+    "sample_missing": [
+     "gethte",
+     "hetren",
+     "schul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)",
+   "uncertain": []
+  },
+  {
+   "page": 112,
+   "paper": "P09",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 1\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.\n…………………………………………………………………………………………………………………………………………………………\n41. Der Sprecher könnte sich vorstellen, mit dem Bus zur Arbeit zu fahren.\n42. Die Sprecherin geht gern zu Fuß.\n43. Der Sprecher findet es in Ordnung, dass seine Frau immer das Auto hat\n44. Die Sprecherin fährt jeden Tag mit ihrem Motorrad zur Arbeit.\n45. Die Sprecherin fährt immer mit dem Fahrrad zur Arbeit.",
+   "arabic_labels_excluded": [
+    "بالحافلة معدل",
+    "الذهاب إلى العمل"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P09; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 113,
+   "paper": "P09",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 2\nUKI\nLANGUAGE Tests\nSie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.\n……………………………………………………………………………………………………………………………………..\n46. Das Ziel des Vereins UKI ist, ausländische Bürger in Österreich zu unterstützen.\n47. Der Verein wendet sich besonders an internationale Manager, weil diese den Verein\nfinanziell unterstützen.\n48. Die Abendkurse für Berufstätige dauern neun Monate.\n49. Es gibt einen speziellen Deutschkurs für Jugendliche, die eine österreichische\nHauptschule besuchen wollen.\n50. Es gibt auch Kurse, die nichts mit Deutschlernen zu tun haben.\n51. Die Deutschlehrer sind gleichzeitig auch Sozialarbeiter.\n52. Sozialarbeiter helfen Ausländern bei Problemen mit Ämtern.\n53. Im Kurs werden Papiere für eine Bewerbung vorbereitet.\n54. Frauen und Kinder lernen im Unterricht gemeinsam Deutsch.\n55. Die Gesetze machen die Arbeit von Frau Böck schwerer.",
+   "arabic_labels_excluded": [
+    "جمعية"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.978,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "chul",
+     "hauptschulebesuchen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P09; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 114,
+   "paper": "P09",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. Ihr Flug nach Prag ist nicht pünktlich.\n57. Im Speisewagen kann man ins Internet gehen.\n58. Montags bis freitags ab 8:00 Uhr kann man sich persönlich beraten lassen.\n59. Das Hörspiel Katzen in der Nacht wird morgen um 20:30 Uhr gesendet.\n60. Das Flugzeug landet mit 20 Minuten Verspätung in Leipzig.",
+   "arabic_labels_excluded": [
+    "براغ"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P09; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 115,
+   "paper": "P09",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nSie haben von einer Freundin folgenden Brief erhalten:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\nWie geht’s dir? Hattest du ein schönes Wochenende? Hier hat es die ganze Zeit geregnet,\ndeshalb bin ich zuhause geblieben.\nDu hattest vorgeschlagen, dass wir im Sommer zusammen verreisen könnten. Die Idee finde\nich super! An welches Reiseziel denkst du? Ich bin gerne am Meer, mag aber auch\nStädterreisen. Wichtig ist für mich nur, dass ich auch ein bisschen Sport machen kann. Die\nReise sollte aber nicht zu viel kosten, denn ich habe vor Kurzem schon viel für eine\nAutoreparatur bezahlen müssen. Was meinst du: wie können wir günstig Urlaub machen? Es\nmuss ja kein Luxushotel sein.\nSchreib mir bald, dann können wir anfangen zu planen.\nViele Grüße\nAnnika\nAntworten Sie Annika. Schreiben Sie etwas zu allen vier Punkten:\n. Was Sie am Wochenende unternommen haben\n. Wohin Sie gerne reisen würden\n. Was Sie im Urlaub gerne machen\n. Wie man beim Reisen Geld sparen kann\nÜberlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine\npassende Anrede, Einleitung und einen passenden Schluss.",
+   "arabic_labels_excluded": [
+    "أنيكا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.99,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "schul",
+     "uberlegen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P09; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 116,
+   "paper": "P09",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\nUnterstützung\nSchröder\nArbeit zu fahren\n21 b\nin\n1 J\n41 -\n22 a\nMit\n2 B\n42 -\n23 a\nschöne\n3 F\n43 +\n4 A\n24 a\neinfach\n44 +\n5 G\n25 b\nunserem\n45 -\n26 a\nnatürlich\n27 b\nteil\n28 b\nneben\n29 c\nunbedingt\n30 a\nnoch\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nUKI\nPhilipp\nSahara-Länder\n6\nA\n46 -\n31 F\nDARIN\n7\nB\n47 -\n32 K\nNÄMLICH\n48 +\n8\nC\n9\nA\n33 E\nDANACH\n49 +\n10 A\n34 O\nWENN\n50 +\n51 +\n35 H\nHÄTTE\n52 +\n36 L\nUNTER\n53 +\n37 J\nMÖCHTE\n54 -\n38 N\nWELCHE\n55 -\n39 C\nDABEI\n40 B\nANGEBOT\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\nEisenbahn\nPrag\n11 K\n56 -\n12 X\n57 -\n13 F\n58 +\n14 E\n59 -\n15 D\n60 +\n16 G\n17 L\n18 X\n19 H\n20 A",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.742,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)",
+   "uncertain": []
+  },
+  {
+   "page": 117,
+   "paper": "P10",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\na) Eine Karte – viele Vorteile\nb) Endlich Ferien ohne Kinder\nc) Günstiger Urlaub für Vereinsmitglieder\nd) Meer statt Berge\ne) Neues Wohnprojekt für Alleinerziehende\nf) Reisebüros weltweit vernetzt\ng) Schweizer Seen weiterhin sehr beliebt\nh) Söhne schenken mehr als Töchter\ni) Schöne werden großzügiger beschenkt\nJ) Tipps: Wo auch Kinder ihren Spaß haben",
+   "arabic_labels_excluded": [
+    "بطاقة واحدة"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "öchschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P10 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 118,
+   "paper": "P10",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. Das fängt ja gut an: Schon im Kinderzimmer werden Jungs bevorzugt – sie bekommen mehr\ngeschenkt als Mädchen. Das ist das Ergebnis einer Untersuchung vom Bundesverband des\nSpielwaren- Einzelhandels-Bundesweit wurden 6500 Familien nach ihren Schenkgewohnheiten\nbefragt. Fast immer wurden für die Söhne – auch schon im Babyalter – mehr gekauft.\nZuständig für die Geschenke sind übrigens meist die Mütter.\n2. In diesem Sommer werden weitere 200 Großstadt-Jugendherbergen auf der ganzen Welt\nmiteinander vernetzt ICYN heißt das Zauberwort – International Communication Youth\nNetwork. Das System wurde speziell für Jugendherbergen entwickelt. Für nur 15 Euro\nJahresgebühr kann man mit der ICYN-Karte weltweit nicht nur Übernachtungen in anderen\nHerbergen reservieren, sondern auch unbegrenzt im Internet surfen, sogar gratis übers\nInternet telefonieren, Bahn- und Flugtickets bargeldlos buchen sowie günstige Konzerttickets\nbekommen.\n3. Ob zu Hause, irgendwo in der Schweiz oder im Ausland: Ferien mit Kindern wollen gut geplant\nsein. Wo gibt es denn Orte, wo Kinder noch Abenteuer erleben, Hotels oder Wohnungen, in\ndenen sie sich wohl fühlen, wo aber gleichzeitig auch die Eltern auf ihre Rechnung kommen?\nRuth Michaela Richter gibt Tipps, verrät Adressen und zeigt Beispiele. Damit werden sogar\nStädtereisen oder Schlossferien in England interessant.\n4. Die Sehnsucht nach dem Meer ist in der Schweiz groß, vor allem bei der jüngeren Generation.\nEin Drittel der Schweizerinnen und Schweizer würde nach einer Umfrage im Tausch für eine\nMeeresküste die Hälfte der Berge hergeben. Die Zeitschrift mare ließ über 1000 Personen in\nder Schweiz nach ihrem Verhältnis zum Meer befragen. Rund 42 Prozent der 15-bis 34-Jährigen\nwürden – treu dem Motto der Jugendbewegung der 80er Jahre: Nieder mit den Alpen, freie\nSicht aufs Mittelmeer – den Tausch eingehen. In der Deutschschweiz könnten sich nur 29\nProzent von den Bergen trennen, in der Roman die sind es 37 und im Tessin 43 Prozent.\n5. Ob für die traditionelle Familie oder für Alleinerziehende: Der Verein für Familienherbergen in\nGelsenkirchen bietet schon seit Jahren preisgünstige Ferien. Über 1100 Zimmer und\nWohnungen – auch für das kleine Portemonnaie – stehen zwischen Nordsee und Sizilien den\nMitgliedern im neuen Katalog zur Auswahl. Nichtmitglieder erhalten diesen Katalog gegen eine\nGebühr von 5 Euro.\nInfos: Telefon 061/981 25 25 oder\nwww.ferienwohnung.ch",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 2,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.995,
+    "ocr_words_missing_from_textlayer": 4,
+    "sample_missing": [
+     "esalg",
+     "gutschein",
+     "ubrigens",
+     "äüla"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P10 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 119,
+   "paper": "P10",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nDu oder Sie – das ist hier die Frage\nSprachliche Regeln am Arbeitsplatz\nHäufig erscheint Invar Kamprad, lekea-Gründer und-Besitzer, am Morgen unangemeldet angemeldet am\nHintereingang einer seiner Filialen Guten Morgen ich bin der Invar Das schwedische Möbelbaus ist das beste\nBeispiel für die Du Kultur am Arbeitsplatz, denn alle Beschäftigten sprechen sich mit Du an. Die Gesellschaft\nfür deutsche Sprache in Wiesbaden hat nun in einer Untersuchung festgestellt, dass mehr als 53 Prozent der\nbefragten Personen alle Arbeitskollegen duzen. Wie zu erwarten sind es vor allem die 16 – bis 29 jährigen (59\nProzent) die sich lieber schnell duzen Bei den über 60 – Jährigen sank die Zahl auf 14 Prozent warum\neigentlich sagt man am Arbeitsplatz immer öfter Du Zum Beispiel pflegen Ikea Greenpeace und McDonalds\nalle das obligatorische Du Damit wollen sie Vertrauen aufbauen und ein familiäres Umfeld schaffen.\nGegenüber den Kunden ist an jedoch vorsichtiger geworden. So hat Ikea im Verkaufskatalog statt dem Du\nwieder das sie eingeführt Man hofft mit Sie mehr Leute nicht nur jüngere anzusprechen. Bis heute üblich ist\ndas Du zum Beispiel in Schweizer Gewerkschaften Viele Mitglieder sind sogar beleidigt, wenn sie mit sie\nangesprochen werden Es gibt aber auch umgekehrten Fall, zwar bei der Polizei Wer in Deutschland einen\nPolizisten duzt riskiert eine Strafe in der Schweizer hingegen findet man eine Anzeige wegen Duzens eines\nBeamten übertrieben Polizisten werden sowieso kaum mit Du angesprochen meint Hanspeter Fäh von der\nZürcher Stadtpolizei Der Trend zum Du kann jedoch auch als sozialer Druck oder Zwang empfunden werden.\nEin Du abzulehnen gilt nämlich als unfreundlich. Das hat Dieter S Angestellter bei einem Textilgeschäft in\nDeutschland erfahren Ein Gericht entschied, dass er seine Kollegen weiterhin mit Du ansprechen musste.\nSo sehr das Du in der Gesellschaft auch an Bedeutung gewinnt das Sie hat immer noch eine feste soziale Basis\nund kann diese sogar ausbauen Benimmkurse, wo man Höflichkeit und die richtigen Umgangsformen lernt,\nsind heute im Trend immer mehr Firmen schulen ihre Mitarbeiter in stilvollem Verhalten. Dazu gehören\nfolgende Grundregeln: Die ältere Person bietet der jüngeren das Du an Oft ist jedoch auch die Stellung\nentscheidend Der ältere Mitarbeiter bietet seinem jüngeren Chef nie das Du an.",
+   "arabic_labels_excluded": [
+    "القواعد في العمل"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "aaell",
+     "selgäll"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P10 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 120,
+   "paper": "P10",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Die Firma Ikea benutzt heute das. Du,\nweil das ein Zeichen für eine Familie Atmosphäre ist.\nA\nweil sie mehr jüngere Kunden gewinnen will.\nweil so mehr Leute den Verkaufskatalog lesen.\nC\n7. In der Schweiz\ngilt das Du in Gewerkschaften als Beleidigung.\nA\nwerden Polizisten nur selten mit Du angesprochen.\nwird man bestraft, wenn man zu Beamten Du sagt.\nC\n8. Eine Untersuchung hat gezeigt,\ndass 14 Prozent der jüngeren Mitarbeiter das Sie vorziehen.\nA\ndass besonders jüngere Arbeitskollegen schneller das Du wählen.\ndass sich alle Arbeitskollegen gern mit Du anderen würden.\nC\n9. Durch Kurse können Angestellte\nhöfliches Verhalten am Arbeitsplatz lernen.\nA\nihre Stellung im Arbeitsleben verbessern.\nneue Trends beim Einrichten des Arbeitsplatzes kennen lernen.\nC\n10.\nProbleme am Arbeitsplatz kann es geben,\nwenn man das Sie ablehnt.\nA\nwenn man wegen eines Fehlers vor Gericht muss.\nwenn man zu den Mitarbeitern Sie sagen will.\nC",
+   "arabic_labels_excluded": [
+    "القواعد في العمل"
+   ],
+   "images": {
+    "count": 4,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 3,
+    "sample_missing": [
+     "dsell",
+     "gäll",
+     "hschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P10 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  }
+ ]
+}

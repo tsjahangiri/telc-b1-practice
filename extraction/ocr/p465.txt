@@ -1,0 +1,24 @@
+0.100 0.010 1.00	- Ich habe auch einen Beitrag von *Holger Münz* gelesen.
+0.138 0.006 1.00	- Er ist 25 Jahre Alt .und arbeitet als Betriebswirt.
+0.179 0.012 1.00	***************************************************************
+0.221 0.008 1.00	• Herr *Münz* sagt ,dass er noch nie einen besten Freund hatte ,Trotzdem
+0.251 0.041 1.00	hat er viele Bekannte.
+0.281 0.006 1.00	• Während er imSportverein ist ,treffen sie sich.
+0.310 0.006 0.50	• Ab und zu geht er mit ihnnen in die Kneipe ,das macht ihm viel Spaß.
+0.360 0.043 1.00	*****:
+0.362 0.113 0.50	*****************:
+0.360 0.458 1.00	********************************
+0.404 0.016 1.00	*Meinung*
+0.453 0.035 1.00	Da gehe ich nicht d'accord ‚ich finde es wichtig ,wenn ich einen
+0.504 0.047 1.00	besten Freund habe ,mit ihm ich immer über meine persönliche
+0.536 0.047 1.00	Probleme sprechen kann.
+0.583 0.020 1.00	* Falls ich entweder einen Notfall ,oder einen wichtigen Umstand
+0.619 0.045 0.30	habe, finde lch jemanden der bel mir st. Sen,mn
+0.679 0.014 1.00	* Meiner Meinung nach soll man einen Freund haben, mit dem man
+0.727 0.057 1.00	in schwierigen Zeiten zusammen sein kann.
+0.773 0.041 1.00	*********
+0.773 0.458 0.50	*****
+0.773 0.524 1.00	*****
+0.773 0.616 0.50	*******
+0.773 0.780 0.50	********
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

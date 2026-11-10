@@ -1,0 +1,29 @@
+=== P18-H1 [Bus zur Arbeit] p[261] src=text_layer key p265
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören diese Texte nur einmal. / Entscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.
+  41. Die Sprecherin könnte sich vorstellen, mit dem Bus zur Arbeit zu fahren.   [-]
+  42. Die Sprecherin geht den ganzen Weg zur Arbeit zu Fuß.   [-]
+  43. Der Sprecher fährt nie mit dem Auto zur Arbeit.   [+]
+  44. Der Sprecher benutzt für den Weg zur Arbeit zurzeit verschiedene Verkehrsmittel.   [-]
+  45. Für die Sprecherin ist der Firmenbus die einzige Möglichkeit zur Arbeit zu kommen.   [-]
+  nums=[41, 42, 43, 44, 45] complete=True
+=== P18-H2 [Touristen] p[262] src=text_layer key p265
+INSTR: Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. / Sie hören das Gespräch zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.
+  46. Viele Touristen besuchen Torgau wegen seiner historischen Sehenswürdigkeiten.   [+]
+  47. Den Spielpark Hartenfels gibt es schon seit vielen Jahren.   [-]
+  48. Außer dem Spielpark gibt es in der Umgebung viele andere Freizeitmöglichkeiten für die Kinder.   [-]
+  49. Der Spielpark bietet den Kindern Spielmöglichkeiten, die sie zu Hause nicht haben.   [+]
+  50. Die Kinder können im Spielpark auch selbst etwas bauen.   [+]
+  51. Das Spielen am Back kann für die Kinder gefährlich werden.   [-]
+  52. Beide Elternteile müssen auf die Kinder aufpassen.   [-]
+  53. Im Spielpark können Kinder bis zum Alter von sieben von Aufsichtspersonen betreut werden.   [-]
+  54. Der Eintritt in den Spielpark ist zurzeit frei.   [+]
+  55. Die Schlossführung bereitet Kindern und Erwachsenen viel Spaß.   [-]
+  nums=[46, 47, 48, 49, 50, 51, 52, 53, 54, 55] complete=True
+=== P18-H3 [Griechenland] p[263] src=text_layer key p265
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören jeden Text zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen.
+  56. Sie können zwei Flüge nach Griechenland gewinnen.   [-]
+  57. Für Ihre Gruppe ist ein Wagen im Zug nach Aschaffenburg reserviert.   [+]
+  58. Auf der Internetseite kann man auch günstige Angebote für Haushaltsgerät.   [+]
+  59. Erst morgen Abend bildet sich Nebel..   [-]
+  60. Am besten fahren Sie ab Northeim mit dem Bus.   [+]
+  nums=[56, 57, 58, 59, 60] complete=True

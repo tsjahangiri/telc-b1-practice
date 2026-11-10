@@ -1,0 +1,111 @@
+##### P30 pages [442, 454] key p454 sections {'L1': [442, 443], 'L2': [444, 445], 'L3': [446, 447], 'SB1': [448], 'SB2': [449], 'H': [450, 451, 452], '?': [453], 'LOES': [454]}
+
+=== P30-L1 [Unterstützung] pages [442, 443] verified=True
+INSTR: Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+  a) Finanzielle Unterstützung für Kunstprojekte mit Schülern
+  b) Winterveranstaltung auf dem Eis mit Musik
+  c) Aktionsprogramm der Eu:Finanzielle Unterstützung für italienische Künstler
+  d) Kunstausstellung von italienischen Schülern
+  e) Deutschlernen mit euer Methode im Radio
+  f) Geld für gemeinsame europäische Projekte
+  g) Elternverein organsiert Kunstausstellung
+  h) Mit der Eisenbahn ins winterliche Wien
+  i) Mehr Geld für österreichische Musikschulen
+  j) Wie Sprachaufenthalte auswählen?
+  1. Rund 150,000 Sprachreisen werden von Deutschen jährlich unternommen. Der Wunsch, eine andere Sprache zu lernen, kann verschieden Gründe haben: private, schulische oder berufliche. Das Angebot an Sprachreisen wächst ständig, über die Qualität ist jedoch wenig oder nichts bekannt. Im Marktplatz geht es diesmal um Kriterien für das Lernen mit Erfolg. Welche Methoden sind zu empfehlen, welche Anbieter kosten? Ihre Fragen werden am Hörertelefon unter 0800-839601 von Fachleuten beantwortet.
+  2. Die Metropole Wien lädt zum winterlichen Eisvergnügen vor dem Wiener Rathaus ein: vom 22. Januar bis 7.März kann man auf 1800 Quadratmetern übers Eis fahren. Die Musik dazu bestimmt den Fahrstil und reicht vom klassischen Walzer bis zur Diskomusik. Nachts werden auf der Eisbahn Partys veranstaltet, vom Samba - Fest bis zum Hip-Hop –Event. Speisen und Getränke gibt es an verschiedenen Ständen, Schlittschuhe und Stiefel kann man leihen. Informationen: Wiener Tourismusverband.
+  3. Für das Aktionsprogramm der Europäischen Union (EU) zur beruflichen Weiterbildung, Leonardo da Vinci, können noch bis zum 31. März Anträge gestellt werden. Ziel des Programms ist es, europäische Projekte zur beruflichen Weiterbildung zu unterstützen Anträge auf finanzielle unterstützen können die Institutionen stellen, die mit mindestens zwei weiteren europäischen Partnern an einem Projekt arbeiten wollen. Information: Nationale Koordinerungsstelle Leonardo da Vinci, Fehrbelliner Platz 3, D-10707 Berlin, Tel, 030/8643-0, Fax- 2637.
+  4. Wien(SN.APA). Wie das Unterrichtsministerlum mitteilte, sollen im kommenden. Jahr monatlich 70,000 Euro für Kulturprojekte an Schulen zur Verfügung gestellt werden. Unterstützt würden damit Veranstaltungen und Projekte, die das Verständnis der Kinder und Jugendlichen für die Künste wecken, das Interesse am Musisch – Kreativen verstärken und zu Kontakten und einer Auseinandersetzung mit Künstlern führen. Dadurch soll in altersgemäßer Form die ganzheitliche Entwicklung der Persönlichkeit von Kindern und Jugendlichen gefördert werden.
+  5. Zum sechsten Mal veranstaltet das Comitato Geniton Binnigen/ Bottmingen seine breit angelegte multikulturelle Kunstausstellung Arte. An der Veranstaltung nehmen 70 Künstlerinnen und Künstler aus der Region sowie Gäste aus Italien, Frankreich, Deutschland und weiteren Ländern teil. Bei dem vor 18 Jahren gegründeten Comitato handelt es sich um einen Elternverein, der damals italienischsprachigen Kindern bei ihren Schulprobiemen hilfreich zur Seite stand. Da die jetzige dritte Kindergeneration nicht mehr diese Probleme hat, suchte das Comitato nach neuen Aufgeben und fand in der Organisation der alljährlichen Kunstausstellung ein neues, interessantes Betätigungsfeld.
+  SOLUTION(complete): 1j 2b 3f 4a 5g
+
+=== P30-L2 [Buchstaben] pages [444, 445] verified=True
+INSTR: Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+  TITLE: Die Angst vor Buchstaben abbauen / 
+  Etva 800 000 Menschen in der Schweiz haben zwar die Schule besucht, können aber Dennoch nicht richtig lesen und schreiben. Einige holen das Versäumte später nach. Von Gabriela Baumgartner
+  Das Qualifikationsgespräch mit dem Chef sei sehr positiv gewiesen erzählt Kurt Hunziker seiner Gruppe. Auch beim Sprechen fühle ich mich heute viele sicherer. Der 33-Jährige lächelt und blick noch etwas unsicher in die Runde. Es hat sich wirklich gelohnt.
+  ## Immer wieder Angst.
+  Neben ihm sitzt Sonja Kündig. Seit bald zwei Jahren sind die Teilnehmerinnen und Teilnehmer dieses Kurses damit beschäftigt nachzubholen, was sie alle im Laufe ihres Lebens irgendwann einmal aufgegeben hatten: Lesen und Schreiben. Einmal pro Woche besuchen sie den Kurs über, tauschen Erfahrungen aus, motivieren sich gegenseitig.
+  ## Wahrheit lange vertuscht
+  Fast zehn Jahre lang arbeitete Sonja Kündig bei einer Schweizer Grossbank. Ich verstand einfache Texte wie Witze in Zeitschriften. Schreiben aber konnte die heute 45-jährige Mutter zweier Söhne nur gerade mal ihre Adresse. Dafür hatte sie einen außergewöhnlich Sinn für Genauigkeit und ein gutes Gedächtnis für Zahlen. Problematich wurde es erst, als sie ihren Mann kennenlernte. Ich hatte furchtbare Angst, ihm die Wahrheit zu sagen. Würde er mich für dumm halten? Ihr Mitstreiter Michael Feller schwankt noch immer ständig zwischen Hoffnung und Verzweiflung. Weil seine Eltern häufig den Wohnort wechselten, hatte der 36- Jährige große Probleme in der Schule. Als ich vor vier Jahren hierher kam, konnte ich gar nichts. Ich schämte mich, lebte sehr zurückgezogen und hatte kaum Bekannte. In der Zwischenzeit hat er aufgeholt, kann sich jetzt auch mündlich besser verständigen.
+  Zum ersten Mal in seinem Leben traut er sich, mitzureden und seine Meinung zu sagen. Zufrieden ist Michael Feller aber noch nicht. Beim Lesen einer Zeitung oder eines Buches hat noch immer Probleme. Manchmal verstehe ich einzelne Wörter nicht, und dann macht. Verzweifelt wirft er in solchen Situationen den Text weg. Manchmal kommt es mir vor, als würde ich einen Teufel in meinen Händen halten.
+  Besseres Selbstwertgefühl
+  Lese- und Schreibschwächen drücken auf das Selbstwertgefühls, erklärt Silvia Herdeg, Kursleiterin am Verein Lesen und Schreiben für Erwachsenes. In diesen Kursen wird deshalb nicht nur stur Grammatik gelernt, Trainiert wird ein neuer Kommunikationsstil. Die Leute sind erleichtert, dass sie hier mit ihrem Problem nicht alleine sind. Mit jedem Fortschritt öffnen sie sich ein Stück weiter. Nach zwei Jahren sind viele wie verwandelt. Einige Teilnehmende haben überhaupt erst nach dem Kurs gewagt, eine anspruchsvollere Stelle zu suchen. Andere haben ihre Unabhängigkeit zurückgewonnen. Früher habe ich nie mit Kollegen über einen Zeitungsartikel diskutieren können, erklärt Christian Koller. Meine Angst war zu gross, ich könnte etwas falsch verstanden haben und mich dadurch lächerlich machen. Heute rede ich mit .
+  Q6. In der Schweiz gibt es etwa 800.000 Menschen, die
+     a) als Kind Angst vor der Schule hatten.
+     b) beim Lesen und Schreiben große Schwierigkeiten haben.
+     c) erst als Erwachsene Lesen und Schreiben lernen.
+  Q7. Sonja Kündig
+     a) besitzt die Fähigkeit, sich Zahlen sehr gut zu merken.
+     b) hat nach dem Kurs eine Stelle bei einer Bank gefunden.
+     c) lernte ihren Mann im Kurs kennen.
+  Q8. Michael Feller
+     a) ist heute mit seinen Lernfortschritten zufrieden.
+     b) versucht jetzt, trotz Schwierigkeiten längere Taxte zu lesen.
+     c) wechselte den Wohnort, weil er Probleme in der Schule hatte.
+  Q9. Die Leiterin des Kurses stellt fest, dass
+     a) der Kurs die Teilnehmenden selbstsicherer macht.
+     b) die Teilnehmenden keinen Grammatikunterricht brauchen.
+     c) sie selbst einen neuen Kommunikationsstil lernen muss.
+  Q10. Christian Koller
+     a) diskutiert nun auch mit Kollegen über Themen aus der Zeitung.
+     b) hat noch nie einen Zeitungsartikel gelesen.
+     c) wurde früher von seinen Kollegen oft ausgelacht.
+  SOLUTION(complete): 6b 7a 8b 9a 10a
+
+=== P30-L3 [Musik] pages [446, 447] verified=True
+INSTR: Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+  11. Während Ihres Sommerurlaubs in der Schweiz möchten Sie ein Konzert besuchen Sie interessieren sich für die traditionelle Musik dieses Landes.
+  12. Ein Freund von Ihnen interessiert sich für Norwegen. Sie wollen ihm ein passendes Buch.
+  13. Sie möchten gerne in einem Restaurant mit Live-Musik essen.
+  14. Sie suchen ein Geschenk für die 12-jährige Tochter Ihrer Schweizer Freunde.
+  15. Sie suchen für Ihre Freunde ein passendes Geschenk. Ihre Freunde kochen gern selbst und probieren oft neue Rezepte.
+  16. Sie möchten am Samstagabend griechisch essen gehen.
+  17. Sie suchen ein Restaurant, in dem Sie draußen sitzen können .
+  18. Sie sind im Juni in München und möchten ein Konzert mit Gesang besuchen .
+  19. Sie sind in der Schweiz und suchen ein Souvenir für Ihre Freunde.
+  20. Sie sind am Flughafen und möchten etwas essen.
+  [a] DAS MUSIKERLEBNIS / {{Sonntag, 17.6., 20 Uhr}} / {{Münchner Philharmonie, Prinzregentenplatz}} [unleserlich] / Haydn Symphonie {{Hob. 1:82}} / „Der Bär“ / Beethoven Chorfantasie, c-Moll, / op. 80, Symphonie Nr. 1, C-Dur, / op. 21 / {{Es singen:}} [unleserlich – Namen der Solisten (Sopran, Tenor, Bass), Chor] / {{Leitung: Hans-Martin Schneidt}} / {{Euro}} [unleserlich – Preise]
+  [b] Herzlichen Glückwunsch! / [unleserlich – zwei Zeilen Text] / SPICK / DIE ZEITSCHRIFT FÜR SCHÜLERINNEN / UND SCHÜLER / {{Bestellen Sie ein Probeheft oder – noch}} / {{besser – gleich ein Abonnement, ganz}} / {{einfach per Telefon 01 404}} [unleserlich] {{oder}} / {{E-Mail abo-service@spick.ch}}
+  [c] KOREA PAVILLON / {{Jeden Mittwoch und Sonntag}} / {{Buffet à discrétion ab 19.30 Uhr}} / {{Unser Personal bedient Sie in}} / {{original koreanischer Nationaltracht}} / [unleserlich] / {{Klimatisierte Räume}} / {{Echt koreanische Spezialitäten}} / {{Badenerstrasse}} [unleserlich] / {{Telefon (01)}} [unleserlich]
+  [d] CH-5000 Aarau, Schweiz / Im Saalbau: / Samstag, 30. Januar, / 17.00 Uhr / Das Casal Quartett spielt / Werke von / Ludwig van Beethoven, / Georg Crumb / Antonín Dvořák / Vorverkauf: / Info Aarau 062 822 75 22
+  [e] Cantino / Das Restaurant im / Museum für Musikinstrumente / Restaurant mit Sonnenterrasse / Montag–Freitag / 12:00 bis 15:00 Uhr und 18:00 bis 23:00 Uhr / Samstag ab 18:00 Uhr / Sonntag TAPAS-Brunch 12:00 bis 15:00 Uhr / Essen Sie Tapas, so viele Sie wollen! / Modern gestalteter Innenraum. / Eingang direkt neben der Museumskasse.
+  [f] Zürich / Grosser Saal / Donnerstag, 17. Juli 19.30 Uhr / GALAKONZERT / Symphonisches Blasorchester / Stadtharmonie Zürich / Oerlikon Seebach / Leitung: Eric Conus / mit Werken von / Carl Maria von Weber · Edvard Grieg / Peter Iljitsch Tschaikowsky / Dmitri Schostakowitsch · Franco Cesarini / Alfred Reed · Philip Sparke / Karten zu Fr. 19.–, 27.– und 35.– erhältlich bei: / Billett-Service Migros (City Shopping) / Tel. 01 221 16 71 / Billettzentrale Tel. 01 221 22 83 / Musikhaus Bucher, 8050 Zürich, / Tel. 01 312 58 43 / Abendkasse am Konzerttag ab 18.00 Uhr
+  [g] Gastland NORWEGEN / KULINARISCHE Märchen / aus Fjordlachs / VOM 26. MAI BIS 22. JUNI / Frisch aus Norwegen und köstlich / zubereitet. / Lassen Sie sich von unseren sommer- / lichen Lachskreationen überraschen. / Flughafenrestaurants TOP AIR, ASIA / COFFEE SHOP, BINARIO UNO und / BRASSERIE / Reservation 01-816 60 60
+  [h] Alpenklänge / Die andere Schweizer Volksmusik / Do 17. Juli 20 Uhr Oberwalliser Spillit / Gast: Sina / Paul Locher, Geige Elmar Schmid, Klarinette / Klaus Schmid, Klarinette Oswald Bumann, Bassgei- / ge Sabine Gertschen, Hackbrett Marcel Volken, / Schwyzerörgeli Edmund Volken, Hackbrett / Do 24. Juli 20 Uhr Roots of Communication / Gast: Erika Stucky / Robert Morgenthaler, Posaune, Alphorn, Didgeridoo / Jean-Jacques Pedretti, Alphorn, Posaune Lukas Niggli, / Schlagzeug, Perkussion / HOFKONZERTE / Zentrum am Obertor 8, Winterthur / Vorverkauf: Zentrum am Obertor, Tel. 052213 88 88 / Tourist-Service, Tel. 052 26926 66 / Bei schlechter Witterung: Neuwiesenhof-Saal, Wartstr. 17, / Auskunft am Veranstaltungstag über Nr. 1600
+  [i] Hiltl. Vegetarisch / nach / Lust und Laune / Vegetarische Küche liegt im Trend! / Zum Jubiläum des Hiltl in Zürich, / des ersten vegetarischen Restaurants in E{{uropa,}} / veröffentlicht Rolf Hiltl über 60 der belie{{btesten}} / Rezepte zum Nachkochen. / Hiltl. Vegetarisch nach Lust und {{Laune}} / 168 Seiten, 120 farbige Abbild{{ungen,}} / gebunden, Fr. 59.– / WERDERVERLAG / Postfach, 8021 Züric{{h}} / Tel. 0846 860 560, Fax 01 / […] / Internet www.werderver{{lag.ch}} / Jetzt im Buchhandel er{{hältlich}}
+  [j] András Adorján / Flöte / Uwe Komischke / Trompete / Friedmann Winklhofer / Cembalo und Leitung / Konzert für Orchester, / Trompeten und Flöten / {{D}}i., 22.6 20 Uhr / {{(B}}ei schlechtem Wetter im / {{H}}erkulessaal)
+  [k] SCHWEIZER HEIMATWERK – Geschenke / von hier von heute von Hand / Hier finden Sie das optimale Geschenk für jede und jeden! / Traditionelles Kunsthandwerk und Trachten, Panorama-Poster. / jetzt neu: / große Auswahl an CDs / verschiedenster / Schweizer Künstler / Genf / Aarau / St. Gallen / Zürich, Tel. 01 211 57 80 / http://www.heimatwerk.ch
+  [l] Neuburger […] / Genießen Sie unsere Gastf{{reundschaft und}} / die sagenhafte Auswahl {{unserer Küche.}} / Am Woche{{nende}} / griechische Sp{{ezialitäten}} / Hopfenstraße 19, be[…] / Telefon 01 […] / Mo.–Fr.: 11:30–14:00 […] / Samstag/Sonnta{{g:}} […]
+  SOLUTION(complete): 11h 12x 13x 14b 15i 16l 17e 18a 19k 20g
+
+=== P30-SB1 [Dominique] pages [448] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen
+  Liebe Dominique,
+  da ich dich telefonisch nicht erreiche, auch nicht per E-Mail, schreibe ich dir einen Brief. Es ist nämlich etwas ganz Besonderes [[21]] : Stelle [[22]] vor, ich habe die Stelle bei der EU in Brüssel bekommen!
+  Du weißt noch: Es gab ungefähr 300 Bewerber, und unter denen [[23]] die besten ausgesucht. Ich hatte mich auf das Vorstellungsgespräch schon [[24]] Zeit vorher vorbereitet. Trotzdem – ohne meine Sprachkenntnisse und meine Auslandserfahrung ich die Stelle sicher nicht bekommen. Aber ein bisschen Glück braucht [[25]] auch,[[26]] so etwas gelingt.
+  Nun bitte ich dich [[27]] ein paar gute Tipps. Vielleicht kennst du auch jemanden, von[[28]] ich Informationen über das Leben in Belgien bekommen kann? Ich würde dich am liebsten kürz [[29]] , um mit dir persönlich zu sprechen. Geht das vielleicht [[30]] zwei Wochen, Z.B. am übernächsten Wochenende? Bitte gib mir Beschreiben.
+  Herzlich Grüße
+  Katie
+  21: a) geschah | b) geschehen | c) geschieht
+  22: a) dich | b) dir | c) Du
+  23: a) halten | b) wären | c) wurden
+  24: a) lange | b) langem | c) langer
+  25: a) er | b) ich | c) man
+  26: a) als | b) damit | c) ob
+  27: a) über | b) um | c) vor
+  28: a) dem | b) den | c) denen
+  29: a) getroffen | b) treffe | c) treffen
+  30: a) bis | b) in | c) an
+  SOLUTION(complete): 21b 22b 23c 24a 25c 26b 27b 28a 29c 30b
+
+=== P30-SB2 [essen] pages [449] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.
+  Sehr geehrte Frau Borner,
+  es gibt ganz viele Raschläge, wie man sich ernähren soll, was man essen soll und was nicht. Die meisten Empfehlungen sind aber nicht für etwas, [[31]] gegen etwas, und zwar immer wieder gegen etwas anderes: gegen Fleisch zum Beispiel oder gegen Zucker, aber auch gegen Milch. So [[32]] man etwa, wer kein Fleisch isst, lebt nicht nur gesünder, sondern fühlt sich auch besser.
+  [[33]] ich eine Zeitschrift durchsah, ist mir Ihre Anzeige aufgefallen, und nun habe ich folgende Fragen an Sie: Von [[34]] Nahrungsmitteln darf man eigentlich so viel essen, wie man will? Was [[35]] jeden Tag gegessen werden? Und wie ist das mit der Milch? Die einen sagen, Milch ist sehr gesund wegen der vielen [[36]] Nährstoffe. Andere meinen, wer viel Milch trinkt, kann Probleme mit dem Magen bekommen. Außerdem kann man [[37]] Milch auch Mineralwasser trinken. Was soll ich jetzt glauben?
+  Für eine Antwort [[38]] meine Fragen danke ich Ihnen im Voraus. Könnten Sie mir auch noch eine Broschüre schicken? Das Thema Essen und Sport [[39]] mich besonders interessieren, [[40]] ich selber viel Sport treibe.
+  Mit freundlichen Grüßen
+  Silvia Schönenberger
+  WORDS: a=ALS b=AUF c=DESWEGEN d=MÖCHTE e=NENNT f=SAGT g=SOLLTE h=SONDERN i=STATT j=WAS k=WEIL l=WELCHEN m=WICHTIGEN n=WÜRDE o=ZUM
+  SOLUTION(complete): 31h 32f 33a 34l 35g 36m 37i 38b 39n 40k

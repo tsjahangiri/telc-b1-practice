@@ -1,0 +1,158 @@
+0.071 0.060 1.00	Leseverstehen, Teil 3
+0.089 0.045 1.00	LANGUAGE Tests
+0.124 0.938 1.00	9
+0.132 0.113 1.00	90 Minaten Leseverstehen and Sprachbausteine
+0.172 0.142 1.00	OBER-GOMS
+0.167 0.376 1.00	b
+0.189 0.177 0.50	Wandern Im Wallis
+0.188 0.386 1.00	Ausstellung
+0.214 0.136 0.30	18.-25.
+0.206 0.138 0.30	06.-10. Junl
+0.206 0.287 0.50	Fr. 425
+0.199 0.411 0.50	_Marchen - Mythen -
+0.201 0.637 1.00	Chocolat-Werbung
+0.196 0.794 0.30	KULTURTIPP
+0.221 0.136 0.30	12.-21. September
+0.214 0.287 0.30	Pr.730
+0.209 0.441 0.50	Erzählungen™
+0.214 0.639 0.50	Im Rahmen der Aussteilung Chocolat-Totler:
+0.222 0.287 0.30	Ft.750
+0.225 0.394 1.00	Acht Künstlerinnen zeigen ihre
+0.224 0.639 1.00	Die Geschichte der Schokolade von 1899 bis
+0.237 0.170 0.30	Halt
+0.246 0.156 1.00	Wanderungen/Klettertouren mit
+0.238 0.211 0.50	nslon/Führungen/
+0.235 0.458 1.00	Arbeiten
+0.234 0.639 0.50	heute" präsentieren und kommenteren Christian
+0.253 0.181 1.00	peprülten Bergführem
+0.246 0.405 0.50	vom 2. bis 30. Juni in Thun
+0.244 0.639 0.50	Jacquet und Fritz Kobi im Komhausforum alln
+0.256 0.392 1.00	Die Arbeiten werden in der Zeit
+0.254 0.639 1.00	und neue Chocolat-Tobler-Werbefilme
+0.272 0.197 1.00	Hotel Walser
+0.266 0.398 0.50	vom 2. bis 30. Juni in Schau-
+0.267 0.639 1.00	Bern:
+0.283 0.195 0.50	3988 Uinchen
+0.276 0.390 1.00	fenstern der Innenstadt gezeigt.
+0.278 0.639 0.50	Komhausforum 19 UM
+0.292 0.191 0.50	Tel: 027/973 21 22
+0.299 0.191 0.30	Fax: 027/973 21 29
+0.292 0.448 1.00	Vernissage:
+0.286 0.639 0.50	Mehr Ausgehtipps in der ,Berner Woche" und im
+0.301 0.431 1.00	2. Juni, 19.30 Uhr
+0.296 0.639 0.50	Indernet unter www.BernerWoche.ch
+0.311 0.156 1.00	www.goms.ch/hotel-walser
+0.312 0.407 1.00	Schibenstrasse 21 - Thun
+0.321 0.425 0.50	Tel. 033 222 02 47
+0.344 0.105 1.00	d
+0.353 0.177 0.50	sarazena
+0.347 0.374 0.50	e
+0.353 0.419 1.00	DAS ASCHENPUTTEL
+0.366 0.232 1.00	Zermatt
+0.365 0.407 0.50	Cindenea, Cenerentola, Aschenputtel
+0.373 0.431 0.50	- einmal erzähit, enmal gespieit:
+0.366 0.653 1.00	SCHWEIZER
+0.382 0.158 0.30	Herzlich willkommen in t
+0.391 0.133 0.50	pemütichen Fenenhotel in zel
+0.386 0.439 0.50	KULTURTIPP
+0.385 0.657 1.00	FERIENORT
+0.403 0.162 1.00	Perfekt ausgestattete Zimmer
+0.398 0.803 1.00	ZERMATT
+0.413 0.160 1.00	mit allem Komfort, Fitnessraum,
+0.422 0.172 1.00	Tennishalle, Schwimmbad,
+0.420 0.448 1.00	Die Schriftstellerin
+0.414 0.643 1.00	Erholung pur im Naturfreunde-Hotel Zermatt
+0.430 0.158 1.00	reichhaltiges Frühstücksbuffet
+0.430 0.448 1.00	Elke Seidenreich
+0.430 0.645 0.30	• Heeriche Wanderwege in den Bergen
+0.443 0.129 1.00	Bruno & Catherine Wyrsch Zumiwen
+0.443 0.464 0.50	prasentient
+0.445 0.653 0.30	Eigener Bahnanachlovs
+0.438 0.657 0.30	Morzügliche Kiache
+0.452 0.129 0.50	Tel 027/967 44 41 - Fax 027/967 63
+0.451 0.407 0.50	zusammen mit der Basel Sinfonietta
+0.461 0.125 0.30	25
+0.458 0.423 0.50	den bekanntén Märchenstoff
+0.458 0.655 1.00	NATURFREUNDE-HOTEL ZERMATT-
+0.471 0.127 1.00	internet: www.hotei-sarazena.ch
+0.467 0.458 1.00	aut der Bühne
+0.465 0.688 0.50	Daniela +René Zimmermann
+0.472 0.690 0.30	Tel. 027 907 27 88 Far 967 60 29
+0.481 0.127 1.00	E-Mail: sarazena zermatt@bluewin.ch
+0.481 0.421 0.50	Theaterhaile Bern 20.30 UM
+0.516 0.101 0.30	g
+0.517 0.140 1.00	Tierpark Goldau
+0.513 0.314 1.00	h
+0.520 0.384 1.00	DER
+0.522 0.669 0.30	Mo.-Ft. 9.00-19. UM Sa 9.00-14.00 Uh
+0.515 0.671 0.50	Geöffnet
+0.535 0.138 1.00	ein Besuch, der sich lohnt!
+0.539 0.343 1.00	FEURIGE
+0.539 0.698 1.00	ANDREAS TIERWELT
+0.548 0.123 0.50	• Freilautzone
+0.557 0.129 1.00	Abenteuerspielplatz
+0.558 0.421 1.00	ELIAS
+0.555 0.669 0.50	• Vogel - Nager - Pilanzen
+0.566 0.131 1.00	Restaurant
+0.562 0.674 1.00	• Warm- und Kaltwasserfische
+0.577 0.127 0.50	365 Tage im Jahr offen
+0.571 0.674 1.00	• Futter und Zubehör für alle Tierarten
+0.584 0.355 1.00	Historische Lokomotiven und Waggons, jeta!
+0.587 0.669 1.00	• Fachberatung
+0.580 0.682 1.00	Aquarion und Terrarien
+0.596 0.121 1.00	Eintritt frei für Begleitpersoner
+0.594 0.376 1.00	ausgestellt im Bahnmuseum WORB
+0.605 0.121 1.00	von Gruppen ab 12 Personen
+0.602 0.669 0.50	Kreuzgasse 14
+0.618 0.123 0.50	Tel 041-855 50 00
+0.612 0.376 1.00	Führungen für Kinder und Erwachsene:
+0.609 0.671 0.50	CH 4500 Solothum
+0.621 0.339 0.50	Jeden Samstag und Sonntag 11:00 Uhr und 16:00 Uhr
+0.618 0.671 0.50	Tel. 032 622 20 20
+0.629 0.411 0.30	Infos::
+0.629 0.448 0.50	RBS, 3048 Worb
+0.626 0.671 0.50	Fax 032 021 52 32
+0.639 0.405 1.00	Telefon: (031) 925 55 55
+0.674 0.382 0.30	JAGIBUCHHANDLUNG
+0.672 0.715 1.00	Viking-Tours
+0.692 0.152 0.50	TANZ IMPULSE
+0.685 0.688 0.50	Flossfahrten auf der Aare
+0.693 0.427 0.50	Dienstag 8.5, 20 Uhr
+0.696 0.634 1.00	tägliche Fahrten von Mai bis Sep.
+0.708 0.090 1.00	Schule für zeitgenössischen Tanz,
+0.705 0.400 0.50	INGRID NOLL (Live im Loeb)
+0.709 0.634 0.50	Abfahrt der Schiltfe: 11 Uhr, 14 Uhr, 16 Uhr
+0.719 0.090 0.50	klassisches Ballett, Malen und Tanz
+0.718 0.378 1.00	die erfolgreichste und ungewöhnlichste
+0.722 0.637 1.00	Treffpunkt:
+0.722 0.754 0.50	Thun/Schwabis Schifts-
+0.731 0.384 0.50	deutsche Krimiautorin lest aus ihrem
+0.740 0.092 0.50	Laufendes Kursangetiot für Antänger und
+0.734 0.754 1.00	steg
+0.750 0.090 0.30	Forgoschrittene. Einführup@skurse zum
+0.743 0.382 0.50	unheimlichen Werk "Selige Witwen".
+0.745 0.634 1.00	Preise:
+0.746 0.754 1.00	43 Franken
+0.760 0.092 0.30	Kennenteerion, peruhistiche Bewegungsschule
+0.769 0.092 0.50	Otlene Gruppeni für Kinder, Jugendiche und
+0.762 0.439 1.00	Eintritt Ft. 10,00
+0.759 0.634 1.00	Spezialangebot:
+0.757 0.754 0.30	Abendiahrten (Rückkehd
+0.767 0.754 0.50	23 Uhr), Tarjz an Bord,
+0.779 0.092 0.50	Erwachsene, max, 10 Tel
+0.781 0.218 0.30	iehmedinnen.
+0.779 0.372 1.00	TiketCorner.ch
+0.778 0.754 1.00	Spezialangebote fur
+0.788 0.370 1.00	0848 800 800
+0.787 0.753 1.00	Senioren
+0.799 0.090 0.50	Infonnation und Beralung
+0.798 0.370 0.50	Vorverkaul 2. UG im Loeb Bern
+0.810 0.090 0.50	tanz impulse
+0.808 0.370 0.50	Telefon 031 320:20 20
+0.807 0.637 0.50	Tel 01 434 33 66 - Fax: 01 434 33 44
+0.820 0.090 0.50	Tel 027 967 18 18
+0.828 0.090 0.30	www.tatu-impuise-bemich
+0.824 0.370 1.00	Eingang Spitalgasse
+0.821 0.637 0.50	viking @viking.ch
+0.833 0.372 0.50	Türotfnung 30 Min, vor Beginn
+0.833 0.637 0.50	wwwviking.ch

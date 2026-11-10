@@ -1,0 +1,5 @@
+# P04-L1 pages [36, 37] ratio 0.964
+## website words not in OCR:
+lernen afs.ch Internet
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests anallanalgal Jues 1ejl ochsc Gaste Leseverstehen Teil aalall üNolgall Jilag LANGUAGE Tests BaRKE lemen afs.chInternet

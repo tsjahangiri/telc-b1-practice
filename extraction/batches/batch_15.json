@@ -1,0 +1,292 @@
+{
+ "batch": 15,
+ "pages": [
+  141,
+  150
+ ],
+ "records": [
+  {
+   "page": 141,
+   "paper": "P11",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nSie haben folgenden Brief von einer Freundin erhalten:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\nEntschuldige, dass ich mich erst jetzt wieder melde. Ich weiß, wir hatten ausgemacht, uns öfter mal zu\nschreiben. Aber es war so viel los in letzter Zeit. Ich habe eine Neuigkeit für dich: Meine kleine Schwester\nJanine heiratet im Oktober, und ich habe ihr versprochen, schon mal allen Freunden zu schreiben und\nBescheid zu sagen. Die offizielle Einladung bekommst du natürlich noch von ihr direkt. Eddi, ihr zukünftiger\nMann, ist echt nett, und wir mögen ihn alle sehr. Er ist koch und arbeitet hier in einem Hotel.\nWir planen jetzt alles. Gib mir deshalb möglichst bald Bescheid, ob du kommst und mit wem.\nHerzliche Grüße\nJennifer\nAntworten Sie auf den Brief. Schreiben Sie etwas zu den folgenden vier Punkten:\n. Reaktion auf Neuigkeit\n. Übernachtungsmöglichkeit\n. Sie möchten zur Hochzeit kommen\n. Hochzeitsgeschenk\nBevor Sie den Brief schreiben, überlegen Sie sich eine passende Reihenfolge der punkte, eine passende\nEinleitung und einen passenden Schluss. Vergessen Sie nicht Datum und Anrede.",
+   "arabic_labels_excluded": [
+    "جنيفر"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P11; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 142,
+   "paper": "P11",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\nDisco\nOlivia\nEinkäufe im Internet\n21 c\ndes\n1 G\n41 +\n22 b\nmich\n2 A\n42 -\n23 a\nbesondere\n3 J\n43 +\n24 b\nfür\n4 F\n44 -\n25 c\nbeeindruck\n5 D\n45 -\n26 a\nam\n27 c\nAußerdem\n28 a\nerlauben\n29 a\nEinige\n30 c\nmitzunehmen\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nKarl Popper\nADRIAN\nPraktikum\n6\nB\n46 -\n31 B\nAUFTRAG\n7\nA\n47 +\n32 J\nSTATTFINDEN\n8\nB\n48 -\n33 F\nINFORMATIONEN\n9\nB\n49 -\n34 H NENNEN\n10 A\n50 +\n35 D\nGEEIGNET\n51 -\n36 O WEGEN\n52 +\nNUN\n37 I\n53 +\n38 A\nAM\n54 +\n39 K\nTERMIN\n55 +\n40 N\nWÄREN\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\nDB\nNorddeutschland\n11 D\n56 -\n12 G\n57 +\n13 F\n58 +\n14 A\n59 -\n15 I\n60 -\n16 K\n17 X\n18 J\n19 L\n20 B",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P11 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 143,
+   "paper": "P12",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\nA) Angebot für Reisende: Für wenig Geld öffentliche Verkehrsmittel benutzen\nB) Bildband: Babys im Garten\nC) Ein Schüler mit vielen Ideen\nD) Früh übt sich: Hotels bieten Skikurse für Zweijährige an\ne) Handbuch für Hobby-Fotografen\nf) Neu: Mit dem Taxi gratis zur Disco\nG) Neu: Taxi – Tickest für Discobesucher\nh) Schulkinder schreiben spannende Geschichten\ni) Skikurs für Eltern und Kinder\ni) Straßenbahn und Bus im Flugticket enthalten",
+   "arabic_labels_excluded": [
+    "الديسكو"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "esuyll",
+     "ihschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)",
+   "uncertain": []
+  },
+  {
+   "page": 144,
+   "paper": "P12",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. Ich möchte, dass Menschen, die meine Fotos gesehen haben, von nun an die Welt mit anderen\nAugen betrachten. Das könnte der neuseeländischen Fotografin Anne Geddes gelingen. Denn\ndie Bilder, die sie für das Buch. Drunten im Garten von den kleinen Menschenkindern gemacht\nhat, sind ungewöhnlich und wunderschon: Babys auf Blumen, Blattern, Beeren, verkleidet als\nMorcheln, Melonen oder Marienkäfer, Babys in Tulpen und als Schmetterlinge. Ein Bildband,\nangereichert mit poetischen Texten und Ratschlägen.\n2. Die meisten Skikurse für Kinder beginnen im Alter von vier Jahren. Im Kärntner Baby Dorf\nTrebesing ist das anders: Hier werden im Windel Wedel Camp bereits Kleinkinder ab zwei\nJahren unterrichtet. Täglich zwei Stunden können die Skihaserin unter fachkundiger Anleitung\nauf einem flachen Hügel erste Geh- bzw. Fahrversuche auf zwei Brettern machen. Nach einigen\nTagen Übung geht es dann mit dem Baby Bus ins Skigebiet Innerkrems. Auch Ginas Baby – und\nKinderhotel am Fiaker See bietet seinen jüngsten Gästen Skikurse. Fast 1000 Knirpse haben in\nder Windelschule schon Skifahren gelernt. Auskunft: Tourismusverband Leiser – Malta Tal und\ndie Kinderhotels\n3. Berlins jüngster Schriftsteller hat deutlich mehr Texte verfasst als er Jahre zählt. Rund 50\nGedichte und Erzählungen tippte Daniel Story. 12, schon in seiner Computer. Ich schreibe fast,\nseitdem es mich gibt, sagt der Sechstklässler Bereits mit sieben dichtete er die ersten Verse,\njetzt mit zwölf ist er stolz auf seine erste Autorenlesung. Wenn Freunde Fußball spielen, tobt\nDaniels Phantasie im Kinderzimmer. Warum er lieber schreibt? Daniel: Ich schreibe, weil ich\nnicht alles erleben kann, was ich denke.\n4. Ob Sie privat oder geschäftlich unterwegs sind, mit dem Stadt Ticket können Sie billig die\nöffentlichen Verkehrsmittel nutzen. Voraussetzung: Sie sind mit dem Flugzeug oder der\nDeutschen Bahn(über 100 km) angereist. Gegen einen Aufpreis von nur Euro 2,50 ermöglicht\nIhnen das Stadt Ticket auch nach der Ankunft am Zielort freie Fahrt. Mit U- S- oder\nStraßenbahnen sowie Bussen. Bis zu 48 Stunden. Übrigens: Ihr Stadt Ticket gilt an zwei\naufeinanderfolgenden Tagen, die Sie beim Kauf Ihres Fahrscheines selbst bestimmen.\n5. In Mecklenburg-Vorpommern können junge Leute jetzt für den halben Fahrpreis mit dem Taxi\nauf Discotour gehen. Tickets dafür sind bei allen Geschäftsstellen der Allgemeinen\nOrtskrankenkasse (AOK) sowie an Esso Tankstellen zum halben Preis erhältlich. Junge Leute\nzwischen 16 und 25 Jahren können sie an Wochenenden und Feiertagen in der Zeit von 20 Uhr\nbis morgens 6 Uhr benutzen. Die Taxifahrer erhalten bei ihrer Zentrale dann den vollen\nFahrpreis erstattet.",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)",
+   "uncertain": []
+  },
+  {
+   "page": 145,
+   "paper": "P12",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nLeipzigerin geht in den USA auf Sendung\nDrei Monate Praktikum für junge Sachsen im Land der unbegrenzten Möglichkeiten\nManchmal fühle ich mich wie ein Missionar, scherzt Ulrike Rudelt. Das Bild vom Deutschen, der Lederhosen trägt, Bier\ntrinkt und Sauerkraut isst, hält sich ihrer Meinung nach in der Öffentlichkeit Amerikas ganz stark und wird vor allem in\nder Fernsehwerbung ständig wiederholt. Dagegen kämpfe ich, sagt die 25- Jährige selbstbewusst, die derzeit ein\ndreimonatiges Praktikum am Institute of International Studies in Kalifornien absolviert und so oft es geht über die\nHeimat erzählt.\nAn der Uni in Monterey darf die Leipziger Studentin neben dem Hospitieren auch selbst unterrichten. Das Interesse der\nStudenten und Dozenten an der deutschen Sprache, an Geschichte und Gegenwart Deutschlands ist große. Richtig in\nFahrt kommt Ulrike, wenn es um den Mauerfall geht und darum, wie sich der Osten nach der Wende entwickelt hat. Die\nChancen, die ich jetzt habe, hatten meine Eltern nicht, sagt sie. So ging sie nach dem Studium als Au Pair-Mädchen nach\nEngland und machte im Rahmen studentischer Austauschprogramme bereits Praktika in den USA und den\nNiederlanden.\nEinen Vorgeschmack vom. American Way of Life gab es bereits während des einwöchigen Einführungsseminars in New\nYork, schwärmt Cornelia Schiemenz. Die Stadt pulsiert, und wir hatten jede Menge Spaß. Auf dem Programm standen\nAusflüge, und dazu hörten sie jede Menge vor träge zum Welthandel, Kampf gegen Arbeitslosigkeit, zur wirtschaftlichen\nEntwicklung der USA und Kriminalitätsbekämpfung. In Denver, wo die Studentin für Kommunikations-und\nMedienwissenschaft die Arbeit eines Tv- Senders kennen lernt, steht sie nach einigen Tagen selbst vor der Kamera und\ndarf Beiträge für den Sender produzieren ich bin absolut glücklich, sagt die 23 – jährige.\nAntje Kutzer, die dritte Leipzigerin in der Gruppe, hat es nach Los Angeles verschlagen. Nach dem Abitur hat sie\nReiseverkehrskauffrau gelernt. In der Reisekette New World Travel erste Erfahrungen. Anfangs erzählt die 23- jährige\nhatte ich großes Heimweh, es sind doch einige Kilometer weg von Leipzig. Doch dann stelle ich mich der Chefin im\nbesten Englisch vor, worauf sie auf Deutsch antwortete, dass wahnsinnig freut, dass ich ihr über die Schulter sehen will.\nDie drei Frauen zählen zu den 20 jungen Berufsanfängern aus Ostdeutschland, die unter 2100 Bewerben der Pall- Mall -\nInitiative ausgewählt wurden und ein dreimonatiges Praktikum in den Staaten absolvieren. Bei der Auswahl der\nPraktikanten legt man auch auf Auslandserfahrung Wert. Schließlich geht es nicht darum, dass die Teilnehmer ein paar\nschöne Wochen im Land der unbegrenzten Möglichkeiten erleben. Die Unternehmen stellen zumeist hohe\nAnforderungen.",
+   "arabic_labels_excluded": [
+    "يبزيغ",
+    "لا"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)",
+   "uncertain": []
+  },
+  {
+   "page": 146,
+   "paper": "P12",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Die Werbung in den Vereinigten Staaten\nbeschäftigt sich überhaupt nicht mit Deutschland.\nA\nzeigt immer wieder dasselbe Bild von Deutschland.\nB\nzeigt viele unterschiedliche Seiten von Deutschland.\nC\n7. Die Eltern von Laura Rudelt.\nA\narbeiten und lebten lange Jahre in den Niederlanden.\nhatten nicht die Möglichkeiten wie ihre Tochter.\nB\nwollen ihre Tochter nun in den USA Besuchen.\nC\n8. Während die Praktikantinnen in New York waren.\nbekamen sie eine Stadtführung.\nA\nbesuchten sie einen Sprachkurs.\nB\nwurden sie über wichtige Themen informiert\nC\n9. Die dritte Leipzigerin, die in die USA gereist ist\nkommt eigentlich aus Österreich.\nA\nwollte dort ihr Abitur machen und dann studieren.\nB\nwurde von ihrer neuen Chefin freundlich aufgenommen.\nC\n10.\nWer als Praktikantin ins Ausland geht\nbraucht schon einige Berufserfahrungen.\nA\nsoll dabei vor allem das Land kennenlernen.\nB\nsoll schon einmal im Ausland gewesen sein.\nC",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.72,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "stadttührung"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)",
+   "uncertain": []
+  },
+  {
+   "page": 147,
+   "paper": "P12",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Sie möchten für ein Jahr in Wien Psychologie studieren und suchen daher eine günstige\nMietwohnung.\n12. Sie möchten am Abend ins Kino gehen und suchen daher eine verlässliche Person, die auf Ihr Kind\naufpasst.\n13. Sie möchten in den Sommerferien nebenbei ein wenig Geld dazu verdienen und suchen daher\neinen passenden Job.\n14. Sie möchten ein Geburtstagfest organisieren und brauchen dafür einen Raum. Um das Essen und\ndie Getränke für die Gäste möchten Sie sich selbst kümmern.\n15. Ihre Bekannten aus Deutschland müssen aus beruflichen Gründen nach Salzburg\numziehen und haben Sie gebeten, eine Mietwohnung für Sie suchen.\n16. Ihre 23 – jährige Freundin hat soeben einen Computerkurs abgeschlossen und sucht einen Job.\n17. Ihr 12 – jährige Sohn wünscht sich zum Geburtstag Buch über Sterne.\n18. Ihre Kinder möchten am Nachmittag ins Kino gehen. Sie suchen einen passenden Film für Kinder.\n19. Sie möchten mit Freunden gern ins Kino gehen. Da es ein sehr warmer Sommerabend ist , suchen\nSie nach einer Vorstellung im Ferien.\n20. Ihre Freundin ist Erzieherin und zur Zeit arbeitslos. Sie möchte daher als Kindermädchen bei einer\nFamilie arbeiten.",
+   "arabic_labels_excluded": [
+    "فيينا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.99,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "undhaben"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)",
+   "uncertain": []
+  },
+  {
+   "page": 148,
+   "paper": "P12",
+   "section": "L3",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\n90 Minaten\nteine\nFeiorn im\nCafe-Restaurant\nNoc 3 freie Piätre\nKINO-CENTER\nPrivatkindergarten\n312 45 89\nBAMBI!!!\n1534\nSaal 1,\nPadagogisches Top-Team\n1K.01\nShrek2\nHele, kindergerechte Räume\ntn angischir Drgnain\nEigone Spielwiese\nSaal 2,\nGanzjanng geöffnet\n1500\nDas Komplott\nBetreuung Mo-Fr 5-18 Ulv\n(ister, Tesder)\nSaal 3,\n13 43 56\nWir freuen uns auf ihren Liebling!\nMäusejagd\nTel: 533 12 43\ntab E lahrun)\nSaal 4,\neye\n7015\nBesser geht's nicht\nMstar-CeatrinT)\nd\nA irPlus\nein unverpesihe\n23-ahnge Psychologio-\nDann haier\n(Austrian Airtines/Diners Clab Kreditkarte)\nstudentin, kinderlitbont\nPartyservice!\nSachbearbeiter(in)\nSUCA\nzattch fexbel snd im\nUrganç mit Kindera ertahren.\nWr kümmem uts un Speisen un\nfür Kundendienst\nkümmert sich stundanwatse gemne\nGetränke Ka jedes Fest, Geburts\nHocheot, Kaderparies, e1c\n22- Di 26-Jätrige mit Maturarisnau und Beruferfahvung\num thre Kinder!\nmputer-Kenrensso)\n10 Eurs / Stundal\nRese\n*Wochen or cem Pee\nSiy Se gena\nnd ruwerasnig und haban letereone an\nakt mit unsaren Kundon, dann solten\nTel: 214 34 66, Frau Kem\nzusende\nSie uns ihre Béworbungsuntefagen mit Fote mesch\nIch froue mich aul ihren Anruf:\nAirPlus, A-1107 Wien, Fontanastrade 1\nLisa, Tel: 312 04 23\n(01) 1766/3661\nh\n9\nStudentenhit in Wien!\nA-1030 Wien\nHangmayerstrasse\nKINO UNTER STERNEN\n1-Zimmer-Wohnung, 30 ml, Bad.\nStudenteneigentum\nWC, Uni-Nähe, koine Abiöse,\nOPEN AIR IM AUGARTEN\nbefristet für 1 Jahr, monatl.\n300 Euro inkl. Betriebskosten\nDer Fim heute:\nUni-Real, 5533-0\nMEET ME IN ST. LOUIS\nMusical Über die 4 Jahreszeiten einer\n1-Zi-Wohnung. Kü, Bad, B\nFamile, mit Judy Garland/21.30\n29 m*, ruhige Lage, sof. ann\nKP 50.000 Euro\nTol 38 80 44\n-\nSTADTKINO\nsucht\n,PC-Kenntnisse\nfür die Sommermonate\nnotwendig\" -\njunge Mitarbeiterinnen\nJuli - September\nBabysitterin bzw. Kindermädchen\nFamilie sacht\nfür den Kartenverkauf und\nsteht das auch in der Anzeige\nKein Probleme!\nfür thren Traumjob?\n(zuveriassig, ertahren, treundlich)\ndas Buttet,\n10 Stunden/Woche,\nArbeitszeit nach Absprache.\nabends, guter Verdienst,\nVolkshochschule Simmering\nFamilie Hock, Tel. 217 354\nKarin Moor, Tel: 712 6276\nnihere Ausküntte:\ntretot\nberufsorientierte PC-Kurse\n(Abend- und Wochenendkurse)",
+   "arabic_labels_excluded": [
+    "فيينا"
+   ],
+   "images": {
+    "count": 3,
+    "page_coverage": 0.99
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 178,
+    "sample_missing": [
+     "abend",
+     "abends",
+     "abiöse",
+     "absprache",
+     "ahnge",
+     "airplus",
+     "airtines",
+     "angischir",
+     "anruf",
+     "anzeige",
+     "arbeitszeit",
+     "auch",
+     "augarten",
+     "ausküntte",
+     "austrian",
+     "babysitterin",
+     "bambi",
+     "befristet",
+     "beruferfahvung",
+     "berufsorientierte",
+     "besser",
+     "betreuung",
+     "betriebskosten",
+     "buttet",
+     "cafe"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Ads photo; transcribed manually from 230-260dpi crops (corrections/P12.json)",
+   "uncertain": [
+    "p148 ad e/c: small print, moderate confidence"
+   ]
+  },
+  {
+   "page": 149,
+   "paper": "P12",
+   "section": "SB1",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 1\nLANGUAGE Tests\nLesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.\nMarkieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen\n……………………………………………………………………………………………………………………………………………………\nSehr geehrter Herr Meyerhofer,\nWie Sie wissen , miete ich nun schon seit drei Jahren eine Wohnung in (21)Haus. Ich (22) die\nganze Zeit sehr zufrieden, denn im Haus war es immer ruhig, sauber und sicher. In der\nZwischenzeit (23) sich die Wohnqualität durch die Eröffnung des Restaurants im Erdgeschoss\naber deutlich verschlechtert.(24) spät abends höre ich nun täglich (25) Lärm der\nRestaurantsgäste im Garten, die Mülleimer im Hof sind immer überfüllt, die Parkplätze vor\ndem Haus, (26) eigentlich für die Mieter reserviert sin , sind immer besetzt, und das\nTreppenhaus ist ständig verschmutzt. Außerdem fühle ich mich (27) Haus nicht mehr sicher,\nweil das Restaurant oft die ganze Nacht (28) hat. Ich möchte Sie dringend bitten, such um\ndiese (29) zu kümmern und mit den Restaurantbesitzern zu sprechen. Vielleicht könnte (30)\nGemeinsam eine Lösung finden.\nMit freundlichen Grüßen\nIhre Anneliese Kühne\nA\n21.\nA\nIhr\n24.\nA\nBis\n27.\nim\n30.\nA\ner\nIhrem\nNach\nin\nman\nB\nB\nB\nB\nIhren\nVon\nins\nwir\nC\nC\nC\nC\n22.\nA\nA\nwar\n25.\ndem\n28.\nA\ngeöffnet\nwäre\nden\nöffnen\nB\nB\nB\nwürde\nder\nöffnet\nC\nC\nC\nA hat\nA denen\nA Problem\n23.\n26.\n29.\nB ist\nB die\nB Probleme\nwurde\ndiese\nProblemen\nC\nC\nC",
+   "arabic_labels_excluded": [
+    "وفر",
+    "ه",
+    "ماير"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.981,
+    "ocr_words_missing_from_textlayer": 4,
+    "sample_missing": [
+     "aihr",
+     "bihrem",
+     "cins",
+     "cwurde"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)",
+   "uncertain": []
+  },
+  {
+   "page": 150,
+   "paper": "P12",
+   "section": "SB2",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 2\nLANGUAGE Tests\nLesen sie den Text und schließen Sie\nLücken 31 – 40. Benutzen Sie die Wörter\n(a, o) Jedes Wort passt nur einmal.\nMarkieren Sie Ihre Lösungen für die\nAufgaben 31 – 40 auf dem\nAntwortbogen.\nSehr geehrte Herr Blanco Ruiz\nIch schreibe Ihnen auf die Anzeige, die (31) in der heutigen Bild – Zeitung aufgefallen ist. Da\nich (32) einige Monate beruflich nach Südamerika gehe, muss ich sehr schnell Spanisch lernen.\nFür einen richtigen Sprachkurs habe ich leider (33) Zeit. Aber Ihre Methode interessiert mich,\nvor allem die Sprachübungen (34) den CDs. Ich denke, damit könnte ich ganz (35) Ich arbeite\n(36) liebsten mit meinem PC. Sie schreiben, (37) Ihr Programm besonders die alltägliche\nKommunikation fördert. Wie lange wird es dauern, (38) ich mich meinen Geschäftsfreunden\nrichtig unterhalten kann? Und wie viele Stunden (39) Woche sollte man mindestens üben?\nKönnen Sie mir eine Musterlektion schicken ich? (40) gerne ausprobieren, wie ihre Methode\nfunktioniert\nMit freundlichen Grüßen\nIhre KARIN ÜBERSCHÄR\na\nAM\nd\nFÜR\ng\nMICH\nj\nMÖCHTE\nm\nWÄHREND\nb\nBIS\ne\nGUTE\nh\nMIR\nk\nOHNE\nn\nWÄRE\nc\nDASS\nf\nKENIE\ni\nMIT\nl\nPRO\no\nWÜRDEN",
+   "arabic_labels_excluded": [
+    "بالنكو رويز)تعلم اللغة االسبانية("
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.06
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.99,
+    "ocr_words_missing_from_textlayer": 3,
+    "sample_missing": [
+     "guter",
+     "plaipale",
+     "schul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)",
+   "uncertain": []
+  }
+ ]
+}

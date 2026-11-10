@@ -1,0 +1,294 @@
+{
+ "batch": 19,
+ "pages": [
+  181,
+  190
+ ],
+ "records": [
+  {
+   "page": 181,
+   "paper": "P14",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. Sie können zwei Flüge nach Griechenland gewinnen.\n57. Für Ihre Gruppe ist ein Wagen im Zug nach Aschaffenburg reserviert.\n58. Auf der Internetseite kann man auch günstige Angebote für Haushaltsgerät.\n59. Erst morgen Abend bildet sich Nebel..\n60. Am besten fahren Sie ab Northeim mit dem Bus.",
+   "arabic_labels_excluded": [
+    "اليونان"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.944,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "lieil"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P14; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 182,
+   "paper": "P14",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nEine Freundin hat Ihnen den folgenden Brief geschrieben:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\nWie geht es dir und deiner Familie?\nBei mir läuft alles prima. Endlich habe ich eine neue Arbeitsstelle. Ich habe nur ein kleines Problem: Es ist ein\nbisschen zu weit, um zu Fuß zu gehen.\nUnd der Bus fährt nur alle 30 Minuten. Früher bin ich meist mit dem Fahrrad gefahren, aber hier gibt es keine\nFahrradwege. Und da ist ja auch noch mein Daniel, den ich morgens in den Kindergarten bringen muss.\nDer liegt zum Glück gleich neben meiner neuen Firma. – Wie kommst du denn zur Arbeit oder zum\nDeutschkurs?\nWollen wir uns nicht mal wieder treffen und alle zusammen was unternehmen? Ich würde mich freuen.\nLiebe Grüße\nVera\nAntworten Sie Vera. Schreiben Sie etwas zu allen vier Punkte:\n. Was es bei Ihnen Neues gibt .\n. Was Sie zur Arbeit kommen.\n.Was Sie über Veras neue Stelle wissen wollen .\n.Vorschlag für gemeinsame Unternehmung?\nÜberlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine\npassende Anrede, Einleitung und einen passenden Schluss.",
+   "arabic_labels_excluded": [
+    "فيرا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "chschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P14; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 183,
+   "paper": "P14",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\nZeitung\nBeatrice\nBus zur Arbeit\n21 a\nam\n1 D\n41 -\n22 c\nschon\n2 J\n42 -\n23 b\nmeinem\n3 E\n43 +\n24 c\nmir\n4 B\n44\n-\n5 C\n25 c\nFreundinnen\n45 -\n26 b\nobwohl\n27 a\ndaran\nwenig\n28 a\n29 b\nOder\nBis\n30 b\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nComputerprobleme\nAlpen\nTouristen\n6\nA\n46 +\n31 D\nENTDECKT\n7\nA\n47 -\n32 M WEIL\n8\nA\n48 -\nWENN\n33 N\n9\nC\n49 +\nOFT\n34 I\n10 B\n50 +\nKENNEN\n35 G\n51 -\n36 A\nABER\n52 -\n37 K\nUNS\n53 -\n38 O\nWÜRDEN\n54 +\n39 J\nPAAR\n55 -\n40 C\nEINMAL\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\nPraktikum\nGriechenland\n11 D\n56 -\n12 G\n57 +\n13 F\n58 +\n14 A\n59 -\n15 I\n60 +\n16 K\n17 X\n18 J\n19 L\n20 H",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 12,
+    "sample_missing": [
+     "berlner",
+     "cepiger",
+     "csnostauetane",
+     "dieowelte",
+     "frankfuterrundschau",
+     "gemrine",
+     "morgenpe",
+     "stladeulsche",
+     "sunfintr",
+     "tacesspiegel",
+     "voukseetung",
+     "zeiun"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P14 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 184,
+   "paper": "P15",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\na) Zufriedenheit im Job schützt vor Stress\nb) Erfolgreiche Männer können auch gute Väter sein\nc) Keiner lacht so fröhlich wie der Weihnachtsmann\nd) Wie Männer und Frauen lachen\ne) Weniger Arbeit – weniger Stress\nf) Schlechte Nachrichten? Sagen Sie es mit einem Lächeln\ng) Der Beruf ist für Männer wichtiger als die Familie\nh) Auch ältere Menschen leiden unter Stress\ni) Frauen reagieren besser auf schlechte Nachrichten als Männer\nJ) Mit 70 Jahren macht das Leben am meistens Spaß",
+   "arabic_labels_excluded": [
+    "الضحك"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.04
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "chul",
+     "snsil"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)",
+   "uncertain": []
+  },
+  {
+   "page": 185,
+   "paper": "P15",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. Frauen lachen auf viele Arten Sie kichern glucksen und manchmal singen sie fast Bei Männern dagegen\nkommt das viel seltener vor. Aber gemeinsam ist Männern und Frauen, dass sie in Vokalen lachen die\nim Mundzentrum gebildet werden. Und das ist entscheidend: Nur wenn die Vokale im Mundzentrum\ngebildet werden, ist das Lachen für uns fröhlich und positiv. Damit ist bewiesen, dass das Lachen vom\nWeihnachtsmann, dass wie eine tiefes Ho, ho , ho klingt. Kaum als fröhlich empfunden wird. Denn\ndieser Laut wird im hinteren Teil des Mundraums gebildet.\n(aus einer deutschen Zeitung)\n2. Viel Arbeit, viel Stress. Wer viel arbeitet muss nicht unbedingt gestresst sein. Frauen in medizinischen\nBerufen zum Beispiel klagen trotz teilweise hoher Belastung deutlich weniger über stressbedingte\nKrankheiten als Raumpflegerinnen, Kindergärtnerinnen oder Berufsschullehrerinnen. Dies zeigt eine\nUntersuchung des Hamburger IPO – Instituts, das für eine Studie 1000 Frauen und Männer befragt hat.\nVor Stress schützen laut Studie ein angenehmes Betriebsklima, ein gutes Verhältnis zur Chefin oder\nzum Chef und die Möglichkeit, die eigene Arbeit selbstständig zu planen.\n(aus einer deutschen Zeitung)\n3. Ein neues Buch zeigt, wie Männer Fähigkeiten aus dem Arbeitsleben auf die Erziehung übertragen\nkönnen und so zu erfolgreichen Vätern werden. Da wird die gemeinsame Kindererziehung zur\nPartnerarbeit (oder sogar zum Joint Venture) geschicktes Verhandeln heißt, das Kind zu überzeugen,\ndass sie Zähne geputzt werden müssen, und der Familienurlaub hat alle Qualitäten einer Tagung oder\neines Seminars: Man erhält die Gelegenheit, die Kinder intensiv zu studieren.\n(aus einer deutschen Zeitung)\n4. Eine Studie der Universität Essex hat ergeben dass wir mit siebzig Jahren am glücklichsten sind. Zwar\nhaben die meisten Menschen in diesem Alter gesundheitliche Probleme, aber dafür genießen sie viel\nFreizeit und haben keinen Stress mehr. Deshalb macht ihnen das Leben so viel Spaß wie nie zuvor. Die\nStudie besagt auch, dass wir einen ersten Höhepunkt der Lebensfreude mit fünfzehn Jahren erreichen.\nDanach geht es bergab zwischen dreißig und fünfzig Jahren tragen wir am meisten Verantwortung das\nLeben ist geprägt von Sachzwängen.\n(aus einer deutschen Zeitung)\n5. Warum bleiben manche Managerinnen erfolgreich, obwohl sie Nachrichten mitteilen, die ihr Publikum\nlieber nicht hören möchte? Ganz einfach: Sie verkaufen die schlechte Nachricht mit Humor. Ein\nLondoner Soziologe hat während einer Studie beobachtet, dass gerade bei Reden unangenehmen\nInhalts oft heiter gelacht wird. Das Lachen wird bewusst provoziert, etwa durch bestimmte Wörter\noder durch ein eigenes breites Lächeln. Die fröhliche Stimmung soll dafür sorgen, dass die Zuhörenden\ndas Gefühl haben würden mehr wissen als alle anderen.\n(aus einer deutschen Zeitung)",
+   "arabic_labels_excluded": [
+    "الضحك"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P15 L1 texts compared on legible contact sheet; matches",
+   "uncertain": []
+  },
+  {
+   "page": 186,
+   "paper": "P15",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nGeheimnisse des Schlafes\nSchlafstörungen – die meisten Ursachen sind harmlos\nLange Zeit hat man geglaubt, dass der Schlaf nur so etwas ist wie der kleine Bruder des Todes Ein Zustand der Körper\nEnergie spart und alles langsamer läuft. Erst in den 50 er Jahren des letzten Jahrhunderts fand man heraus dass schlafen\netwas sehr Aktives ist und Nacht für Nacht in unterschiedlichen Abschnitten verläuft. Der Schweizer Schlafforscher\nAlexander Borbely hat diesen Vorgang mit einer Treppe verglichen, über die wir jede Nacht mehrmals gehen.\nZunächst sind wir wach, dann schlafen wir ein und gehen bis tief hinab in den Keller in einen tiefen Schlaf. Danach geht\nes wieder hoch in einen leichten Schlaf, der von lebhaften, intensiven Träumen und schnellen Augenbewegungen\nbegleitet wird Daher wird diese Phase auch REM-Schlaf ( rapid-eye-movements = schnelle Augenbewegung) genannt.\nDieser Abschnitt ist im Gegensatz zu den anderen Phasen mit etwa 20 Minuten sehr kurz, soll aber äußerst wichtig für\ndie physische Erholung sein.\nDamit hat die Wissenschaft aber noch lange nicht alle Probleme des Schlafes gelöst. Erwiesen ist nur: Wir brauchen ihn\nzur körperlichen Erholung, auch wenn wir ihn manchmal als Zeitverschwendung empfinden – immerhin verbringen wir\nein Drittel unseres Lebens mit schlafen.\nWarum können wir aber nicht immer sofort einschlafen, wenn müde sind? Tatsächlich klagen viele Menschen in den\nwestlichen Industrienationen über gelegentliche oder dauernde Schlafstörungen.\nSo muss unser Körper, ins besonders das Gehirn die Eindrücke des Tages erst einmal verarbeiten damit wir gesund\nschlafen. Diese System reagiert so sensibel, dass schon kleine Ursachen – äußere und innere – störend wirken können.\nÄußere Ursachen können sein: Lärm, eine ungewohnte Umgebung, ein zu spätes, zu reichliches Essen, kälte oder\nwärme, alles wirkt sich auf unser Wohlbefinden und somit auch auf den Schlaf aus.\nAls innere Ursachen kommen Schmerzen, Angst oder Ärger über ungelöste Konflikte in Frage.\nErkrankungen beeinflussen den Schlaf, auch Medikamente können eine störende Rolle spielen Alles was uns gedanklich\nstark beschäftigt, kann unseren Schlaf beeinträchtigen. Wer aber nur gelegentlich nachts aufwacht, oder auch einmal\neinige Tag schlecht schläft braucht sich keine Sorgen zu machen. Ein paar schlaflose Nächte lassen sich schnell wieder\nnachholen.\nEin echte Schlafstörung liegt erst dann vor wenn unsere Leistungsfähigkeit oder unsere Gesundheit auf Dauer stark\nbeeinträchtigt werden. Dann sollte man auf jeden Fall ärztlichen Rat suchen.",
+   "arabic_labels_excluded": [
+    "أسرار النوم"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)",
+   "uncertain": []
+  },
+  {
+   "page": 187,
+   "paper": "P15",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Der Schweizer Schlafforscher Alexander Borbety\nbehauptet, dass der gesunde Schlaf gleichmäßig ist.\nA\nbeschäftigt sich seit 50 Jahren mit dem Thema Schlaf.\nmeint, dass es beim Schlaf verschiedene Stufen gibt.\nC\n7. Während der Leichtschlafphase\nerholt man sich nicht gut.\nA\nträumt man besonders viel.\nwacht man öfter auf.\nC\n8. Die Wissenschaft ist heute der Meinung, dass\nalle Probleme des Schlafes gelöst sind.\nA\nder Schlaf der Körperlichen Erholung dient.\nman durch Schlafen viel Zeit verliert.\nC\n9. Vor allem die Menschen in westlichen Ländern\nklagen darüber, dass sie schlecht schlafen können.\nA\nkönnen ohne Sorgen und Probleme schlafen.\nwerden beim Schlafen gelegentlich gestört.\nC\n10. Zum Arzt sollen die Menschen gehen, die\nlängere Zeit sehr schlecht schlafen.\nA\nmanchmal nachts aufwachen.\nzu viel und zu lange schlafen.\nC",
+   "arabic_labels_excluded": [
+    "أسرار النوم"
+   ],
+   "images": {
+    "count": 5,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.536,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)",
+   "uncertain": []
+  },
+  {
+   "page": 188,
+   "paper": "P15",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Ihr Bekannter ist Sportlehrer und sucht eine Nebenbeschäftigung in einem Verein.\n12. Ein guter Bekannter (39) sucht eine Partnerin. Er ist reiselustig und geht spazieren.\n13. Ihre Freundin ist besonders hübsch, Studentin und sucht für die Semesterferien im Sommer einen\nJob.\n14. Sie suchen für das kommende Wochenende eine Konzertkarte.\n15. Ihre 30-jährige Freundin hat in einem Hotel in Spanien gearbeitet und sucht jetzt eine ähnliche\nArbeit in Deutschland.\n16. Ihre 55-jährige Nachbarin sucht jemanden, mit dem sie reisen und klassische Konzerte besuchen\nkann.\n17. Sie möchten lernen, wie Sie kleinere Reparaturen an Ihrem Auto selbst machen können.\n18. Die Tochter Ihrer russischen Bekannten sucht eine Au-pair-Stelle in Deutschland. Sie ist erst 18\nJahre alt.\n19. Ihre 21-jährige Bekannte sucht eine Stelle als Kindergärtnerin.\n20. Eine Freundin braucht ein paar Ratschläge, wie sie erfolgreich eine neue Arbeit finden kann.",
+   "arabic_labels_excluded": [
+    "البحث عن وظيفة"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)",
+   "uncertain": []
+  },
+  {
+   "page": 189,
+   "paper": "P15",
+   "section": "L3",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\n90 Minuten Leseverstehen und Sprachbausteine\nMeineWelt\nb\nNir suchen zum nächstmöglichen Termia\nist Beethoven\nRichtig bewerben - Bewer-\nRezeptionisten /\nsine/n\nbungen richtig gestalten\nJung gebliebener Rentner,\nvon Hans Mülller\nRezeptionistin\nehemaliger Musiklehrer (Gymnasium),\neyuschen armarts tae trund\nDas 11-Punkte-Programm\nBeethovenfan, besucht (fast) alle\nzur erfolgreichen Bewerbung\nBeethovenkonzerte und Opern auf\nberdurchschnittlighe Bezahlung\nWir bleten:\nubeitsverhältnis (ganzjährig) gutr\nfestes\nder ganzen Welt.\naus dem Milleniums-Veriag, mit vielen\nSuche kuftur- Und musikbegeisterte\nMusterbeispielen und Checklisten hilft\natmospháre\nIhnen, Bewerbung und Bewerbung®-\nIhre Bewerbungsunterlagen\nWir\nerwarten:\nBegleiterin Über 50, Zuschriften unter\ngespräch erfolgreich zu bestehen.\nHotel Vier Jahreszeiten\nA/B 5813 an diese Zeitung\nJetzt neu in Ihrer Buchhandlung!\nPostfach 12345\nd\nNeverscheinung zur Buchmesse\nf\nNette Lehrerin sucht Partner:\nein Sportclub mit\nWr sind\n•Ratgeber Au pair*\nIch bin über dreißig, aber unter vier-\nron Erka und Justus Malet-Kraus\nsuchen für die nächste Saison einen\nengagierten Mitgliedern und\nzig: meine Hobbys sind Reiten und\nus dem inhalt:\nentrainer\nWandern. Ich suche einen humorvol-\nlen, intelligenten Enddreißiger, der\n• Suche und Auswahl des richtiger\nGegenden erkundet und immer ein\nmit mir zu Fuß oder zu Pferd feme\nAu-pair-Mädchens\n• Vertragsbestimmungen\nfür unsere Vereinsjugend.\noffenes Ohr für mich hat.\n• Wie hoch ist das passende Ge-\nhalt?\nSchwerpunkte: Handball, Volleybal,\nZ/B 2240\n• Was müssen Sie beachten? uvm.\nMILLENIUMS-VERLAG - HAMBURG\n(je 3 Stunden)\nSportclub Erbach\nTel.: 01233/56744\nKindergarten\nWir stellen ein:\n„HoRuspokus\"\nAutomechaniker/\nh\nAutoschlosser\nCroßes Modehaus sucht\nsucht neue\njunge\nMitarbeiterin\nSie haben eine abgeschlosse-\nModels\nzum 1. September.\nne Berufsausbildung und viel\nFreude\n(männlich /weiblich)\nSie sind: kinderlieb, temperamentvoll,\nan Ihrem Beruf?\ntür Modeochauen In garz Deutschland (\nkreativ und geduldig!\nDann schwimmen Sie mit uns\nMonaton Jull und August\nDann bieten wir Ihnen einen Job in einem\nauf der Erfolgswelle.\nWe bieten gute Bezahlung bei heier Ra\ndynamischen, jungen Team mit guter\nBewerbungsunterlagen an:\nBewerbungen mt Foto an:\nBezahlung!\nAutohaus Robert & Sohn,\nModehaus Schwärzinger,\nBewerbung an:\nMarketing-Abteilung. Postfach\nHakuspokus, Gartenstr. 19, Karlsruhe\nPostfach,\n76530 Baden-Baden\n33378 Rheda-Wiedenbrück\nFür meine 2 und 4-jährigen Töchter suche ich\nj\nk\nStadtverwaltung\nImmer Ärger\nab kommenden Winter nettes, kreatives\nErbach\nmit der Autowerkstatt?\nrussisches\nReparatures zu teuer und schlecat genacht?\nAu-pair-Mädchen\nAbteilung Sport\nMachen Sie as dach seibst!\nUm den Bürgerinnen und Bürgem die\nIn dem Standardwerk\nfür die betreuung der Kinder und leichte\nWahl des richtigen Sportvereins zu\nHANDBUCH\nAUTO\n21 Jahre' alt, Studentia, pute Raferenzen, mit\nHausarbetten Voraussetzungen: mindestens\nereichtern, haben wir eine informations\nvan Koribert Panse\nbroschüre mit den Anschriften aller\nfinden Sie - reich bebildert - detaillierte Anleitungen\nmeinen zweisprachig aufwachsenden Töchtem\nVereine zusammengestelit.\nfür viele Reparaturarbeiten am eigenen Aute.\nausschließlich Russisch sprechen\nDie Broschüre\nSPORTVEREINE BEI UNS\"\nMilleniums-Verlag - Hamburg\nBewerbung an:\nDr. Igor Kafelnikow.\nist ab sofort kostenlos im Rathaus, im\nStettiner Str. 17, 10178 Berlin\nBürgerbüro und bei allen Bankon und\nSparkassen orhältlich.",
+   "arabic_labels_excluded": [
+    "البحث عن وظيفة"
+   ],
+   "images": {
+    "count": 3,
+    "page_coverage": 1.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 263,
+    "sample_missing": [
+     "aber",
+     "abgeschlosse",
+     "abteilung",
+     "alle",
+     "allen",
+     "aller",
+     "anleitungen",
+     "anschriften",
+     "armarts",
+     "atmosph",
+     "aufwachsenden",
+     "august",
+     "ausschließlich",
+     "auswahl",
+     "aute",
+     "auto",
+     "autohaus",
+     "automechaniker",
+     "autoschlosser",
+     "autowerkstatt",
+     "baden",
+     "bankon",
+     "beachten",
+     "bebildert",
+     "beethoven"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Ads photo; transcribed manually from 250dpi crops (corrections/P15.json)",
+   "uncertain": []
+  },
+  {
+   "page": 190,
+   "paper": "P15",
+   "section": "SB1",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 1\nLANGUAGE Tests\nLesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.\nMarkieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen\n……………………………………………………………………………………………………………………………………………………\nHerrn\nDas COMPUTER-MAGAZIN\nMatthias Buschhaus\nAlte Gasse 19\nD-80344 München\nMünchen, den 21. Mai….\nIhre Kündigung vom 15. Mai\nSehr geehrter Herr Buschhaus,\nschade, (21) Sie CHIP nicht weiter beziehen (22). Die Belieferung beenden wir mit unserem\n(23) Heft. Sie erhalten daher die darauf folgende Ausgabe nicht (24).\nWir (25) Sie natürlich nur ungern als Abonnenten und würden uns freuen, wenn Sie CHIP (26)\nab und zu am Kiosk kaufen. Vielleicht gelingt es uns, (27) wieder von der Qualität von CHIP zu\nüberzeugen.\n(28) Sie noch Fragen haben oder sich wieder für ein Abonnement entscheiden, stehen wir\nIhnen gerne unter (29) Nummer 0781/639 6259 von montags bis freitags von 8 bis 18 Uhr zur\nVerfügung.\nMit (30) Grüßen\nIhr CHIP-Aboservice\n21.\nA darum\n24.\nA mehr\n27.\n30.\nA freundlich\nA Ihnen\ndass\nB\nnoch\nB\nsie\nB\nfreundlichem\nB\nweil\nnur\nSie\nfreundlichen\nC\nC\nC\nC\n22.\nA\nmöchte\n25.\nA\nverlieren\n28.\nA\nAber\nmöchten\nverliert\nFalls\nB\nB\nmöchtest\nverloren\nWann\nC\nC\nC\nA\n26.\nA\n29.\n23.\nnächste\nobwohl\nA\ndas\nnächsten\ntrotz\nder\nB\nnächstes\ntrotzdem\ndie\nC\nC\nC",
+   "arabic_labels_excluded": [
+    "السيد بوش",
+    "ا"
+   ],
+   "images": {
+    "count": 7,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)",
+   "uncertain": []
+  }
+ ]
+}

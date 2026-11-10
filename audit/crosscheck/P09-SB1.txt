@@ -1,0 +1,5 @@
+# P09-SB1 pages [110] ratio 0.845
+## website words not in OCR:
+Zwischen
+## OCR words (len>3) not in website:
+Sprachausteine LANGUAGE Tests Bteil cnoch cZwischen

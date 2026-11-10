@@ -1,0 +1,18 @@
+0.076 0.064 1.00	Leseverstehen, Teil 3
+0.073 0.807 0.30	'мyдu
+0.092 0.045 1.00	LANGUAGE Tests
+0.153 0.045 1.00	Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können
+0.173 0.043 1.00	jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 - 20 auf dem
+0.193 0.049 1.00	Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+0.265 0.045 1.00	11. Sie sind in der Schweiz und möchten sich ein paar Tage beim Baden erholen.
+0.302 0.047 1.00	12. Sie hören gerne klassische Musik, am liebsten Barocklieder. Sie möchten in ein Konzert gehen.
+0.340 0.045 1.00	13.Ihr Sohn möchte gerne in den Schulfeien seinen Fremdsprachenkenntnisse verbessern. Er möchte
+0.375 0.078 1.00	auch Sport treiben.
+0.414 0.047 1.00	14. Sie reisen nicht gerne allein und suchen deshalb Reisepartner.
+0.452 0.047 1.00	15. Sie möchten am Donnerstag Abend mit Ihrer Bekannten eine Musikveranstaltung besuchen.
+0.490 0.047 1.00	16.Ihre Familie möchte den nächsten Urlaub am Meer verbringen.
+0.531 0.047 1.00	17. Sie leben in Zürich und möchten dort möglichst schnell Englisch lernen.
+0.570 0.049 1.00	18.Sie bekommen Besuch von Ihrer Freundin. Sie möchte gerne tanzen gehen.
+0.565 0.579 0.30	åşchul
+0.610 0.047 1.00	19. Sie möchten Freunde im Ausland besuchen und suchen ein Reisebüro.
+0.649 0.521 1.00	Bergen

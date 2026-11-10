@@ -1,0 +1,34 @@
+0.058 0.068 1.00	Leseverstehen, Teil 1
+0.076 0.053 1.00	LANGUAGE Tests
+0.129 0.127 1.00	1. Ich möchte, dass Menschen, die meine Fotos gesehen haben, von nun an die Welt mit anderen
+0.151 0.158 1.00	Augen betrachten. Das könnte der neuseeländischen Fotografin Anne Geddes gelingen. Denn
+0.168 0.158 1.00	die Bilder, die sie für das Buch. Drunten im Garten von den kleinen Menschenkindern gemacht
+0.186 0.158 1.00	hat, sind ungewöhnlich und wunderschon: Babys auf Blumen, Blattern, Beeren, verkleidet als
+0.202 0.160 1.00	Morcheln, Melonen oder Marienkäfer, Babys in Tulpen und als Schmetterlinge. Ein Bildband,
+0.219 0.158 1.00	angereichert mit poetischen Texten und Ratschlägen.
+0.294 0.125 1.00	2. Die meisten Skikurse für Kinder beginnen im Alter von vier Jahren. Im Kärntner Baby Dorf
+0.315 0.154 1.00	Trebesing ist das anders: Hier werden im Windel Wedel Camp bereits Kleinkinder ab zwei
+0.333 0.154 1.00	Jahren unterrichtet. Täglich zwei Stunden können die Skihaserin unter fachkundiger Anleitung
+0.350 0.156 1.00	auf einem flachen Hügel erste Geh- bzw. Fahrversuche auf zwei Brettern machen. Nach einigen
+0.366 0.156 1.00	Tagen Übung geht es dann mit dem Baby Bus ins Skigebiet Innerkrems. Auch Ginas Baby - und
+0.384 0.156 1.00	Kinderhotel am Fiaker See bietet seinen jüngsten Gästen Skikurse. Fast 1000 Knirpse haben in
+0.401 0.158 1.00	der Windelschule schon Skifahren gelernt. Auskunft: Tourismusverband Leiser - Malta Tal und
+0.418 0.156 1.00	die Kinderhotels
+0.490 0.127 1.00	3. Berlins jüngster Schriftsteller hat deutlich mehr Texte verfasst als er Jahre zählt. Rund 50
+0.512 0.158 1.00	Gedichte und Erzählungen tippte Daniel Story. 12, schon in seiner Computer. Ich schreibe fast,
+0.529 0.156 1.00	seitdem es mich gibt, sagt der Sechstklässler Bereits mit sieben dichtete er die ersten Verse,
+0.545 0.154 1.00	jetzt mit zwölf ist er stolz auf seine erste Autorenlesung. Wenn Freunde Fußball spielen, tobt
+0.562 0.158 1.00	Daniels Phantasie im Kinderzimmer. Warum er lieber schreibt? Daniel: Ich schreibe, weil ich
+0.580 0.158 1.00	nicht alles erleben kann, was ich denke.
+0.650 0.125 1.00	4. Ob Sie privat oder geschäftlich unterwegs sind, mit dem Stadt Ticket können Sie billig die
+0.672 0.156 1.00	öffentlichen Verkehrsmittel nutzen. Voraussetzung: Sie sind mit dem Flugzeug oder der
+0.689 0.158 1.00	Deutschen Bahn(über 100 km) angereist. Gegen einen Aufpreis von nur Euro 2,50 ermöglicht
+0.706 0.156 1.00	Ihnen das Stadt Ticket auch nach der Ankunft am Zielort freie Fahrt. Mit U- S- oder
+0.722 0.156 1.00	Straßenbahnen sowie Bussen. Bis zu 48 Stunden. Übrigens: Ihr Stadt Ticket gilt an zwei
+0.740 0.158 1.00	aufeinanderfolgenden Tagen, die Sie beim Kauf Ihres Fahrscheines selbst bestimmen.
+0.811 0.127 1.00	5. In Mecklenburg-Vorpommern können junge Leute jetzt für den halben Fahrpreis mit dem Taxi
+0.833 0.158 1.00	auf Discotour gehen. Tickets dafür sind bei allen Geschäftsstellen der Allgemeinen
+0.849 0.158 1.00	Ortskrankenkasse (AOK) sowie an Esso Tankstellen zum halben Preis erhältlich. Junge Leute
+0.866 0.156 1.00	zwischen 16 und 25 Jahren können sie an Wochenenden und Feiertagen in der Zeit von 20 Uhr
+0.884 0.158 1.00	bis morgens 6 Uhr benutzen. Die Taxifahrer erhalten bei ihrer Zentrale dann den vollen
+0.901 0.158 1.00	Fahrpreis erstattet.

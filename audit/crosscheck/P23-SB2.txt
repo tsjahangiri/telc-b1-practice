@@ -1,0 +1,5 @@
+# P23-SB2 pages [338] ratio 0.869
+## website words not in OCR:
+GUTE
+## OCR words (len>3) not in website:
+plaipale Sprachausteine Teil LANGUAGE Tests schul GUTER

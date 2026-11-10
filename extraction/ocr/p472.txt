@@ -1,0 +1,20 @@
+0.089 0.417 1.00	*Kochkurs*
+0.125 0.082 0.50	Jberiegen Sie mit Ihrem Gesprächspartner/Ihrer Gesprächpartnerin, was zu tun in
+0.122 0.299 0.50	rinerin/ihr Gesprächspartner möchten zusammen ainen Kochkurs besuche
+0.134 0.073 0.50	Sie haben sich schon einen Zettel mit Notzen gemacht:
+0.227 0.098 0.30	Wean tor on Kocthkuar
+0.288 0.193 1.00	Wann, wie oft?
+0.321 0.189 0.30	WoR
+0.376 0.183 1.00	Koster
+0.480 0.012 1.00	• Also *Mahmoud* du weißt ja ,wir jetzt einen lanfen Urlaub haben ,und
+0.517 0.045 1.00	wir können zusammen etwas organiesieren ‚was hältst du davon?
+0.554 0.012 1.00	• Ja,da gehe ich ganz d'accord ‚aber hast du einige Vorschläge? ,mir fällt
+0.594 0.045 1.00	nichts ein.
+0.632 0.012 1.00	• Ja, Wir können entweder einen Kochkurs ,oder Computerkurs besuchen
+0.670 0.043 1.00	,was denkst du darüber?
+0.708 0.012 1.00	• Ich bevorzuge einen Kochkurs zu besuchen,ich möchte Kochen lernen
+0.746 0.043 1.00	,weil ich jetzt alleine lebe ; Aber wo können wir das machen?
+0.783 0.012 1.00	• Es gibt in der Blumenstraße einen neue Kochschule ,wir können uns
+0.820 0.045 1.00	anmelden ,was meinst du?
+0.859 0.012 1.00	• Ich bin derselben Meinung ,und wann beginnt der Kurs?
+0.930 0.008 1.00	www.instagram.com/mahmoudemad007

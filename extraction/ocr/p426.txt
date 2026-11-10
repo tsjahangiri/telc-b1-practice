@@ -1,0 +1,19 @@
+0.090 0.010 1.00	• Ich glaube eine Gitarre wäre besser ,und einfacher zu lernen , Aber wie
+0.128 0.045 1.00	können wir eine Gitarre bekommen ?
+0.166 0.012 1.00	• Es gibt in der Blumenstraße einen Laden für Musikinstrumente ,wir
+0.203 0.043 1.00	können eine genüstige Gittare Kaufen ,was meinst du?
+0.241 0.012 1.00	• Ich bin derselben Meinung ,aber dafür brauchen wir Unterrichte zu
+0.279 0.045 1.00	nehmen ‚hast du einige Vorschläge?
+0.317 0.012 1.00	• Ich schlage vor ,dass wir entweder eine Musikschule ,oder einen
+0.355 0.045 1.00	Privatlehrer besuchen ‚was ist deine Meinung?
+0.394 0.012 1.00	• Ich bevorzuge eine Musikschule ,damit wir mit anderen Leuten spielen
+0.430 0.043 1.00	‚aber weißt du ,wie viel der Kurs kostet?
+0.468 0.012 0.50	• Ja ,ungefähr 25 Euro pro Stunde ,passt es dir?
+0.507 0.012 1.00	• Ja ,das passt mir gut ,so treffen wir uns morgen ,dann zum Kurs gehen.
+0.545 0.012 0.50	• Gut ,so machen wir es ,Ich wünsche dir Hals-und Beinbruch.
+0.546 0.553 0.50	hschul
+0.584 0.012 0.50	• Eben falls.
+0.621 0.012 1.00	• Bis morgen.
+0.660 0.008 0.50	• Bis dann .
+0.926 0.012 1.00	www.instagr
+0.924 0.121 1.00	m.com/mahmoudemad007

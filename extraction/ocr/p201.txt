@@ -1,0 +1,21 @@
+0.128 0.039 1.00	Ich habe auch einen Beitrag von *Stefan Heeg* gelesen.
+0.157 0.041 0.50	Er ist 38 Jahre Alt .und arbeitet als Lehrer.
+0.198 0.012 1.00	***************************************************************
+0.241 0.004 1.00	• Herr *Heeg* sagt ,dass es ihm egal ist ,ob die Wohnung sehr schön ist oder nicht.
+0.267 0.008 1.00	• Die Haubtsache für ihn ist ,dass die Möbel bequem und praktisch sind.
+0.294 0.008 1.00	• Er will auch hohe Qualität für den Preis bekommen.
+0.318 0.043 0.30	***************************************************************
+0.360 0.016 0.50	*Meinung*
+0.413 0.012 1.00	- Ich bin derselben Meinung ,wie *Stefen*
+0.462 0.023 1.00	ich finde es besser , wenn ich in einem einfachen Haus lebe.
+0.509 0.041 1.00	Das Haus ist schön mit den Menschen ,nicht mit den Möbeln.
+0.541 0.041 1.00	Falls ich ein Sofa kaufe ,möchte ich es weder scöne ,noch modern
+0.573 0.039 1.00	,sondern bequem.
+0.600 0.041 1.00	Die Hauptsache für mich ist ,dass die Wohnung bequem ist ,aber
+0.635 0.041 1.00	das Aussehen kommt für mich nicht in Frage.
+0.663 0.041 1.00	***************************************************************
+0.705 0.012 1.00	*Erfahrung*
+0.759 0.012 1.00	-Bevor ich geheiratet habe,kaufte ich viele Möbel auf dem Flohmarkt.
+0.807 0.012 1.00	- Das war geeignet nicht nur für die Wohnung ,sondern auch für mein
+0.855 0.025 1.00	Geld.
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

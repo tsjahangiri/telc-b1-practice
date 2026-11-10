@@ -1,0 +1,172 @@
+[
+ {
+  "id": "P20-H1",
+  "type": "hoeren",
+  "part": 1,
+  "section": "Hörverstehen, Teil 1",
+  "instructions": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.",
+  "statements": [
+   {
+    "num": 41,
+    "text": "Herr Pawliczek erledigt alle seine Einkäufe im Internet."
+   },
+   {
+    "num": 42,
+    "text": "Frau Zimmermann legt beim Einkaufen großen Wert auf persönlichen Kontakt."
+   },
+   {
+    "num": 43,
+    "text": "Frau Schmidt findet zu Hause nicht genug Ruhe, um im Internet einzukaufen."
+   },
+   {
+    "num": 44,
+    "text": "Frau Ruttnigg ist vom Einkaufen im Internet nicht überzeugt."
+   },
+   {
+    "num": 45,
+    "text": "Herr Krause kauft seine Medikamente am liebsten in der nächsten Stadt."
+   }
+  ],
+  "pages": [
+   293
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 298,
+  "topic": "Einkäufe im Internet",
+  "solution": {
+   "41": "+",
+   "42": "-",
+   "43": "+",
+   "44": "-",
+   "45": "-"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ },
+ {
+  "id": "P20-H2",
+  "type": "hoeren",
+  "part": 2,
+  "section": "Hörverstehen, Teil 2",
+  "instructions": "Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.",
+  "statements": [
+   {
+    "num": 46,
+    "text": "Herr Thurnherr ist Chef in einem großen Reisebüro in Bern."
+   },
+   {
+    "num": 47,
+    "text": "Jährlich wollen über 100 Personen eine Ausbildung in einem Reisebüro machen."
+   },
+   {
+    "num": 48,
+    "text": "Während der Ausbildung kann man noch keine Studienreisen machen."
+   },
+   {
+    "num": 49,
+    "text": "Herr Thurnherr meint, die Arbeit in einem Reisebüro sei anstrengend."
+   },
+   {
+    "num": 50,
+    "text": "In einem Reisebüro muss man oft Überstunden machen."
+   },
+   {
+    "num": 51,
+    "text": "In einem Reisebüro verdient man gut."
+   },
+   {
+    "num": 52,
+    "text": "Auf Studienreisen besichtigt man viele Hotels."
+   },
+   {
+    "num": 53,
+    "text": "Im schriftlichen Teil des Tests wird vor allem politisches Wissen geprüft."
+   },
+   {
+    "num": 54,
+    "text": "Jährlich können 50 Jugendliche an einem Eignungstest teilnehmen."
+   },
+   {
+    "num": 55,
+    "text": "Das Reisebüro muss für die Fehler der Mitarbeitenden bezahlen."
+   }
+  ],
+  "pages": [
+   294
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 298,
+  "topic": "Thurnherr",
+  "solution": {
+   "46": "+",
+   "47": "+",
+   "48": "-",
+   "49": "+",
+   "50": "+",
+   "51": "-",
+   "52": "+",
+   "53": "-",
+   "54": "-",
+   "55": "+"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ },
+ {
+  "id": "P20-H3",
+  "type": "hoeren",
+  "part": 3,
+  "section": "Hörverstehen, Teil 3",
+  "instructions": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.",
+  "statements": [
+   {
+    "num": 56,
+    "text": "Sie müssen in Ingolstadt die Regionalbahn nach Regensburg nehmen."
+   },
+   {
+    "num": 57,
+    "text": "Clara kann wegen einer Prüfung die Theaterkarten nicht abholen."
+   },
+   {
+    "num": 58,
+    "text": "Im Schwarzwald können die Straßen morgen glatt werden."
+   },
+   {
+    "num": 59,
+    "text": "Der Liederabend findet zu einem späteren Termin statt."
+   },
+   {
+    "num": 60,
+    "text": "Im Untergeschoss gibt es Winterkleidung zum halben Preis."
+   }
+  ],
+  "pages": [
+   295
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 298,
+  "topic": "Meissner",
+  "solution": {
+   "56": "-",
+   "57": "-",
+   "58": "+",
+   "59": "+",
+   "60": "-"
+  },
+  "solution_complete": true,
+  "notes": [
+   "Lösung aus Modelltest 5/16 übernommen: Der Lösungsschlüssel dieses Modelltests gehört laut Überschrift zu einem anderen Hörtext („Meissner“)."
+  ],
+  "uncertain": [
+   {
+    "location": "answer key",
+    "note": "KEY MISMATCH IN SOURCE: the questions printed for Teil 3 are the 'Ingolstadt/Regensburg' set, but the Hörverstehen (Teil 3) column of this paper's Lösungen page is titled 'Meissner' and gives - - - + + (a different listening text that is not printed in the PDF). The official key for this identical question set is taken from the Lösungen pages of Modelltest 5 (p61) and Modelltest 16 (p235): - - + + -. The bold formatting of the statements on the question page (58 and 59 bold = richtig) agrees with that key."
+   }
+  ],
+  "verified": false
+ }
+]

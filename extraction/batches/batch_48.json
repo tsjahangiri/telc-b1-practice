@@ -1,0 +1,311 @@
+{
+ "batch": 48,
+ "pages": [
+  471,
+  480
+ ],
+ "records": [
+  {
+   "page": 471,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " *Erfahrung*\n Damit habe ich auch gute Erfahrungen.\n Seit 3 Monaten bin ich mit meinen Freunden nach Louxor gefahren.\n Dort können wir sowohl eine Fahrt aud dem Nil machen ,als auch in\nder Wüste campen.\n Wir haben zusammen eine tolle Woche verbracht ,aber finde ich\nnicht möglich ,falls ich allene reisen.\n Während der Reise könnten wir auch zusammen bis Spät in die\nNacht feriern ,und viel Spaß haben.\n Ich möchte auch im nächsten Sommer einenUrlaub mit meinen\nFreunden mache , Ich denke, diese Erfahrung verdient es, wiederholt\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "zu werden.*أعتقد ان هذه التجربة تستحق أن تتكرر *"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.981,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 472,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Kochkurs*\n Also *Mahmoud* du weißt ja ,wir jetzt einen lanfen Urlaub haben ,und\nwir können zusammen etwas organiesieren ,was hältst du davon?\n Ja,da gehe ich ganz d´accord ,aber hast du einige Vorschläge? ,mir fällt\nnichts ein.\n Ja , Wir können entweder einen Kochkurs ,oder Computerkurs besuchen\n,was denkst du darüber?\n Ich bevorzuge einen Kochkurs zu besuchen ,ich möchte Kochen lernen\n,weil ich jetzt alleine lebe ; Aber wo können wir das machen?\n Es gibt in der Blumenstraße einen neue Kochschule ,wir können uns\nanmelden ,was meinst du?\n Ich bin derselben Meinung ,und wann beginnt der Kurs?\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.33
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 17,
+    "sample_missing": [
+     "ainen",
+     "besuche",
+     "gemacht",
+     "gesprächpartnerin",
+     "gesprächspartner",
+     "ihrem",
+     "ihrer",
+     "jberiegen",
+     "kocthkuar",
+     "koster",
+     "möchten",
+     "notzen",
+     "rinerin",
+     "schon",
+     "sich",
+     "wean",
+     "zettel"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 473,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Am nächsten Samstag ,wir können entweder 2-Mal ,oder 3-Mal pro\nWoche gehen ,was ist deine Meinung?\n Ich glaube 3-Mal wäre besser ,aber weißt du ,wie viel der Kurs kostet?\n Nicht so teuer ,Ungefähr 20 Euro pro Stunde ,passt es dir?\n Ja ,das passt mir gut ,so treffen wir uns am Samstag ,dann losfahren.\n Ja ,das klingt gut ,Ich wünsche dir Hals-und Beinbruch.\n Eben falls.\n Bis morgen.\n Bis dann .\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "elcc"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 474,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Schule Feiern *\n Also *Mahmoud* du weißt ja ,dass das Semester bald endet ,und wir\nkönnen mit unserer Freunden etwas organiesieren ,was hältst du davon?\n Ja,da gehe ich ganz d´accord ,aber was können wir machen ,mir fält nicht\nein?\n Wie können entweder einen Party ,oder einen Ausflug machen ,was\ndenkst du?\n Ich glaube die Party wäre besser ,das macht mir viel Spaß ,aber wo\nkönnen wir die party machen?\n Wie wäre es mit meinem Haus ?,wir können im Garten feiern.\n Das klingt gut ,die letzte Party ,die wir bei dir zu Hause gefeiert haben war\necht supper ,Apropos wann machen wir die Party?\n Wie wäre es mit dem nächsten Sonnntag ,da haben wir alle Zeit?\n Ich bin ganz anderer Meinung ,ich finde es besser ,wenn wir am Samstag\nfeiern ,am diesem Tag haben wir alle Frei ,damit wir bis Spät in die Nacht\nrichtig feiern können.\n Ja du hast völlig Recht ,aber wen sollten wir auch zur Party einladen.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.08
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "aktivitäten",
+     "teil"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 475,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich glaube wir sollten sowohl unsere Freunde aus dem Kurs ,als auch\nunsere Lehrer einladen ,aber welche Aktivitäten können wir machen?\n Wir können nicht nur tanzen ,sondern auch einige Teamspiele spielen ,das\nfinde es sehr interessant ,was meinst du?\n Ja ,ich glaube das wird bestimmt eine tolle Party ,und wir werden viel\nSpaß haben.\n Ich auch ,bis dann.\n Bis bald\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 476,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "* Geld *\n Teilnehmer A\n- Ich habe einen Beitrag zum Thema *Geld* gelesen.\n- Die Person die sich äußert heißt *Marco Schmetz*.\n- Sie ist 24 Jahre Alt ,und arbeitet als Bankangestellter.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.54
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 30,
+    "sample_missing": [
+     "aich",
+     "dann",
+     "dinge",
+     "eigenen",
+     "erfahruingen",
+     "erzähien",
+     "ganz",
+     "gebe",
+     "geid",
+     "genau",
+     "gern",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "ihrem",
+     "ihrer",
+     "kaufe",
+     "lieber",
+     "mein",
+     "meinung",
+     "mensch",
+     "nicht",
+     "sagen",
+     "spare",
+     "sparsamer",
+     "teure"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 477,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Herr *Schmetz* bevorzugt Geld zu sparen.\n- Falls er etwas kaufen möchte ,überlegt er es sich gut.\n- Er kauft weder teure ,noch unnötige Dinge.\n***************************************************************\n*Meinung*\n- Ich habe eine ähnliche Meinung wie Marco ,ich finde es wichtig\n   wenn ich Geld spare\n- Falls ich mein Geld behalte ,kann ich später etwes anderes machen .\n-Zum Beispiel ,kann ich nicht nur einen Urlaub machen ,sondern auch\n einen Auto oder Motorrad kaufen ,das macht mir viel Spaß.\n- Aber es gibt auch Nachteile , Ich kann die Dinge, die ich liebe, nicht\n   kaufen, um Geld zu sparen .\n***************************************************************\n*Erfahrung*\n Ich habe die folgende Erfahrung :\n Ich bevorzuge immer einen Einkaufsplan zu machen ,zum Beispiel\nkaufe ich ,wenn es eine Ermäßigung gibt , dadurch spare ich\nviel Geld.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 478,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Außerdem rauche ich nicht , Das ist gut für meine Gesundheit und\nmein Geld.\n Ich bevorzuge immer gebrauchte Dinge auf dem Flohmarkt zu\nkaufen ,das hilft mir sehr gut.\n Weährend ich mit meiner Familie wohne ,zahle ich keine Miete ,\nhirzu spare ich viel Geld.\n Indem ich mit dem Fahrrad zur Arbeit gehe ,kann ich viel Geld Sparen.\n***************************************************************\n Teilnehmer B\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.45
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 28,
+    "sample_missing": [
+     "andere",
+     "anne",
+     "apothekerin",
+     "auch",
+     "auszugeben",
+     "brauche",
+     "dlicher",
+     "dringend",
+     "einmall",
+     "eligenen",
+     "erlahrungen",
+     "gesp",
+     "hochsch",
+     "ihrem",
+     "inspartnerin",
+     "jahre",
+     "kaufe",
+     "kleidung",
+     "lebt",
+     "macht",
+     "nema",
+     "richtig",
+     "sachen",
+     "schmuck",
+     "schöne"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 479,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Ich habe auch einen Beitrag von *AnneSpieler * gelesen.\n- Er ist 30 Jahre Alt .und arbeitet als Apothekerin.\n***************************************************************\n Frau *Spieler* bevorzugt Kein Geld zu sparen.\n Wenn sie ihr Geld ausgibt ,macht es ihr viel Spaß.\n Sie kauft immer gerne viel Kleidung und Schmuck, obwohl sie sie\n nicht braucht.\n Aber sie denkt, das Geld ist da, damit wir es ausgeben können.\n***************************************************************\n*Meinung*\n* Da gehe ich ganz d´accord ,ich finde es besser  ,wenn ich mein\nGeld spare.\n* Ich denke, das Geld ist da, um uns Spaß zu machen, nicht um es zu\nsparen.\n* Manchmal muss man etwas Geld für Notfälle sparen, aber das\n möchte ich lieber nicht, aber ich bevorzuge mein Geld zu genießen.\n***************************************************************\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 480,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Erfahrung*\n- Damit habe ich auch gute Erfahrungen.\n- Ich mache einen guten Job und verdiene viel Geld.\n- Fast jede Woche gehe ich einkaufen ,oder gehe mit Freunden aus ,\ndas macht mir viel Spaß.\n- Im Sommer reise ich am liebsten ins Ausland, dafür gebe ich viel\nGeld aus ,aber es lohnt sich.\n- Meine Meinung ist, dass Geld kommt, um es zu genießen, nicht um\n es zu sparen.\n- Ich habe viel Geld ausgegeben, um in meinem Luxushaus zu leben ,\nes war sehr teuer ,aber ich lebe nur einmal\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.957,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "ehschul",
+     "spaßs"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  }
+ ]
+}

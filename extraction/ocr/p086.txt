@@ -1,0 +1,23 @@
+0.076 0.086 1.00	Schriftlicher Ausdruck
+0.079 0.708 0.30	(4lal) ctt
+0.093 0.070 1.00	LANGUAGE Tests
+0.128 0.045 1.00	Sie haben im Urlaub Andreas kennengelernt. Er hat Ihnen folgende E-Mail geschrieben:
+0.172 0.737 0.30	. ...
+0.235 0.047 1.00	Liebe(r)
+0.269 0.047 1.00	Heute habe ich Zeit, dir ein paar Zeilen zu schreiben. Der Urlaub war so schön, aber seit ich zurück
+0.288 0.047 1.00	bin, habe ich im Büro sehr viel Arbeit. Bestimmt brauche ich schon bald wieder Urlaub!
+0.312 0.051 1.00	Während ich weg war, hat sich hier übrigens einiges geändert: Es gibt einen neuen Kollegen, er heißt
+0.334 0.047 1.00	Roberto. Was aber die größte Veränderung ist:
+0.356 0.053 1.00	Er arbeitet mit mir in meinem Büro, das heißt, ich habe endlich jemanden, mit dem ich mich
+0.375 0.047 1.00	Zwischendurch auch ein bisschen unterhalten kann! Roberto ist aus Spanien hierher gezogen. Er
+0.400 0.049 1.00	kennt noch niemanden hier, außer mir natürlich, und ist meistens allein. Denkst du, dass ich ihn und
+0.422 0.049 1.00	ein paar andere Arbeitskollegen einmal einladen sollte? Was würdest du tun? Na gut, für heute muss
+0.443 0.043 1.00	ich Schluss machen. Melde dich doch bald einmal bei mir!
+0.488 0.047 1.00	Viele Grüße
+0.525 0.047 1.00	Andreas
+0.587 0.599 0.30	ịschy
+0.597 0.047 1.00	Antworten Sie Andreas. Schreiben Sie etwas zu allen vier Punkten:
+0.615 0.037 0.30	BasSCh
+0.664 0.045 1.00	• Wie Sie am liebsten arbeiten (alleine oder mit Kollegen).
+0.753 0.049 1.00	Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine
+0.775 0.049 1.00	passende Anrede, Einleitung und einen passenden Schluss.

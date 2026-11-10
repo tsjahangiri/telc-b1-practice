@@ -1,0 +1,18 @@
+0.103 0.090 1.00	Hörverstehen, Teil 2
+0.121 0.076 1.00	LANGUAGE Tests
+0.192 0.047 1.00	Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.
+0.211 0.047 1.00	Sie hören das Gespräch zweimal.
+0.231 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 46 - 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.250 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 46 - 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.272 0.047 1.00	falsch auf dem Antwortbogen.
+0.292 0.049 1.00	Lesen Sie jetzt die Aufgaben 46 - 55. Sie haben dazu 30 Sekunden Zeit.
+0.382 0.045 1.00	46. Frau Wallner-Calletti lebt seit fünf Jahren in Italien.
+0.423 0.047 1.00	47. Sie wollen zuerst nur ein Jahr an einem italienischen Gymnasium unterrichten.
+0.464 0.047 1.00	48. Sie hat ihren Mann bei einem Italienischkurs kennengelernt.
+0.504 0.045 1.00	49. Sie eröffnete ein Wiener Restaurant in Rom.
+0.545 0.047 1.00	50. Sie hatte am Anfang große Probleme, da sie das Kochen erst lernen musste.
+0.586 0.045 1.00	51. Frau Wallner-Calletti besitzt Inzwischen auch ein italienisches Weinlokal.
+0.617 0.047 0.30	52. Sie hatte immer große schwieriskeiten mit den Behörden:. S
+0.667 0.047 1.00	53. Ihre Tochter lernt die deutsche und die italienische Sprache.
+0.708 0.045 1.00	54. Sie möchte bald eine Filiale des Wiener Café Central in Rom eröffnen.
+0.749 0.045 1.00	55. Sie glaubt, dass man überall Erfolg haben kann, wenn man sich bemüht.

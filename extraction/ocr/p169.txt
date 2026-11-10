@@ -1,0 +1,21 @@
+0.126 0.030 1.00	Teilnehmer/in A/B
+0.163 0.031 1.00	Teil 3 Gemeinsam etwas planen (ca. 6 Minuten)
+0.206 0.028 1.00	Sie und Ihre Gesprächspartnerin/Ihr Gesprächspartner möchten armen Familien helfen und eine Spenden
+0.222 0.027 1.00	aktion organisieren.
+0.235 0.028 1.00	Uberlegen Sie mit Ihrem Gesprächspartner/Ihrer Gesprächspartnerin, was zu tun ist.
+0.250 0.026 1.00	Sie haben sich schon einen Zettel mit Notizen gemacht:
+0.343 0.100 1.00	• Für wen bzw. welche Organisation
+0.366 0.139 1.00	spenden?
+0.406 0.097 1.00	• Wie viele Personen können helfen?
+0.444 0.094 1.00	• Was tun (etwas verkaufen, Geld sammeln
+0.448 0.409 0.30	nochsc
+0.466 0.135 0.30	etc. ..)?
+0.506 0.094 1.00	• Wann?
+0.546 0.092 1.00	• Wo?
+0.711 0.016 1.00	• Also *Ahmed*
+0.711 0.220 1.00	,es gibt viele arme Familien in unserer Stadt und wir
+0.753 0.049 1.00	können ihnen helfen ,was hältst du davon?
+0.796 0.012 1.00	• Ich gehe ganz d'accord ,aber hast du einige Vorschläge ,mir fält nichts
+0.846 0.043 0.50	ein?
+0.889 0.016 1.00	• Ja,wie wäre es wenn wir Spendenaktion organiesieren?
+0.930 0.010 1.00	www.instagram.com/mahmoudemad007

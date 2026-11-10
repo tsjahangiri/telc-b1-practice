@@ -1,0 +1,5 @@
+# P14-SB2 pages [178] ratio 0.891
+## website words not in OCR:
+Chiffre 2063 9369
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests Crize 9305 schul

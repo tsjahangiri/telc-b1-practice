@@ -1,0 +1,24 @@
+0.093 0.012 1.00	• Außerdem rauche ich nicht , Das ist gut für meine Gesundheit und
+0.125 0.047 1.00	mein Geld.
+0.157 0.014 1.00	• Ich bevorzuge immer gebrauchte Dinge auf dem Flohmarkt zu
+0.189 0.045 0.50	kaufen,das hilft mir sehr gut.
+0.219 0.014 1.00	• Weährend ich mit meiner Familie wohne ,zahle ich keine Miete ,
+0.251 0.045 1.00	hirzu spare ich viel Geld.
+0.283 0.012 1.00	• Indem ich mit dem Fahrrad zur Arbeit gehe ,kann ich viel Geld Sparen.
+0.328 0.012 1.00	******
+0.330 0.203 0.50	*********
+0.328 0.415 0.50	*********************************
+0.369 0.012 1.00	Teilnehmer B
+0.412 0.345 0.30	an sig won eligenen Erlahrungen.
+0.411 0.419 0.50	inspartnerin/Ihrem Gesp
+0.411 0.774 0.30	•nema.
+0.413 0.945 1.00	dlicher
+0.443 0.099 1.00	Geld
+0.438 0.400 1.00	hochsch
+0.725 0.598 0.50	,Ich verdiene Geld, um es auszugeben. Es
+0.741 0.602 1.00	macht mir richtig Spaß, schöne Kleidung,
+0.757 0.606 1.00	Schmuck und andere Sachen zu kaufen.
+0.776 0.608 1.00	Ich kaufe mir auch Dinge, die ich nicht so
+0.791 0.614 0.50	dringend brauche. Man lebt ja nur einmall"
+0.830 0.042 1.00	Anne Spieler, 30 Jahre, Apothekerin
+0.897 0.010 1.00	www.instagram.com/mahmoudemad007

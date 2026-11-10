@@ -1,0 +1,5 @@
+# P21-L1 pages [304, 305] ratio 0.965
+## website words not in OCR:
+www.f f.ch
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests Luis nschull Leseverstehen Teil LANGUAGE Tests www.f-f.ch

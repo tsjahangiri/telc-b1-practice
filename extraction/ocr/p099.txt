@@ -1,0 +1,15 @@
+0.113 0.801 0.30	jgmal
+0.122 0.092 1.00	Hörverstehen, Teil 1
+0.139 0.078 1.00	LANGUAGE Tests
+0.225 0.047 1.00	Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.
+0.246 0.047 1.00	Sie hören diese Texte nur einmal.
+0.265 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 41 - 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.283 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 41 - 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.305 0.047 1.00	falsch auf dem Antwortbogen.
+0.324 0.045 1.00	Lesen Sie jetzt die Aufgaben 41 - 45. Sie haben dazu 30 Sekunden Zeit.
+0.410 0.045 1.00	41. Der Sprecher hat zu Hause keinen Computer.
+0.461 0.045 1.00	42. Der Sprecher benutzt den Computer nur am Arbeitsplatz.
+0.512 0.045 1.00	43. Die Sprecherin lehnt Computer ab.
+0.564 0.047 1.00	44. Die Sprecherin hat kein grolses Vertrauen zu Computern
+0.595 0.621 1.00	schull
+0.612 0.047 1.00	45. Die Sprecherin braucht den Computer im täglichen Leben

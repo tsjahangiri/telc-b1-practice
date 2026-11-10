@@ -1,0 +1,21 @@
+0.086 0.407 1.00	* Stress *
+0.145 0.012 1.00	Teilnehmer A
+0.188 0.173 1.00	Teilnehmer/in A
+0.221 0.173 1.00	Teil 2 Über ein Thema sprechen (ca. 6 Minuten)
+0.242 0.177 1.00	Sie haben in einer Zeitschrift etwas zum Thema „Stress" gelesen. Berichten Sie Ihrer Gesprächspartnerin/
+0.267 0.179 1.00	are Gesprächspartnerin/Ihr Gesprächspartner hat eine andere Meinung dazu gelesen und berichtet Ihnen
+0.291 0.169 1.00	Unterhalten Sie sich dann mit Ihrer Gesprächspartnerin/Ihrem Gesprächspartner über das Thema. Sagen
+0.305 0.200 1.00	Ihre Meinung und erzählen Sie von eigenen Erfahrungen.
+0.472 0.445 0.30	ocher
+0.588 0.643 1.00	„ICh habe einfach viel zu viel zu tun. Die
+0.600 0.641 1.00	Arbeit wächst mir langsam über den Kopf.
+0.613 0.645 1.00	Deshalb. fühle ich mich oft müde und
+0.642 0.647 1.00	Ich hätte gern mehr Zeit zum Entspannen
+0.656 0.649 1.00	und für Hobbys. Am liebsten würde ich
+0.664 0.646 1.00	auch mehr Zeit zu Hause mit meiner Fami-
+0.685 0.649 1.00	lie verbringen."
+0.711 0.187 1.00	Claudia Gärtner, 42 Jahre, Sekretarın
+0.749 0.008 1.00	- Ich habe einen Beitrag zum Thema *Stress* gelesen.
+0.789 0.008 1.00	- Die Person die sich äußert heißt *Claudia Gärtner*
+0.834 0.008 1.00	- Sie ist 42 Jahre Alt , und arbeitet als Sekretärin.
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

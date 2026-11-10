@@ -1,0 +1,5 @@
+# P28-L1 pages [412, 413] ratio 0.969
+## website words not in OCR:
+Geh bzw Übrigens
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests schul Leseverstehen Teil LANGUAGE Tests Geh-bzw Ubrigens

@@ -1,0 +1,310 @@
+{
+ "batch": 29,
+ "pages": [
+  281,
+  290
+ ],
+ "records": [
+  {
+   "page": 281,
+   "paper": "P19",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. Der Fahrer des Wagens mit dem Kennzeichen HB-D 256 soll ins Erdgeschoss kommen.\n57. Die Firma liefert das bestellte Sofa am Dienstag ab drei Uhr nachmittags.\n58. Der Gasthof Lindner ist neben einer Tankstelle.\n59. Der Film Komiker läuft täglich um 20 Uhr.\n60. Das Wetter ist am Abend noch gut.",
+   "arabic_labels_excluded": [
+    "السائق"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "ochschull",
+     "öilull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P19 (p283: Arabic explanation + model letter); legible contact sheet — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 282,
+   "paper": "P19",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nSie haben im Urlaub Andreas kennengelernt. Er hat Ihnen folgende E-Mail geschrieben:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\nHeute habe ich Zeit, dir ein paar Zeilen zu schreiben. Der Urlaub war so schön, aber seit ich zurück\nbin, habe ich im Büro sehr viel Arbeit. Bestimmt brauche ich schon bald wieder Urlaub!\nWährend ich weg war, hat sich hier übrigens einiges geändert: Es gibt einen neuen Kollegen, er heißt\nRoberto. Was aber die größte Veränderung ist:\nEr arbeitet mit mir in meinem Büro, das heißt, ich habe endlich jemanden, mit dem ich mich\nZwischendurch auch ein bisschen unterhalten kann! Roberto ist aus Spanien hierher gezogen. Er\nkennt noch niemanden hier, außer mir natürlich, und ist meistens allein. Denkst du, dass ich ihn und\nein paar andere Arbeitskollegen einmal einladen sollte? Was würdest du tun? Na gut, für heute muss\nich Schluss machen. Melde dich doch bald einmal bei mir!\nViele Grüße\nAndreas\nAntworten Sie Andreas. Schreiben Sie etwas zu allen vier Punkten:\nVorschlag wie Andreas seinem Arbeitskollegen helfen kann.\n. Wie Sie am liebsten arbeiten (alleine oder mit Kollegen).\n. Was Sie nach dem Urlaub gemacht haben.\n. Was es bei Ihnen Neues gibt.\nÜberlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine\npassende Anrede, Einleitung und einen passenden Schluss.",
+   "arabic_labels_excluded": [
+    "ي(",
+    "اندرياس)اساس"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.943,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "bassch",
+     "schy"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P19 (p283: Arabic explanation + model letter); legible contact sheet — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 283,
+   "paper": "P19",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "2-\nVielen Dank für deine nette E-Mail. Ich habe mich sehr darüber gefreut.\nSehr schön,dass Du in einen neuen Arbeitskollegen in Deinen Büro hast .\nIch schlage dir vor, dass Du Deinem neuen Arbeitskollegen hilfst, er hat ja wenig Erfahrung .\nKannst Du ihn am PC einarbeiten,damit er schnell arbeiten kann.\nAm liebsten ich arbeite gerne in einem Team, weil ich es sehr interessant finde.\nNach ich aus meinem Urlaub zurück gekommen bin, hatte ich viel zu tun besonders in der Arbeit.\nBei mir gibt's Neuigkeiten, ich habe ein neues Auto gekauft und es  wird bestimmt Dir gefallen.\nBis bald und Liebe Grüße",
+   "arabic_labels_excluded": [
+    "موضوع اندرياس األساسي شرح",
+    "صديقك اندرياس بعتلك ايميل وعم يقلك انو خلص عطلة ورجع للعمل ولقى كتير شغل  ولكن لقى شي متغير بعملو  حاطين معو",
+    "واحد جديد بالمكتب اسمو روبرتو من اسبانيا  وربورتو  ومابيعرف حدا  ماحدا والزم يساعدو وعم يستشيرك كيف يقدر بساعدو",
+    "النقاط المطلوبة منك:",
+    "1- تقترح على اندرياس كيف يحسن يساعد زميلو الجديد بالعمل .",
+    "كيف) انت تحب تستغل بالعمل  ( لوحدك وال مع فريق.",
+    "3- شو عملت انت بعد عطلتك .",
+    "4- شو عندك مستجدات جديدة بحياتك .",
+    "اول شي نبلش بالمقدمة هون عنا ايميل",
+    "نكتب",
+    "بعدها نجي ع النقطة األولى.",
+    "خلصنا من النقطة األولى",
+    "ة التانية",
+    "نجي للنقط",
+    "نجي للنقطة الثالثة",
+    "نجي للنقطة الرابعة المستجدات",
+    "اخيرا تختم"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.982,
+    "ocr_words_missing_from_textlayer": 4,
+    "sample_missing": [
+     "cilas",
+     "gruße",
+     "lüki",
+     "tilbe"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P19 (p283: Arabic explanation + model letter); legible contact sheet — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 284,
+   "paper": "P19",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\nMärchenfestspiele\nJelena\nBus zur Arbeit\n21 b\nden\n1 J\n41 -\n22 b\nzum\n2 E\n42 +\nim\n3 F\n23 b\n43 +\nkonnte\n4 D\n24 c\n44 -\njunge\n5 G\n25 a\n45 -\nwelche\n26 a\n27 c\nsich\n28 b\nfinden\n29 c\ndie\n30 a\nSchreibe\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nLinkshänder\nGauberger\nFrau Reiter\n6\nC\n46 -\n31 J\nSCHON\n7\nC\n47 -\n32 C\nHÄTTE\n8\nA\n48 +\n33 O\nZWAR\n9\nC\n49 -\n34 I\nOHNE\n10 B\n50 +\n35 E\nJEDEN\n51 +\n36 H\nNICHTS\n52 -\n37 L\nTÄGLICH\n53 +\n38 N\nWIE VIEL\n54 -\n39 D\nIHNEN\n55 +\n40 B\nGEEIGNET\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\nEisenbahn\nDer Fahrer\n11 K\n56 +\n12 X\n57 -\n13 F\n58 +\n14 E\n59 +\n15 D\n60 -\n16 G\n17 L\n18 X\n19 H\n20 A",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.833,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "ebla",
+     "hello",
+     "hicbia",
+     "prachbausteine",
+     "telcor"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P19 compared on legible contact sheet; identical to verified P07",
+   "uncertain": []
+  },
+  {
+   "page": 285,
+   "paper": "P20",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\na) Zufriedenheit im Job schützt vor Stress\nb) Erfolgreiche Männer können auch gute Väter sein\nc) Keiner lacht so fröhlich wie der Weihnachtsmann\nd) Wie Männer und Frauen lachen\ne) Weniger Arbeit – weniger Stress\nf) Schlechte Nachrichten? Sagen Sie es mit einem Lächeln\ng) Der Beruf ist für Männer wichtiger als die Familie\nh) Auch ältere Menschen leiden unter Stress\ni) Frauen reagieren besser auf schlechte Nachrichten als Männer\nJ) Mit 70 Jahren macht das Leben am meistens Spaß",
+   "arabic_labels_excluded": [
+    "الضحك"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.04
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "chul",
+     "snsil"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P20 compared on legible contact sheet; identical to verified P15",
+   "uncertain": []
+  },
+  {
+   "page": 286,
+   "paper": "P20",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. Frauen lachen auf viele Arten Sie kichern glucksen und manchmal singen sie fast Bei Männern dagegen\nkommt das viel seltener vor. Aber gemeinsam ist Männern und Frauen, dass sie in Vokalen lachen die\nim Mundzentrum gebildet werden. Und das ist entscheidend: Nur wenn die Vokale im Mundzentrum\ngebildet werden, ist das Lachen für uns fröhlich und positiv. Damit ist bewiesen, dass das Lachen vom\nWeihnachtsmann, dass wie eine tiefes Ho, ho , ho klingt. Kaum als fröhlich empfunden wird. Denn\ndieser Laut wird im hinteren Teil des Mundraums gebildet.\n(aus einer deutschen Zeitung)\n2. Viel Arbeit, viel Stress. Wer viel arbeitet muss nicht unbedingt gestresst sein. Frauen in medizinischen\nBerufen zum Beispiel klagen trotz teilweise hoher Belastung deutlich weniger über stressbedingte\nKrankheiten als Raumpflegerinnen, Kindergärtnerinnen oder Berufsschullehrerinnen. Dies zeigt eine\nUntersuchung des Hamburger IPO – Instituts, das für eine Studie 1000 Frauen und Männer befragt hat.\nVor Stress schützen laut Studie ein angenehmes Betriebsklima, ein gutes Verhältnis zur Chefin oder\nzum Chef und die Möglichkeit, die eigene Arbeit selbstständig zu planen.\n(aus einer deutschen Zeitung)\n3. Ein neues Buch zeigt, wie Männer Fähigkeiten aus dem Arbeitsleben auf die Erziehung übertragen\nkönnen und so zu erfolgreichen Vätern werden. Da wird die gemeinsame Kindererziehung zur\nPartnerarbeit (oder sogar zum Joint Venture) geschicktes Verhandeln heißt, das Kind zu überzeugen,\ndass sie Zähne geputzt werden müssen, und der Familienurlaub hat alle Qualitäten einer Tagung oder\neines Seminars: Man erhält die Gelegenheit, die Kinder intensiv zu studieren.\n(aus einer deutschen Zeitung)\n4. Eine Studie der Universität Essex hat ergeben dass wir mit siebzig Jahren am glücklichsten sind. Zwar\nhaben die meisten Menschen in diesem Alter gesundheitliche Probleme, aber dafür genießen sie viel\nFreizeit und haben keinen Stress mehr. Deshalb macht ihnen das Leben so viel Spaß wie nie zuvor. Die\nStudie besagt auch, dass wir einen ersten Höhepunkt der Lebensfreude mit fünfzehn Jahren erreichen.\nDanach geht es bergab zwischen dreißig und fünfzig Jahren tragen wir am meisten Verantwortung das\nLeben ist geprägt von Sachzwängen.\n(aus einer deutschen Zeitung)\n5. Warum bleiben manche Managerinnen erfolgreich, obwohl sie Nachrichten mitteilen, die ihr Publikum\nlieber nicht hören möchte? Ganz einfach: Sie verkaufen die schlechte Nachricht mit Humor. Ein\nLondoner Soziologe hat während einer Studie beobachtet, dass gerade bei Reden unangenehmen\nInhalts oft heiter gelacht wird. Das Lachen wird bewusst provoziert, etwa durch bestimmte Wörter\noder durch ein eigenes breites Lächeln. Die fröhliche Stimmung soll dafür sorgen, dass die Zuhörenden\ndas Gefühl haben würden mehr wissen als alle anderen.\n(aus einer deutschen Zeitung)",
+   "arabic_labels_excluded": [
+    "الضحك"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P20 compared on legible contact sheet; identical to verified P15",
+   "uncertain": []
+  },
+  {
+   "page": 287,
+   "paper": "P20",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nGeheimnisse des Schlafes\nSchlafstörungen – die meisten Ursachen sind harmlos\nLange Zeit hat man geglaubt, dass der Schlaf nur so etwas ist wie der kleine Bruder des Todes Ein Zustand der Körper\nEnergie spart und alles langsamer läuft. Erst in den 50 er Jahren des letzten Jahrhunderts fand man heraus dass schlafen\netwas sehr Aktives ist und Nacht für Nacht in unterschiedlichen Abschnitten verläuft. Der Schweizer Schlafforscher\nAlexander Borbely hat diesen Vorgang mit einer Treppe verglichen, über die wir jede Nacht mehrmals gehen.\nZunächst sind wir wach, dann schlafen wir ein und gehen bis tief hinab in den Keller in einen tiefen Schlaf. Danach geht\nes wieder hoch in einen leichten Schlaf, der von lebhaften, intensiven Träumen und schnellen Augenbewegungen\nbegleitet wird Daher wird diese Phase auch REM-Schlaf ( rapid-eye-movements = schnelle Augenbewegung) genannt.\nDieser Abschnitt ist im Gegensatz zu den anderen Phasen mit etwa 20 Minuten sehr kurz, soll aber äußerst wichtig für\ndie physische Erholung sein.\nDamit hat die Wissenschaft aber noch lange nicht alle Probleme des Schlafes gelöst. Erwiesen ist nur: Wir brauchen ihn\nzur körperlichen Erholung, auch wenn wir ihn manchmal als Zeitverschwendung empfinden – immerhin verbringen wir\nein Drittel unseres Lebens mit schlafen.\nWarum können wir aber nicht immer sofort einschlafen, wenn müde sind? Tatsächlich klagen viele Menschen in den\nwestlichen Industrienationen über gelegentliche oder dauernde Schlafstörungen.\nSo muss unser Körper, ins besonders das Gehirn die Eindrücke des Tages erst einmal verarbeiten damit wir gesund\nschlafen. Diese System reagiert so sensibel, dass schon kleine Ursachen – äußere und innere – störend wirken können.\nÄußere Ursachen können sein: Lärm, eine ungewohnte Umgebung, ein zu spätes, zu reichliches Essen, kälte oder\nwärme, alles wirkt sich auf unser Wohlbefinden und somit auch auf den Schlaf aus.\nAls innere Ursachen kommen Schmerzen, Angst oder Ärger über ungelöste Konflikte in Frage.\nErkrankungen beeinflussen den Schlaf, auch Medikamente können eine störende Rolle spielen Alles was uns gedanklich\nstark beschäftigt, kann unseren Schlaf beeinträchtigen. Wer aber nur gelegentlich nachts aufwacht, oder auch einmal\neinige Tag schlecht schläft braucht sich keine Sorgen zu machen. Ein paar schlaflose Nächte lassen sich schnell wieder\nnachholen.\nEin echte Schlafstörung liegt erst dann vor wenn unsere Leistungsfähigkeit oder unsere Gesundheit auf Dauer stark\nbeeinträchtigt werden. Dann sollte man auf jeden Fall ärztlichen Rat suchen.",
+   "arabic_labels_excluded": [
+    "أسرار النوم"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P20 compared on legible contact sheet; identical to verified P15",
+   "uncertain": []
+  },
+  {
+   "page": 288,
+   "paper": "P20",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Der Schweizer Schlafforscher Alexander Borbety\nbehauptet, dass der gesunde Schlaf gleichmäßig ist.\nA\nbeschäftigt sich seit 50 Jahren mit dem Thema Schlaf.\nmeint, dass es beim Schlaf verschiedene Stufen gibt.\nC\n7. Während der Leichtschlafphase\nerholt man sich nicht gut.\nA\nträumt man besonders viel.\nwacht man öfter auf.\nC\n8. Die Wissenschaft ist heute der Meinung, dass\nalle Probleme des Schlafes gelöst sind.\nA\nder Schlaf der Körperlichen Erholung dient.\nman durch Schlafen viel Zeit verliert.\nC\n9. Vor allem die Menschen in westlichen Ländern\nklagen darüber, dass sie schlecht schlafen können.\nA\nkönnen ohne Sorgen und Probleme schlafen.\nwerden beim Schlafen gelegentlich gestört.\nC\n10. Zum Arzt sollen die Menschen gehen, die\nlängere Zeit sehr schlecht schlafen.\nA\nmanchmal nachts aufwachen.\nzu viel und zu lange schlafen.\nC",
+   "arabic_labels_excluded": [
+    "أسرار النوم"
+   ],
+   "images": {
+    "count": 5,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.536,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P20 compared on legible contact sheet; identical to verified P15",
+   "uncertain": []
+  },
+  {
+   "page": 289,
+   "paper": "P20",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Ihr Bekannter ist Sportlehrer und sucht eine Nebenbeschäftigung in einem Verein.\n12. Ein guter Bekannter (39) sucht eine Partnerin. Er ist reiselustig und geht spazieren.\n13. Ihre Freundin ist besonders hübsch, Studentin und sucht für die Semesterferien im Sommer einen\nJob.\n14. Sie suchen für das kommende Wochenende eine Konzertkarte.\n15. Ihre 30-jährige Freundin hat in einem Hotel in Spanien gearbeitet und sucht jetzt eine ähnliche\nArbeit in Deutschland.\n16. Ihre 55-jährige Nachbarin sucht jemanden, mit dem sie reisen und klassische Konzerte besuchen\nkann.\n17. Sie möchten lernen, wie Sie kleinere Reparaturen an Ihrem Auto selbst machen können.\n18. Die Tochter Ihrer russischen Bekannten sucht eine Au-pair-Stelle in Deutschland. Sie ist erst 18\nJahre alt.\n19. Ihre 21-jährige Bekannte sucht eine Stelle als Kindergärtnerin.\n20. Eine Freundin braucht ein paar Ratschläge, wie sie erfolgreich eine neue Arbeit finden kann.",
+   "arabic_labels_excluded": [
+    "البحث عن وظيفة"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P20 compared on legible contact sheet; identical to verified P15",
+   "uncertain": []
+  },
+  {
+   "page": 290,
+   "paper": "P20",
+   "section": "L3",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\n90 Minuten Leseverstehen und Sprachbausteine\nMeineWelt\nb\nNir suchen zum nächstmöglichen Termia\nist Beethoven\nRichtig bewerben - Bewer-\nRezeptionisten /\nsine/n\nbungen richtig gestalten\nJung gebliebener Rentner,\nvon Hans Mülller\nRezeptionistin\nehemaliger Musiklehrer (Gymnasium),\neyuschen armarts tae trund\nDas 11-Punkte-Programm\nBeethovenfan, besucht (fast) alle\nzur erfolgreichen Bewerbung\nBeethovenkonzerte und Opern auf\nberdurchschnittlighe Bezahlung\nWir bleten:\nubeitsverhältnis (ganzjährig) gutr\nfestes\nder ganzen Welt.\naus dem Milleniums-Veriag, mit vielen\nSuche kuftur- Und musikbegeisterte\nMusterbeispielen und Checklisten hilft\natmospháre\nIhnen, Bewerbung und Bewerbung®-\nIhre Bewerbungsunterlagen\nWir\nerwarten:\nBegleiterin Über 50, Zuschriften unter\ngespräch erfolgreich zu bestehen.\nHotel Vier Jahreszeiten\nA/B 5813 an diese Zeitung\nJetzt neu in Ihrer Buchhandlung!\nPostfach 12345\nd\nNeverscheinung zur Buchmesse\nf\nNette Lehrerin sucht Partner:\nein Sportclub mit\nWr sind\n•Ratgeber Au pair*\nIch bin über dreißig, aber unter vier-\nron Erka und Justus Malet-Kraus\nsuchen für die nächste Saison einen\nengagierten Mitgliedern und\nzig: meine Hobbys sind Reiten und\nus dem inhalt:\nentrainer\nWandern. Ich suche einen humorvol-\nlen, intelligenten Enddreißiger, der\n• Suche und Auswahl des richtiger\nGegenden erkundet und immer ein\nmit mir zu Fuß oder zu Pferd feme\nAu-pair-Mädchens\n• Vertragsbestimmungen\nfür unsere Vereinsjugend.\noffenes Ohr für mich hat.\n• Wie hoch ist das passende Ge-\nhalt?\nSchwerpunkte: Handball, Volleybal,\nZ/B 2240\n• Was müssen Sie beachten? uvm.\nMILLENIUMS-VERLAG - HAMBURG\n(je 3 Stunden)\nSportclub Erbach\nTel.: 01233/56744\nKindergarten\nWir stellen ein:\n„HoRuspokus\"\nAutomechaniker/\nh\nAutoschlosser\nCroßes Modehaus sucht\nsucht neue\njunge\nMitarbeiterin\nSie haben eine abgeschlosse-\nModels\nzum 1. September.\nne Berufsausbildung und viel\nFreude\n(männlich /weiblich)\nSie sind: kinderlieb, temperamentvoll,\nan Ihrem Beruf?\ntür Modeochauen In garz Deutschland (\nkreativ und geduldig!\nDann schwimmen Sie mit uns\nMonaton Jull und August\nDann bieten wir Ihnen einen Job in einem\nauf der Erfolgswelle.\nWe bieten gute Bezahlung bei heier Ra\ndynamischen, jungen Team mit guter\nBewerbungsunterlagen an:\nBewerbungen mt Foto an:\nBezahlung!\nAutohaus Robert & Sohn,\nModehaus Schwärzinger,\nBewerbung an:\nMarketing-Abteilung. Postfach\nHakuspokus, Gartenstr. 19, Karlsruhe\nPostfach,\n76530 Baden-Baden\n33378 Rheda-Wiedenbrück\nFür meine 2 und 4-jährigen Töchter suche ich\nj\nk\nStadtverwaltung\nImmer Ärger\nab kommenden Winter nettes, kreatives\nErbach\nmit der Autowerkstatt?\nrussisches\nReparatures zu teuer und schlecat genacht?\nAu-pair-Mädchen\nAbteilung Sport\nMachen Sie as dach seibst!\nUm den Bürgerinnen und Bürgem die\nIn dem Standardwerk\nfür die betreuung der Kinder und leichte\nWahl des richtigen Sportvereins zu\nHANDBUCH\nAUTO\n21 Jahre' alt, Studentia, pute Raferenzen, mit\nHausarbetten Voraussetzungen: mindestens\nereichtern, haben wir eine informations\nvan Koribert Panse\nbroschüre mit den Anschriften aller\nfinden Sie - reich bebildert - detaillierte Anleitungen\nmeinen zweisprachig aufwachsenden Töchtem\nVereine zusammengestelit.\nfür viele Reparaturarbeiten am eigenen Aute.\nausschließlich Russisch sprechen\nDie Broschüre\nSPORTVEREINE BEI UNS\"\nMilleniums-Verlag - Hamburg\nBewerbung an:\nDr. Igor Kafelnikow.\nist ab sofort kostenlos im Rathaus, im\nStettiner Str. 17, 10178 Berlin\nBürgerbüro und bei allen Bankon und\nSparkassen orhältlich.",
+   "arabic_labels_excluded": [
+    "البحث عن وظيفة"
+   ],
+   "images": {
+    "count": 3,
+    "page_coverage": 1.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 263,
+    "sample_missing": [
+     "aber",
+     "abgeschlosse",
+     "abteilung",
+     "alle",
+     "allen",
+     "aller",
+     "anleitungen",
+     "anschriften",
+     "armarts",
+     "atmosph",
+     "aufwachsenden",
+     "august",
+     "ausschließlich",
+     "auswahl",
+     "aute",
+     "auto",
+     "autohaus",
+     "automechaniker",
+     "autoschlosser",
+     "autowerkstatt",
+     "baden",
+     "bankon",
+     "beachten",
+     "bebildert",
+     "beethoven"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Ads photo — same ad page as p189 (P15); transcription re-checked",
+   "uncertain": []
+  }
+ ]
+}

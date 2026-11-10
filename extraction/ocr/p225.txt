@@ -1,0 +1,32 @@
+0.080 0.094 1.00	Leseverstehen, Teil 2
+0.097 0.076 1.00	LANGUAGE Tests
+0.171 0.745 0.30	AenAS jSkü
+0.183 0.047 1.00	Lesen Sie den Text und die Aufgaben 6 - 10. Welche Lösung (a, b oder c) ist jeweils richtig?
+0.202 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+0.250 0.047 1.00	Computerprobleme - ein Kinderspiel
+0.285 0.047 1.00	Anne und Melanie (beide 6) stehen Erzieherinnen mit Vorschlägen hilfreich zur Seite
+0.308 0.051 1.00	Von Christiane Altenberger
+0.350 0.047 1.00	Sie sind die Problemlöser im Kindergarten an der Munckerstraße. Wenn das Malprogram spinnt, plötzlich ein
+0.371 0.047 1.00	Spiel auftaucht, das keiner kennt, dann rufen die Erzieherinnen nach Anne und Melanie. Die sind zwar erst
+0.391 0.047 1.00	sechs Jahre alt, aber mit den Computerspielen kennen sie sich aus. Die Kinder wissen manchmal mehr als wir
+0.411 0.047 1.00	sagt Eva Schilling. Leiterin des Kindergartens. Gelernt haben die beiden ihr Know-how bei Multimedia-
+0.432 0.047 1.00	Landschaften für Kinder, einem Projekt, das das Schulamt zusammen mit dem Studio im Netz gestartet hat.
+0.464 0.047 1.00	Im Rahmen dieses Projekts werden in städtischen Kindergärten zwei Wanderstationen mit je drei Multimedia-
+0.484 0.049 1.00	Computern und einem Farbdrucker installiert. Die Stationen wandern durch 14 Kindergärten, wo sie jeweils
+0.503 0.047 1.00	für vier Wochen installiert werden. Mit dabei in den Kindergärten: ein ganzer Satz von Spiel — Software.
+0.523 0.047 1.00	Vierjährige am Computer? In Pädagogen kreisen sind viele Berührungsängste da, weiß Edith Ilg, Fachberaterin
+0.544 0.047 1.00	für Kindergärten beim Schulamt, aber wir können uns aus dieser Entwicklung nicht ausklinken. Die Kinder
+0.564 0.049 1.00	wollen sich mit ihrer Umwelt auseinandersetzen. Angefangen hat diese Auseinandersetzung im Studio im Netz
+0.584 0.047 1.00	- 193 Kinder waren eingeladen, um erste Erfahrungen am Computer zu sammeln. Die Kinder waren absolut
+0.603 0.049 1.00	begeistert, haben immer wieder gefragt, wann gehen wir da wieder hin, so Frau Ilg.
+0.635 0.049 1.00	Bevor jedoch die Computer in die Kindergärten kamen, waren die Eltern aufzuklären. Bei manchen Eltern löste
+0.653 0.047 1.00	das Stichwort Computer akute Ängste aus nach dem Motto: Mein fröhliches, gesundes Kind setzt sich vor den
+0.676 0.049 1.00	Computer und steht sechs Stunden später krank, sprachlos und einsam wieder auf.
+0.705 0.049 1.00	Diese Ängste haben sich inzwischen gelegt und die Erfahrung vor Ort zeigt, dass sie weitgehend über flüssig
+0.727 0.047 1.00	sind. Die Erzieherinnen achten auch darauf, dass die Kinder nie länger als 15 bis 20 Minuten vor den
+0.747 0.049 1.00	Computern sitzen, und holen vor allem kreative Software auf den Bildschirm.
+0.779 0.049 1.00	Das einsame Dämmern vor dem Computer ist wohl ohnehin eher Sache der Erwachsenen - die Kinder spielen
+0.799 0.047 1.00	immer zu zweit oder zu dritt an der Maschine. Eva Schillling hat beobachtet, dass die Kinder am Computer sehr
+0.818 0.047 1.00	friedlich miteinander umgehen, sie helfen sich gegenseitig, es gibt wenig Konflikte. Dabei entwickeln gerade
+0.839 0.049 1.00	Kinder, die sich sonst nur schwer auf etwas konzentrieren können, plötzlich ungeahnte Konzentrationszeiten.
+0.859 0.049 1.00	Eva Schilling kann sich deshalb die Computer als Dauereinrichtung im Kindergarten vorstellen.

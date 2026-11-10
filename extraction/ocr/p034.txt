@@ -1,0 +1,21 @@
+0.076 0.086 1.00	Schriftlicher Ausdruck
+0.093 0.070 1.00	LANGUAGE Tests
+0.129 0.047 1.00	Ihr Freund Jan hat Ihnen folgende E-Mail geschrieben:
+0.270 0.047 1.00	Liebe(r).
+0.305 0.043 1.00	Ich sende Dir ganz viele Grüße aus Rom! Du weißt ja, wie sehr mir diese Stadt gefällt. Ich bin
+0.327 0.047 1.00	hier von morgens bis abends nur unterwegs. Diese Museen, Parks Plätze und natürlich das
+0.352 0.047 1.00	Essen - wunderbar! Gestern Abend war ich übrigens in einem Rockkonzert. Ich fand die Musik
+0.376 0.045 1.00	ganz toll und die Stimmung war super.
+0.410 0.053 1.00	Doch Leider ist mein Urlaub schon fast vorbei und in drei Tagen muss ich wieder zurück nach
+0.433 0.047 1.00	Deutschland. Welche Stadt ist eigentlich Deine Lieblingsstadt? Hast du schon Pläne für Deinen
+0.458 0.047 1.00	nächsten Urlaub? Vielleicht können wir uns ja mal wieder treffen.
+0.525 0.047 1.00	Herzliche Grüße
+0.561 0.045 1.00	Jan
+0.586 0.609 0.50	schul
+0.629 0.047 1.00	Antworten Sie Jan. Schreiben Sie etwas zu allen vier Punkte:
+0.676 0.045 1.00	• Ihre Lieblingsstadt
+0.699 0.045 1.00	• Welche Musik Sie mögen.
+0.722 0.045 1.00	.Ihre Pläne für den nächsten Urlaub.
+0.744 0.045 1.00	.Treffen mit Jan?.
+0.810 0.047 1.00	Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine
+0.831 0.049 1.00	passende Anrede, Einleitung und einen passenden Schluss.

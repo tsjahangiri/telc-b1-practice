@@ -1,0 +1,339 @@
+{
+ "batch": 47,
+ "pages": [
+  461,
+  470
+ ],
+ "records": [
+  {
+   "page": 461,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich bin für ein Sommerfest ,Ich habe das noch nie gefeiert ,aber wann\nkönnen wir feiern?\n Wie wäre es mit dem nächsten Sonntag ,da haben wir all Zeit.\n Ich möchte dir widersprechen ,ich finde es besser ,wenn wir am Samstag\nfeiern ,am nächsten Tag haben wir alle Frei und wir können bis Spät in die\nNacht richtig feiern ,was meinst du?\n Ja ,du hast Recht,aber wo können wir feiern?\n Wir können entweder in einem Restaurant ,oder bei mir zu Hause feiern\n,und im Garten zusammen feiern ,was denkst du?\n Ich glaube dein Haus wäre besser ,die Letzte Party ,die wir bei dir zu\nHause gefeiert haben ,war echt super ,aber hast du Vorschläge zum Essen\n,oder Trinken?\n Ja ,Ich schlage für ,dass wir Süßigkeiten und Brezel bestellen ,und ich\nkann ein paar Getränke mit bringen ,das wird bestimmt jedem schmecken\n,oder?\n Das klingt gut ,ich kann auch einen leckeren Kuchen backen ,aber hast du\nein Programm für die Party?\n Ja, natürlich werden wir zu spanischer Musik tanzen, das ist mein Favorit\n,was ist mit dir?\n Ich habe ein neues Spiel, das ich in Japan gekauft habe, und ich möchte es\nzusammen spielen ,passt es dir?\n Das finde es sehr interessant ,ich glaube das wird sicher eine tolle Party\n,und wir werden viel Spaß haben.\n Ich auch ,bis dann.\n Bis bald.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 462,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "* Der beste Freund *\n Teilnehmer A\n- Ich habe einen Beitrag zum Thema *Der beste Freund* gelesen.\n- Die Person die sich äußert heißt *Sandra Polanski*.\n- Sie ist 46 Jahre Alt ,und arbeitet als Köchin.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.53
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 21,
+    "sample_missing": [
+     "aber",
+     "baste",
+     "einer",
+     "einfach",
+     "este",
+     "freundin",
+     "gana",
+     "gibt",
+     "jetzt",
+     "kenne",
+     "ndhelt",
+     "schan",
+     "seht",
+     "seit",
+     "siejebt",
+     "sorgen",
+     "streit",
+     "telefonieren",
+     "tellen",
+     "zwar",
+     "zwischer"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 463,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Frau *Polanski* bevorzugt einen besten Freund zh haben.\n- Sie sagt ,dass sie ihre beste Freundin seit der Kindheit kennt.\n- Obwohl sie in verschiedenen Städten leben ,bleiben sie immer im Kontakt.\n- Sie können nicht nur sich problenlos verstehen ,sondern auch Freunden und\nSorgen teilen.\n- Außerdem streiten sie sich noch nie.\n***************************************************************\n*Meinung*\n- Ich bin derselben Meinung wie *Sandra*.\n- Ich finde es wichtig ,wenn man einen Freund seit der Kindheit hat\n ,und mit ihm im Kontakt bleibt.\n-Heutzutage ist es schwer ,einen treuen Freund zu finden.\n mit Ihnen teilt.\n- Ich finde das Leben ohne Freunde langweilig\n***************************************************************\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "- Ab und zu braucht man einen Freund, der seine Geheimnisse *أسرار*"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 3,
+    "sample_missing": [
+     "braucht",
+     "geheimnisse",
+     "seine"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 464,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Erfahrung*\n Ich habe die folgende Erfahrung , Ich habe einen Freun seit etwa 20\nJahren ,wir gingen sowohl af dieselbe Schule ,als auch auf dieselbe\nUniversität.\n Falls wir die Prüfung bestehen ,reisen wir auch zusammen nach\nDeutschland.\n Er hat mir viel geholfen ,damit ich viele Schwierigkeiten überwinden\nkann.\n***************************************************************\n Teilnehmer B\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.42
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.968,
+    "ocr_words_missing_from_textlayer": 60,
+    "sample_missing": [
+     "aber",
+     "andere",
+     "beispiel",
+     "bekannte",
+     "berichtet",
+     "beste",
+     "besten",
+     "betriebswirt",
+     "danach",
+     "dann",
+     "darüber",
+     "dazu",
+     "effahrungen",
+     "eigenen",
+     "einer",
+     "erhalten",
+     "erzählen",
+     "etwas",
+     "fiten",
+     "freund",
+     "freundin",
+     "gehen",
+     "gelesen",
+     "gentlich",
+     "gesgrächsparther"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 465,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Ich habe auch einen Beitrag von *Holger Münz* gelesen.\n- Er ist 25 Jahre Alt .und arbeitet als Betriebswirt.\n***************************************************************\n Herr *Münz* sagt ,dass er noch nie einen besten Freund hatte ,Trotzdem\nhat er viele Bekannte.\n Während er imSportverein ist ,treffen sie sich.\n Ab und zu geht er mit ihnnen in die Kneipe ,das macht ihm viel Spaß.\n***************************************************************\n*Meinung*\n* Da gehe ich nicht d´accord ,ich finde es wichtig ,wenn ich einen\nbesten Freund habe ,mit ihm ich immer über meine persönliche\nProbleme sprechen kann.\n* Falls ich entweder einen Notfall ,oder einen wichtigen Umstand\n    habe ,finde ich jemanden ,der bei mir ist.\n* Meiner Meinung nach soll man einen Freund haben, mit dem man\n      in schwierigen Zeiten zusammen sein kann.\n***************************************************************\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 466,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Erfahrung*\n- Damit habe ich auch gute Erfahrungen.\n- Ich mag nicht alleine bleiben ,deshalb habe ich einen besten Freund\n,mit ihm ich immer irrgend wo gehe.\n- Während der Hochzeit meiner Schwester ,war er in meiner Nähe ,und\nhat mir viel geholfen\nSeit etwa 3 Monaten bicn ich aus meiner alten Wohnung\nausgezogen ,obwohl er müde war ,kann er sofort ,um mir zu helfn .\n- Und nachdem ich die Prüfung bestanden war ,hat er mir eine\nbeeindruckend.\n- Ich glaube, ich habe die beste Freundin der Welt.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "Überraschungsparty*حفل مفاجئ* gemacht ,das war sehr"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.978,
+    "ocr_words_missing_from_textlayer": 4,
+    "sample_missing": [
+     "gemacht",
+     "schul",
+     "sehr",
+     "überraschungsparty"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 467,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "* Urlaub mit Freunden *\n Teilnehmer A\n- Ich habe einen Beitrag zum Thema *Urlaub mit Freunden* gelesen.\n- Die Person die sich äußert heißt *Tamara Rößner*.\n- Sie ist 31 Jahre Alt ,und arbeitet als Lehrerin.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.53
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 52,
+    "sample_missing": [
+     "andere",
+     "auch",
+     "außerdem",
+     "bekannten",
+     "berichten",
+     "berichtet",
+     "dann",
+     "darüber",
+     "dazü",
+     "diese",
+     "eigenen",
+     "eine",
+     "einer",
+     "einfach",
+     "erfahrungen",
+     "erholen",
+     "erzählen",
+     "etwas",
+     "fahren",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "gruppe",
+     "haben",
+     "ihnen",
+     "ihre"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 468,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Frau *Rößner* bevorzugt einen Urlaub ohne ihre Bekannten zu\nmachen.\n Sie findet es besser ,wenn sie und ihr Mann die Zeit alleine verbringen.\n Sie möchten sich auch zusammen ausruhen ,aber das ist nicht\n möglich ,wenn sie in einer Gruppe reisen  .\n***************************************************************\n*Meinung*\n Ich habe eine ähnliche Meinung wie *Tamara* ,ich finde es besser\nwenn ich einen Urlaub nur mit meiner Frau mache ,da könner wir\nunsere Freiheit haben ,um besondere Plätze zu besuchen   ,oder\netwas besonderes zu machen .\n Während wir alleine reisen ,können wir auch unsere Privatheit haben.\n Wir können irgendwo ,und  irgendwann  ausgehen ,ohne ,dass\njemand bei uns ist.\n Wir wollen uns ausruhen ,ohne dass andere uns folgen ,aber das ist\nsehr schwerig bei Reisen mit Verwandten.\n***************************************************************\n*Erfahrung*\nIch habe die folgende Erfahrung :\n Seit 3 Monaten bin ich mit meinem Man nach Alexandria gefahren.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 469,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Dort haben wir eine tolle Woche alleine verbracht.\nWährend der Reise haben wir heden Tag etwas neues zusammen\nerlebt ,ohne dass jemand uns gefragt hat ,wohin wir gehen.\n Ich möchte auch im nächsten Sommer einen Urlaub mit meinem Frau\nmachen ,und  unsere  Freiheit  ,weg  von  Bekannten  haben ,das\nfinde ich ist interessant.\n***************************************************************\n Teilnehmer B\n- Ich habe auch einen Beitrag von *…….* gelesen.\n- Er ist 29 Jahre Alt .und arbeitet als Ingenieur.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.4
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.977,
+    "ocr_words_missing_from_textlayer": 20,
+    "sample_missing": [
+     "abends",
+     "allein",
+     "ausflüge",
+     "dann",
+     "deshalb",
+     "einer",
+     "fahre",
+     "freunden",
+     "gefeiert",
+     "gemeinsame",
+     "gruppe",
+     "immer",
+     "langweilig",
+     "richtig",
+     "sehr",
+     "unternehmen",
+     "verbringen",
+     "viel",
+     "wird",
+     "wäre"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 470,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "***************************************************************\n Herr *……* bevorzugt einen Urlaub mit Freunden zu machen ,weil\nalleine reisen ihm sehr langweilg ist.\n Er findt es sehr interessant ,wenn er Ausflüge mit seinen Freunden\nmacht ,da kann er bis Spät in die Nacht richtig feiern.\n***************************************************************\n*Meinung*\n Da gehe ich ganz d´accord , ich finde es besser ,wenn ich mit\nmeinen Freunden reise ,damit wir zusammen richtig Spaß haben.\n Wir können nicht nur zusammen spielen ,oder Campen ,sondern\nauch gemeinsame Ausflüge machen.\n Falls ich nicht genug Geld habe ,finde ich einfach jemanden ,dermich\nbezahlt , das ist manchmal sehr hilfreich.\n Ich finde, dass Reisen mit Freunden einen besonderen Spaß macht,\n***************************************************************\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "den findet man alleine nicht.*السفر مع األصدقاء متعة لن تجدها وحدك*"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  }
+ ]
+}

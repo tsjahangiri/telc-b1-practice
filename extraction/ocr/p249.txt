@@ -1,0 +1,23 @@
+0.076 0.086 1.00	Schriftlicher Ausdruck
+0.093 0.070 1.00	LANGUAGE Tests
+0.129 0.045 1.00	Sie haben folgende E-Mail von Ihrer Freundin Sophie bekommen:
+0.235 0.047 1.00	Liebe(r).
+0.269 0.047 1.00	wir haben lange nichts mehr voreinander gehört. Ich hoffe, es geht dir gut. Gibt es bei dir
+0.291 0.047 1.00	Neuigkeiten? Ich bin nun schon seit zwei Monaten in Würzburg, und mein neuer Job gefällt mir sehr
+0.312 0.045 1.00	gut. In der Firma fühle ich mich wohl, mit meinen Kollegen verstehe ich mich prima und die Arbeit
+0.334 0.047 1.00	macht mir großen Spaß.
+0.378 0.051 1.00	Allerdings habe ich ein Problem: Außer meinen Kollegen kenne ich hier in der Stadt noch
+0.400 0.049 1.00	niemanden. In meiner Freizeit bin ich oft allein und weiß nicht, was ich machen soll. Wie könnte ich
+0.422 0.049 1.00	neue Leute kennenlernen? Hast du vielleicht einen Tipp für mich?
+0.443 0.047 1.00	Würzburg ist wirklich eine schöne Stadt mit vielen Sehenswürdigkeiten. Hast du Lust, mich mal an
+0.465 0.049 1.00	einem Wochenende zu besuchen? Ich würde mich sehr freuen.
+0.510 0.047 1.00	Viele Grüße
+0.545 0.047 1.00	Sophie
+0.603 0.624 0.50	schu
+0.618 0.049 1.00	Antworten Sie Sophie. Schreiben Sie etwas zu allen vier Punkten:
+0.661 0.047 1.00	Was es Neues bei Ihnen gibt
+0.685 0.047 1.00	. Was Sie selbst gerne in Ihrer Freizeit machen
+0.708 0.045 1.00	. Tipps für Sophie
+0.731 0.045 1.00	• Reaktion auf den Vorschlag
+0.773 0.049 1.00	Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine
+0.795 0.049 1.00	passende Anrede, Einleitung und einen passenden Schluss.

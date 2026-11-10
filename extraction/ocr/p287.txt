@@ -1,0 +1,32 @@
+0.078 0.090 1.00	Leseverstehen, Teil 2
+0.096 0.074 1.00	LANGUAGE Tests
+0.164 0.047 1.00	Lesen Sie den Text und die Aufgaben 6 - 10. Welche Lösung (a, b oder c) ist jeweils richtig?
+0.157 0.805 0.30	ebh e!
+0.183 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+0.259 0.049 1.00	Geheimnisse des Schlafes
+0.301 0.047 1.00	Schlafstörungen - die meisten Ursachen sind harmlos
+0.336 0.045 1.00	Lange Zeit hat man geglaubt, dass der Schlaf nur so etwas ist wie der kleine Bruder des Todes Ein Zustand der Körper
+0.353 0.047 1.00	Energie spart und alles langsamer läuft. Erst in den 50 er Jahren des letzten Jahrhunderts fand man heraus dass schlafen
+0.372 0.047 1.00	etwas sehr Aktives ist und Nacht für Nacht in unterschiedlichen Abschnitten verläuft. Der Schweizer Schlafforscher
+0.391 0.049 1.00	Alexander Borbely hat diesen Vorgang mit einer Treppe verglichen, über die wir jede Nacht mehrmals gehen.
+0.427 0.051 1.00	Zunächst sind wir wach, dann schlafen wir ein und gehen bis tief hinab in den Keller in einen tiefen Schlaf. Danach geht
+0.446 0.047 1.00	es wieder hoch in einen leichten Schlaf, der von lebhaften, intensiven Träumen und schnellen Augenbewegungen
+0.464 0.049 1.00	begleitet wird Daher wird diese Phase auch REM-Schlaf ( rapid-eye-movements = schnelle Augenbewegung) genannt.
+0.483 0.049 1.00	Dieser Abschnitt ist im Gegensatz zu den anderen Phasen mit etwa 20 Minuten sehr kurz, soll aber äußerst wichtig für
+0.501 0.047 1.00	die physische Erholung sein.
+0.531 0.053 1.00	Damit hat die Wissenschaft aber noch lange nicht alle Probleme des Schlafes gelöst. Erwiesen ist nur: Wir brauchen ihn
+0.549 0.047 1.00	zur körperlichen Erholung, auch wenn wir ihn manchmal als Zeitverschwendung empfinden - immerhin verbringen wir
+0.567 0.047 1.00	ein Drittel unseres Lebens mit schlafen.
+0.597 0.051 1.00	Warum können wir aber nicht immer sofort einschlafen, wenn müde sind? Tatsächlich klagen viele Menschen in den
+0.616 0.047 1.00	westlichen Industrienationen über gelegentliche oder dauernde Schlafstörungen.
+0.647 0.051 1.00	So muss unser Körper, ins besonders das Gehirn die Eindrücke des Tages erst einmal verarbeiten damit wir gesund
+0.664 0.045 1.00	schlafen. Diese System reagiert so sensibel, dass schon kleine Ursachen - äußere und innere - störend wirken können.
+0.693 0.047 1.00	Äußere Ursachen können sein: Lärm, eine ungewohnte Umgebung, ein zu spätes, zu reichliches Essen, kälte oder
+0.714 0.047 1.00	wärme, alles wirkt sich auf unser Wohlbefinden und somit auch auf den Schlaf aus.
+0.741 0.053 1.00	Als innere Ursachen kommen Schmerzen, Angst oder Ärger über ungelöste Konflikte in Frage.
+0.773 0.053 1.00	Erkrankungen beeinflussen den Schlaf, auch Medikamente können eine störende Rolle spielen Alles was uns gedanklich
+0.792 0.045 1.00	stark beschäftigt, kann unseren Schlaf beeinträchtigen. Wer aber nur gelegentlich nachts aufwacht, oder auch einmal
+0.810 0.047 1.00	einige Tag schlecht schläft braucht sich keine Sorgen zu machen. Ein paar schlaflose Nächte lassen sich schnell wieder
+0.828 0.047 1.00	nachholen.
+0.859 0.053 1.00	Ein echte Schlafstörung liegt erst dann vor wenn unsere Leistungsfähigkeit oder unsere Gesundheit auf Dauer stark
+0.878 0.047 1.00	beeinträchtigt werden. Dann sollte man auf jeden Fall ärztlichen Rat suchen.

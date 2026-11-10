@@ -1,0 +1,154 @@
+0.071 0.060 1.00	Leseverstehen, Teil 3
+0.089 0.045 1.00	LANGUAGE Tests
+0.157 0.090 0.30	un Misuten Leseverstehen and Sprachbansteine
+0.190 0.086 0.50	• PRAKTIKANT/IN
+0.193 0.363 0.50	b
+0.209 0.115 0.50	Im. Bereich Medien-
+0.218 0.115 0.50	Veraaslallungstechnik
+0.214 0.306 1.00	und
+0.208 0.374 1.00	ARTE
+0.211 0.485 0.50	Thomenabend
+0.206 0.665 1.00	Wir suchen
+0.215 0.665 0.30	nints
+0.224 0.375 0.50	20.45 Was ist mit unse-
+0.227 0.639 1.00	Mitarbeiter für eine
+0.237 0.435 0.50	ror Jugend fos?
+0.237 0.639 1.00	freiberufliche Neben-
+0.254 0.215 0.30	imind o Morole
+0.247 0.376 0.50	"UNSERE ZUKUNFT"
+0.247 0.639 1.00	tatigkeit
+0.262 0.215 0.30	tre Bewesbary an:
+0.257 0.375 1.00	Wie kommen Jugendliche
+0.259 0.639 0.50	Cteloloniuche: Abspracho und Planung
+0.272 0.214 0.30	fua Film Gentei
+0.267 0.377 1.00	Deutschlond und Frankreich mit
+0.266 0.641 0.30	von inlervinwer-Enlitzen. 15-25 Std./
+0.277 0.219 0.30	7,80y39 Monchon
+0.276 0.378 0.30	der
+0.277 0.402 0.50	Wirluchalts: und Bildungs-
+0.275 0.641 0.30	Woche). Speziein Vorkenedniese tind
+0.292 0.378 0.50	his 23.45
+0.286 0.378 0.50	poitk zurocht?
+0.282 0.641 0.30	nicht eefordedlich, wichlig ist unis tachworet
+0.295 0.542 1.00	771-605
+0.291 0.643 0.30	Aulirelen am Tolefon.
+0.301 0.643 0.50	Nihem Informationen unfer
+0.310 0.645 0.30	Z (089) 92 23-421
+0.324 0.088 0.50	d
+0.320 0.645 1.00	rb Bahnreisenforschung.
+0.329 0.115 1.00	20.15 Tatortaus Münster
+0.327 0.647 0.50	Arbellastr. 33, 81925 Minchen
+0.341 0.113 0.30	Nun kommen de Fang vor
+0.350 0.115 0.50	Thiel wieder auf thre Kosten. Frank
+0.349 0.318 0.50	cank
+0.359 0.115 0.30	Thiel alas Axel Prafl ornittelt. Ihm
+0.359 0.415 1.00	Lukrative Halutagstätigkeit
+0.369 0.115 0.30	zur Scito steht Denise Merdor
+0.378 0.115 1.00	Schweizerin
+0.388 0.115 0.50	des rüden Enmittlars
+0.381 0.205 0.50	spielt die Froundin
+0.378 0.452 1.00	Expondierendes
+0.396 0.113 0.30	mit Stil, die Vorständnis tor Thnls
+0.391 0.314 0.30	Frau
+0.387 0.396 0.50	High-Tech-Untemelmien sucht fdr
+0.379 0.667 0.30	3 Sat
+0.395 0.405 0.30	Empfang und einlathe Büroz
+0.390 0.667 1.00	20.15
+0.390 0.731 1.00	LIVE
+0.405 0.115 0.50	Lebenswandel znigt, sich abncatch
+0.404 0.400 0.50	beiten Aushille, MS-Oflica- und
+0.404 0.669 0.50	Drei Länder - cin Thema
+0.414 0.115 0.50	in Szene zu setzen weiß, Mit dieser
+0.413 0.396 0.50	Erglischkenntnisse erfordarlich!
+0.423 0.115 0.50	Rolle holft sie, im doutschen Femse
+0.416 0.669 1.00	TALK-SHOW
+0.432 0.113 0.50	hen bekannt zu werden,
+0.427 0.407 0.50	interessonten wenden sich an
+0.427 0.671 0.50	Kommt die Öko-Diktatur - Zund
+0.443 0.248 0.50	(bis 21.45 Uhr)
+0.445 0.427 0.30	Lepwe New Media Brribht,
+0.438 0.671 0.50	Stoll Benzinpreis". Wie begegnet
+0.452 0.446 0.30	Tel 089/45 79 00
+0.454 0.673 0.50	und Östorreich dem Verkehrskol
+0.446 0.674 1.00	man in Deutschland, der Schweiz
+0.464 0.673 1.00	laps? Wie retten wir die Umwelt?
+0.477 0.676 0.50	bis 21.30
+0.474 0.828 1.00	65-437-662
+0.487 0.086 1.00	9
+0.493 0.114 0.30	Bei uns wnt
+0.499 0.134 0.30	Edoig belchv!
+0.493 0.242 0.30	Wesuchen linutoomfillo
+0.503 0.242 0.30	НЗНИДИОСТЕНТ НВСКОВОНРВИЛИ
+0.510 0.244 0.30	...
+0.507 0.292 0.30	Bereicein Mor
+0.501 0.682 0.30	i
+0.517 0.287 0.30	rankliet tarxl Bealir
+0.510 0.415 1.00	h
+0.517 0.692 1.00	22.55
+0.516 0.760 1.00	Stern TV-Count-
+0.528 0.144 1.00	Mitarbeiter/innen
+0.525 0.474 0.50	Wit suchen standig:
+0.533 0.425 0.30	• Studenten ll Schüler-Nach-
+0.528 0.760 0.50	down (VOX)
+0.545 0.175 1.00	am Empfang
+0.544 0.439 0.30	THLeUmITTET
+0.548 0.439 0.50	Englech, Franzo
+0.548 0.530 0.30	ch. MathenatA
+0.541 0.694 0.50	In zehn
+0.549 0.698 0.50	,Spiegel TV"-Mann Jörg Haf
+0.542 0.764 1.00	Reportagen zoigt
+0.570 0.113 0.30	gede ausgelernt habenpmd. ene Fremdyprache
+0.562 0.117 0.30	Wenn Sie bereds: Rezeptonserlateungpodet aucke
+0.564 0.427 0.30	• Babysiter / Tiersitler
+0.557 0.427 0.50	• Messahastessen
+0.560 0.698 1.00	kemeyer, wie sich die ersten
+0.578 0.115 0.30	(E) sprechen und EDv-erfatuen sin, senten Ser
+0.576 0.448 1.00	Std.-Lohn ca. 13,00 EUR
+0.568 0.698 1.00	Monate der neuen Regierung
+0.578 0.700 1.00	gestallen.
+0.577 0.778 0.50	Jetzt werden Wei
+0.587 0.115 0.30	bitte lluc Boweibung arr
+0.587 0.429 0.50	Verinittlungsogentur Gerdsschwager
+0.600 0.117 0.50	Blatil's Motels Zentralbüre, Geschällsleraich Parsanal,
+0.594 0.474 0.30	Tel. 089 / 74 58 91 93
+0.587 0.700 0.50	chen für die Zukunit Deutsch-
+0.597 0.700 0.50	lands gestellt
+0.609 0.117 0.50	Pastlach 22 11 44, 00591 Müschien
+0.606 0.832 1.00	(bis 21.45 Uhr)
+0.650 0.140 1.00	Max Frisch: Biedermann und die
+0.656 0.415 0.30	k
+0.650 0.731 1.00	Lieben Sie den Umgang
+0.664 0.209 1.00	Brandstifter;
+0.661 0.444 1.00	22.15 Radio Bremen
+0.664 0.764 1.00	mit Menschen?
+0.677 0.150 1.00	Samstag, 19. September,
+0.679 0.446 0.50	Bel einem intemnationalen Kon-
+0.679 0.749 1.00	Sind Sie obendrein auch noch
+0.689 0.158 1.00	20.10-21.17 Uhr, HR2.
+0.690 0.446 1.00	gress präsenterten vergangenes
+0.702 0.115 1.00	„Ein Lehrstück ohne Lehre" nannle
+0.699 0.446 1.00	Wochenende in Bremen Archi-
+0.693 0.747 0.50	dynamisch und elurgeizig, dann
+0.714 0.115 1.00	Frisch sein ursprünglich als Hörspiel
+0.711 0.446 0.50	tekien hre Projekte zum Thema
+0.706 0.774 0.50	sind Sie bei uns richtig.
+0.725 0.115 1.00	gedachtes und dann für das Theater
+0.719 0.446 0.30	Stactische Freiäume". Weiter
+0.719 0.762 1.00	Münchens bekannte PRIMA-
+0.734 0.115 1.00	bearbeitetes Stück, das 1958 in Zürich
+0.733 0.446 0.50	Tin: Rückschau und Vorschau
+0.731 0.762 0.50	Werbung hietet ihnen neben
+0.746 0.113 1.00	uraufgeführt wurde. Man sah darin
+0.744 0.448 0.50	auf das Programm der , Bremer
+0.746 0.747 1.00	cinem tellen Team hervorragende
+0.757 0.113 0.50	sowohl eine Wamung vor dem Kommu-
+0.754 0.450 0.50	Schule für Dichtung'.
+0.754 0.612 0.50	Und ein
+0.769 0.113 1.00	nismus wie vor dem Faschismus. (chw.)
+0.766 0.450 0.50	Bercht über die Obdachlosen-
+0.759 0.749 0.50	Verdienst- und Aulstiegsmöglch-
+0.776 0.450 0.50	Betreuung "Wochenklausur"
+0.773 0.834 1.00	keiten.
+0.788 0.768 0.50	Wir brauchen Leute wie Sie!
+0.802 0.817 0.50	Rulen Sie an!
+0.879 0.082 0.30	104• Casnan.

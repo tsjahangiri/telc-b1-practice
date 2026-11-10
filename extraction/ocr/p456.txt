@@ -1,0 +1,20 @@
+0.090 0.012 1.00	- Frau *Weiß* bevorzugt in einer schönen Wohnung zu leben.
+0.132 0.012 1.00	- Sie sagt,dass sie schöne Möbel und Bilder mag ,deswegen hat sie ,sowohl viele
+0.158 0.060 1.00	Antiquitaten ‚als auch moderne Mobel.
+0.199 0.012 1.00	- Ihre Wohnung muss immer aufgeraumt sein ,damit sie sich wohl fühlt.
+0.240 0.012 0.50	***************************************************************
+0.277 0.016 1.00	*Meinung*
+0.330 0.012 1.00	- Ich gehe ganz d'accord ,ich finde es bequemer ,wenn ich in einer
+0.362 0.014 1.00	schönen Wohnung lebe.
+0.411 0.012 1.00	- Falls ich Gäste habe ,möchte ich ,dass mein Haus aufgeräumt und
+0.442 0.014 1.00	sauber ist.
+0.491 0.012 0.50	- Die Hauptsache für mich ist ,wie die wohnung aussieht,aber die
+0.539 0.031 1.00	qualitat kommt für mich nicht in Frage.
+0.586 0.012 1.00	-Es gibt auch Nachteile ,vielleicht sind die Möbel sehr schön ,aber
+0.618 0.014 1.00	schwach,und bleiben nicht lange.
+0.663 0.012 1.00	***************************************************************
+0.705 0.014 1.00	*Erfahrung*
+0.754 0.010 1.00	- Bevor ich geheiratet habe ,kaufte ich viele schöne Möbel,das hat
+0.804 0.018 1.00	mich viel gekostet.
+0.853 0.014 1.00	• Obwohl die Mobel sehr teuer sind ,lohnt es sich.
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

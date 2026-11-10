@@ -1,0 +1,165 @@
+[
+ {
+  "id": "P06-H1",
+  "type": "hoeren",
+  "part": 1,
+  "section": "Hörverstehen, Teil 1",
+  "instructions": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.",
+  "statements": [
+   {
+    "num": 41,
+    "text": "Herr Pawliczek erledigt alle seine Einkäufe im Internet gemacht."
+   },
+   {
+    "num": 42,
+    "text": "Frau Zimmermann legt beim Einkaufen großen Wert auf persönlichen Kontakt."
+   },
+   {
+    "num": 43,
+    "text": "Frau Schmidt findet zu Hause nicht genug Ruhe, um im Internet einzukaufen."
+   },
+   {
+    "num": 44,
+    "text": "Frau Ruttnigg ist vom Einkaufen im Internet nicht überzeugt."
+   },
+   {
+    "num": 45,
+    "text": "Herr Krause kauft seine Medikamente am liebsten in der nächsten Stadt."
+   }
+  ],
+  "pages": [
+   70
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 74,
+  "topic": "Einkäufe im Internet",
+  "solution": {
+   "41": "+",
+   "42": "-",
+   "43": "+",
+   "44": "-",
+   "45": "-"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ },
+ {
+  "id": "P06-H2",
+  "type": "hoeren",
+  "part": 2,
+  "section": "Hörverstehen, Teil 2",
+  "instructions": "Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.",
+  "statements": [
+   {
+    "num": 46,
+    "text": "Frau Wenger wollte schon immer als Feuerwehrfrau arbeiten."
+   },
+   {
+    "num": 47,
+    "text": "Frau Wenger und ihr Freund haben nun eine gemeinsame Freizeitbeschäftigung."
+   },
+   {
+    "num": 48,
+    "text": "Frau Wenger hat bereits einer Freundin geholfen, deren Wohnung brannte."
+   },
+   {
+    "num": 49,
+    "text": "Probleme mit Geräten werden im Team gelöst."
+   },
+   {
+    "num": 50,
+    "text": "Die Ausbildung zur Feuerwehrfrau war sehr anstrengend."
+   },
+   {
+    "num": 51,
+    "text": "Die Kleidung der Feuerwehrleute passt oft nur Männern."
+   },
+   {
+    "num": 52,
+    "text": "Dass sie jederzeit zu Notfällen gerufen werden, kann ist für Frau Wenger."
+   },
+   {
+    "num": 53,
+    "text": "Als Feuerwehrfrau hat Frau Wenger schon viele Unfälle gesehen."
+   },
+   {
+    "num": 54,
+    "text": "Frau Wenger möchte von ihren männlichen Kollegen anders behalten."
+   },
+   {
+    "num": 55,
+    "text": "Interessenten sollen sich bei Frau Wenger melden."
+   }
+  ],
+  "pages": [
+   71
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 74,
+  "topic": "Wenger",
+  "solution": {
+   "46": "-",
+   "47": "+",
+   "48": "-",
+   "49": "+",
+   "50": "+",
+   "51": "-",
+   "52": "+",
+   "53": "-",
+   "54": "-",
+   "55": "-"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ },
+ {
+  "id": "P06-H3",
+  "type": "hoeren",
+  "part": 3,
+  "section": "Hörverstehen, Teil 3",
+  "instructions": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.",
+  "statements": [
+   {
+    "num": 56,
+    "text": "Sie können zwei Flüge nach Griechenland gewinnen."
+   },
+   {
+    "num": 57,
+    "text": "Für Ihre Gruppe ist ein Wagen im Zug nach Aschaffenburg reserviert."
+   },
+   {
+    "num": 58,
+    "text": "Auf der Internetseite kann man auch günstige Angebote für Haushaltsgerät."
+   },
+   {
+    "num": 59,
+    "text": "Erst morgen Abend bildet sich Nebel.."
+   },
+   {
+    "num": 60,
+    "text": "Am besten fahren Sie ab Northeim mit dem Bus."
+   }
+  ],
+  "pages": [
+   72
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 74,
+  "topic": "Griechenland",
+  "solution": {
+   "56": "-",
+   "57": "+",
+   "58": "+",
+   "59": "-",
+   "60": "+"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ }
+]

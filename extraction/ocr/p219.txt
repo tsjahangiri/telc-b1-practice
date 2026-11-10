@@ -1,0 +1,25 @@
+0.102 0.010 0.50	- Ich habe auch einen Beitrag von *
+0.102 0.443 0.50	....* gelesen.
+0.137 0.008 1.00	- Er ist 30 Jahre Alt .und arbeitet als Elektroingenieur.
+0.179 0.012 1.00	***************************************************************
+0.221 0.006 0.50	• Herr *
+0.222 0.125 0.50	....* sagt ,dass er zu viel arbeitet ,aber die Arbeit macht ihm viel Spaß.
+0.249 0.008 1.00	• Obwohl er viel Zeit während der Arbeit verbringt ,ist das ihm nicht stressig.
+0.275 0.008 1.00	• Er mag dir Arbeit,und Stress kommt für ihn nicht In Frage.
+0.324 0.041 1.00	************************
+0.324 0.419 1.00	***********************************
+0.365 0.014 1.00	*Meinung*
+0.416 0.014 1.00	* Ich habe eine ähnliche Meinung wie Herr *
+0.419 0.682 1.00	*
+0.429 0.634 0.30	.....
+0.464 0.018 0.50	* Wenn man einen Job hat ,den er loebt,fühlt sie sich nicht gestresst.
+0.510 0.010 1.00	* Meiner Meinung nach soll man überlegen* så* ,bevor er einen
+0.562 0.025 1.00	Beruf wählen ,der Job muss uns nicht nur Geld bringen ,sondern auch
+0.609 0.037 1.00	Spaß machen.
+0.654 0.014 1.00	* Ich finde es auch wichtig ,wenn man mit netten Kollegen arbeitet
+0.690 0.012 1.00	,damit er eine tolle Arbeitatmosphäre hat.
+0.735 0.043 0.50	************
+0.735 0.778 1.00	********
+0.776 0.014 1.00	*Erfahrung*
+0.831 0.012 1.00	- Damit habe ich auch gute Erfahrungen.
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

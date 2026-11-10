@@ -1,0 +1,5 @@
+# P29-L1 pages [427, 428] ratio 0.951
+## website words not in OCR:
+Schlechtes Wetter abgesagt Wandern Neues Literaturinteressierte Laute stört Nachbarn nächsten Übernachtungen
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests ötua Celeg KERPENDENT Mailu Celeg Leseverstehen Teil NDEPENDENT Dailu LANGUAGE Tests Vittor DALE 042tA nachsten Ubernachtungen

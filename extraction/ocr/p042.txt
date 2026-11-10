@@ -1,0 +1,70 @@
+0.064 0.076 1.00	Sprachausteine, Teil 1
+0.081 0.062 1.00	LANGUAGE Tests
+0.132 0.047 1.00	Lesen sie den Text und schließen Sie Lücken 21 - 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.
+0.153 0.049 1.00	Markieren sie Ihre Lösungen für die Aufgaben 21 - 30 auf dem Antwortbogen
+0.243 0.047 1.00	Liebe Frau Grenzacker,
+0.281 0.047 1.00	leider habe ich Sie vor den Feiertagen nicht mehr angetroffen. (21) Schreibe ich Ihnen nun aus dem
+0.301 0.047 1.00	Skiparadies Obergurgl (22) ich jetzt mit einigen Freunden die Winterferien verbnnge.
+0.320 0.045 1.00	Nochmals vielen Dank für die selbst gebackenen Kekse, die Sie mir bei unserem letzten Treffen (23) die Reise
+0.340 0.047 1.00	mitgegeben haben. Sie schmecken köstlich zu unserem Glühwein, den wir abends in gemütlicher Runde
+0.360 0.047 1.00	trinken. Im Skikurs mache ich langsam Fortschritte, aber es ist gar nicht so einfach (24) es aussieht.
+0.381 0.047 1.00	Ich möchte übrigens erst am Montag direkt zur Präsentation (25) Projekts in Wien zurück sein. In (26) Fällen
+0.401 0.049 1.00	würde ich aber auch schon früher abreisen. Allerdings (27)
+0.420 0.047 1.00	Ich telefonisch nur über Handy erreichbar. Im Notfall müssten Sie (28) eine SMS oder eine E-Mail schicken.
+0.438 0.049 1.00	Meine Handy- Nummer und E-Mail Adresse (29) Sie ja.
+0.472 0.045 1.00	Ich hoffe, dass auch Sie mit Ihrer Familie (30) erholsamen Urlaub verbracht haben!
+0.528 0.049 1.00	Mit lieben Grüßen
+0.545 0.049 1.00	Ihre Monika Riedel
+0.573 0.047 1.00	21.
+0.573 0.121 0.50	A
+0.571 0.146 1.00	daher
+0.571 0.269 0.50	24.
+0.574 0.320 0.50	A
+0.573 0.345 1.00	als
+0.571 0.448 1.00	27.
+0.571 0.585 1.00	bin
+0.575 0.603 1.00	schul
+0.573 0.680 1.00	30.
+0.571 0.735 1.00	A
+0.573 0.766 1.00	ein
+0.593 0.119 0.30	B
+0.593 0.146 1.00	denn
+0.592 0.320 0.30	B
+0.593 0.345 1.00	wie
+0.593 0.587 1.00	werde
+0.593 0.768 1.00	einem
+0.621 0.119 0.50	C
+0.613 0.144 1.00	weil
+0.616 0.345 0.50	WO
+0.613 0.585 1.00	würde
+0.615 0.766 1.00	einen
+0.674 0.045 1.00	22.
+0.674 0.117 0.50	A wo
+0.674 0.240 1.00	25.
+0.673 0.318 1.00	A unser
+0.677 0.470 1.00	28.
+0.677 0.579 1.00	meiner
+0.697 0.117 0.50	B woher
+0.696 0.316 1.00	B unseren
+0.699 0.550 0.50	B
+0.698 0.581 1.00	mich
+0.715 0.119 0.50	c wohin
+0.716 0.347 1.00	unseres
+0.718 0.581 1.00	mir
+0.728 0.318 0.30	C
+0.763 0.045 1.00	23.
+0.757 0.115 0.50	A
+0.767 0.140 1.00	an
+0.763 0.203 1.00	26.
+0.760 0.316 1.00	A
+0.764 0.341 1.00	dringende
+0.766 0.491 1.00	29.
+0.762 0.548 1.00	A
+0.766 0.579 1.00	kenne
+0.782 0.117 1.00	B für
+0.785 0.314 0.30	B
+0.780 0.345 1.00	dringenden
+0.783 0.581 1.00	kennen
+0.801 0.138 1.00	in
+0.799 0.345 1.00	dringender
+0.801 0.583 1.00	kennt

@@ -1,0 +1,22 @@
+0.076 0.086 1.00	Schriftlicher Ausdruck
+0.093 0.070 1.00	LANGUAGE Tests
+0.128 0.045 1.00	Sie haben von einer Bekannten folgenden E-Mail erhalten:
+0.235 0.047 1.00	Liebe(r).
+0.270 0.047 1.00	Du hast schon so lange nicht mehr geschrieben. Wie geht es dir? Heute habe ich eine Bitte.
+0.294 0.045 1.00	Vielleicht kannst du uns helfen?
+0.339 0.045 1.00	Eine 16-jährige Schülerin aus deinem Land wird uns besuchen und zwei Wochen bei uns in
+0.363 0.047 1.00	Goldbach bleiben. Natürlich möchten wir, dass sie sich wohl fühlt. Dein Land kennen wir nur
+0.387 0.045 1.00	von deinen Erzählungen, denn wir waren selbst noch nicht da. Bitte gib uns ein paar
+0.406 0.045 1.00	Informationen Z.B über typische Gewohnheiten oder typisches Essen. Was können wir tun und
+0.433 0.047 1.00	wie können wir uns vorbereiten?
+0.478 0.053 1.00	Wir freuen uns schon auf deine Antwort.
+0.488 0.463 1.00	och
+0.528 0.047 1.00	Schon einmal viele Dank und liebe Grüße
+0.574 0.047 0.50	Caroline
+0.644 0.045 1.00	Antworten Sie Caroline. Schreiben Sie etwas zu den folgenden vier Punkten:
+0.690 0.045 1.00	. Reaktion auf den Besuch der Schülerin
+0.714 0.045 0.50	• Vorschlag zu Essen und Trinken
+0.737 0.045 1.00	• Warum Sie so lange nicht geschrieben haben
+0.756 0.045 1.00	• Unternehmungen/Programm mit der Schülerin
+0.801 0.049 1.00	Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine
+0.823 0.049 1.00	passende Anrede, Einleitung und einen passenden Schluss.

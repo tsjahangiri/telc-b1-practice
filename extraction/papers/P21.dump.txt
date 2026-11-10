@@ -1,0 +1,63 @@
+##### P21 pages [304, 312] key p312 sections {'L1': [304, 305], 'L3': [306, 307], 'SB2': [308], 'H': [309, 310], '?': [311], 'LOES': [312]}
+
+=== P21-L1 [Kirche] pages [304, 305] verified=True
+INSTR: Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+  a) Bilder mit dem Computer bearbeiten
+  b) Kirche bietet Backkurs für Kinder an
+  c) Kirche eröffnet neuen Treffpunkt
+  d) Neu: Kochbuch über Weiner Fleischgerichte
+  e) Neue Computerprogramme werden getestet
+  f) Preis für bestes Lernprogramm
+  g) Rezepte für Kuchen und Torten
+  h) Studie zeigt: Kaffeetrinker sind glücklicher
+  i) Warum die Wiener ins Café gehen
+  j) Zürcher Fotografen stellen aus
+  1. Die Kunst – und Medienschule F+ F Zürich bietet bereits zum dritten Mal den Computerkurs Digitale Bildbearbeitung an im neuen Semester steht für zehn Samstage Fotografie nach der Fotografie also die digitale Bearbeitung von Bildern im Mittelpunkt Dabei kommen verschiedene Softwareprodukte zum Einsatz Der Kurs befasst sich aber nicht nur mit dem Vermitteln auch Themen – und Problembereiche rund um die digitale Foto – und Bildbearbeitung kurskosten 800Franken Nähere Informationen und Anmeldung zu diesem Kurs www.f- f.ch.
+  2. Neuperlach-Süd – Nach dem Einkaufen eine Kaffee genießen, mit anderen ins Gespräch Immen, sich mit Bekannten treffen oder einfach spannen – all das geht ab 11 Juli immer dienstags zwischen 14 und 18 Uhr im neuen Eiscafé der Dietrich – Bonhoeffer – Kirche Wir hotten damit einen Ort der Begegnung für Jung und Alt anbieten und zur Belebung des Stadtteils beitragen erklärt Pfarrer Sebastian Kühnen. Neben kalten und heißen Getränken sowie Kuchen steht während der Öffnungszeiten auch eine Mitarbeiten für Gespräch zur Verfügung.
+  3. Geheimnisse der modernen Konditorkunst der Meister des Süßen, Herwig Gasser, in Jahre hinweg sammelte der Bäcker des berühmten Wiener Café Landmann Mehlspeisenrezepte. Von der Birnentorte über den Apfelstrudel bis hin zum Heidelbeerstolle Verlag Kettel, 110 Fotos, 300 Seiten.
+ISBAN 3 – 85134 – 014 -0
+  4. Am Montag wird in Stuttgart die BildungsDidacta eröffnet. Dort werden vor allem Lehrmaterialien vorgestellt. Bei vielen sich um Bildungssoftware. Für ein gelungenes Softwareprojekt wird am der Bildungssoftwarepreis digital vergeben Dabei handelt es sich um die wichtige Auszeichnung für Lehr – und Lernprogramm deutschsprachigen Raum Die verzeichnen mit dem digital multimediale Gebote aus, die inhaltlich und formal als ragend und beispielgebend gelten können.
+  5. Des Gallup – Instituts hat sich mit Kaffeehausverhaltens der Wiener Ein Vorurteil hat sich dabei bestätigt Kaffeehaus und der Wiener Seine Melange Ergebnisse der Studie 27 der an, zumindest einmal im Monat der Nähe ihrer Wohnung zu gehen. Durchschnittlich 54 Minuten Befragten in ihrem Stamm Café Kundschaft umso länger wird gegessen. Der Grund ein Kaffeehaus wichtiger ist das Plaudern und Freunden. 77 der Befragten Grund für den Besuch im Kaffeehaus.
+  SOLUTION(complete): 1a 2c 3g 4e 5i
+
+=== P21-L3 [thailändisches] pages [306, 307] verified=True
+INSTR: Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+  11. Sie mögen thailändisches Essen und möchten lernen, einige Speisen selbst zu kochen.
+  12. Sie müssen umziehen und brauchen jemand, der Ihnen hilft.
+  13. Ihr Kind hat in Mathematik schlechte Noten bekommen und braucht Nachhilfe.
+  14. Ihre Freundin hat Geburtstag. Sie möchten ihr einen Blumenstrauß schicken lassen.
+  15. Am Samstag wollen sie mit Ihrer Tante eine Blumenausstellung besuchen.
+  16. Ihr Kollege heiratet. Sie möchten ihm etwas für die Küche schenken.
+  17. Sie wollen für eine Hochzeit einen Luxuswagen mieten.
+  18. Am nächsten Montag möchten Sie mit Ihren Freunden thailändisch essen gehen.
+  19. Für Ihre Geburtstagfeier suchen Sie jemanden, der bei Ihnen zu Hause kocht.
+  20. Sie wollen sich über Wohnwagen informieren.
+  [a] PLANA Badeland / Mehr Bad für weniger Geld! / Bei PLANA Badeland bekommen / Sie immer mehr als Sie erwarten: / mehr Beratung, mehr Service / und mehr Bad fürs Geld. So werden / aus Bädern echte Traumbäder, die / nicht gleich die Welt kosten. / Über 100 Badideen auf 1000 qm / Ausstellungsfläche, / Mo–Sa. 10.00–19.00 Uhr, / So. 10.00–14.00 Uhr / Hanauer Straße 56 / 69720 Frankfurt / Tel. 069/14 31 49-0 / www.plana.de / Achtung: Unser PLANA Küchenland ist / derzeit wegen Umbaus geschlossen!
+  [b] Lernstudio Barbarossa / NACHHILFE & / HAUSAUFGABENBETREUUNG / – von der Grundschule bis zum Abitur / – alle Fächer, alle Klassen / – kostenloser Probeunterricht / Wolfsschlucht 19 / (Eingang Theaterstraße) / Tel.: 0561/7 66 79 94 / Lernstudio Barbarossa / Beratung: / Mo.–Do. 9–12 und 14–19 Uhr, / Freitag 14–19 Uhr
+  [c] NAKORN / Thai Restaurant / Sieben Jahre / Original thailändische Küche / sind für uns ein Grund zu feiern / auf alle Gerichte 20% Rabatt * / * nur bei Barzahlung – keine Kreditkarten / Neu! / Jeden Sonntag Brunch / pro Person nur Euro 9,– / Wilhelmshöher Allee 42 – Kassel / Telefon (0561) 10 49 28 / dienstags–sonntags, / 12.00–22.00 Uhr geöffnet
+  [d] Sopha's / Thai-Gourmet / Kassels exotischer Partyservice / Ab 10 Menüs Lieferung in beheizten / Silber-Woks, Catering und / Fingerfood. Wir kochen auch bei / Ihnen unsere original Thai-Gerichte! / Wir faxen unsere Menü- und / Speisekarten. / Tel.: 0561/802971 / Fax: 0564/4612091 / www.thai-partyservice.de
+  [e] BUGA / Vom 28.4. bis 9.10. sind die Pforten der / Bundesgartenschau für Besucher geöffnet. / 200 Hektar Landschaftspark und / ca. 2 Millionen Blumen – das und noch mehr / hat die BUGA zu bieten. / Besuchen Sie auch unsere / Ausstellungshallen, z. B. das Orchideen-Haus. / Geöffnet tägl. 9.00–20.00 Uhr / Tageskarten: Erw. 14,– Euro, / Kinder bis 12 J. 7,– Euro, / spezielles Abendticket ab 17.00 Uhr 7,– Euro / www.buga.de
+  [f] Exotische / Pfannengerichte / Mit feurigen Gewürzen und erntefrischem / Gemüse kochen wir Gerichte, die schnell / zubereitet und preiswert sind: / Thai-Gemüsepfanne, Weizen-Curry mit / Bananen, Blumenkohl und Pilzpfanne auf / thailändische Art. / Das Essen genießen Sie am selben Abend / mit uns in der Gruppe. / Freitagsseminar mit Andrea Passenberg / Freitag 12.11., 17.00 bis 21.00 Uhr, / 18,50 Euro / Volkshochschule Wuppertal / Bäckerstr. 14 / Tel: 06715-212 64 20
+  [g] Kindervortrag / Für 8 bis 12jährige Kinder bietet das / Mathematikum etwas Besonderes: / An einem Samstag im Monat hält Prof. / Beutelspacher einen speziellen Vortrag für / Kinder. In spielerischer Weise stellt er / Themen wie Geheimcodes, Zauber der / Zahlen, Licht und Schatten sowie optische / Täuschungen vor. / Karten im Vorverkauf. / Mathematikum Gießen, Liebigstr. 8, / 35390 Gießen / www.mathematikum.de
+  [h] Volkshochschule Wuppertal-Süd / Blumenzauber / Samstagswerkstatt mit Waltraud Maisch / Sa 16.10., 10.00–18.00 Uhr / Mit Blumen, Blättern, Früchten und allem, / was die Natur zu bieten hat, lernen Sie / Ihren persönlichen Blumenschmuck / herzustellen, verschiedene Kompositions- / techniken, kreatives Arbeiten – das richtige / Geschenk für jede Gelegenheit / VHS Wuppertal-Süd / Max-Reinhardt-Weg 29 / 49278 Wuppertal
+  [i] Viehmann / Ihr Partner für moderne Floristik / Blumen, Pflanzen, Sträucher / Rosen in allen Farben / Hochzeitsschmuck / Büro-, Messe- und / Ausstellungsdekoration / Lieferservice / Viehmann – Floristikfachgeschäft / Wartekuppe 3 / 69936 Frankfurt / Telefon 069-41 24 04
+  [j] KUNO'S / Mobile Freizeit / Reisemobile vom Kleinwohnwagen bis zur / Luxusausführung, Zubehör, alles auf über / 3000 qm Ausstellungsgelände; / fachmännische Beratung / Wir laden Sie ein zum FRÜHLINGSFEST mit / verkaufsoffenem Sonntag am 22. / 23.3. / 34295 Edermünde / Holzhausen / Tel. 0 56 65 / 68 46 / Direkt an der A 49 / www.kuno-mobil.de
+  [k] HARTMANN & SCHRÖDER / • Zuverlässig und kompetent / • Transporter- / Minibus-Verleih für Ihren / Umzug / • Tagestarife, Wochentarife, / Wochenendpauschale. / • Zusätzliches Angebot: 2 starke Männer / plus Lkw 48,– Euro/Stunde, jeder / weitere Mann 29,– Euro/Stunde. / Bad Vilbeler Str. 83–85, / 37155 Kassel, / Tel. 0561784073
+  [l] Wir ziehen um – / profitieren Sie jetzt von / unseren Angeboten! / Traumhafte Möbel und Accessoires: / Porzellan, Lampen, Geschirr, / Keramik, handgewebte Teppiche, / Tisch- und Bettwäsche. / MÖBELZENTRUM OBERWESER / 34359 Reinhardshagen / 6000 m² Ausstellung / Telefon 0 55 44 / 3 07
+  SOLUTION(complete): 11f 12k 13b 14i 15e 16l 17x 18x 19d 20j
+
+=== P21-SB2 [Frau Bauer] pages [308] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.
+  Neuendorf, den….
+  Sehr geehrte Frau Bauer,
+  ich habe Ihre Anzeige in der Neuen Presse gelesen und bin an dem Filmprojekt sehr [[31]].
+  ich war schon [[32]] für einige Wochen im Ausland. Vor allem im Sommer habe ich während meines Studiums viele Sprachkurse besucht. Länger als ein halbes Jahr habe ich [[33]] einmal im Ausland gelebt, und zwar [[34]] zwei Jahren. Mein Chef machte mir damals das Angebot, acht Monate im Tochterunternehmen der Firma in Portugal zu [[35]] , was ich dann auch getan habe.
+  Am Anfang war es sehr schwer, weil ich niemanden kannte und alles sehr neu und [[36]] für mich war. Eigentlich wollte ich so schnell wie [[37]] wieder zurück. Aber dann habe ich nette Kollegen kennen gelernt, die mir auch über die Kultur und das Leben in Portugal [[38]] haben.
+  Ich glaube, dass meine Erfahrungen für viele andere Menschen, die auch im Ausland leben wollen, sehr interessant sein könnten, und ich [[39]] gerne auch vor der Kamera darüber erzählen. [[40]] Sie noch weitere Fragen an mich haben, können Sie mich gerne anrufen, meine Telefonnummer ist 07612/64788980.
+  Ich würde mich freuen, bald von Ihnen zu hören.
+  Mit freundlichen Grüßen
+  KAROLINE POINTNER
+  WORDS: a=ALS b=ANFANGEN c=ARBEITEN d=ERZÄHLT e=FALLS f=INFORMIERT g=INTERESSIERT h=MÖCHTEN i=MÖGLICH j=NUR k=ÖFTER l=UNBEKANNT m=VOR n=WÜRDE o=ZWISCHEN
+  SOLUTION(complete): 31g 32k 33j 34m 35c 36l 37i 38d 39n 40e
+
+MISSING SECTIONS: ['L2', 'SB1']

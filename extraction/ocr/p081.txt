@@ -1,0 +1,65 @@
+0.078 0.099 1.00	Sprachausteine, Teil 1
+0.096 0.082 1.00	LANGUAGE Tests
+0.153 0.045 1.00	Lesen sie den Text und schließen Sie Lücken 21 - 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.
+0.173 0.047 1.00	Markieren sie Ihre Lösungen für die Aufgaben 21 - 30 auf dem Antwortbogen
+0.272 0.047 1.00	Liebe Jelena,
+0.305 0.043 1.00	ich hab dir doch schon vom Deutschkurs erzählt, (21) ich hier besuche. Der ist wirklich ganz
+0.330 0.045 1.00	gut. Wir haben jetzt eine neue Aufgabe bekommen. Wir müssen Informationen (22) Thema
+0.353 0.047 1.00	Gesundheit und Ernährung suchen und schauen, was es dazu Interessantes (23) Internet gibt.
+0.376 0.047 1.00	Die interessanteste Internetseite, die ich finden (24) , ist www.gesund.ch . Diese Seite ist für
+0.400 0.045 1.00	(25) Leute gemacht, die gern mehr über gesunde Ernährung erfahren möchten. Fachleute
+0.424 0.047 1.00	beschreiben hier genau, (26) Lebensmittel für unseren Körper wichtig und gesund sind und
+0.446 0.047 1.00	wie oft und wie viel man pro Tag essen sollte. Außerdem kann man (27) seinen persönlichen
+0.471 0.045 1.00	Speiseplan selbst erstellen und dafür passende Rezepte (28) . Für Menschen, (29) ein paar
+0.494 0.047 1.00	Kilos zu viel haben, gibt es auch Tipps zum Abnehmen und Links zu verschiedenen
+0.517 0.047 1.00	Fitnesszentren in der Schweiz.
+0.552 0.051 1.00	Und was gibt es bei dir Neues? (30) mir doch möglichst bald zurück!
+0.589 0.047 1.00	Bis dann und viele Grüße
+0.624 0.047 1.00	Paola
+0.660 0.045 1.00	21.
+0.660 0.150 0.50	A das
+0.660 0.285 1.00	24.
+0.658 0.365 1.00	A können 27.
+0.658 0.522 0.50	A mir
+0.661 0.696 1.00	30.
+0.657 0.749 0.50	A Schreibe
+0.683 0.148 0.50	B den
+0.683 0.365 1.00	B könnten
+0.683 0.522 1.00	B dir
+0.684 0.762 1.00	B Schreiben
+0.708 0.150 0.30	C
+0.702 0.175 1.00	der
+0.701 0.365 0.50	C konnte
+0.703 0.538 0.50	• sich
+0.705 0.782 1.00	Schreibt
+0.750 0.043 1.00	22.
+0.751 0.150 0.50	A zu
+0.751 0.281 1.00	25.
+0.750 0.368 1.00	A junge
+0.753 0.456 1.00	28.
+0.753 0.522 1.00	A fand
+0.773 0.148 0.50	B zum
+0.770 0.365 1.00	B jungen
+0.775 0.522 0.30	B
+0.773 0.552 1.00	finden
+0.794 0.148 0.50	c zur
+0.790 0.365 0.50	Cjunges
+0.797 0.522 0.50	C
+0.792 0.552 1.00	gefunden
+0.837 0.045 1.00	23.
+0.836 0.150 0.50	A
+0.839 0.279 1.00	26.
+0.834 0.366 0.50	A
+0.838 0.384 1.00	welche 29.
+0.831 0.522 0.30	A
+0.842 0.172 1.00	am
+0.840 0.546 0.50	denen
+0.859 0.148 0.50	B im
+0.859 0.363 1.00	B welchen
+0.859 0.552 1.00	deren
+0.882 0.148 0.30	C
+0.875 0.175 1.00	mit
+0.875 0.388 1.00	welcher
+0.884 0.366 0.30	C
+0.882 0.524 0.30	C
+0.876 0.554 1.00	die

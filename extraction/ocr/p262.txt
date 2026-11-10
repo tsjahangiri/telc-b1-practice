@@ -1,0 +1,21 @@
+0.103 0.090 1.00	Hörverstehen, Teil 2
+0.097 0.786 0.30	Etuall
+0.121 0.076 1.00	LANGUAGE Tests
+0.190 0.047 1.00	Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.
+0.211 0.047 1.00	Sie hören das Gespräch zweimal.
+0.230 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 46 - 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.250 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 46 - 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.272 0.047 1.00	falsch auf dem Antwortbogen.
+0.292 0.047 1.00	Lesen Sie jetzt die Aufgaben 46 - 55. Sie haben dazu 30 Sekunden Zeit.
+0.382 0.045 1.00	46. Viele Touristen besuchen Torgau wegen seiner historischen Sehenswürdigkeiten.
+0.423 0.045 1.00	47. Den Spielpark Hartenfels gibt es schon seit vielen Jahren.
+0.464 0.045 1.00	48. Außer dem Spielpark gibt es in der Umgebung viele andere Freizeitmöglichkeiten für die
+0.504 0.076 1.00	Kinder.
+0.545 0.045 1.00	49. Der Spielpark bietet den Kindern Spielmöglichkeiten, die sie zu Hause nicht haben.
+0.586 0.045 1.00	50. Die Kinder können im Spielpark auch selbst etwas bauen.
+0.628 0.047 1.00	51. Das Spielen am Back kann fur die Kinder getahrlich werden.
+0.666 0.047 1.00	52. Beide Elternteile müssen auf die Kinder aufpassen.
+0.706 0.047 1.00	53. Im Spielpark können Kinder bis zum Alter von sieben von Aufsichtspersonen betreut
+0.748 0.078 1.00	werden.
+0.789 0.045 1.00	54. Der Eintritt in den Spielpark ist zurzeit frei.
+0.828 0.045 1.00	55. Die Schlossführung bereitet Kindern und Erwachsenen viel Spaß.

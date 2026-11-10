@@ -1,0 +1,543 @@
+{
+ "id": "P05",
+ "pages": [
+  49,
+  61
+ ],
+ "answer_key_page": 61,
+ "page_sections": {
+  "L1": [
+   49,
+   50
+  ],
+  "L2": [
+   51,
+   52
+  ],
+  "L3": [
+   53
+  ],
+  "?": [
+   54,
+   60
+  ],
+  "SB1": [
+   55
+  ],
+  "SB2": [
+   56
+  ],
+  "H": [
+   57,
+   58,
+   59
+  ],
+  "LOES": [
+   61
+  ]
+ },
+ "exercises": [
+  {
+   "type": "lesen1",
+   "instructions": "Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.",
+   "headings": [
+    {
+     "key": "a",
+     "text": "Familienbildung Schwerpunkt Beruf und Familie"
+    },
+    {
+     "key": "b",
+     "text": "Demonstration gegen Fluglärm"
+    },
+    {
+     "key": "c",
+     "text": "Flughafen Frankfurt wird 10 Jahre"
+    },
+    {
+     "key": "d",
+     "text": "Flughafen Frankfurt beliebter Veranstaltungsort"
+    },
+    {
+     "key": "e",
+     "text": "Experten gegen Vergrößerung des Flughafens"
+    },
+    {
+     "key": "f",
+     "text": "Diskussion über Flughafen und Arbeitsplätze"
+    },
+    {
+     "key": "g",
+     "text": "Neue Kurse: Spiele für Mütter und Kinder"
+    },
+    {
+     "key": "h",
+     "text": "Umwelt und Flughafen: Ein Informationsabend der Bürger"
+    },
+    {
+     "key": "i",
+     "text": "Neue Kurse für Kinder"
+    },
+    {
+     "key": "j",
+     "text": "Neue Kurse: Museumsführung für junge Väter"
+    }
+   ],
+   "texts": [
+    {
+     "num": 1,
+     "text": "Der Frankfurter Flughafen wird weiter ausgebaut. Eine Gruppe von Frankfurter Bürgern aus den östlichen Stadtteilen, die sich seit Jahren aktiv für den Naturschutz und die Umwelt einsetzt, lädt für Donnerstag dieser Woche um 19.30 Uhr zu einem Informationsabend über den Ausbau des Frankfurter Flughafens ein. Im Bürgerhaus Ostend, Parkstraße 24, Clubraurn 12, werden verschiedene Sprecher zu hören sein. Die Gruppe möchte Antworten auf folgende Fragen suchen: Wie viel Lärm durch Flugzeuge verträgt die Stadt? Oder Welche Auswirkungen hat der Flugverkehr auf Umwelt und Natur?"
+    },
+    {
+     "num": 2,
+     "text": "Der Frankfurter Flughafen erfreut sich bei vielen Firmen als beliebter Ort für Veranstaltungen und Tagungen. Dies zeigt ein Bericht des Frankfurter Flughafens, der beim zehnjährigen Jubiläum des Kongresszentruns vorgelegt wurde. Im Jubiläumsjahr haben am Frankfurter Flughafen 6800 Veranstaltungen mit insgesamt 72000 Teilnehmern stattgefunden. Im Jahr davor waren es nur 6300 Veranstaltungen mit 70000 Gästen. Im Kongresszentrum, das direkt gegenüber dem Hauptgebäude des Flughafens liegt, gibt es 28 Konferenzräume für bis zu 200 Teilnehmer. Modernste Technik wie Laptop-Anschlüsse und Internetzugänge in allen Konferenzräumen sind ebenso vorhanden, wie ein Dolmetscherdienst und verschiedene Speisemöglichkeiten. Eine transportable Videokonferenz-Anlage ermöglicht Verbindungen in die ganze Welt."
+    },
+    {
+     "num": 3,
+     "text": "Eine Bürgergruppe mit dem Namen Südliches Frankfurt lädt für Montag kommender Woche, um 19.30 Uhr ins Pfarrhaus St. Mauritius, Mauritiusstraße 14, zu einer öffentlichen Expertenbefragung zum Thema Arbeitsplätze am Frankfurter Flughafen ein. Der Gruppe liegen Berichte und Daten vor, die nach den Worten der Sprecher der Gruppe sehr fantastisch und zweifelhaft sind. Deshalb hat die Bürgergruppe Südliches Frankfurt den Personalleiter des Frankfurter Flughafens, einen Experten aus dem Wirtschaftsministerium, einen bekannten Stadtentwicklungsplaner und einen Soziologen, der sich mit der Arbeitsplatzentwicklung in der Frankfurter Region beschäftigt, eingeladen. Im Anschluss an die Vorträge der Experten haben die Gäste Zeit, Fragen zu stellen."
+    },
+    {
+     "num": 4,
+     "text": "Das neue Halbjahresprogramm der Evangelischen Familienbildungsstätte bringt eine Übersicht über viele Veranstaltungen. Neben Kursen wie Geburtsvorbereitung und Babypflege steht diesmal das Thema Berufstätige Eltern im Mittelpunkt. In Gruppen und Kursen vor allem für Frauen geht es darum, wie sich nach der Geburt eines Kindes Beruf und Familie miteinander vereinbaren lassen. Das Verhältnis zwischen Mann und Frau spielt eine große Rolle im Angebot der Familienbildung; hierzu gibt es wieder spezielle Programme nur für Frauen oder nur für Männer. Auch zum Verhältnis der Generationen (Großeltern und Enkelkinder) gibt es wieder Angebote. Darüber hinaus wartet das Programm mit Kursen für Entspannung und Zeitmanagement auf, die bei Fragen des Alltags helfen wollen."
+    },
+    {
+     "num": 5,
+     "text": "Die Volkshochschule Dornbirn bietet in den kommenden Wochen neue Kurse an. Am Mittwoch nächster Woche beginnen zwei Malkurse für Kinder. Zweieinhalb- bis vierjährige Kinder treffen sich um 15.30 Uhr, Kinder im Alter von fünf und sechs Jahren um 17.00 Uhr. Für Kinder im Alter zwischen eineinhalb und sechs Jahren und ihre Väter beginnt am Samstag um 10.00 Uhr eine feste Vater-Kind-Gruppe. Am darauf-folgenden Samstag gibt es dann auch ein Treffen für Väter und Kinder bis dreieinhalb Jahren. Etwas anderes ist die Kultur- und Kreativwerkstatt am Montag nächster Woche. Aus Ton und Erde sollen Figuren nach afrikanischen Beispielen gebastelt werden. Zur Vorbereitung treffen sich die Teilnehmer am kommenden Montag zuerst im Museum. Anmeldung spätestens morgen bis 15.00 Uhr."
+    }
+   ],
+   "id": "P05-L1",
+   "section": "Leseverstehen, Teil 1",
+   "pages": [
+    49,
+    50
+   ],
+   "topic": "Frankfurter Flughafen",
+   "solution": {
+    "1": "h",
+    "2": "d",
+    "3": "f",
+    "4": "a",
+    "5": "i"
+   },
+   "solution_complete": true,
+   "notes": [
+    "In the source (p49) the headings a, d, f, h, i, j are printed in bold — formatting only; not reproduced."
+   ],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen2",
+   "instructions": "Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.",
+   "title": "Computerprobleme – ein Kinderspiel",
+   "subtitle": "Anne und Melanie (beide 6) stehen Erzieherinnen mit Vorschlägen hilfreich zur Seite",
+   "text": "Von Christiane Altenberger\nSie sind die Problemlöser im Kindergarten an der Munckerstraße. Wenn das Malprogram spinnt, plötzlich ein Spiel auftaucht, das keiner kennt, dann rufen die Erzieherinnen nach Anne und Melanie. Die sind zwar erst sechs Jahre alt, aber mit den Computerspielen kennen sie sich aus. Die Kinder wissen manchmal mehr als wir sagt Eva Schilling. Leiterin des Kindergartens. Gelernt haben die beiden ihr Know-how bei Multimedia-Landschaften für Kinder, einem Projekt, das das Schulamt zusammen mit dem Studio im Netz gestartet hat.\nIm Rahmen dieses Projekts werden in städtischen Kindergärten zwei Wanderstationen mit je drei Multimedia-Computern und einem Farbdrucker installiert. Die Stationen wandern durch 14 Kindergärten, wo sie jeweils für vier Wochen installiert werden. Mit dabei in den Kindergärten: ein ganzer Satz von Spiel – Software. Vierjährige am Computer? In Pädagogen kreisen sind viele Berührungsängste da, weiß Edith llg, Fachberaterin für Kindergärten beim Schulamt, aber wir können uns aus dieser Entwicklung nicht ausklinken. Die Kinder wollen sich mit ihrer Umwelt auseinandersetzen. Angefangen hat diese Auseinandersetzung im Studio im Netz – 193 Kinder waren eingeladen, um erste Erfahrungen am Computer zu sammeln. Die Kinder waren absolut begeistert, haben immer wieder gefragt, wann gehen wir da wieder hin, so Frau llg.\nBevor jedoch die Computer in die Kindergärten kamen, waren die Eltern aufzuklären. Bei manchen Eltern löste das Stichwort Computer akute Ängste aus nach dem Motto: Mein fröhliches, gesundes Kind setzt sich vor den Computer und steht sechs Stunden später krank, sprachlos und einsam wieder auf.\nDiese Ängste haben sich inzwischen gelegt und die Erfahrung vor Ort zeigt, dass sie weitgehend über flüssig sind. Die Erzieherinnen achten auch darauf, dass die Kinder nie länger als 15 bis 20 Minuten vor den Computern sitzen, und holen vor allem kreative Software auf den Bildschirm.\nDas einsame Dämmern vor dem Computer ist wohl ohnehin eher Sache der Erwachsenen – die Kinder spielen immer zu zweit oder zu dritt an der Maschine. Eva Schilling hat beobachtet, dass die Kinder am Computer sehr friedlich miteinander umgehen, sie helfen sich gegenseitig, es gibt wenig Konflikte. Dabei entwickeln gerade Kinder, die sich sonst nur schwer auf etwas konzentrieren können, plötzlich ungeahnte Konzentrationszeiten. Eva Schilling kann sich deshalb die Computer als Dauereinrichtung im Kindergarten vorstellen.",
+   "questions": [
+    {
+     "num": 6,
+     "stem": "Das Schulamt hat ein Projekt gestartet, bei dem",
+     "options": {
+      "a": "Computer in Kindergärten aufgestellt werden.",
+      "b": "Computerspiele für Vierjährige entwickelt werden sollen.",
+      "c": "Kinder neue Farbdrucker ausprobieren sollen."
+     }
+    },
+    {
+     "num": 7,
+     "stem": "Die Kinder",
+     "options": {
+      "a": "hatten großen Spaß bei dem Projekt.",
+      "b": "wollten lieber draußen im Freien spielen.",
+      "c": "wussten nicht, wann sie ins Studio im Netz gehen sollten."
+     }
+    },
+    {
+     "num": 8,
+     "stem": "Eltern fürchten, dass",
+     "options": {
+      "a": "der Computer ihren Kindern schadet.",
+      "b": "ihre Kinder nicht so früh aufstehen können.",
+      "c": "ihre Kinder vor dem Computer Angst haben."
+     }
+    },
+    {
+     "num": 9,
+     "stem": "Die Erzieherinnen",
+     "options": {
+      "a": "arbeiten jeden Tag 15 bis 20 Minuten am Computer.",
+      "b": "spielen immer mit zwei oder drei Kindern am Computer.",
+      "c": "wählen für die Kinder die Software aus."
+     }
+    },
+    {
+     "num": 10,
+     "stem": "Wenn die Kinder am Computer sitzen, dann",
+     "options": {
+      "a": "gibt es häufig Streit.",
+      "b": "hilft ein Kind dem anderen.",
+      "c": "können sich die meisten nicht lange konzentrieren."
+     }
+    }
+   ],
+   "id": "P05-L2",
+   "section": "Leseverstehen, Teil 2",
+   "pages": [
+    51,
+    52
+   ],
+   "topic": "Computerprobleme",
+   "solution": {
+    "6": "a",
+    "7": "a",
+    "8": "a",
+    "9": "c",
+    "10": "b"
+   },
+   "solution_complete": true,
+   "notes": [
+    "In the source (p52) the correct options (6A, 7A, 8A, 9C, 10B) are printed in bold, which reveals the answers. Formatting not reproduced in the website."
+   ],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen3",
+   "instructions": "Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.",
+   "situations": [
+    {
+     "num": 11,
+     "text": "Sie wollen am Wochenende gerne in ein Klavierkonzert gehen."
+    },
+    {
+     "num": 12,
+     "text": "Sie sind in Füssen und wollen am Montag ins Museum gehen."
+    },
+    {
+     "num": 13,
+     "text": "Sie sind in Süddeutschland im Urlaub und möchten gerne eine bayerische Spezialität essen."
+    },
+    {
+     "num": 14,
+     "text": "Sie haben sich mit Bekannten zu einem Fischessen verabredet."
+    },
+    {
+     "num": 15,
+     "text": "Sie sind in Bayern und wollen Käsespezialitäten einkaufen."
+    },
+    {
+     "num": 16,
+     "text": "Sie möchten einen Deutschkurs in Wien besuchen."
+    },
+    {
+     "num": 17,
+     "text": "Ihr 16 jähriger Sohn soll in den Ferien im Ausland Englisch lernen."
+    },
+    {
+     "num": 18,
+     "text": "Sie interessieren sich für einen Sprachkurs auf CD."
+    },
+    {
+     "num": 19,
+     "text": "Sie wollen, dass Ihre 10- jährige Tochter in den Ferien eine Fremdsprache lernt."
+    },
+    {
+     "num": 20,
+     "text": "Eine Bekannte will ihren Geburtstag in einem Restaurant feiern und dort auch übernachten."
+    }
+   ],
+   "ads": [
+    {
+     "key": "a",
+     "text": "MUSEUM\nDER STADT\nFÜSSEN\nLechhalde 3 · 87629 Füssen\nTel. (08362) 50 53 - 45 u. 43\nSTAATSGALERIE IM HOHEN\nSCHLOSS FÜSSEN\nMagnusplatz 10 · 87629 Füssen\nTel. (08362) 50 53 - 64\nÖffnungszeiten:\nApril bis Oktober:\nDi.–So. 11.00–16.00 Uhr\nMo. geschlossen\nNovember bis März:\nDi.–So. 14.00–16.00 Uhr\nMo. geschlossen"
+    },
+    {
+     "key": "b",
+     "text": "Franziskaner Stüberl\n87629 Füssen – Eingang Fußgängerzone\nKemptener Straße 1 –\nTelefon (08362) 37124\nIm Herzen der Stadt\nInh. Bernd Zienteck\nGutbürgerliche Allgäuer und\nBayerische Küche\nDer beliebte Treffpunkt in\ngemütlicher Atmosphäre\nSonntag Ruhetag\nAuf Ihren Besuch freut sich\nBernd Zienteck mit Team"
+    },
+    {
+     "key": "c",
+     "text": "SENNEREI-GENOSSENSCHAFT\nBAYERN\nHopferau – Lehern 15 – Telefon (08363) 37124\nFrisch vom Erzeuger:\n• Allgäuer Emmentaler\n• Allgäuer Bergkäse\n• Tilsiter\n• Frisch-Milch\n• eigene Butter-\nherstellung\nÖFFNUNGSZEITEN:\nWochentags 7.30–12.00 u. 16.30–18.30 Uhr\nSa. u. Feiertag 7.30–10.30 u. 17.00–18.30 Uhr"
+    },
+    {
+     "key": "d",
+     "text": "Sprachen lernen &\nLeute treffen\nBildungsurlaub für Erwachsene in\nEngland, Malta, Frankreich, Spanien,\nItalien und Kalifornien\nFordern Sie heute unseren 56-seitigen\nKatalog an; ein Exemplar des Sprachtests\nschicken wir Ihnen gleich mit,\nselbstverständlich kostenlos.\nTel: 069-61 09 120 | Fax: 069-6 03 13 95\nMorgensternstr. 180\n60596 Frankfurt\nSPRACHCAFFE"
+    },
+    {
+     "key": "e",
+     "text": "Jahreskonzert Füssen\nWolfgang Amadeus Mozart\nKlavierkonzert Nr. 21 in C-Dur\nPianist: Hanno Porter\nLeitung:\nStadtmusikdirektor Robert Maul\nKarten bei der Kurverwaltung Füssen\nund an der Abendkasse"
+    },
+    {
+     "key": "f",
+     "text": "Das Heimatmuseum\nFüssen lädt zum\nBesuch ein\nÖffnungszeiten:\nMontag bis Freitag\n10.00–12.00 Uhr\nund 14.00–16.45 Uhr\nSamstag und Sonntag\n10.00–12.00 Uhr\nIn der Instrumentensammlung sind wertvolle\nGeigen von Mittenwalder Meistern ausgestellt.\nAußerdem kann man in einer besondere\neingerichteten Werkstatt dem Geigenbauer\nbei der Arbeit zuschauen.\nAußerhalb der Öffnungszeiten sind Gruppen ab\n20 Personen nach Voranmeldung willkommen.\nTelefon (0 83 62) 25 11"
+    },
+    {
+     "key": "g",
+     "text": "bonCas\nSpezialitätenkäserei\nP. und U. Moser-Kolb\nHessenbohlstraße 14\nCH – 8512 Lustdorf\nSchweiz\nE-Mail: bocheese@bluewin.ch"
+    },
+    {
+     "key": "h",
+     "text": "Alfa Sprachreisen\nCrash-Kurse für Manager.\nSprachkurse und High-School-Programme\nfür 12- bis 18-Jährige.\nEnglisch, Französisch, Spanisch, 17 Länder,\nmehr als 60 Kursorte.\nFordern Sie unsere kostenl. Broschüre an!\nAlfa-Sprachreisen GmbH\nRotebuhlplatz 15 • 70178 Stuttgart\nTel. 0711-61 55 300 • Fax 0711-61 55 3010\nhttp://www.alfa-sprachreisen.de"
+    },
+    {
+     "key": "i",
+     "text": "4. APRIL »Deutsche Schlagernacht«\n12. APRIL Ostersonntag: 70er/80er Jahre Party\nNEU:\nSchnitzel-Woche\nAmadeus\nCafé · Bistro\nTiroler Straße 19\n87459 PFRONTEN-DORF · Tel. [unleserlich]"
+    },
+    {
+     "key": "j",
+     "text": "Free-System\nEnglisch, Französisch, Italienisch,\nSpanisch, Deutsch für Ausländer\nMaschinenschreiben/Steno\n• Sie bestimmen die Unterrichtszeit\n• Sie lernen, so rasch Sie wollen\n• Intensivkurse, Einzel-/Privat- und\nKleingruppen (1–5 Teilnehmer)\n• Intensive Crash Courses\n• Brush up and Business\n• Sprachkurse für Manager\n• English for Secretaries\n• Firmenkurse (intern/extern)\n• First/Proficiency/TOEFL/GMAT Alliance Française\nKursbeginn jetzt!\nInstitut Grünberger\nRostock, direkt beim Hauptbahnhof"
+    },
+    {
+     "key": "k",
+     "text": "Ritterstub'n\nFischspezialitäten\nDas Restaurant mit gepflegter\nGastlichkeit im Herzen der Altstadt\ngeöffnet von 11⁰⁰–14⁰⁰ Uhr und 17⁰⁰–24⁰⁰ Uhr\nMontag Ruhetag\nWarme Küche bis 22⁰⁰ Uhr\nRitterstraße 4 · 87629 Füssen ·\nTel. 08362/7759\nFam. Roth-Winter freut sich auf Ihren Besuch"
+    },
+    {
+     "key": "l",
+     "text": "Wollen Sie fein\nessen gehen?\nAlpenschlössle\nFüssen-Bad Faulenbach\nTel. (08362) 4017\nHotel-Restaurant\nAlpenschlössle\nAuf Ihren Besuch freut sich Familie Hummel\nHotel · Café · Pension"
+    }
+   ],
+   "ads_image_page": 54,
+   "id": "P05-L3",
+   "section": "Leseverstehen, Teil 3",
+   "pages": [
+    53
+   ],
+   "topic": "Spezialität",
+   "solution": {
+    "11": "e",
+    "12": "f",
+    "13": "b",
+    "14": "k",
+    "15": "c",
+    "16": "j",
+    "17": "h",
+    "18": "x",
+    "19": "x",
+    "20": "l"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Ads page p54 is a skewed photo with handwritten circled numbers from a previous user (not exam content). Ads transcribed manually from 230-dpi crops with OCR assistance."
+   ],
+   "uncertain": [
+    {
+     "location": "p54, ad i (address line)",
+     "note": "Tiny white-on-black print: phone number unreadable — marked [unleserlich], not guessed. Street 'Tiroler Straße 19' read from the clearer photo of the same page on p228."
+    },
+    {
+     "location": "p54, ad f (small grey text)",
+     "note": "Opening hours and descriptive paragraph in very small grey print; read with moderate confidence."
+    },
+    {
+     "location": "p54, ad c (address line)",
+     "note": "'Hopferau – Lehern 15 – Telefon (08363) 37124' very small; low confidence."
+    },
+    {
+     "location": "p54, ad g (e-mail)",
+     "note": "'bocheese@bluewin.ch' low confidence."
+    }
+   ],
+   "verified": true
+  },
+  {
+   "type": "sprach1",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen",
+   "text": "Liebe Catherine,\nseit ich dir letzte Mal von meinem Sprachhaufenhalt in der Schweiz [[21]] habe, ist viel passiert. Ich kenne [[22]] Land jetzt schon recht gut.\nDie Schweiz ist ja wirklich nicht groß. [[23]] in jeder Gegend wird ein anderer Dialekt oder gar eine andere Sprache gesprochen. Das ist [[24]] mich fast unglaublich! Bei uns in Australien fährt man mit dem Auto 24 Stunden lang geradeaus, und [[25]]man ankommt, dann sprechen die Leute dort immer noch dieselbe Sprache.\nAm Anfang hat mich das Sprachgemisch [[26]] sehr verwirrt , aber [[27]]verstehe ich fast alles, wenn jemand auf Schweizerdeutsch zu mir spricht. Ich kann aber nur auf Hochdeutsch antworten.\nZwischen der Schule hier und unserem Schulsystem in Australien gibt es einige [[28]] : In der Schweiz sprechen die Lehrer viel und die Schüler [[29]] Vieles im Kopf behalten oder aufschreiben. In Australien arbeiten wir meistens im Rahmen von Projekten und machen eigentlich alle Aufgaben auf [[30]] Computer.\nViele Grüße\nJack",
+   "gaps": [
+    {
+     "num": 21,
+     "options": {
+      "a": "erzähle",
+      "b": "erzählen",
+      "c": "erzählt"
+     }
+    },
+    {
+     "num": 22,
+     "options": {
+      "a": "diese",
+      "b": "diesen",
+      "c": "dieses"
+     }
+    },
+    {
+     "num": 23,
+     "options": {
+      "a": "aber",
+      "b": "obwohl",
+      "c": "sondern"
+     }
+    },
+    {
+     "num": 24,
+     "options": {
+      "a": "an",
+      "b": "für",
+      "c": "vor"
+     }
+    },
+    {
+     "num": 25,
+     "options": {
+      "a": "als",
+      "b": "wann",
+      "c": "wenn"
+     }
+    },
+    {
+     "num": 26,
+     "options": {
+      "a": "denn",
+      "b": "ganz",
+      "c": "schon"
+     }
+    },
+    {
+     "num": 27,
+     "options": {
+      "a": "früher",
+      "b": "jetzt",
+      "c": "seit"
+     }
+    },
+    {
+     "num": 28,
+     "options": {
+      "a": "unterschied",
+      "b": "unterschiede",
+      "c": "unterschieden"
+     }
+    },
+    {
+     "num": 29,
+     "options": {
+      "a": "brauchen",
+      "b": "haben",
+      "c": "müssen"
+     }
+    },
+    {
+     "num": 30,
+     "options": {
+      "a": "dem",
+      "b": "den",
+      "c": "der"
+     }
+    }
+   ],
+   "id": "P05-SB1",
+   "section": "Sprachbausteine, Teil 1",
+   "pages": [
+    55
+   ],
+   "topic": "Catherine",
+   "solution": {
+    "21": "c",
+    "22": "c",
+    "23": "a",
+    "24": "b",
+    "25": "c",
+    "26": "c",
+    "27": "b",
+    "28": "b",
+    "29": "c",
+    "30": "a"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Option 27b: the text layer contained a stray letter ('j jetzt'); the printed page shows 'jetzt'."
+   ],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "sprach2",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.",
+   "text": "QUANTUM-SYSTEM\n## Das Lotterie – Systemspiel\nOtto – Suhr- Allee 100. D- 10120 Berlin\nSehr geehrte Lottospieler,\nwer möchte nicht auch [[31]] bei sechs Richtigen im Lotto dabei sein? Vertrauen Sie beim Lottospiel nicht [[32]] auf das Glück, denn Sie [[33]] Ihre Chancen selbst strak verbessern, [[34]] Sie mit unserem Lotterie-System spielen – und das für nur 5 Euro in der Woche!\n[[35]] allein zu spielen, spielen Sie mit uns in einer starken Spielergemeinschaft. Dadurch erhöhen sich [[36]] automatisch Ihre Chancen!\nUnd was Sie gewinnen können? [[37]]. unserem Quantum-System spielen Sie mit einer Chance auf einen Gewinn von 1 Million Euro! Alle Gewinne erhalten Sie umgehend und ungekürzt zu 100%- das [[38]] wir Ihnen! Davon habe ich mich selbst überzeugt! Spielen Sie mit uns das Quantum – System: [[39]] 700 Quantum – Systemspielgruppen haben zusammen schon über sieben Millionen Euro gewonnen.\nHerzliche Grüße,\nIhre SABINE MEIER-PÜTZ\nPS: Als besondere Gewinnchance erhalten Sie heute das. Vier-Richtige-Gratisspiel. [[40]] Sie hier unbedingt mit und gewinnen Sie! Ich drücke Ihnen die Daumen……",
+   "words": [
+    {
+     "key": "a",
+     "word": "BEI"
+    },
+    {
+     "key": "b",
+     "word": "BEREITS"
+    },
+    {
+     "key": "c",
+     "word": "EINMAL"
+    },
+    {
+     "key": "d",
+     "word": "EURE"
+    },
+    {
+     "key": "e",
+     "word": "GANZ"
+    },
+    {
+     "key": "f",
+     "word": "GARANTIEREN"
+    },
+    {
+     "key": "g",
+     "word": "GESTRN"
+    },
+    {
+     "key": "h",
+     "word": "KÖNNEN"
+    },
+    {
+     "key": "i",
+     "word": "MACHEN"
+    },
+    {
+     "key": "j",
+     "word": "NUR"
+    },
+    {
+     "key": "k",
+     "word": "STATT"
+    },
+    {
+     "key": "l",
+     "word": "TECHNISCH"
+    },
+    {
+     "key": "m",
+     "word": "ÜBER"
+    },
+    {
+     "key": "n",
+     "word": "UNSER"
+    },
+    {
+     "key": "o",
+     "word": "WENN"
+    }
+   ],
+   "id": "P05-SB2",
+   "section": "Sprachbausteine, Teil 2",
+   "pages": [
+    56
+   ],
+   "topic": "Lottospieler",
+   "solution": {
+    "31": "c",
+    "32": "j",
+    "33": "h",
+    "34": "o",
+    "35": "k",
+    "36": "e",
+    "37": "a",
+    "38": "f",
+    "39": "b",
+    "40": "i"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  }
+ ],
+ "missing_sections": [],
+ "paper_notes": []
+}

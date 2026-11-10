@@ -1,0 +1,5 @@
+# P27-L3 pages [401, 402] ratio 0.547
+## website words not in OCR:
+Veranstaltungstechnik Durchführung Events sammeln entstehen Konzeption Realisation mediafilm.project Arbeitsmarkt Wirtschafts Jobs Gästen engagierte Flexibilität Nähere 20.15 Tatort Krimi-Fans ermittelt Schweizerin spielt Freundin Szene hofft Halbtagstätigkeit Unternehmen Internet erforderlich Interessenten Zündstoff Berlin Blatti's Zentralbüro Postfach unabhängigen erste Ihnen Rufen
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests 16.Sie 18.Sie Leseverstehen Teil LANGUAGE Tests engaglerte 20145 Arbeitamarkt Veranstalfungstechnik Durehführung Flexibilitit Evants Wirtechafte sammeir Ibre direm Jobe entatehen Konzoption Nahere aimation Gasten Medis Fllm medlarilm.project infoc 20.16 Tatoft Krimi Fans ihte Halbtagstiitigkelt ermittell Untemehmen Schweizefin spfelt Preundin Internet-und Zündstoft erforderlichi Szeno hoff Anteressenten Fernseher unabhäingigen Bertin rste Jnser Blatt's Zentralbüre ostfach Jhnen Rulen

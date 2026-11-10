@@ -1,0 +1,110 @@
+{
+ "batch": 50,
+ "pages": [
+  491,
+  493
+ ],
+ "records": [
+  {
+   "page": 491,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Hallo *Thomas* ,wie geht´s dir ?\n= Mir geht´s gut ,und dir?\n- Mir geht´s auch gut ,Also du weißt ja ,dass unser Freund *Müller* aus Deutschland\nkommt ,und wir können ihm am Flughafeb überraschen ,was hältst du davon?\n= Ja ,ich gehe ganz dáccord ,Aber wer kann auch mit kommen ,mir fällt nichts ein.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "*استقبال صديقك من المطار*"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.54
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 37,
+    "sample_missing": [
+     "abendessen",
+     "auslandsaufenthalt",
+     "blumen",
+     "dieser",
+     "einem",
+     "einen",
+     "flughafen",
+     "freunde",
+     "gemacht",
+     "gemeinsamen",
+     "geschenk",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "große",
+     "haben",
+     "hause",
+     "ihre",
+     "ihrem",
+     "ihrer",
+     "kosten",
+     "lallis",
+     "langen",
+     "lieblingsrestaurant",
+     "limousine",
+     "mieten"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 492,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Wir können sowohl Martin ,als auch Mohamed mitnehmen ,sie würden sicher*Müller*\nempfangen ,was denkst du ?\n= Ja ,ich bin derselben Meinung ,aber wann wird das Flugzeug ankommen ?\n- Am Samstag um 10 Uhr ,aber was sollten wir *Müller* schenken?\n= Ich bin für Blumenstauß ,du weißt ja ,dass *Müller* Blumen mag. Aber womit können\nwir *Müller* abholen?\n- Vielleicht können wir entweder einen Taxi ,oder eine große Limousine mieten\n,was ist deine Meinung?\n= Ich glaube eine Limousine wäre besser ,weil das bequemer und schneller ist ,aber hast\ndu Vorschläge zum Essen.\n- Ja ,wie wäre es ,wenn wir in ein spanisches Restaurant gehen ?\n= Ich möchte dir widersprechen ,ich weiß ja ,dass *Müller italienisches Essen mag ,wir\nkönnen in einem italienischen Restaurant buchen ,was meinst du ?\n- Ja ,du hast recht ,aber wie viel kostet das Abendessen?\n= Nicht zu viel , etwa 150 Euro ,ich bezahle dafür ,das ist wie ein Geschenk für *Müller*.\n- So treffen wir uns am Samstag dann losfahren.\n= Ja ,das machen wir , ich wünsche dir einen schönen Tag , Tschüss.\n- Eben falls , Tschüss\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "chul",
+     "müllert"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 493,
+   "paper": "OTHER",
+   "section": "?",
+   "text_source": "text_layer",
+   "text": "https://t.me/telcc1hochschul",
+   "arabic_labels_excluded": [
+    ":هوخشوله",
+    "تلک س1",
+    "منابع و اطالعات بیشتر درمورد آزمونهای تلک و"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Closing page (Persian text + Telegram link) — no exam content",
+   "uncertain": []
+  }
+ ]
+}

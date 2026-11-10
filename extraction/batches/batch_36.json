@@ -1,0 +1,362 @@
+{
+ "batch": 36,
+ "pages": [
+  351,
+  360
+ ],
+ "records": [
+  {
+   "page": 351,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "* Heiraten *\n Teilnehmer A\n- Ich habe einen Beitrag zum Thema *Heiraten* gelesen.\n- Die Person die sich äußert heißt *Anna Herzog*.\n- Sie ist 36 Jahre Alt ,und arbeitet als Sekretärin.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.54
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 51,
+    "sample_missing": [
+     "andere",
+     "auch",
+     "berichten",
+     "berichtet",
+     "dann",
+     "darüber",
+     "dazu",
+     "drei",
+     "eigenen",
+     "eine",
+     "einer",
+     "einmal",
+     "erfahrungen",
+     "erzählen",
+     "etwas",
+     "fest",
+     "ganz",
+     "gefeiert",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "großes",
+     "gästen",
+     "haben",
+     "hochzeit",
+     "ihnen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 352,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Frau *Herzug* bevorzugt eine Hochzeit zu machen.\n- Sie sagt ,dass sie vor vier Jahren ein großes Fest mit Musik gemacht.\n- Sie hat auch viele Leute eingeladen und die Feier hat für drei Tage gedaurt .\n-Sie nennet auch ,dass man einmal heiratet ,deshalb möchte sie eine\n scöne Erinnerung für immer behalten.\n***************************************************************\n*Meinung*\n Ich habe eine ähnliche Meinung wie *Anna* ,ich finde es wichtig\n   wenn man eine Hochzeit macht.\n Ich heirate nur einmal ,deshalb möchte ich nicht nur mit meinen\n    Verwandten ,sondern auch mit meinen Freunden feiern .\n Aber der größte Nachteil ist ,dass die Hochzeit viel kostet ,und wir\n  brauchen dieses Geld ,um unser Haus zu gründen.\n***************************************************************\n*Erfahrung*\nIch habe die folgende Erfahrung :\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 353,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich bin noch Ledig ,aber falls ich heirate ,möchte ich eine wonderbare\nHochzeit machen.\n Ich bin der Meinung ,dass ich mit meiner Familie ,und meinen\nFreunden feiern soll ,und viel Spaß haben.\n Ich weiß ja ,dass die Hochzeit viel kostet ,aber ich heirate nicht\nnicht jeden Tag.\num die beste Hochzeit.\n***************************************************************\n Teilnehmer B\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    " In meinem Heimatland feiern wir gern ,und konkorrieren**نتنافس"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.41
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.966,
+    "ocr_words_missing_from_textlayer": 26,
+    "sample_missing": [
+     "acht",
+     "allen",
+     "brauchen",
+     "ehrmann",
+     "frank",
+     "gern",
+     "glücklich",
+     "heimatland",
+     "heiraten",
+     "jahre",
+     "jahren",
+     "keine",
+     "konkorrieren",
+     "lieben",
+     "meinem",
+     "partnerin",
+     "schon",
+     "sehr",
+     "seit",
+     "sind",
+     "verkäufer",
+     "werden",
+     "wonderbar",
+     "zeigen",
+     "zusammen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 354,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Ich habe auch einen Beitrag von *Frank Ehr man* gelesen.\n- Er ist 58 Jahre Alt .und arbeitet als Verkäufer.\n***************************************************************\n Herr *Ehrmann* bevorzugt Keine Hochzeit zu machen.\n Er sagt ,dass obwohl seine Partnerin und er nicht heitaten werden\n,sind sie zusammen seit 8 Jahren ,und sehr glücklich.\n Sie brauchen keine Hochzeit ,damit Leute sagen ,dass sie\n***************************************************************\n*Meinung*\n* Da gehe ich nicht d´accord , ich finde es wichtig\n     wenn man eine Hochzeit macht.\n* Ich bin der Meinung ,dass ich mit meiner Familie ,und meinen\n     Freunden feiern soll ,und viel Spaß haben.\n um die beste Hochzeit.\n***************************************************************\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "zusammengehören**ينتمون لبعضهم.",
+    "* In meinem Heimatland feiern wir gern ,und konkorrieren**نتنافس"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 6,
+    "sample_missing": [
+     "gern",
+     "heimatland",
+     "konkorrieren",
+     "meinem",
+     "zusammengehören",
+     "üesüi"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 355,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Erfahrung*\n Damit habe ich auch gute Erfahrungen.\n In meinem Heimatland mussen wir heiraten ,damit wir mit einer\n   Frau leben.\n Wir sind Muslime ,und das ist in unserer Religion nicht erlaubt.\n Ich bin noch Ledig ,aber falls ich heirate ,möchte ich eine wonderbare\nHochzeit machen.\n Ich bin der Meinung ,dass ich mit meiner Familie ,und meinen\nFreunden feiern soll ,und viel Spaß haben.\n Ich weiß ja ,dass die Hochzeit viel kostet ,aber ich heirate nicht\nnicht jeden Tag.\num die beste Hochzeit.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "نفس الرأي األول+",
+    " In meinem Heimatland feiern wir gern ,und konkorrieren**نتنافس"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.957,
+    "ocr_words_missing_from_textlayer": 4,
+    "sample_missing": [
+     "gern",
+     "ihschul",
+     "konkorrieren",
+     "wonderbar"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 356,
+   "paper": "P24",
+   "section": "L1",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nanallanalgal jl\nLesen Sie die Überschriften a - j und die Texte 1-5. Finden Sie für jeden Text die passende\nÜberschrift.Sie können jede Überschrift nur einmal benutzen\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\nJues 1ejl\na) Der öffentliche Verkehr auf einen Blick.\nochsc\nb) Türen auf für fremde Kulturen.\nc) Ski fahren in der Schweiz.\nd) Schlank werden und trotzdem gut essen.\ne) Herr Ober, es schmeckt mir nicht\", sagen nur wenige Gaste\n41\nf) Die schönsten Bahnstrecken in Deutschland.\ng) Die Deutschen beschweren sich sofort\nh) Wanderungen im Schnee.\ni) Hauptsache es schmeckt - Gesundheit ist Nebensache\nj) Immer beliebter: Studienreisen in die Schweiz",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.89
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": null,
+    "ocr_words_missing_from_textlayer": 59,
+    "sample_missing": [
+     "anallanalgal",
+     "antwortbogen",
+     "aufgaben",
+     "bahnstrecken",
+     "beliebter",
+     "benutzen",
+     "beschweren",
+     "blick",
+     "deutschen",
+     "deutschland",
+     "einen",
+     "einmal",
+     "essen",
+     "fahren",
+     "finden",
+     "fremde",
+     "gaste",
+     "gesundheit",
+     "hauptsache",
+     "herr",
+     "ihre",
+     "immer",
+     "jede",
+     "jeden",
+     "jues"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "Image-only P24 L1 pages; identical to verified P04 L1 (p36-37) — transcription re-checked",
+   "uncertain": []
+  },
+  {
+   "page": 357,
+   "paper": "P24",
+   "section": "L1",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 1\naalall üNolgall Jilag\nLANGUAGE Tests\n863 BaRKE\nEs stimmt : Wir essen einfach zu viel Fett, zu viel Fleisch und zu wenig Ballaststoffe.\nDoch die wenigsten scheint das zu kümmern . Die Hausmannskost mit Kohlrouladen ,\nSchweine braten und Currywurst sind nach wie vor die Lieblingsgerichte der Deutschen.\nUnd nur jeder Fünfte will sich der Figur zuliebe beim Essen einschränken . Das ergab die\nneueste Umfrage der Gesellschaft für Konsumforschung über - Trends in der Ernährung .\n(aus einer deutschen Zeitung )\nSämtliche Informationen zu den Bahnlinien und ausgesuchten Busverbindungen in der\nBundesrepublik können Sie in gesammelter Form auf der Webseite des Verkehrsclubs\nDeutschland ( www.vcd.net ) finden . Unter dem Menüpunkt Fahrpläne Bus und Bahn\nDeutschland \" können Sie die wichtigsten Daten zum Fernverkehr, zu Regional- und S\nBahnen sowie zu Buslinien abrufen . Per Suchbefehl erhalten Sie außerdem Auskunft über\nVerkehrsverbunde und rund 8000 Bahnhöfe in Deutschland . www.vcd.net\n(aus einer deutschen Zeitung )\nImmer mehr Gäste in den Wintersportorten wollen auch in der kalten Jahreszeit ihrem\nHobby, dem Wandern , frönen und suchen Freude und + Erholung abseits des\nPistenrummels. Sie finden beides auf markierten und vom Schnee geräumten\nWinterwanderwegen in den Bergen . Der Autor Emanuel Balsinger stellt drei Dutzend\nRouten in der Schweiz vor und liefert sämtliche Informationen zu einfachen Spaziergängen\nim Schnee oder anspruchsvollen , längeren Wanderungen. Das Buch kostet CHF 34,80.\nErhältlich im Buchhandel oder direkt bei : Werd Verlag , Postfach, 8021 Zürich.\n( aus einem Schweizer Nachrichtenmagazin )\nDer Service im Restaurant ist schlecht , das Essen lauwarm und mäßig , Beschweren Sie sich ?\nNein ? Dann befinden Sie sich in großer Gesellschaft. Nach dem Ergebnis einer Studie der\nBundesforschungsanstalt für Ernährung hat nur jeder Dritte beim Anblick des bestellten Menüs\ndaran gedacht, sich zu beschweren . Wenige von ihnen machten ihrem Ärger auch tatsächlich Luft\n. Die übrigen zwei Drittel hielten lieber still, weil sie den Aufwand scheuten , keine Zeit hatten oder\nes peinlich fanden . Dabei hatten die Aufmüpfigen durchweg Erfolg . Die meisten erhielten eine\nErsatzleistung. Seltener gab's eine Entschuldigung und noch seltener Preisnachlass.\n( aus einer deutschen Zeitung )\nDie Jugendaustausch - Organisation AFS Interkulturelle Programme Schweiz \" sucht Familien , die\nwährend eines Jahres Schüler und Schülerinnen aus dem Ausland beherbergen möchten. Die 16-\nbis 19 - jährigen Jungen und Mädchen kommen vorwiegend aus Neuseeland und Australien , aber\nauch aus Südafrika, Chile , Simbabwe , Costa Rica und Kolumbien . In ihrem Austauschjahr\nmöchten sie unsere Kultur und Sprache kennen lemen. Die Gastfamilien bieten kostenlos\nUnterkunft und Verpflegung . Es braucht ein offenes Herz, etwas Mut und Humor. Wer sich gerne\nmit neuen Gedanken und Menschen aus fremden Kulturen auseinandersetzt , wendet sich an :\nAFS Interkulturelle Programme Schweiz CH 8037 Zürich , Langstr . 4 Tel .: 01/2116041 ; Fax\n01/2122012 E - Mail : info@afs.chInternet : www.afs.ch\n( aus einer Schweizer Zeitung ).",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.86
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": null,
+    "ocr_words_missing_from_textlayer": 236,
+    "sample_missing": [
+     "aalall",
+     "aber",
+     "abrufen",
+     "abseits",
+     "anblick",
+     "anspruchsvollen",
+     "auch",
+     "aufmüpfigen",
+     "aufwand",
+     "auseinandersetzt",
+     "ausgesuchten",
+     "auskunft",
+     "ausland",
+     "austauschjahr",
+     "australien",
+     "autor",
+     "außerdem",
+     "bahn",
+     "bahnen",
+     "bahnhöfe",
+     "bahnlinien",
+     "ballaststoffe",
+     "balsinger",
+     "barke",
+     "befinden"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "Image-only P24 L1 pages; identical to verified P04 L1 (p36-37) — transcription re-checked",
+   "uncertain": []
+  },
+  {
+   "page": 358,
+   "paper": "P24",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nPhilipp Reis – der wahre Erfinder des Telefons?\nErfinder, Lehrer, Familienvater – Auf den Spuren von Philipp Reis besuchte Susanne Müller\nseinen Geburtsort.\nWeil sein Vater nie aufgeschrieben habe, was er machte, ist mancher gute Gedanke verloren gegangen, klagt\nspäter einmal Karl Reis. Auch gibt es wenige offizielle Berichte und Dokumente über Philipp Reis in\nFriedrichsdorf und in seiner Geburtsstadt Gelnhausen. Das gilt besonders für das private Leben der Familie\nReis, die ab 1852 in unmittelbarer Nähe des berühmten Garnier – Instituts in Friedrichsdorf ein Haus gefunden\nhatte. Berichte des Sohnes Karl Reis erzählen ein wenig mehr über das Leben des Erfinders. Karl Reis, der beim\nTod des Vaters erst elf Jahre alt war, berichtet von einem lieben und gerechten Vater, der sich sehr um seine\nFrau und seine Kinder gesorgt hat. Wenn der Vater aber seine Experimente machte, vergaß er alles um sich\nherum.\nPhilipp Reis lernte bereits als Junge viele technische Maschinen kennen und machte eine Reihe von\nExperimenten, die er als Lehrer am Garnier – Institut fortsetzte. Er entwickelte eine große Anzahl von\ntechnischen Geräten, die im Institut gut verwendet werden konnten. Auf die Schüler machte Philipp Reis\neinen oft sehr merkwürdigen Eindruck. Verunsichert waren die Schüler besonders dann, wenn Reis Aufsicht\nhatte, aber selbst im Klassenraum gar nicht anwesend war.\nTrotzdem konnte Reis alles hören und wusste, was passiert war. Philipp Reis hatte eine besondere Kamera\ngebaut, mit der er von seinem Arbeitszimmer aus, in dem er gleichzeitig Experimente durchführte, in die\nKlassenraume schauen konnte. Ein Draht, der über den Schulhof in sein Arbeitszimmer führte, diente als\nVorläufer des späteren Telefons. Bei den Schülern und Lehrern entstand so der Ruf, dass der Reis auf\ngeheimnisvolle. Weise alles sehen kann.\n1883 schrieb der englische Professor Silvanus Thompson einen Bericht über Reis und nannte ihn den wahren\nErfinder des Telefons. Philipp Reis habe das Telefon entwickelt, und nicht Graham Bell oder Thomas Edison.\nDiese beiden amerikanischen Forscher hätten auch bei ihren Arbeite zur Entwicklung des Telefons auf Philipp\nReis Experimente in Deutschland hingewiesen. Seine offizielle Anerkennung als Erfinder des Telefons hat\nPhilipp Reis allerdings nicht mehr erlebt. Im Jahre 1874 ist er in Friedrichsdorf an einer Lungenkrankheit\ngestorben.",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 2,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "uses",
+     "vsule"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P24 compared on legible contact sheet; identical to verified P04",
+   "uncertain": []
+  },
+  {
+   "page": 359,
+   "paper": "P24",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Über das private Leben von Philipp Reis\ngibt es nur wenige Berichte aus seiner Familie.\nA\nkann man im Garnier-Institut viele Berichte finden.\nkann man in Gelnhausen viel erfahren.\nC\n7. Heute weiß man, dass Philipp Reis\nbei seinen Versuchen die Familie vergaß.\nA\nseinen Kindern viel über seine Experimente erzählte.\nsogar mit seiner Familie Experimente machte.\nC\n8. Philipp Reis\nhat viele technische Geräte gebaut.\nA\nleitete als junger Wissenschaftler das Garnier-Institut.\nstudierte am Garnier-Institut.\nC\n9. Die Schüler von Philipp Reis\nkonnten ihren Lehrer in seinem Arbeitszimmer sehen.\nA\nmachen in seinem Arbeitszimmer Experimente.\nwurden von ihrem Lehrer mit einer Kamera beobachtet.\nC\n10. Professor Thompson\nhat bei der Entwicklung des Telefons mitgearbeitet.\nA\nmeinte, dass Reis das Telefon erfunden hat.\nwar ein Studienkollege von Philipp Reis.\nC",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 6,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.968,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "achtet",
+     "beob",
+     "chschul",
+     "ehen",
+     "uses"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P24 compared on legible contact sheet; identical to verified P04",
+   "uncertain": []
+  },
+  {
+   "page": 360,
+   "paper": "P24",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Sie lieben Krimis und möchten daher einer Krimiautorin beim Vorlesen zuhören.\n12. Ihr Bekannter würde gerne am Wochenende ein Boot mieten.\n13. Sie möchten sich in einem Hotel in den Bergen erholen und mit dem Zug anreisen.\n14. Sie möchten sich eine Märchenvorstellung im Theater ansehen.\n15. Ihre Freundin sucht ein angenehmes Hotel, in dem man auch Sport treiben kann.\n16. Am Sonntag wollen Sie einen kleinen Ausflug mit Kindern machen. Die Kinder mögen\nTiere.\n17. Ihre Bekannten möchten gerne im Mai eine Schiffsfahrt machen.\n18. Sie möchten gerne am Wochenende tanzen gehen und suchen eine tolle Disco.\n19. Der kleine Sohn von Freunden ist begeistert von der Eisenbahn. Sie möchten am\nWochenende mit ihm etwas Interessantes machen.\n20. Sie möchten im August eine Woche in den Bergen wandern und brauchen eine erfahren\nPerson, die mit Ihnen geht.",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P24 compared on legible contact sheet; identical to verified P04",
+   "uncertain": []
+  }
+ ]
+}

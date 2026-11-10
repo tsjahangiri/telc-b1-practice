@@ -1,0 +1,364 @@
+{
+ "batch": 49,
+ "pages": [
+  481,
+  490
+ ],
+ "records": [
+  {
+   "page": 481,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "* Stress *\n Teilnehmer A\n- Ich habe einen Beitrag zum Thema *Stress* gelesen.\n- Die Person die sich äußert heißt *Claudia Gärtner*.\n- Sie ist 42 Jahre Alt ,und arbeitet als Sekretärin.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.53
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 51,
+    "sample_missing": [
+     "andere",
+     "arbeit",
+     "auch",
+     "berichten",
+     "berichtet",
+     "dann",
+     "dazu",
+     "deshalb",
+     "eigenen",
+     "eine",
+     "einer",
+     "einfach",
+     "entspannen",
+     "erfahrungen",
+     "erzählen",
+     "etwas",
+     "fami",
+     "fühle",
+     "gern",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "haben",
+     "hause",
+     "hobbys",
+     "hätte"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 482,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Frau *Gärtner* sagt ,dass sie viel arbeitet ,und das ist ihr sehr stressig.\n- Ihr Arbeit ist auch sehr anstrengend.\n- Sie wünscht einen Urlaub machen ,oder mehr Zeit mit ihrer Familie verbringen ,aber\n das ist nicht möglich wegen ihrer Arbeit.\n***************************************************************\n*Meinung*\n- Ich habe eine ähnliche Meinung wie *Claudia* ,je mehr man\n  arbeitet ,desto müder ist er.\n- Ich finde es gut ,wenn man hart arbeitet ,aber er sollte sich auch\nausruhen.\n- Manschmal braucht man einen Urlaub ,oder etwas anderes als\n  Arbeit zu machen , und seinen Tagesablauf zu ändern.\n- Es ist auch wichtig ,dass man mehr Zeit mit seiner Familie verbringt\n,und den Druck der Arbeit vergisst.\n***************************************************************\n*Erfahrung*\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 483,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich habe die folgende Erfahrung , Ich arbeitejetzt als Ingenieur ,und\nverbringe viel Zeit bei der Arbeit.  Familie in unserem eigenen Haus.\n Ich habe keine Zeit für meine Familie.\n Manschmal arbeite ich bis Spät in der Nacht ,und habe nur wenig Zei\nzum Sclafen ,und das ist mir sehr anstrengend.\n Obwohl ich mit meiner Familie lebe ,treffen wir uns manschmal nur\nim Urlaub , Wir haben ein bisschen Zeit füreinander.\n Ab und zu möchte ich mit meinen Freunden ausgehen ,aber wegen\nder Arbeit ist es unmöglich.\n Wenn ich viel Stress habe, treibe ich lieber etwas Sport ,das hilft\n mit sehr gut.\n Hätte ich eine einfache Arbeit gefunden ,hätte ich mehr frei Zeit\ngehabt.\n***************************************************************\n Teilnehmer B\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.27
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 30,
+    "sample_missing": [
+     "abwechslung",
+     "aktiver",
+     "alle",
+     "andreas",
+     "beruflich",
+     "brau",
+     "chschul",
+     "dabei",
+     "durch",
+     "eigentlich",
+     "elbert",
+     "fast",
+     "fühle",
+     "ganze",
+     "hause",
+     "jahre",
+     "kenne",
+     "leben",
+     "medien",
+     "mensch",
+     "mich",
+     "moder",
+     "nicht",
+     "nutze",
+     "reise"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 484,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Ich habe auch einen Beitrag von *……..* gelesen.\n- Er ist 30 Jahre Alt .und arbeitet als Elektroingenieur.\n***************************************************************\n Herr *……* sagt ,dass er zu viel arbeitet ,aber die Arbeit macht ihm viel Spaß.\n Obwohl er viel Zeit während der Arbeit verbringt ,ist das ihm nicht stressig.\n Er mag dir Arbeit ,und Stress kommt für ihn nicht In Frage.\n***************************************************************\n*Meinung*\n* Ich habe eine ähnliche Meinung wie Herr *……*.\n* Wenn man einen Job hat ,den er loebt ,fühlt sie sich nicht gestresst.\n Beruf wählen ,der Job muss uns nicht nur Geld bringen ,sondern auch\n   Spaß machen.\n* Ich finde es auch wichtig ,wenn man mit netten Kollegen arbeitet\n,damit er eine tolle Arbeitatmosphäre hat.\n***************************************************************\n*Erfahrung*\n- Damit habe ich auch gute Erfahrungen.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "* Meiner Meinung nach soll man überlegen**يفكر ,bevor er einen"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "bevor",
+     "meiner",
+     "nach",
+     "soll",
+     "überlegen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 485,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Als ich ein Kind war ,wollte ich Ingenieur werden ,und jetzt habe ich\nmeinen Traumjob ,Des halb fühle ich mich nicht gestresst\n- Ich arbeit ,was ich liebe ,deswegen vergisse ich den Druck der Arbeit,\n- Obwohl ich nicht mit meinen Freunden ausgehen kann ,verbringe\nich tolle Zeit mit meinen Kollegen ,außerdem haben wir zusammen\nviel Spaß.\n- In meinem Heimatland arbeiten wir Lange am Tag ,das finde ich\nsehr anstrengend , und das verursacht viel Arbeitsdruck.\n- Wenn ich Stress habe ,liebe ich etws Sport treiben ,das macht mich\nentspannter und ruhiger.\n- Es wäre besser ,wenn man einen Job wählen ,den er liebt , damit\nihm nicht langweilig wird ,und fühlt er nicht gestresst.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.983,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "chschul",
+     "süiiii"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 486,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "* Heiraten *\n Teilnehmer A\n- Ich habe einen Beitrag zum Thema *Heiraten* gelesen.\n- Die Person die sich äußert heißt *Anna Herzog*.\n- Sie ist 36 Jahre Alt ,und arbeitet als Sekretärin.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.54
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 51,
+    "sample_missing": [
+     "andere",
+     "auch",
+     "berichten",
+     "berichtet",
+     "dann",
+     "darüber",
+     "dazu",
+     "drei",
+     "eigenen",
+     "eine",
+     "einer",
+     "einmal",
+     "erfahrungen",
+     "erzählen",
+     "etwas",
+     "fest",
+     "ganz",
+     "gefeiert",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "großes",
+     "gästen",
+     "haben",
+     "hochzeit",
+     "ihnen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 487,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Frau *Herzug* bevorzugt eine Hochzeit zu machen.\n- Sie sagt ,dass sie vor vier Jahren ein großes Fest mit Musik gemacht.\n- Sie hat auch viele Leute eingeladen und die Feier hat für drei Tage gedaurt .\n-Sie nennet auch ,dass man einmal heiratet ,deshalb möchte sie eine\n scöne Erinnerung für immer behalten.\n***************************************************************\n*Meinung*\n Ich habe eine ähnliche Meinung wie *Anna* ,ich finde es wichtig\n   wenn man eine Hochzeit macht.\n Ich heirate nur einmal ,deshalb möchte ich nicht nur mit meinen\n    Verwandten ,sondern auch mit meinen Freunden feiern .\n Aber der größte Nachteil ist ,dass die Hochzeit viel kostet ,und wir\n  brauchen dieses Geld ,um unser Haus zu gründen.\n***************************************************************\n*Erfahrung*\nIch habe die folgende Erfahrung :\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 488,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich bin noch Ledig ,aber falls ich heirate ,möchte ich eine wonderbare\nHochzeit machen.\n Ich bin der Meinung ,dass ich mit meiner Familie ,und meinen\nFreunden feiern soll ,und viel Spaß haben.\n Ich weiß ja ,dass die Hochzeit viel kostet ,aber ich heirate nicht\nnicht jeden Tag.\num die beste Hochzeit.\n***************************************************************\n Teilnehmer B\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    " In meinem Heimatland feiern wir gern ,und konkorrieren**نتنافس"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.41
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.966,
+    "ocr_words_missing_from_textlayer": 26,
+    "sample_missing": [
+     "acht",
+     "allen",
+     "brauchen",
+     "ehrmann",
+     "frank",
+     "gern",
+     "glücklich",
+     "heimatland",
+     "heiraten",
+     "jahre",
+     "jahren",
+     "keine",
+     "konkorrieren",
+     "lieben",
+     "meinem",
+     "partnerin",
+     "schon",
+     "sehr",
+     "seit",
+     "sind",
+     "verkäufer",
+     "werden",
+     "wonderbar",
+     "zeigen",
+     "zusammen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 489,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Ich habe auch einen Beitrag von *Frank Ehr man* gelesen.\n- Er ist 58 Jahre Alt .und arbeitet als Verkäufer.\n***************************************************************\n Herr *Ehrmann* bevorzugt Keine Hochzeit zu machen.\n Er sagt ,dass obwohl seine Partnerin und er nicht heitaten werden\n,sind sie zusammen seit 8 Jahren ,und sehr glücklich.\n Sie brauchen keine Hochzeit ,damit Leute sagen ,dass sie\n***************************************************************\n*Meinung*\n* Da gehe ich nicht d´accord , ich finde es wichtig\n     wenn man eine Hochzeit macht.\n* Ich bin der Meinung ,dass ich mit meiner Familie ,und meinen\n     Freunden feiern soll ,und viel Spaß haben.\n um die beste Hochzeit.\n***************************************************************\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "zusammengehören**ينتمون لبعضهم.",
+    "* In meinem Heimatland feiern wir gern ,und konkorrieren**نتنافس"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 6,
+    "sample_missing": [
+     "gern",
+     "heimatland",
+     "konkorrieren",
+     "meinem",
+     "zusammengehören",
+     "üesüi"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 490,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Erfahrung*\n Damit habe ich auch gute Erfahrungen.\n In meinem Heimatland mussen wir heiraten ,damit wir mit einer\n   Frau leben.\n Wir sind Muslime ,und das ist in unserer Religion nicht erlaubt.\n Ich bin noch Ledig ,aber falls ich heirate ,möchte ich eine wonderbare\nHochzeit machen.\n Ich bin der Meinung ,dass ich mit meiner Familie ,und meinen\nFreunden feiern soll ,und viel Spaß haben.\n Ich weiß ja ,dass die Hochzeit viel kostet ,aber ich heirate nicht\nnicht jeden Tag.\num die beste Hochzeit.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "نفس الرأي األول+",
+    " In meinem Heimatland feiern wir gern ,und konkorrieren**نتنافس"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.957,
+    "ocr_words_missing_from_textlayer": 4,
+    "sample_missing": [
+     "gern",
+     "ihschul",
+     "konkorrieren",
+     "wonderbar"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  }
+ ]
+}

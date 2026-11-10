@@ -1,0 +1,20 @@
+0.073 0.838 1.00	DB
+0.093 0.060 1.00	Leseverstehen, Teil 3
+0.110 0.041 1.00	LANGUAGE Tests
+0.166 0.045 1.00	Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können
+0.185 0.043 1.00	jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 - 20 auf dem
+0.205 0.047 1.00	Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+0.276 0.045 1.00	11. Sie haben von einer Schweizer Schauspielerin gehört und möchten gern einen Film sehen.
+0.314 0.045 1.00	12. Sie haben gerade Ihre Ausbildung beendet und suchen eine Stelle an der Rezeption.
+0.353 0.047 1.00	13. Sie interessieren sich für Umweltschutz und suchen eine passende Sendung.
+0.391 0.047 1.00	14. Ihr Freund, der am Institut für Film und Bild studiert, sucht einen geeigneten Praktikumsplatz.
+0.429 0.049 1.00	15. In einer Sendereihe wird im Fernsehen über die neue politische Entwicklung in Deutschland
+0.464 0.078 1.00	berichtet. Sie wollen sich informieren.
+0.501 0.047 1.00	16.Sie interessieren sich für Großstädte und ihre Entwicklung und suchen dazu eine Sendung im
+0.536 0.078 1.00	Rundfunk.
+0.574 0.045 1.00	17. Sie sind mit der Schule fertig und wollen bei der Deutschen Bahn eine Ausbildung machen.
+0.613 0.049 1.00	18.Sie interessieren sich für politisches Theater und möchten dazu am Wochenende etwas hören
+0.648 0.078 1.00	oder sehen.
+0.686 0.047 1.00	19. Sie arbeiten gern mit anderen zusammen und suchen eine Tätigkeit bei einer Werbefirma.
+0.724 0.049 1.00	20. Sie wollen mehr über das Thema Arbeiten in Europa erfahren.
+0.718 0.789 0.30	4/

@@ -1,0 +1,165 @@
+[
+ {
+  "id": "P17-H1",
+  "type": "hoeren",
+  "part": 1,
+  "section": "Hörverstehen, Teil 1",
+  "instructions": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.",
+  "statements": [
+   {
+    "num": 41,
+    "text": "Der Sprecher hat zu Hause keinen Computer."
+   },
+   {
+    "num": 42,
+    "text": "Der Sprecher benutzt den Computer nur am Arbeitsplatz."
+   },
+   {
+    "num": 43,
+    "text": "Die Sprecherin lehnt Computer ab."
+   },
+   {
+    "num": 44,
+    "text": "Die Sprecherin hat kein großes Vertrauen zu Computern."
+   },
+   {
+    "num": 45,
+    "text": "Die Sprecherin braucht den Computer im täglichen Leben."
+   }
+  ],
+  "pages": [
+   246
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 250,
+  "topic": "Computer",
+  "solution": {
+   "41": "-",
+   "42": "-",
+   "43": "+",
+   "44": "+",
+   "45": "-"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ },
+ {
+  "id": "P17-H2",
+  "type": "hoeren",
+  "part": 2,
+  "section": "Hörverstehen, Teil 2",
+  "instructions": "Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.",
+  "statements": [
+   {
+    "num": 46,
+    "text": "Herr Bachinger hat ein Buch über Väter geschrieben."
+   },
+   {
+    "num": 47,
+    "text": "Herr Bachinger hat vor zehn Monaten geheiratet."
+   },
+   {
+    "num": 48,
+    "text": "Herr Bachinger meint, dass die Zeitungen mehr über moderne Familien berichten sollen."
+   },
+   {
+    "num": 49,
+    "text": "Herr Bachinger konnte seinen Chef sofort überzeugen."
+   },
+   {
+    "num": 50,
+    "text": "Hausarbeit war für Herrn Bachinger nichts Neues."
+   },
+   {
+    "num": 51,
+    "text": "Seine Kollegen haben ihn anfangs sehr vermisst."
+   },
+   {
+    "num": 52,
+    "text": "Herr Bachinger hat gegen viele Vorurteile kämpfen müssen."
+   },
+   {
+    "num": 53,
+    "text": "Herr Bachinger hat das Buch für andere Väter geschrieben."
+   },
+   {
+    "num": 54,
+    "text": "Er will erst wieder arbeiten gehen, wenn sein Sohn in die Schule kommt."
+   },
+   {
+    "num": 55,
+    "text": "Herr Bachinger meint, dass Teilzeitarbeit für ihn das Beste sei."
+   }
+  ],
+  "pages": [
+   247
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 250,
+  "topic": "Bachinger",
+  "solution": {
+   "46": "+",
+   "47": "-",
+   "48": "-",
+   "49": "+",
+   "50": "+",
+   "51": "-",
+   "52": "-",
+   "53": "-",
+   "54": "+",
+   "55": "-"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ },
+ {
+  "id": "P17-H3",
+  "type": "hoeren",
+  "part": 3,
+  "section": "Hörverstehen, Teil 3",
+  "instructions": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.",
+  "statements": [
+   {
+    "num": 56,
+    "text": "Der Fahrer des Wagens mit dem Kennzeichen HB-D 256 soll ins Erdgeschoss kommen."
+   },
+   {
+    "num": 57,
+    "text": "Die Firma liefert das bestellte Sofa am Dienstag ab drei Uhr nachmittags."
+   },
+   {
+    "num": 58,
+    "text": "Der Gasthof Lindner ist neben einer Tankstelle."
+   },
+   {
+    "num": 59,
+    "text": "Der Film Komiker läuft täglich um 20 Uhr."
+   },
+   {
+    "num": 60,
+    "text": "Das Wetter ist am Abend noch gut."
+   }
+  ],
+  "pages": [
+   248
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 250,
+  "topic": "Der Fahrer",
+  "solution": {
+   "56": "+",
+   "57": "-",
+   "58": "+",
+   "59": "+",
+   "60": "-"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ }
+]

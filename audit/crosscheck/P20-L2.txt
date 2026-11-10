@@ -1,0 +1,5 @@
+# P20-L2 pages [287, 288] ratio 0.919
+## website words not in OCR:
+heute Meinung dient durch verliert allem Ländern darüber ohne gestört Zum Arzt sollen längere
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests Leseverstehen Teil LANGUAGE Tests

@@ -1,0 +1,302 @@
+{
+ "batch": 9,
+ "pages": [
+  81,
+  90
+ ],
+ "records": [
+  {
+   "page": 81,
+   "paper": "P07",
+   "section": "SB1",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 1\nLANGUAGE Tests\nLesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.\nMarkieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen\n……………………………………………………………………………………………………………………………………………………\nLiebe Jelena,\nich hab dir doch schon vom Deutschkurs erzählt, (21) ich hier besuche. Der ist wirklich ganz\ngut. Wir haben jetzt eine neue Aufgabe bekommen. Wir müssen Informationen (22) Thema\nGesundheit und Ernährung suchen und schauen, was es dazu Interessantes (23) Internet gibt.\nDie interessanteste Internetseite, die ich finden (24) , ist www.gesund.ch . Diese Seite ist für\n(25) Leute gemacht, die gern mehr über gesunde Ernährung erfahren möchten. Fachleute\nbeschreiben hier genau, (26) Lebensmittel für unseren Körper wichtig und gesund sind und\nwie oft und wie viel man pro Tag essen sollte. Außerdem kann man (27) seinen persönlichen\nSpeiseplan selbst erstellen und dafür passende Rezepte (28) . Für Menschen, (29) ein paar\nKilos zu viel haben, gibt es auch Tipps zum Abnehmen und Links zu verschiedenen\nFitnesszentren in der Schweiz.\nUnd was gibt es bei dir Neues? (30) mir doch möglichst bald zurück!\nBis dann und viele Grüße\nPaola\nA das\nA können 27.\nA mir\n30.\n21.\n24.\nA\nSchreibe\nB den\nB könnten\nB dir\nSchreiben\nC der\nC konnte\nC sich\nSchreibt\nC\n22.\nA\nzu\n25.\nA\njunge\n28.\nA\nfand\nB\nzum\nB\njungen\nB\nfinden\nzur\njunges\ngefunden\nC\nC\nC\nA welche\nA denen\nA am\n26.\n29.\n23.\nB im\nB welchen\nB deren\nC mit\nC welcher\nC die",
+   "arabic_labels_excluded": [
+    "يلينا"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.991,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "cjunges"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P07 SB pages compared on legible contact sheet; match",
+   "uncertain": []
+  },
+  {
+   "page": 82,
+   "paper": "P07",
+   "section": "SB2",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 2\nLANGUAGE Tests\nLesen sie den Text und schließen Sie\nLücken 31 – 40. Benutzen Sie die Wörter\n(a, o) Jedes Wort passt nur einmal.\nMarkieren Sie Ihre Lösungen für die\nAufgaben 31 – 40 auf dem\nAntwortbogen.\nSehr geehrter Herr Gauberger,\nihre Anzeige habe ich mit Interesse gelesen. Ich bin (31) lange Rentner und bekomme\nmonatlich nur wenig Geld. Wenn ich die Möglichkeit (32) , noch ein wenig zu verdienen,\nwürde mir das sehr helfen. Ich bin (33) schon 72 Jahre alt, aber noch bei sehr guter\nGesundheit. Daher denke ich, dass ich die Arbeit (34) Probleme machen kann. Seit über\ndreißig Jahren treibe ich (35) Tag Sport. Auch das frühe Aufstehen macht mir gar (36) aus.\nEinige Fragen hätte ich trotzdem noch: Müssen die Zeitungen (37) ausgetragen werden und\nwie lange ist man unterwegs? Außerdem möchte ich natürlich wissen, (38) man verdient. Ich\nbin gerne bereit, mich bei (39) vorzustellen, damit Sie sehen können, dass ich für die Tätigkeit\n(40) bin.\nMit freundlichen Grüßen\nEBERHARD SPITZWEG\na\nBEOUEM\nd\nIHNEN\ng\nMEHR\nj\nSCHON\nm\nWIE HOCH\nb\nGEEIGNET\ne\nJEDEN\nh\nNICHTS\nk\nSIE\nn\nWIE VIEL\nc\nHÄTTE\nf\nKÖNNTE\ni\nOHNE\nl\nTÄGLICH\no\nZWAR",
+   "arabic_labels_excluded": [
+    "ن وظيفة توصيل الصحف(",
+    "قاوبيرغا)اعال"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.06
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 4,
+    "sample_missing": [
+     "firebala",
+     "post",
+     "randa",
+     "undat"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P07 SB pages compared on legible contact sheet; match",
+   "uncertain": []
+  },
+  {
+   "page": 83,
+   "paper": "P07",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 1\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.\n…………………………………………………………………………………………………………………………………………………………\n41. Die Sprecherin könnte sich vorstellen, mit dem Bus zur Arbeit zu fahren.\n42. Die Sprecherin findet es gut, dass sie zur Arbeit ein Stück zu Fuß gehen kann.\n43. Der Sprecher fährt nie mit dem Auto zur Arbeit.\n44. Der Sprecher benutzt für den Weg zur Arbeit zurzeit verschiedene Verkehrsmittel.\n45. Für die Sprecherin ist der Firmenbus die einzige Möglichkeit zur Arbeit zu kommen.",
+   "arabic_labels_excluded": [
+    "الذهاب إلى العمل بالحافلة)اساسي("
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 4,
+    "sample_missing": [
+     "combul",
+     "lajl",
+     "lall",
+     "schull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P07 (p87: Arabic explanation + model answer for the letter task); contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 84,
+   "paper": "P07",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 2\nLANGUAGE Tests\nSie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.\n……………………………………………………………………………………………………………………………………..\n46. Frau Reiter ist die einzige Lokführerin in Deutschland.\n47. Sie wollte schon mit 10 Jahren Lokführerin werden.\n48. Frau Reiter hat nach der Schule eine Lehrstell als Elektronikerin gefunden.\n49. Nach der Lehre hat Frau Reiter als Automechanikerin gearbeitet.\n50. Frau Reiters Eltern waren mit der Berufswahl ihre Tochter einverstanden.\n51. Frau Reiter muss manchmal Reparaturen machen.\n52. Frau Reiter macht gerne Nachtdienst.\n53. Von der Arbeit ist Frau Reiter oft müde.\n54. Der Mann von Frau Reiter hat regelmäßige Arbeitszeiten.\n55. Frau Reiter möchte später Lokführer und Lokführerinnen ausbilden.",
+   "arabic_labels_excluded": [
+    "السيدة غايتا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P07 (p87: Arabic explanation + model answer for the letter task); contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 85,
+   "paper": "P07",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. Der Fahrer des Wagens mit dem Kennzeichen HB-D 256 soll ins Erdgeschoss kommen.\n57. Die Firma liefert das bestellte Sofa am Dienstag ab drei Uhr nachmittags.\n58. Der Gasthof Lindner ist neben einer Tankstelle.\n59. Der Film Komiker läuft täglich um 20 Uhr.\n60. Das Wetter ist am Abend noch gut.",
+   "arabic_labels_excluded": [
+    "السائق"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "ochschull",
+     "öilull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P07 (p87: Arabic explanation + model answer for the letter task); contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 86,
+   "paper": "P07",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nSie haben im Urlaub Andreas kennengelernt. Er hat Ihnen folgende E-Mail geschrieben:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\nHeute habe ich Zeit, dir ein paar Zeilen zu schreiben. Der Urlaub war so schön, aber seit ich zurück\nbin, habe ich im Büro sehr viel Arbeit. Bestimmt brauche ich schon bald wieder Urlaub!\nWährend ich weg war, hat sich hier übrigens einiges geändert: Es gibt einen neuen Kollegen, er heißt\nRoberto. Was aber die größte Veränderung ist:\nEr arbeitet mit mir in meinem Büro, das heißt, ich habe endlich jemanden, mit dem ich mich\nZwischendurch auch ein bisschen unterhalten kann! Roberto ist aus Spanien hierher gezogen. Er\nkennt noch niemanden hier, außer mir natürlich, und ist meistens allein. Denkst du, dass ich ihn und\nein paar andere Arbeitskollegen einmal einladen sollte? Was würdest du tun? Na gut, für heute muss\nich Schluss machen. Melde dich doch bald einmal bei mir!\nViele Grüße\nAndreas\nAntworten Sie Andreas. Schreiben Sie etwas zu allen vier Punkten:\nVorschlag wie Andreas seinem Arbeitskollegen helfen kann.\n. Wie Sie am liebsten arbeiten (alleine oder mit Kollegen).\n. Was Sie nach dem Urlaub gemacht haben.\n. Was es bei Ihnen Neues gibt.\nÜberlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine\npassende Anrede, Einleitung und einen passenden Schluss.",
+   "arabic_labels_excluded": [
+    "ي(",
+    "اندرياس)اساس"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.943,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "bassch",
+     "schy"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P07 (p87: Arabic explanation + model answer for the letter task); contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 87,
+   "paper": "P07",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "2-\nVielen Dank für deine nette E-Mail. Ich habe mich sehr darüber gefreut.\nSehr schön,dass Du in einen neuen Arbeitskollegen in Deinen Büro hast .\nIch schlage dir vor, dass Du Deinem neuen Arbeitskollegen hilfst, er hat ja wenig Erfahrung .\nKannst Du ihn am PC einarbeiten,damit er schnell arbeiten kann.\nAm liebsten ich arbeite gerne in einem Team, weil ich es sehr interessant finde.\nNach ich aus meinem Urlaub zurück gekommen bin, hatte ich viel zu tun besonders in der Arbeit.\nBei mir gibt's Neuigkeiten, ich habe ein neues Auto gekauft und es  wird bestimmt Dir gefallen.\nBis bald und Liebe Grüße",
+   "arabic_labels_excluded": [
+    "موضوع اندرياس األساسي شرح",
+    "صديقك اندرياس بعتلك ايميل وعم يقلك انو خلص عطلة ورجع للعمل ولقى كتير شغل  ولكن لقى شي متغير بعملو  حاطين معو",
+    "واحد جديد بالمكتب اسمو روبرتو من اسبانيا  وربورتو  ومابيعرف حدا  ماحدا والزم يساعدو وعم يستشيرك كيف يقدر بساعدو",
+    "النقاط المطلوبة منك:",
+    "1- تقترح على اندرياس كيف يحسن يساعد زميلو الجديد بالعمل .",
+    "كيف) انت تحب تستغل بالعمل  ( لوحدك وال مع فريق.",
+    "3- شو عملت انت بعد عطلتك .",
+    "4- شو عندك مستجدات جديدة بحياتك .",
+    "اول شي نبلش بالمقدمة هون عنا ايميل",
+    "نكتب",
+    "بعدها نجي ع النقطة األولى.",
+    "خلصنا من النقطة األولى",
+    "ة التانية",
+    "نجي للنقط",
+    "نجي للنقطة الثالثة",
+    "نجي للنقطة الرابعة المستجدات",
+    "اخيرا تختم"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.982,
+    "ocr_words_missing_from_textlayer": 4,
+    "sample_missing": [
+     "cilas",
+     "gruße",
+     "lüki",
+     "tilbe"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P07 (p87: Arabic explanation + model answer for the letter task); contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 88,
+   "paper": "P07",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\nMärchenfestspiele\nJelena\nBus zur Arbeit\n21 b\nden\n1 J\n41 -\n22 b\nzum\n2 E\n42 +\nim\n3 F\n23 b\n43 +\nkonnte\n4 D\n24 c\n44 -\njunge\n5 G\n25 a\n45 -\nwelche\n26 a\n27 c\nsich\n28 b\nfinden\n29 c\ndie\n30 a\nSchreibe\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nLinkshänder\nGauberger\nFrau Reiter\n6\nC\n46 -\n31 J\nSCHON\n7\nC\n47 -\n32 C\nHÄTTE\n8\nA\n48 +\n33 O\nZWAR\n9\nC\n49 -\n34 I\nOHNE\n10 B\n50 +\n35 E\nJEDEN\n51 +\n36 H\nNICHTS\n52 -\n37 L\nTÄGLICH\n53 +\n38 N\nWIE VIEL\n54 -\n39 D\nIHNEN\n55 +\n40 B\nGEEIGNET\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\nEisenbahn\nDer Fahrer\n11 K\n56 +\n12 X\n57 -\n13 F\n58 +\n14 E\n59 +\n15 D\n60 -\n16 G\n17 L\n18 X\n19 H\n20 A",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.833,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "ebla",
+     "hello",
+     "hicbia",
+     "prachbausteine",
+     "telcor"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P07 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 89,
+   "paper": "P08",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\na) Arbeitsplatz: Bezahlung wichtiger als Zufriedenheit\nb) Ausstellungseröffnung an bayerischem Gymnasium\nc) Frauen: mehr Spaß am Beruf als Männer\nd) Gründe für Zufriedenheit am Arbeitsplatz\ne) Immer mehr Teilzeitarbeitsplätze für Männer\nf) Karriere ist Männern weniger wichtig als Frauen\n  g) Technik für Kleinkinder\n  h) Technisches Museum vergibt Umwelt-und Technikpreis\ni) Umwelt- und Technikpreis\n  J) Wünsche von berufstätigen Eltern",
+   "arabic_labels_excluded": [
+    "مكان العمل"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "daell"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P08 L1 compared on legible contact sheet; matches",
+   "uncertain": []
+  },
+  {
+   "page": 90,
+   "paper": "P08",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. Eine aktuelle Umfrage der Arbeiterkammer unter berufstätigen Eltern zeigt den dringenden\nWunsch nach flexiblen Arbeitszeiten (60% der Eltern) und nach Kindergärten im oder in der\nNähe des Betriebes (58%). Frauen verlangen aber deutlich mehr Teilzeitarbeitsplätze (50%) als\nMänner (36%). 52% aller Eltern wünschen eine Ersatzperson, die den Vater oder die Mutter bei\nKrankheit des Kindes im Betrieb vertritt. Die Arbeiterkammer fordert, dass sich Bedarf der\nEltern orientieren.\n2. MÜNCHEN: Schüler an bayerischen Gymnasien, die sich für Umwelt oder Technik\ninteressieren, können sich auch dieses Jahr wieder um den Carl Friedrich von Martius Umwelt\nund Technikpreis bewerben. Bei diesem Wettbewerb werden Facharbeiten aus dem letzten\nSchuljahr bewertet.\nNähere Informationen erhältlich beim\nGSF- Forschungszentrum unter der\nTelefonnummer 089/311 87 27 12.\n3. WIEN. Eine einmalige Abteilung für drei- bis sechsjährige Kinder wurde im Technischen\nMuseum (15, Mariahitferstraße 112 ) eröffnet. In einem speziell für Kinder eingerichteten\nBereich können die jüngsten Besucher Technik angreifen. Dort gibt es unter anderem\nPlasmascheiben, die Blitze erzeugen, ein Laufrad und ein Hüpfklavier, mit dem die Kinder Töne\nerspringen können. Viel Spaß macht den Kleinen auch, in einem Elektroauto herumzukurven\nund sich in verschiedenen Zerrspiegeln zu betrachten.\n4. HAMBURG. Männer haben mehr Karrierechancen, Frauen dafür mehr Freude am Beruf: Das\nergab eine große Umfrage in Hamburg. Obwohl nur 8% der weiblichen Arbeitnehmer an ihre\nAufstiegschancen glauben, geben 61% an, dass ihre Arbeit ihnen Spaß mache. Bei den Männer\nist dieses Verhältnis 23 zu 57 Prozent.\n5. Für Zufriedenheit am Arbeitsplatz kann Geld allein nicht entscheidend sein. Dies gilt in\nbesonderen Maß für hochqualifizierte europäische Arbeitskräfte, wie eine vergleichende\ninternationale Management-Studie zeigt. Sowohl in Europa wie auch unter japanischen und\namerikanischen Managern wird der Möglichkeit, neben der Arbeit auch Zeit für das\nPrivatleben zu haben, ein zentraler Stellenwert beigemessen. Viel stärker als in Japan spielt es\nunter europäischen Angestellten eine Rolle, dass die Arbeit Spaß macht. Die Analysen zeigen\nauch, dass neben dem Gehalt der Ruf des Unternehmens für die Arbeitsplatzwahl von\neuropäischen Arbeitnehmern besonders wichtig ist.",
+   "arabic_labels_excluded": [
+    "مكان العمل"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.989,
+    "ocr_words_missing_from_textlayer": 3,
+    "sample_missing": [
+     "dsell",
+     "erhaltlich",
+     "nahere"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P08 L1 compared on legible contact sheet; matches",
+   "uncertain": []
+  }
+ ]
+}

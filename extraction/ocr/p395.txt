@@ -1,0 +1,20 @@
+0.087 0.318 1.00	*Kindergarten verscönern*
+0.126 0.098 1.00	Teilnehmer/in A/B
+0.161 0.091 1.00	Teil 3 Gemeinsam etwas planen (ca. 6 Minuten)
+0.212 0.083 1.00	Sie und Ihre Gesprächspartnerin/Ihr Gesprächsparther haben Kinder, die denselben Kinder
+0.228 0.081 1.00	Dieser Kindergarten soll verschönert werden und alle Eitern sollen mithelfen. Machen Sie
+0.265 0.186 1.00	Sie sich zusammen mit Ihrer Gesprächspartnerin/Ihrem Gesprachspartner, wa
+0.279 0.155 0.30	Telc
+0.284 0.233 1.00	schon einen Zettel mit Notizen gemacht:
+0.404 0.186 1.00	• Gebäude/Räume
+0.436 0.395 1.00	hochsch
+0.459 0.181 1.00	• Spielplatz
+0.503 0.171 1.00	• Werkzeug
+0.556 0.165 1.00	- Materialien
+0.606 0.155 0.50	• Wer kann was machen?
+0.711 0.012 1.00	• Also *Mahmoud* du weißt ja , wir bei der Verscönerung des
+0.749 0.045 1.00	Kindergartens helfen sollen ,was hältst du davon?
+0.786 0.012 1.00	• Ja,da gehe ich ganz d'accord ,aber welche Räume sollen wir verschönern?
+0.824 0.012 1.00	• 3 Räume ,das Musikzimmer ,das Theaterzimmer ,und das Esszimmer.
+0.863 0.010 1.00	• Das klingt gut ,aber sollten wir auch den Spielplatz renovieren?
+0.930 0.010 1.00	www.instagram.com/mahmoudemad007

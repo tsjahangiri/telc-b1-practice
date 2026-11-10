@@ -1,0 +1,5 @@
+# P01-SB1 pages [7] ratio 0.799
+## website words not in OCR:
+antworten
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests antworten.Mit

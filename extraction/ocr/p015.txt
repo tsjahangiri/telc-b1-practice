@@ -1,0 +1,33 @@
+0.074 0.084 1.00	Leseverstehen, Teil 1
+0.092 0.074 1.00	LANGUAGE Tests
+0.193 0.088 1.00	1. Die Kunst - und Medienschule F+ F Zürich bietet bereits zum dritten Mal den Computerkurs
+0.215 0.119 1.00	Digitale Bildbearbeitung an im neuen Semester steht für zehn Samstage Fotografie nach der
+0.233 0.117 1.00	Fotografie also die digitale Bearbeitung von Bildern im Mittelpunkt Dabei kommen
+0.250 0.119 1.00	verschiedene Softwareprodukte zum Einsatz Der Kurs befasst sich aber nicht nur mit dem
+0.267 0.119 1.00	Vermitteln auch Themen - und Problembereiche rund um die digitale Foto - und
+0.283 0.119 1.00	Bildbearbeitung kurskosten 800Franken Nähere Informationen und Anmeldung zu diesem Kurs
+0.301 0.115 1.00	www.f-f.ch.
+0.353 0.088 1.00	2. Neuperlach-Süd - Nach dem Einkaufen eine Kaffee genießen, mit anderen ins Gespräch
+0.375 0.117 1.00	Immen, sich mit Bekannten treffen oder einfach spannen - all das geht ab 11 Juli immer
+0.392 0.119 1.00	dienstags zwischen 14 und 18 Uhr im neuen Eiscafé der Dietrich - Bonhoeffer - Kirche Wir
+0.408 0.119 1.00	hotten damit einen Ort der Begegnung für Jung und Alt anbieten und zur Belebung des
+0.426 0.119 1.00	Stadtteils beitragen erklärt Pfarrer Sebastian Kühnen. Neben kalten und heißen Getränken
+0.442 0.119 1.00	sowie Kuchen steht während der Öffnungszeiten auch eine Mitarbeiten für Gespräch zur
+0.461 0.117 1.00	Verfügung.
+0.509 0.088 1.00	3. Geheimnisse der modernen Konditorkunst der Meister des Süßen, Herwig Gasser, in Jahre
+0.529 0.119 1.00	hinweg sammelte der Bäcker des berühmten Wiener Café Landmann Mehlspeisenrezepte.
+0.546 0.117 1.00	Von der Birnentorte über den Apfelstrudel bis hin zum Heidelbeerstolle Verlag Kettel, 110
+0.564 0.119 1.00	Fotos, 300 Seiten.
+0.581 0.117 1.00	ISBAN 3 - 85134 - 014 -0
+0.629 0.088 1.00	4. Am Montag wird in Stuttgart die BildungsDidacta eröffnet. Dort werden vor allem
+0.650 0.117 1.00	Lehrmaterialien vorgestellt. Bei vielen sich um Bildungssoftware. Für ein gelungenes
+0.668 0.115 1.00	Softwareprojekt wird am der Bildungssoftwarepreis digital vergeben Dabei handelt es sich um
+0.686 0.119 1.00	die wichtige Auszeichnung für Lehr - und Lernprogramm deutschsprachigen Raum Die
+0.702 0.119 1.00	verzeichnen mit dem digital multimediale Gebote aus, die inhaltlich und formal als ragend und
+0.719 0.119 1.00	beispielgebend gelten können.
+0.776 0.086 1.00	5. Des Gallup - Instituts hat sich mit Kaffeehausverhaltens der Wiener Ein Vorurteil hat sich
+0.796 0.117 1.00	dabei bestätigt Kaffeehaus und der Wiener Seine Melange Ergebnisse der Studie 27 der an,
+0.814 0.117 1.00	zumindest einmal im Monat der Nähe ihrer Wohnung zu gehen. Durchschnittlich 54 Minuten
+0.831 0.117 1.00	Befragten in ihrem Stamm Café Kundschaft umso länger wird gegessen. Der Grund ein
+0.847 0.117 1.00	Kaffeehaus wichtiger ist das Plaudern und Freunden. 77 der Befragten Grund für den Besuch
+0.865 0.115 1.00	im Kaffeehaus.

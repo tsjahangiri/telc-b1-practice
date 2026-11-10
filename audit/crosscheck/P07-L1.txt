@@ -1,0 +1,5 @@
+# P07-L1 pages [75, 76] ratio 0.958
+## website words not in OCR:
+Lebensqualität
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests F5.3 zhicbla Frola Guten Crao Hello Universitastade Universitatsstadt Lebensqualitat Leseverstehen Teil Hello LANGUAGE Tests

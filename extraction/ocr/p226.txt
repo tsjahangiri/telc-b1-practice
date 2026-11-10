@@ -1,0 +1,28 @@
+0.074 0.057 1.00	Leseverstehen, Teil 2
+0.092 0.041 0.50	LANGUAGE Tests
+0.158 0.047 1.00	6. Das Schulamt hat ein Projekt gestartet, bei dem
+0.198 0.127 1.00	Computer in Kindergärten aufgestellt werden.
+0.233 0.127 1.00	Computerspiele für Vierjährige entwickelt werden sollen.
+0.266 0.127 1.00	Kinder neue Farbdrucker ausprobieren sollen.
+0.305 0.045 1.00	7. Die Kinder
+0.321 0.131 0.30	hatten groen spaß tei dem Projekt
+0.349 0.101 1.00	A
+0.381 0.127 1.00	wollten lieber draußen im Freien spielen.
+0.417 0.099 1.00	c wussten nicht, wann sie ins Studio im Netz gehen
+0.417 0.530 1.00	sollten.
+0.459 0.045 1.00	8. Eltern fürchten, dass
+0.474 0.451 0.50	lochschul
+0.500 0.127 1.00	der Computer ihren Kindern schadet.
+0.538 0.125 1.00	ihre Kinder nicht so früh aufstehen können.
+0.577 0.103 0.30	C
+0.573 0.127 1.00	ihre Kinder vor dem Computer Angst haben.
+0.610 0.045 1.00	9. Die Erzieherinnen
+0.651 0.101 1.00	A arbeiten jeden Tag 15 bis 20 Minuten am Computer.
+0.688 0.099 0.30	B
+0.688 0.123 1.00	spielen immer mit zwei oder drei Kindern am
+0.688 0.499 1.00	Computer.
+0.721 0.127 1.00	wählen für die Kinder die Software aus.
+0.763 0.045 1.00	10. Wenn die Kinder am Computer sitzen, dann
+0.805 0.131 1.00	gibt es häufig Streit.
+0.840 0.125 1.00	hilft ein Kind dem anderen.
+0.875 0.100 1.00	c können sich die meisten nicht lange konzentrieren.

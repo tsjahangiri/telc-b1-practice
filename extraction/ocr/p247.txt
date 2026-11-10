@@ -1,0 +1,17 @@
+0.103 0.090 1.00	Hörverstehen, Teil 2
+0.121 0.076 0.50	LANGUAGE Tests
+0.190 0.047 1.00	Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.
+0.211 0.047 1.00	Sie hören das Gespräch zweimal.
+0.230 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 46 - 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.250 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 46 - 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.272 0.047 1.00	falsch auf dem Antwortbogen.
+0.292 0.047 1.00	Lesen Sie jetzt die Aufgaben 46 - 55. Sie haben dazu 30 Sekunden Zeit.
+0.382 0.045 1.00	46. Herr Bachinger hat ein Buch über Väter geschrieben.
+0.423 0.045 1.00	47. Herr Bachinger hat vor zehn Monaten geheiratet.
+0.464 0.045 1.00	48. Herr Bachinger meint, dass die Zeitungen mehr über moderne Familien berichten sollen.
+0.504 0.045 1.00	49. Herr Bachinger konnte seinen Chef sofort überzeugen.
+0.545 0.047 1.00	50. Hausarbeit war für Herrn Bachinger nichts Neues.
+0.586 0.045 1.00	51. Seine Kollegen haben ihn anfangs sehr vermisst.
+0.667 0.047 1.00	53. Herr Bachinger hat das Buch für andere Väter geschrieben.
+0.718 0.789 0.30	4/
+0.749 0.045 1.00	55. Herr Bachinger meint, dass Teilzeitarbeit für ihn das Beste sei.

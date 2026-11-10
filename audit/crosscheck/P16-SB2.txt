@@ -1,0 +1,5 @@
+# P16-SB2 pages [230] ratio 0.887
+## website words not in OCR:
+Suhr Allee Grüße
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests Suhr-Allee Grülse

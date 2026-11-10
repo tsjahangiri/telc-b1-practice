@@ -1,0 +1,35 @@
+0.089 0.078 1.00	Leseverstehen, Teil 1
+0.106 0.064 1.00	LANGUAGE Tests
+0.121 0.893 1.00	GUTSCHEIN
+0.132 0.789 0.30	Esalg äüla
+0.166 0.082 1.00	1. Das fängt ja gut an: Schon im Kinderzimmer werden Jungs bevorzugt - sie bekommen mehr
+0.187 0.111 1.00	geschenkt als Mädchen. Das ist das Ergebnis einer Untersuchung vom Bundesverband des
+0.203 0.111 1.00	Spielwaren- Einzelhandels-Bundesweit wurden 6500 Familien nach ihren Schenkgewohnheiten
+0.221 0.113 1.00	befragt. Fast immer wurden für die Söhne - auch schon im Babyalter - mehr gekauft.
+0.238 0.111 1.00	Zuständig für die Geschenke sind ubrigens meist die Mütter.
+0.314 0.080 1.00	2. In diesem Sommer werden weitere 200 Großstadt-Jugendherbergen auf der ganzen Welt
+0.336 0.109 1.00	miteinander vernetzt ICYN heißt das Zauberwort - International Communication Youth
+0.353 0.111 1.00	Network. Das System wurde speziell für Jugendherbergen entwickelt. Für nur 15 Euro
+0.368 0.111 1.00	Jahresgebühr kann man mit der ICYN-Karte weltweit nicht nur Übernachtungen in anderen
+0.387 0.113 1.00	Herbergen reservieren, sondern auch unbegrenzt im Internet surfen, sogar gratis übers
+0.403 0.111 1.00	Internet telefonieren, Bahn- und Flugtickets bargeldlos buchen sowie günstige Konzerttickets
+0.422 0.113 1.00	bekommen.
+0.484 0.080 1.00	3. Ob zu Hause, irgendwo in der Schweiz oder im Ausland: Ferien mit Kindern wollen gut geplant
+0.504 0.111 1.00	sein. Wo gibt es denn Orte, wo Kinder noch Abenteuer erleben, Hotels oder Wohnungen, in
+0.522 0.113 1.00	denen sie sich wohl fühlen, wo aber gleichzeitig auch die Eltern auf ihre Rechnung kommen?
+0.539 0.111 1.00	Ruth Michaela Richter gibt Tipps, verrät Adressen und zeigt Beispiele. Damit werden sogar
+0.555 0.109 1.00	Städtereisen oder Schlossferien in England interessant.
+0.642 0.084 1.00	4. Die Sehnsucht nach dem Meer ist in der Schweiz groß, vor allem bei der jüngeren Generation.
+0.664 0.115 1.00	Ein Drittel der Schweizerinnen und Schweizer würde nach einer Umfrage im Tausch für eine
+0.682 0.119 1.00	Meeresküste die Hälfte der Berge hergeben. Die Zeitschrift mare ließ über 1000 Personen in
+0.698 0.117 1.00	der Schweiz nach ihrem Verhältnis zum Meer befragen. Rund 42 Prozent der 15-bis 34-Jährigen
+0.715 0.117 1.00	würden - treu dem Motto der Jugendbewegung der 80er Jahre: Nieder mit den Alpen, freie
+0.732 0.117 1.00	Sicht aufs Mittelmeer - den Tausch eingehen. In der Deutschschweiz könnten sich nur 29
+0.750 0.117 1.00	Prozent von den Bergen trennen, in der Roman die sind es 37 und im Tessin 43 Prozent.
+0.828 0.086 1.00	5. Ob für die traditionelle Familie oder für Alleinerziehende: Der Verein für Familienherbergen in
+0.849 0.117 1.00	Gelsenkirchen bietet schon seit Jahren preisgünstige Ferien. Über 1100 Zimmer und
+0.866 0.117 1.00	Wohnungen - auch für das kleine Portemonnaie - stehen zwischen Nordsee und Sizilien den
+0.884 0.117 1.00	Mitgliedern im neuen Katalog zur Auswahl. Nichtmitglieder erhalten diesen Katalog gegen eine
+0.901 0.117 1.00	Gebühr von 5 Euro.
+0.901 0.522 0.50	Infos: Telefon 061/981 25 25 oder
+0.917 0.117 1.00	www.ferienwohnung.ch

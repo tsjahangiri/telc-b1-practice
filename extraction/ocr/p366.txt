@@ -1,0 +1,14 @@
+0.154 0.084 1.00	Hörverstehen, Teil 3
+0.148 0.786 0.30	Lilall jlais
+0.172 0.068 1.00	LANGUAGE Tests
+0.238 0.045 1.00	Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.
+0.260 0.047 1.00	Sie hören jeden Text zweimal.
+0.279 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 56 - 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.298 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 56 - 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.320 0.045 1.00	falsch auf dem Antwortbogen.
+0.411 0.047 1.00	56. In Norddeutschland steigen die Temperaturen morgen auf 5 bis 7 Grad.
+0.462 0.047 1.00	57. Hamburg hat öfter gewonnen als Stuttgart.
+0.516 0.047 1.00	58. Nach zwei Monaten müssen Sie für die Zeitschrift bezahlen.
+0.548 0.559 0.30	Kischul
+0.568 0.047 1.00	59. Auf dem Mittleren Ring in München wird die Geschwindigkeit kontrolliert.
+0.619 0.045 1.00	60. Janas Geburtstagsfest findet nicht im LEO statt.

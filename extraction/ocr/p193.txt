@@ -1,0 +1,19 @@
+0.089 0.090 1.00	Hörverstehen, Teil 2
+0.106 0.076 1.00	LANGUAGE Tests
+0.190 0.047 1.00	Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.
+0.211 0.047 1.00	Sie hören das Gespräch zweimal.
+0.230 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 46 - 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.250 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 46 - 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.270 0.047 1.00	falsch auf dem Antwortbogen.
+0.291 0.047 1.00	Lesen Sie jetzt die Aufgaben 46 - 55. Sie haben dazu 30 Sekunden Zeit.
+0.381 0.045 1.00	46. Herr Thurnherr ist Chef in einem großen Reisebüro in Bern.
+0.422 0.045 1.00	47. Jährlich wollen über 100 Personen eine Ausbildung in einem Reisebüro machen.
+0.462 0.047 1.00	48. Während der Ausbildung kann man noch keine Studienreisen machen.
+0.503 0.045 1.00	49. Herr Thurnherr meint, die Arbeit in einem Reisebüro sei anstrengend.
+0.542 0.045 1.00	50. In einem Reisebüro muss man oft Überstunden machen.
+0.586 0.045 1.00	51. In einem Reisebüro verdient man gut.
+0.625 0.045 1.00	52. Auf Studienreisen besichtigt man viele Hotels.
+0.666 0.047 1.00	53. Im schriftlichen Teil des Tests wird vor allem politisches Wissen geprüft.
+0.706 0.047 1.00	54. Jährlich können 50 Jugendliche an einem Eignungstest teilnehmen.
+0.712 0.782 0.30	41
+0.747 0.045 1.00	55. Das Reisebüro muss für die Fehler der Mitarbeitenden bezahlen.

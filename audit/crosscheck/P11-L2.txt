@@ -1,0 +1,5 @@
+# P11-L2 pages [132, 133] ratio 0.969
+## website words not in OCR:
+Gruppen schwächeren Schülern helfen
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests Leseverstehen Teil LANGUAGE Tests rireo crpo ceteishrn sreiren totien chul chul

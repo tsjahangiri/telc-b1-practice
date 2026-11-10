@@ -1,0 +1,113 @@
+##### P16 pages [223, 235] key p235 sections {'L1': [223, 224], 'L2': [225, 226], 'L3': [227], '?': [228, 234], 'SB1': [229], 'SB2': [230], 'H': [231, 232, 233], 'LOES': [235]}
+
+=== P16-L1 [Frankfurter Flughafen] pages [223, 224] verified=True
+INSTR: Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+  a) Familienbildung Schwerpunkt Beruf und Familie
+  b) Demonstration gegen Fluglärm
+  c) Flughafen Frankfurt wird 10 Jahre
+  d) Flughafen Frankfurt beliebter Veranstaltungsort
+  e) Experten gegen Vergrößerung des Flughafens
+  f) Diskussion über Flughafen und Arbeitsplätze
+  g) Neue Kurse: Spiele für Mütter und Kinder
+  h) Umwelt und Flughafen: Ein Informationsabend der Bürger
+  i) Neue Kurse für Kinder
+  j) Neue Kurse: Museumsführung für junge Väter
+  1. Der Frankfurter Flughafen wird weiter ausgebaut. Eine Gruppe von Frankfurter Bürgern aus den östlichen Stadtteilen, die sich seit Jahren aktiv für den Naturschutz und die Umwelt einsetzt, lädt für Donnerstag dieser Woche um 19.30 Uhr zu einem Informationsabend über den Ausbau des Frankfurter Flughafens ein. Im Bürgerhaus Ostend, Parkstraße 24, Clubraurn 12, werden verschiedene Sprecher zu hören sein. Die Gruppe möchte Antworten auf folgende Fragen suchen: Wie viel Lärm durch Flugzeuge verträgt die Stadt? Oder Welche Auswirkungen hat der Flugverkehr auf Umwelt und Natur?
+  2. Der Frankfurter Flughafen erfreut sich bei vielen Firmen als beliebter Ort für Veranstaltungen und Tagungen. Dies zeigt ein Bericht des Frankfurter Flughafens, der beim zehnjährigen Jubiläum des Kongresszentruns vorgelegt wurde. Im Jubiläumsjahr haben am Frankfurter Flughafen 6800 Veranstaltungen mit insgesamt 72000 Teilnehmern stattgefunden. Im Jahr davor waren es nur 6300 Veranstaltungen mit 70000 Gästen. Im Kongresszentrum, das direkt gegenüber dem Hauptgebäude des Flughafens liegt, gibt es 28 Konferenzräume für bis zu 200 Teilnehmer. Modernste Technik wie Laptop-Anschlüsse und Internetzugänge in allen Konferenzräumen sind ebenso vorhanden, wie ein Dolmetscherdienst und verschiedene Speisemöglichkeiten. Eine transportable Videokonferenz-Anlage ermöglicht Verbindungen in die ganze Welt.
+  3. Eine Bürgergruppe mit dem Namen Südliches Frankfurt lädt für Montag kommender Woche, um 19.30 Uhr ins Pfarrhaus St. Mauritius, Mauritiusstraße 14, zu einer öffentlichen Expertenbefragung zum Thema Arbeitsplätze am Frankfurter Flughafen ein. Der Gruppe liegen Berichte und Daten vor, die nach den Worten der Sprecher der Gruppe sehr fantastisch und zweifelhaft sind. Deshalb hat die Bürgergruppe Südliches Frankfurt den Personalleiter des Frankfurter Flughafens, einen Experten aus dem Wirtschaftsministerium, einen bekannten Stadtentwicklungsplaner und einen Soziologen, der sich mit der Arbeitsplatzentwicklung in der Frankfurter Region beschäftigt, eingeladen. Im Anschluss an die Vorträge der Experten haben die Gäste Zeit, Fragen zu stellen.
+  4. Das neue Halbjahresprogramm der Evangelischen Familienbildungsstätte bringt eine Übersicht über viele Veranstaltungen. Neben Kursen wie Geburtsvorbereitung und Babypflege steht diesmal das Thema Berufstätige Eltern im Mittelpunkt. In Gruppen und Kursen vor allem für Frauen geht es darum, wie sich nach der Geburt eines Kindes Beruf und Familie miteinander vereinbaren lassen. Das Verhältnis zwischen Mann und Frau spielt eine große Rolle im Angebot der Familienbildung; hierzu gibt es wieder spezielle Programme nur für Frauen oder nur für Männer. Auch zum Verhältnis der Generationen (Großeltern und Enkelkinder) gibt es wieder Angebote. Darüber hinaus wartet das Programm mit Kursen für Entspannung und Zeitmanagement auf, die bei Fragen des Alltags helfen wollen.
+  5. Die Volkshochschule Dornbirn bietet in den kommenden Wochen neue Kurse an. Am Mittwoch nächster Woche beginnen zwei Malkurse für Kinder. Zweieinhalb- bis vierjährige Kinder treffen sich um 15.30 Uhr, Kinder im Alter von fünf und sechs Jahren um 17.00 Uhr. Für Kinder im Alter zwischen eineinhalb und sechs Jahren und ihre Väter beginnt am Samstag um 10.00 Uhr eine feste Vater-Kind-Gruppe. Am darauf-folgenden Samstag gibt es dann auch ein Treffen für Väter und Kinder bis dreieinhalb Jahren. Etwas anderes ist die Kultur- und Kreativwerkstatt am Montag nächster Woche. Aus Ton und Erde sollen Figuren nach afrikanischen Beispielen gebastelt werden. Zur Vorbereitung treffen sich die Teilnehmer am kommenden Montag zuerst im Museum. Anmeldung spätestens morgen bis 15.00 Uhr.
+  SOLUTION(complete): 1h 2d 3f 4a 5i
+
+=== P16-L2 [Computerprobleme] pages [225, 226] verified=True
+INSTR: Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+  TITLE: Computerprobleme – ein Kinderspiel / Anne und Melanie (beide 6) stehen Erzieherinnen mit Vorschlägen hilfreich zur Seite
+  Von Christiane Altenberger
+  Sie sind die Problemlöser im Kindergarten an der Munckerstraße. Wenn das Malprogram spinnt, plötzlich ein Spiel auftaucht, das keiner kennt, dann rufen die Erzieherinnen nach Anne und Melanie. Die sind zwar erst sechs Jahre alt, aber mit den Computerspielen kennen sie sich aus. Die Kinder wissen manchmal mehr als wir sagt Eva Schilling. Leiterin des Kindergartens. Gelernt haben die beiden ihr Know-how bei Multimedia-Landschaften für Kinder, einem Projekt, das das Schulamt zusammen mit dem Studio im Netz gestartet hat.
+  Im Rahmen dieses Projekts werden in städtischen Kindergärten zwei Wanderstationen mit je drei Multimedia-Computern und einem Farbdrucker installiert. Die Stationen wandern durch 14 Kindergärten, wo sie jeweils für vier Wochen installiert werden. Mit dabei in den Kindergärten: ein ganzer Satz von Spiel – Software. Vierjährige am Computer? In Pädagogen kreisen sind viele Berührungsängste da, weiß Edith llg, Fachberaterin für Kindergärten beim Schulamt, aber wir können uns aus dieser Entwicklung nicht ausklinken. Die Kinder wollen sich mit ihrer Umwelt auseinandersetzen. Angefangen hat diese Auseinandersetzung im Studio im Netz – 193 Kinder waren eingeladen, um erste Erfahrungen am Computer zu sammeln. Die Kinder waren absolut begeistert, haben immer wieder gefragt, wann gehen wir da wieder hin, so Frau llg.
+  Bevor jedoch die Computer in die Kindergärten kamen, waren die Eltern aufzuklären. Bei manchen Eltern löste das Stichwort Computer akute Ängste aus nach dem Motto: Mein fröhliches, gesundes Kind setzt sich vor den Computer und steht sechs Stunden später krank, sprachlos und einsam wieder auf.
+  Diese Ängste haben sich inzwischen gelegt und die Erfahrung vor Ort zeigt, dass sie weitgehend über flüssig sind. Die Erzieherinnen achten auch darauf, dass die Kinder nie länger als 15 bis 20 Minuten vor den Computern sitzen, und holen vor allem kreative Software auf den Bildschirm.
+  Das einsame Dämmern vor dem Computer ist wohl ohnehin eher Sache der Erwachsenen – die Kinder spielen immer zu zweit oder zu dritt an der Maschine. Eva Schilling hat beobachtet, dass die Kinder am Computer sehr friedlich miteinander umgehen, sie helfen sich gegenseitig, es gibt wenig Konflikte. Dabei entwickeln gerade Kinder, die sich sonst nur schwer auf etwas konzentrieren können, plötzlich ungeahnte Konzentrationszeiten. Eva Schilling kann sich deshalb die Computer als Dauereinrichtung im Kindergarten vorstellen.
+  Q6. Das Schulamt hat ein Projekt gestartet, bei dem
+     a) Computer in Kindergärten aufgestellt werden.
+     b) Computerspiele für Vierjährige entwickelt werden sollen.
+     c) Kinder neue Farbdrucker ausprobieren sollen.
+  Q7. Die Kinder
+     a) hatten großen Spaß bei dem Projekt.
+     b) wollten lieber draußen im Freien spielen.
+     c) wussten nicht, wann sie ins Studio im Netz gehen sollten.
+  Q8. Eltern fürchten, dass
+     a) der Computer ihren Kindern schadet.
+     b) ihre Kinder nicht so früh aufstehen können.
+     c) ihre Kinder vor dem Computer Angst haben.
+  Q9. Die Erzieherinnen
+     a) arbeiten jeden Tag 15 bis 20 Minuten am Computer.
+     b) spielen immer mit zwei oder drei Kindern am Computer.
+     c) wählen für die Kinder die Software aus.
+  Q10. Wenn die Kinder am Computer sitzen, dann
+     a) gibt es häufig Streit.
+     b) hilft ein Kind dem anderen.
+     c) können sich die meisten nicht lange konzentrieren.
+  SOLUTION(complete): 6a 7a 8a 9c 10b
+
+=== P16-L3 [Spezialität] pages [227] verified=True
+INSTR: Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+  11. Sie wollen am Wochenende gerne in ein Klavierkonzert gehen.
+  12. Sie sind in Füssen und wollen am Montag ins Museum gehen.
+  13. Sie sind in Süddeutschland im Urlaub und möchten gerne eine bayerische Spezialität essen.
+  14. Sie haben sich mit Bekannten zu einem Fischessen verabredet.
+  15. Sie sind in Bayern und wollen Käsespezialitäten einkaufen.
+  16. Sie möchten einen Deutschkurs in Wien besuchen.
+  17. Ihr 16 jähriger Sohn soll in den Ferien im Ausland Englisch lernen.
+  18. Sie interessieren sich für einen Sprachkurs auf CD.
+  19. Sie wollen, dass Ihre 10- jährige Tochter in den Ferien eine Fremdsprache lernt.
+  20. Eine Bekannte will ihren Geburtstag in einem Restaurant feiern und dort auch übernachten.
+  [a] MUSEUM / DER STADT / FÜSSEN / Lechhalde 3 · 87629 Füssen / Tel. (08362) 50 53 - 45 u. 43 / STAATSGALERIE IM HOHEN / SCHLOSS FÜSSEN / Magnusplatz 10 · 87629 Füssen / Tel. (08362) 50 53 - 64 / Öffnungszeiten: / April bis Oktober: / Di.–So. 11.00–16.00 Uhr / Mo. geschlossen / November bis März: / Di.–So. 14.00–16.00 Uhr / Mo. geschlossen
+  [b] Franziskaner Stüberl / 87629 Füssen – Eingang Fußgängerzone / Kemptener Straße 1 – / Telefon (08362) 37124 / Im Herzen der Stadt / Inh. Bernd Zienteck / Gutbürgerliche Allgäuer und / Bayerische Küche / Der beliebte Treffpunkt in / gemütlicher Atmosphäre / Sonntag Ruhetag / Auf Ihren Besuch freut sich / Bernd Zienteck mit Team
+  [c] SENNEREI-GENOSSENSCHAFT / BAYERN / Hopferau – Lehern 15 – Telefon (08363) 37124 / Frisch vom Erzeuger: / • Allgäuer Emmentaler / • Allgäuer Bergkäse / • Tilsiter / • Frisch-Milch / • eigene Butter- / herstellung / ÖFFNUNGSZEITEN: / Wochentags 7.30–12.00 u. 16.30–18.30 Uhr / Sa. u. Feiertag 7.30–10.30 u. 17.00–18.30 Uhr
+  [d] Sprachen lernen & / Leute treffen / Bildungsurlaub für Erwachsene in / England, Malta, Frankreich, Spanien, / Italien und Kalifornien / Fordern Sie heute unseren 56-seitigen / Katalog an; ein Exemplar des Sprachtests / schicken wir Ihnen gleich mit, / selbstverständlich kostenlos. / Tel: 069-61 09 120 | Fax: 069-6 03 13 95 / Morgensternstr. 180 / 60596 Frankfurt / SPRACHCAFFE
+  [e] Jahreskonzert Füssen / Wolfgang Amadeus Mozart / Klavierkonzert Nr. 21 in C-Dur / Pianist: Hanno Porter / Leitung: / Stadtmusikdirektor Robert Maul / Karten bei der Kurverwaltung Füssen / und an der Abendkasse
+  [f] Das Heimatmuseum / Füssen lädt zum / Besuch ein / Öffnungszeiten: / Montag bis Freitag / 10.00–12.00 Uhr / und 14.00–16.45 Uhr / Samstag und Sonntag / 10.00–12.00 Uhr / In der Instrumentensammlung sind wertvolle / Geigen von Mittenwalder Meistern ausgestellt. / Außerdem kann man in einer besondere / eingerichteten Werkstatt dem Geigenbauer / bei der Arbeit zuschauen. / Außerhalb der Öffnungszeiten sind Gruppen ab / 20 Personen nach Voranmeldung willkommen. / Telefon (0 83 62) 25 11
+  [g] bonCas / Spezialitätenkäserei / P. und U. Moser-Kolb / Hessenbohlstraße 14 / CH – 8512 Lustdorf / Schweiz / E-Mail: bocheese@bluewin.ch
+  [h] Alfa Sprachreisen / Crash-Kurse für Manager. / Sprachkurse und High-School-Programme / für 12- bis 18-Jährige. / Englisch, Französisch, Spanisch, 17 Länder, / mehr als 60 Kursorte. / Fordern Sie unsere kostenl. Broschüre an! / Alfa-Sprachreisen GmbH / Rotebuhlplatz 15 • 70178 Stuttgart / Tel. 0711-61 55 300 • Fax 0711-61 55 3010 / http://www.alfa-sprachreisen.de
+  [i] 4. APRIL »Deutsche Schlagernacht« / 12. APRIL Ostersonntag: 70er/80er Jahre Party / NEU: / Schnitzel-Woche / Amadeus / Café · Bistro / Tiroler Straße 19 / 87459 PFRONTEN-DORF · Tel. [unleserlich]
+  [j] Free-System / Englisch, Französisch, Italienisch, / Spanisch, Deutsch für Ausländer / Maschinenschreiben/Steno / • Sie bestimmen die Unterrichtszeit / • Sie lernen, so rasch Sie wollen / • Intensivkurse, Einzel-/Privat- und / Kleingruppen (1–5 Teilnehmer) / • Intensive Crash Courses / • Brush up and Business / • Sprachkurse für Manager / • English for Secretaries / • Firmenkurse (intern/extern) / • First/Proficiency/TOEFL/GMAT Alliance Française / Kursbeginn jetzt! / Institut Grünberger / Rostock, direkt beim Hauptbahnhof
+  [k] Ritterstub'n / Fischspezialitäten / Das Restaurant mit gepflegter / Gastlichkeit im Herzen der Altstadt / geöffnet von 11⁰⁰–14⁰⁰ Uhr und 17⁰⁰–24⁰⁰ Uhr / Montag Ruhetag / Warme Küche bis 22⁰⁰ Uhr / Ritterstraße 4 · 87629 Füssen · / Tel. 08362/7759 / Fam. Roth-Winter freut sich auf Ihren Besuch
+  [l] Wollen Sie fein / essen gehen? / Alpenschlössle / Füssen-Bad Faulenbach / Tel. (08362) 4017 / Hotel-Restaurant / Alpenschlössle / Auf Ihren Besuch freut sich Familie Hummel / Hotel · Café · Pension
+  SOLUTION(complete): 11e 12f 13b 14k 15c 16j 17h 18x 19x 20l
+
+=== P16-SB1 [Catherine] pages [229] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen
+  Liebe Catherine,
+  seit ich dir letzte Mal von meinem Sprachhaufenhalt in der Schweiz [[21]] habe, ist viel passiert. Ich kenne [[22]] Land jetzt schon recht gut.
+  Die Schweiz ist ja wirklich nicht groß. [[23]] in jeder Gegend wird ein anderer Dialekt oder gar eine andere Sprache gesprochen. Das ist [[24]] mich fast unglaublich! Bei uns in Australien fährt man mit dem Auto 24 Stunden lang geradeaus, und [[25]]man ankommt, dann sprechen die Leute dort immer noch dieselbe Sprache.
+  Am Anfang hat mich das Sprachgemisch [[26]] sehr verwirrt , aber [[27]]verstehe ich fast alles, wenn jemand auf Schweizerdeutsch zu mir spricht. Ich kann aber nur auf Hochdeutsch antworten.
+  Zwischen der Schule hier und unserem Schulsystem in Australien gibt es einige [[28]] : In der Schweiz sprechen die Lehrer viel und die Schüler [[29]] Vieles im Kopf behalten oder aufschreiben. In Australien arbeiten wir meistens im Rahmen von Projekten und machen eigentlich alle Aufgaben auf [[30]] Computer.
+  Viele Grüße
+  Jack
+  21: a) erzähle | b) erzählen | c) erzählt
+  22: a) diese | b) diesen | c) dieses
+  23: a) aber | b) obwohl | c) sondern
+  24: a) an | b) für | c) vor
+  25: a) als | b) wann | c) wenn
+  26: a) denn | b) ganz | c) schon
+  27: a) früher | b) jetzt | c) seit
+  28: a) unterschied | b) unterschiede | c) unterschieden
+  29: a) brauchen | b) haben | c) müssen
+  30: a) dem | b) den | c) der
+  SOLUTION(complete): 21c 22c 23a 24b 25c 26c 27b 28b 29c 30a
+
+=== P16-SB2 [Lottospieler] pages [230] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.
+  QUANTUM-SYSTEM
+  ## Das Lotterie – Systemspiel
+  Otto – Suhr- Allee 100. D- 10120 Berlin
+  Sehr geehrte Lottospieler,
+  wer möchte nicht auch [[31]] bei sechs Richtigen im Lotto dabei sein? Vertrauen Sie beim Lottospiel nicht [[32]] auf das Glück, denn Sie [[33]] Ihre Chancen selbst strak verbessern, [[34]] Sie mit unserem Lotterie-System spielen – und das für nur 5 Euro in der Woche!
+  [[35]] allein zu spielen, spielen Sie mit uns in einer starken Spielergemeinschaft. Dadurch erhöhen sich [[36]] automatisch Ihre Chancen!
+  Und was Sie gewinnen können? [[37]]. unserem Quantum-System spielen Sie mit einer Chance auf einen Gewinn von 1 Million Euro! Alle Gewinne erhalten Sie umgehend und ungekürzt zu 100%- das [[38]] wir Ihnen! Davon habe ich mich selbst überzeugt! Spielen Sie mit uns das Quantum – System: [[39]] 700 Quantum – Systemspielgruppen haben zusammen schon über sieben Millionen Euro gewonnen.
+  Herzliche Grüße,
+  Ihre SABINE MEIER-PÜTZ
+  PS: Als besondere Gewinnchance erhalten Sie heute das. Vier-Richtige-Gratisspiel. [[40]] Sie hier unbedingt mit und gewinnen Sie! Ich drücke Ihnen die Daumen……
+  WORDS: a=BEI b=BEREITS c=EINMAL d=EURE e=GANZ f=GARANTIEREN g=GESTRN h=KÖNNEN i=MACHEN j=NUR k=STATT l=TECHNISCH m=ÜBER n=UNSER o=WENN
+  SOLUTION(complete): 31c 32j 33h 34o 35k 36e 37a 38f 39b 40i

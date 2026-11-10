@@ -1,0 +1,31 @@
+0.080 0.094 1.00	Leseverstehen, Teil 2
+0.097 0.076 0.50	LANGUAGE Tests
+0.179 0.047 1.00	Lesen Sie den Text und die Aufgaben 6 - 10. Welche Lösung (a, b oder c) ist jeweils richtig?
+0.198 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+0.273 0.049 1.00	Philipp Reis - der wahre Erfinder des Telefons?
+0.320 0.047 1.00	Erfinder, Lehrer, Familienvater - Auf den Spuren von Philipp Reis besuchte Susanne Müller
+0.344 0.045 1.00	seinen Geburtsort.
+0.378 0.049 1.00	Weil sein Vater nie aufgeschrieben habe, was er machte, ist mancher gute Gedanke verloren gegangen, klagt
+0.398 0.047 1.00	später einmal Karl Reis. Auch gibt es wenige offizielle Berichte und Dokumente über Philipp Reis in
+0.418 0.049 1.00	Friedrichsdorf und in seiner Geburtsstadt Gelnhausen. Das gilt besonders für das private Leben der Familie
+0.439 0.049 1.00	Reis, die ab 1852 in unmittelbarer Nähe des berühmten Garnier - Instituts in Friedrichsdorf ein Haus gefunden
+0.458 0.049 1.00	hatte. Berichte des Sohnes Karl Reis erzählen ein wenig mehr über das Leben des Erfinders. Karl Reis, der beim
+0.478 0.049 1.00	Tod des Vaters erst elf Jahre alt war, berichtet von einem lieben und gerechten Vater, der sich sehr um seine
+0.499 0.049 1.00	Frau und seine Kinder gesorgt hat. Wenn der Vater aber seine Experimente machte, vergaß er alles um sich
+0.518 0.049 1.00	herum.
+0.551 0.049 1.00	Philipp Reis lernte bereits als Junge viele technische Maschinen kennen und machte eine Reihe von
+0.569 0.049 1.00	Experimenten, die er als Lehrer am Garnier - Institut fortsetzte. Er entwickelte eine große Anzahl von
+0.590 0.047 1.00	technischen Geräten, die im Institut gut verwendet werden konnten. Auf die Schüler machte Philipp Reis
+0.610 0.049 1.00	einen oft sehr merkwürdigen Eindruck. Verunsichert waren die Schüler besonders dann, wenn Reis Aufsicht
+0.631 0.049 1.00	hatte, aber selbst im Klassenraum gar nicht anwesend war.
+0.663 0.045 1.00	Trotzdem konnte Reis alles hören und wusste, was passiert war. Philipp Reis hatte eine besondere Kamera
+0.682 0.047 1.00	gebaut, mit der er von seinem Arbeitszimmer aus, in dem er gleichzeitig Experimente durchführte, in die
+0.702 0.049 1.00	Klassenraume schauen konnte. Ein Draht, der über den Schulhof in sein Arbeitszimmer führte, diente als
+0.722 0.047 1.00	Vorläufer des späteren Telefons. Bei den Schülern und Lehrern entstand so der Ruf, dass der Reis auf
+0.743 0.047 1.00	geheimnisvolle. Weise alles sehen kann.
+0.775 0.049 1.00	1883 schrieb der englische Professor Silvanus Thompson einen Bericht über Reis und nannte ihn den wahren
+0.795 0.049 1.00	Erfinder des Telefons. Philipp Reis habe das Telefon entwickelt, und nicht Graham Bell oder Thomas Edison.
+0.814 0.049 1.00	Diese beiden amerikanischen Forscher hätten auch bei ihren Arbeite zur Entwicklung des Telefons auf Philipp
+0.834 0.049 1.00	Reis Experimente in Deutschland hingewiesen. Seine offizielle Anerkennung als Erfinder des Telefons hat
+0.855 0.049 1.00	Philipp Reis allerdings nicht mehr erlebt. Im Jahre 1874 ist er in Friedrichsdorf an einer Lungenkrankheit
+0.876 0.047 1.00	gestorben.

@@ -1,0 +1,49 @@
+0.074 0.072 1.00	Sprachausteine, Teil 2
+0.092 0.055 1.00	LANGUAGE Tests
+0.164 0.068 1.00	Lesen sie den Text und schließen Sie
+0.185 0.068 1.00	Lücken 31 - 40. Benutzen Sie die Wörter
+0.205 0.066 1.00	(a, o) Jedes Wort passt nur einmal.
+0.225 0.070 1.00	Markieren Sie Ihre Lösungen für die
+0.246 0.068 0.50	Aufgaben 31 - 40 auf dem
+0.265 0.066 1.00	Antwortbogen.
+0.357 0.045 1.00	Sehr geehrte Damen und Herren,
+0.392 0.047 1.00	unsere Organisation hat den (31) , eine deutsch-französische Konferenz zu europäischen
+0.416 0.047 1.00	Entwicklungsprogrammen vorzubereiten.
+0.439 0.051 1.00	Diese Veranstaltung könnte in Breisach (32) , und daher brauchen wir von Ihnen nähere(33).
+0.464 0.045 1.00	In Ihrer Anzeige (34) Sie die Sehenswürdigkeiten von Breisach und die verschiedenen
+0.485 0.045 1.00	touristischen Möglichkeiten. Deshalb erscheint uns Ihre Stadt als sehr (35), auch (36) sie als
+0.510 0.047 1.00	Brücke zu Europa gilt.
+0.532 0.051 1.00	Nun haben wir folgende Bitte: Für diese Veranstaltung (37) wir ein gutes Hotel, möglichst am
+0.557 0.047 1.00	Ufer des Rheins, mit Konferenz- und Arbeitsräumen, ausgestattet mit den notwendigen
+0.580 0.045 1.00	technischen Anlagen, Internetanschluss usw. Es sollte (38) ruhig gelegen sein. Können Sie uns
+0.603 0.047 1.00	dazu Vorschläge schicken? Der (39) wäre 15.-21. November.
+0.626 0.047 1.00	Bitte geben Sie uns möglichst bald Bescheid. Für Prospekte und Informationen zu Preisen und
+0.650 0.047 1.00	Buchungsbedingungen (40) wir Ihnen dankbar.
+0.673 0.047 1.00	Mit freundlichen Grüßen
+0.706 0.047 1.00	ADRIAN SCHÖLLER
+0.730 0.047 1.00	EVD Trans GmbH
+0.802 0.057 0.30	a
+0.799 0.123 1.00	AM
+0.798 0.216 1.00	d
+0.799 0.277 1.00	GEEIGENET
+0.801 0.437 1.00	g
+0.796 0.478 1.00	KÖNNTEN
+0.798 0.634 1.00	STATTFINDEN
+0.801 0.793 0.30	m
+0.799 0.875 1.00	VOR
+0.823 0.055 1.00	b
+0.822 0.094 1.00	AUFTRAG
+0.826 0.216 0.50	e
+0.820 0.279 1.00	GEGEÜBER
+0.823 0.485 1.00	NENNEN
+0.823 0.606 0.50	k
+0.822 0.663 1.00	TERMIN
+0.826 0.799 1.00	n
+0.820 0.858 1.00	WÄREN
+0.846 0.101 1.00	FRAGEN
+0.846 0.218 1.00	f
+0.846 0.244 1.00	INFORMATIONEN
+0.847 0.441 0.30	i
+0.847 0.505 0.30	NUN
+0.845 0.649 1.00	TROTZDEM
+0.847 0.858 1.00	WEGEN

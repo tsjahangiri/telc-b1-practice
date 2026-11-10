@@ -1,0 +1,321 @@
+{
+ "batch": 31,
+ "pages": [
+  301,
+  310
+ ],
+ "records": [
+  {
+   "page": 301,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Erfahrung*\n Ich habe die folgende Erfahrung , Ich habe einen Freun seit etwa 20\nJahren ,wir gingen sowohl af dieselbe Schule ,als auch auf dieselbe\nUniversität.\n Falls wir die Prüfung bestehen ,reisen wir auch zusammen nach\nDeutschland.\n Er hat mir viel geholfen ,damit ich viele Schwierigkeiten überwinden\nkann.\n***************************************************************\n Teilnehmer B\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.42
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.968,
+    "ocr_words_missing_from_textlayer": 60,
+    "sample_missing": [
+     "aber",
+     "andere",
+     "beispiel",
+     "bekannte",
+     "berichtet",
+     "beste",
+     "besten",
+     "betriebswirt",
+     "danach",
+     "dann",
+     "darüber",
+     "dazu",
+     "effahrungen",
+     "eigenen",
+     "einer",
+     "erhalten",
+     "erzählen",
+     "etwas",
+     "fiten",
+     "freund",
+     "freundin",
+     "gehen",
+     "gelesen",
+     "gentlich",
+     "gesgrächsparther"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 302,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Ich habe auch einen Beitrag von *Holger Münz* gelesen.\n- Er ist 25 Jahre Alt .und arbeitet als Betriebswirt.\n***************************************************************\n Herr *Münz* sagt ,dass er noch nie einen besten Freund hatte ,Trotzdem\nhat er viele Bekannte.\n Während er imSportverein ist ,treffen sie sich.\n Ab und zu geht er mit ihnnen in die Kneipe ,das macht ihm viel Spaß.\n***************************************************************\n*Meinung*\n* Da gehe ich nicht d´accord ,ich finde es wichtig ,wenn ich einen\nbesten Freund habe ,mit ihm ich immer über meine persönliche\nProbleme sprechen kann.\n* Falls ich entweder einen Notfall ,oder einen wichtigen Umstand\n    habe ,finde ich jemanden ,der bei mir ist.\n* Meiner Meinung nach soll man einen Freund haben, mit dem man\n      in schwierigen Zeiten zusammen sein kann.\n***************************************************************\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 303,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Erfahrung*\n- Damit habe ich auch gute Erfahrungen.\n- Ich mag nicht alleine bleiben ,deshalb habe ich einen besten Freund\n,mit ihm ich immer irrgend wo gehe.\n- Während der Hochzeit meiner Schwester ,war er in meiner Nähe ,und\nhat mir viel geholfen\nSeit etwa 3 Monaten bicn ich aus meiner alten Wohnung\nausgezogen ,obwohl er müde war ,kann er sofort ,um mir zu helfn .\n- Und nachdem ich die Prüfung bestanden war ,hat er mir eine\nbeeindruckend.\n- Ich glaube, ich habe die beste Freundin der Welt.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "Überraschungsparty*حفل مفاجئ* gemacht ,das war sehr"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.978,
+    "ocr_words_missing_from_textlayer": 4,
+    "sample_missing": [
+     "gemacht",
+     "schul",
+     "sehr",
+     "überraschungsparty"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 304,
+   "paper": "P21",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\nA) Bilder mit dem Computer bearbeiten\nb) Kirche bietet Backkurs für Kinder an\nC) Kirche eröffnet neuen Treffpunkt\nd) Neu: Kochbuch über Weiner Fleischgerichte\nE) Neue Computerprogramme werden getestet\nf) Preis für bestes Lernprogramm\nG) Rezepte für Kuchen und Torten\nh) Studie zeigt: Kaffeetrinker sind glücklicher\nI) Warum die Wiener ins Café gehen\nj) Zürcher Fotografen stellen aus",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 3,
+    "page_coverage": 0.04
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "luis",
+     "nschull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P21 compared on legible contact sheet; identical to verified P02",
+   "uncertain": []
+  },
+  {
+   "page": 305,
+   "paper": "P21",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. Die Kunst – und Medienschule F+ F Zürich bietet bereits zum dritten Mal den Computerkurs\nDigitale Bildbearbeitung an im neuen Semester steht für zehn Samstage Fotografie nach der\nFotografie also die digitale Bearbeitung von Bildern im Mittelpunkt Dabei kommen\nverschiedene Softwareprodukte zum Einsatz Der Kurs befasst sich aber nicht nur mit dem\nVermitteln auch Themen – und Problembereiche rund um die digitale Foto – und\nBildbearbeitung kurskosten 800Franken Nähere Informationen und Anmeldung zu diesem Kurs\nwww.f- f.ch.\n2. Neuperlach-Süd – Nach dem Einkaufen eine Kaffee genießen, mit anderen ins Gespräch\nImmen, sich mit Bekannten treffen oder einfach spannen – all das geht ab 11 Juli immer\ndienstags zwischen 14 und 18 Uhr im neuen Eiscafé der Dietrich – Bonhoeffer – Kirche Wir\nhotten damit einen Ort der Begegnung für Jung und Alt anbieten und zur Belebung des\nStadtteils beitragen erklärt Pfarrer Sebastian Kühnen. Neben kalten und heißen Getränken\nsowie Kuchen steht während der Öffnungszeiten auch eine Mitarbeiten für Gespräch zur\nVerfügung.\n3. Geheimnisse der modernen Konditorkunst der Meister des Süßen, Herwig Gasser, in Jahre\nhinweg sammelte der Bäcker des berühmten Wiener Café Landmann Mehlspeisenrezepte.\nVon der Birnentorte über den Apfelstrudel bis hin zum Heidelbeerstolle Verlag Kettel, 110\nFotos, 300 Seiten.\nISBAN 3 – 85134 – 014 -0\n4. Am Montag wird in Stuttgart die BildungsDidacta eröffnet. Dort werden vor allem\nLehrmaterialien vorgestellt. Bei vielen sich um Bildungssoftware. Für ein gelungenes\nSoftwareprojekt wird am der Bildungssoftwarepreis digital vergeben Dabei handelt es sich um\ndie wichtige Auszeichnung für Lehr – und Lernprogramm deutschsprachigen Raum Die\nverzeichnen mit dem digital multimediale Gebote aus, die inhaltlich und formal als ragend und\nbeispielgebend gelten können.\n5. Des Gallup – Instituts hat sich mit Kaffeehausverhaltens der Wiener Ein Vorurteil hat sich\ndabei bestätigt Kaffeehaus und der Wiener Seine Melange Ergebnisse der Studie 27 der an,\nzumindest einmal im Monat der Nähe ihrer Wohnung zu gehen. Durchschnittlich 54 Minuten\nBefragten in ihrem Stamm Café Kundschaft umso länger wird gegessen. Der Grund ein\nKaffeehaus wichtiger ist das Plaudern und Freunden. 77 der Befragten Grund für den Besuch\nim Kaffeehaus.",
+   "arabic_labels_excluded": [
+    "ت مفقودة من النصوص, بسبب رداءة الصورة.",
+    "ا",
+    "ة: بعض الكلم",
+    "مالحظ"
+   ],
+   "images": {
+    "count": 3,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P21 L1 texts; source itself has missing words (compiler note)",
+   "uncertain": [
+    "p305: texts incomplete in source (compiler note) — not reconstructed"
+   ]
+  },
+  {
+   "page": 306,
+   "paper": "P21",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Sie mögen thailändisches Essen und möchten lernen, einige Speisen selbst zu\nkochen.\n12. Sie müssen umziehen und brauchen jemand, der Ihnen hilft.\n13. Ihr Kind hat in Mathematik schlechte Noten bekommen und braucht Nachhilfe.\n14. Ihre Freundin hat Geburtstag. Sie möchten ihr einen Blumenstrauß schicken\nlassen.\n15. Am Samstag wollen sie mit Ihrer Tante eine Blumenausstellung besuchen.\n16. Ihr Kollege heiratet. Sie möchten ihm etwas für die Küche schenken.\n17. Sie wollen für eine Hochzeit einen Luxuswagen mieten.\n18. Am nächsten Montag möchten Sie mit Ihren Freunden thailändisch essen gehen.\n19. Für Ihre Geburtstagfeier suchen Sie jemanden, der bei Ihnen zu Hause kocht.\n20. Sie wollen sich über Wohnwagen informieren.",
+   "arabic_labels_excluded": [
+    "ما التايلندي",
+    "الطع"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P21 compared on legible contact sheet; identical to verified P02",
+   "uncertain": []
+  },
+  {
+   "page": 307,
+   "paper": "P21",
+   "section": "L3",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\n90 Minuten Leseverstehen und Sprachbausteine\n9\na\nPLANA Badeland\nb\nNAKORN\nMehr Bad für weniger Geld!\nLerstudio Barbarossa\nThai Restaurant\nBei PLANA Badeland bekommen\nSie immer mehr als Sie erwarten:\nNACHHILFE 5\nmehr Beratung, mehr Service\nHAUSAUFGABENBETREHUNG\nSieben Jahre\nOriginal thailiindische Küche\nid mehr Bad fürs Geld, So werden\n- Von der Grundsehule biz zuw. Abitur\nsind für uns ein Grund zu feiem\nBüdem echte Traumbäder, die\nicht gleich die Welt kosten.\n- alle Fächer, alle Klassen\naut alle Gerichte 20% Rabalt*\nkosténloser Probtunterricht\n*nur bei flarzitlung - kaine Kiedtkarter\nLeseverstehen\n100 Badideen auf 1000 qm\nAusstellungsfläche\nWolfsschlucht 19\nNeul\nSo, 10.00-11.000 Uhr,\n(Eingang Theaterstrabe)\nJeden Sonntag Brunch\n10.00-14.00 Uhr\nTEL: 056177 667924\npro Person nur Euro 9-\nHanauer Straße 56\nConstudlio Barbareisa\nWiheimshöher Allee 42 - Kassel\nTel, 069714 31 49-0\n69720 Frankfurt\nВааtика.\nTelefon (0561) 10 49 28\nwww.plana.de\nMo.-De. 9-12 uиd 14-19 иик.\ndienstags-sonntags,\nAchtung:\nor PLANA Xoo\nFratag 14-19 иir\n12.00-22:00 Uhr geötfnet\nderzeit weg\nd ist\n5\nExotische\nSopha's\nBUGA\nPfannengerichte\nThai-Gourmet\nKassels exotischer Party\nBundesgartenschau für Besucher gedffnet\nVom 28.4 bis 9.10. aind de Pforten de\nMit feurigen Gewürzen und emtefrischem\nGemüse kochen wir Gerichte, die schoel\nAb 10 Menüs Lieferung in beheid\na. 2 Millonen Blumen - das und noch meh\n200 Hektar Landschaftspark und\nThai-Gemüsepfanne, Weiren-Curry mit\nzuberuitet und presswest snd\nSilber-Woks, Catering und\nFingerfood. Wir kochen auch bei\nhat die BUGA zu bieten\nBananen, Blumenkchi und Pleptanne auf\nIhnen unsere original Thai-Gerichte!\nungshallen, z B. das Orchideen-Haus\nBesuchen Sie auch unsere\nthailindsche Mt.\nDas Essen genieden Se am selben Abend\nWir faxen unsere Menü- und\nmit uns in der Gruppe.\nSpeisekarten.\nGeolinet tãol 9.00-20.00 Ut\nFretagsseminar mt Andrea Passanberg\nTel.: 0561/802971\nTageskarten, Erw.\nKinder bie 12 1.7,- Euro\n14,- Euro,\nFretag 12.11, 17.00 bis 21.00 Uhc\n18.50 Euro\nFax: 0564/4612091\napezieles Abendticket ab 17.00 Uhe 7,- Euro\nVolkshochschufe Wuppertal\nwww.thai-partyservice.de\nwww.buga.de\nBackerstr 14\nTel: 06715-212 64:20\ng\nh\nKindervortrag\nVolkshochschule Wuppertal-Süd\nViehmann\nFür 8 bis 12yahrige Kinder bietet das\nBlumenzauber\nMathematkum etwas Besonderes:\nSamutagswerkstatt mit Waltraud Maisc\nIhr Partner für moderne Floristk\nAn einem Samstag im Monat halt Prot.\nSa 16.10,10.00-18.00 Uhr\nBlumen, Pilanzen, Straucher\nBeutelspacher einen speziellen Vortrag für\nRosen in allen Farben\nKinder, In spielerischer Weise steit er\nMit Blumen, Blattem, Früchten und alle\nHochzeitsschmuck\nThemen wie Geheimcodes, Zauber der\nwas die Natur zu bieten hat, lernen Si\nBüro, Meide- und\nZahien, Licht und Schatten sowie optische\nIhren persönlichen Blumenschmuck\nAusstellungsdekoration\nTäuschungen vor.\nherzustellen, verschiedene Komponitions-\nLeferservice:\nKarten im Vorverkaut\ntechniken, kreatives Arbeiten - das richtige\nMathematkum Giefen, Liebigstr. 8,\nGeschenk für jede Gelegenheit\npn - Forstkduchgeschift\n35390 Gießen\nWartekuppe 3\nVHS Wuppertal-Süd\n69936 Frankfurt\nMax-Reinhardt-Weg 29\nTelefon 069-4124.04\n49278 Wuppertal\nWir ziehen um -\nKUNO'S\nHARTMANN & SCHRÖDER\nprofitieren Sie jetzt von\nMebile Freizeit\n• Zuverlässig und kompetent\nunseren Angeboten!\nRolsemobile vom Kleiowotnwagen bis zur\n• Transporter-/Minibue-Verleih für Ihren\n12\nLuxusausführung, Zubehir, alles auf über\nUmzug\nTraumhafte Mobel und Accessóires:\n3000 gm Ausstellungsgelánde:\n• Tagestarife, Wochentanfe.\nPorzellan, Lampen, Geschirt,\nfachmännische Beratung\nWochenendpauschale.\nKeramik, handgewebte Teppiche,\nWir laden Sie ein zum FRUHLINGSFEST mit\nTisch- und Bettwäsche\nverkautsoffenem Sonntag am 22./ 23.3.\n• Zusätzliches Angebot: 2 starke Männer\nweitere Mann 29,- Euro/Stunde.\nplus Lkw 48.- Euro/Stunde, jeder\nMOBELZENTRUM OBERWESER\n34295 Edermünde / Holzhausen\n34359 Reinhardshagen\nTel. 0.56 65/6846\nBad Vilbaler Str.83-85.\n6000 ml Ausstellung\nDeekt an der A 49\n37155 Kassol\nwww.kuno-mobil.de\nTel. 0561784073\nTelefon 0 55 44/3 07",
+   "arabic_labels_excluded": [
+    "ما التايلندي",
+    "الطع"
+   ],
+   "images": {
+    "count": 3,
+    "page_coverage": 1.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 276,
+    "sample_missing": [
+     "abend",
+     "abendticket",
+     "abitur",
+     "access",
+     "achtung",
+     "aind",
+     "alle",
+     "allee",
+     "allen",
+     "alles",
+     "andrea",
+     "angebot",
+     "angeboten",
+     "apezieles",
+     "arbeiten",
+     "auch",
+     "ausstellung",
+     "ausstellungsdekoration",
+     "ausstellungsfläche",
+     "ausstellungsgel",
+     "backerstr",
+     "badeland",
+     "badideen",
+     "bananen",
+     "barbareisa"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Ads photo — same ad page as p17 (P02); transcription re-checked",
+   "uncertain": []
+  },
+  {
+   "page": 308,
+   "paper": "P21",
+   "section": "SB2",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 2\nLANGUAGE Tests\nLesen sie den Text und schließen Sie\nLücken 31 – 40. Benutzen Sie die Wörter\n(a, o) Jedes Wort passt nur einmal.\nMarkieren Sie Ihre Lösungen für die\nAufgaben 31 – 40 auf dem\nAntwortbogen.\nNeuendorf, den….\nSehr geehrte Frau Bauer,\nich habe Ihre Anzeige in der Neuen Presse gelesen und bin an dem Filmprojekt sehr (31).\nich war schon (32) für einige Wochen im Ausland. Vor allem im Sommer habe ich während meines Studiums\nviele Sprachkurse besucht. Länger als ein halbes Jahr habe ich (33) einmal im Ausland gelebt, und zwar (34)\nzwei Jahren. Mein Chef machte mir damals das Angebot, acht Monate im Tochterunternehmen der Firma in\nPortugal zu  (35) , was ich dann auch getan habe.\nAm Anfang war es sehr schwer, weil ich niemanden kannte und alles sehr neu und (36) für mich war.\nEigentlich wollte ich so schnell wie (37) wieder zurück. Aber dann habe ich nette Kollegen kennen gelernt, die\nmir auch über die Kultur und das Leben in Portugal (38) haben.\nIch glaube, dass meine Erfahrungen für viele andere Menschen, die auch im Ausland leben wollen, sehr\ninteressant sein könnten, und ich (39) gerne auch vor der Kamera darüber erzählen. (40) Sie noch weitere\nFragen an mich haben, können Sie mich gerne anrufen, meine Telefonnummer ist 07612/64788980.\nIch würde mich freuen, bald von Ihnen zu hören.\nMit freundlichen Grüßen\nKAROLINE POINTNER\na\nALS\nd\nERZÄHLT\ng INTERESSIERT j\nNUR\nm\nVOR\nb ANFANGEN\ne\nFALLS\nh\nMÖCHTEN\nk\nÖFTER\nn\nWÜRDE\nc\nARBEITEN\nf INFORMIERT i\nMÖGLICH\nl UNBEKANNT\no\nZWISCHEN",
+   "arabic_labels_excluded": [
+    "السيدة باوا(البرتغال)"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.06
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P21 compared on legible contact sheet; identical to verified P02",
+   "uncertain": []
+  },
+  {
+   "page": 309,
+   "paper": "P21",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 2\nLANGUAGE Tests\nSie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.\n……………………………………………………………………………………………………………………………………..\n46. Herr Schütz arbeitet erst seit kurzer Zeit als Taxifahrer.\n47. In der Kleinstadt hatte Herr Schütz keine Geschäftsleute als Kunden.\n48. Herr Schütz hat sich schon einmal in einen Fahrgast verliebt.\n49. Die Fahrgäste erzählen viel, weil sie den Taxifahrer nicht kennen.\n50. Männer sprechen oft über unpersönliche Dinge.\n51. Herr Schütz bekommt von den Fahrgästen manchmal auch einen Tipp.\n52. In der Freizeit steht Sport für Herrn Schütz an erster Stelle.\n53. Beim Schwimmen kann sich Herr Schütz von einem anstrengenden Tag erholen.\n54. Herr Schütz hat sich entschieden, nur am Tag Taxi zu fahren.\n55. Nach Meinung von Herrn Schütz haben jüngere Taxifahrer weniger Angst, nachts zu an.",
+   "arabic_labels_excluded": [
+    "شوتز",
+    "سال يد"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.976,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "entshieden",
+     "taxizu"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P21; legible contact sheet — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 310,
+   "paper": "P21",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. In Norddeutschland steigen die Temperaturen morgen auf 5 bis 7 Grad.\n57. Hamburg hat öfter gewonnen als Stuttgart.\n58. Nach zwei Monaten müssen Sie für die Zeitschrift bezahlen.\n59. Auf dem Mittleren Ring in München wird die Geschwindigkeit kontrolliert.\n60. Janas Geburtstagsfest findet nicht im LEO statt.",
+   "arabic_labels_excluded": [
+    "ال ألمانيا",
+    "شم"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.909,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "heros",
+     "renemteosut",
+     "schull",
+     "seous",
+     "usies"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P21; legible contact sheet — outside website scope",
+   "uncertain": []
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+# P16-L1 pages [223, 224] ratio 0.974
+## website words not in OCR:
+Fluglärm
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests Fluglarm Flughaten Frankturt Leseverstehen Teil LANGUAGE Tests

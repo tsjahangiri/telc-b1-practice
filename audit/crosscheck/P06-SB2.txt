@@ -1,0 +1,5 @@
+# P06-SB2 pages [69] ratio 0.902
+## website words not in OCR:
+
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests plesl

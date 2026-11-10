@@ -1,0 +1,16 @@
+0.071 0.088 1.00	Leseverstehen, Teil 1
+0.089 0.074 1.00	LANGUAGE Tests
+0.180 0.047 1.00	Lesen Sie die Überschriften a - j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.
+0.198 0.047 1.00	Sie können jede Überschrift nur einmal benutzen.
+0.218 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+0.369 0.045 1.00	a) Früh übt sich: Hotels bieten Skikurse für Zweijährige an
+0.417 0.051 1.00	__b) Neu: Mit dem Taxi gratis zur Disco
+0.467 0.076 1.00	_c) Straßenbahn und Bus im Flugticket enthalten
+0.517 0.080 1.00	d) Neu: Taxi - Tickest für Discobesucher
+0.574 0.047 1.00	__e) Skikurs für Eltern und Kinder
+0.594 0.622 0.50	schul
+0.627 0.053 1.00	-f) Angebot für Reisende: Für wenig Geld öffentliche Verkehrsmittel benutzen
+0.677 0.064 1.00	_g) Buchtipp: Babys im Garten
+0.727 0.053 1.00	_h) Schulkinder schreiben spannende Geschichten
+0.775 0.051 1.00	—i) Ratschläge für Hobby-Fotografen
+0.825 0.049 1.00	_j) Ein Schüler mit vielen Ideen

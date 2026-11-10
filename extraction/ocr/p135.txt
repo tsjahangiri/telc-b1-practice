@@ -1,0 +1,163 @@
+0.077 0.062 1.00	Leseverstehen, Teil 3
+0.094 0.045 1.00	LANGUAGE Tests
+0.096 0.778 1.00	DB
+0.131 0.760 0.30	(2iia 2) DB
+0.172 0.123 0.50	*PRAKTIKANT/IN
+0.180 0.702 1.00	Wir suchen engaglerte Mitarbeiterinnen
+0.199 0.150 1.00	Veranstalfungstechnik gesucht
+0.192 0.150 0.50	im Bereich Medien: und
+0.190 0.407 0.50	20145
+0.192 0.458 0.50	Neue Chancen auf dem Arbeitsmarkt
+0.201 0.405 0.50	ARTE
+0.199 0.458 1.00	THEMENABEND
+0.192 0.704 1.00	für Kundenbefragungen in
+0.193 0.869 1.00	unseren
+0.202 0.704 1.00	Zügen, 10-15 Std./Woche. Wichtig sind
+0.214 0.148 1.00	Unser Hauptaufgabengebiet
+0.211 0.458 1.00	„Unsere Zukunft"
+0.212 0.704 1.00	sicheres Auftreten, zeitliche Flexibilität
+0.222 0.150 0.50	et the Durehführung von
+0.238 0.146 0.50	Events. Das Praktikum ist bezahlt
+0.231 0.148 0.30	Prebsakonferenzen und Themen:
+0.224 0.402 1.00	Wie kommen Arbeitsuchende in der
+0.224 0.704 1.00	und Fremdsprachenkenntnisse
+0.224 0.881 1.00	(Engl.
+0.234 0.400 0.50	Europlischen Union mit der Wirtschafte-
+0.234 0.704 0.50	Frz.). Mehrjährige Berufserfahrung er-
+0.245 0.160 0.30	@olauert 6 Monate. Sie arbeiten
+0.243 0.400 0.50	und Bildungskrise zurecht? Hat uns die EU
+0.256 0.177 0.30	marhaften Team und
+0.251 0.400 0.50	mehe Jobe gebracht?
+0.246 0.706 1.00	wünscht.
+0.271 0.170 0.50	Ishen, von der Konzeption bis
+0.265 0.199 0.50	Ihre Erfahrungen da, wo sie
+0.265 0.402 1.00	TV-Abend mit Stefan Bröker und namhaften
+0.262 0.706 1.00	Nahere Informationen unter:
+0.281 0.142 0.30	r Realivation
+0.275 0.402 0.50	Gasten aus verachiedenen EU-Ländern
+0.272 0.708 1.00	www.bahnreisenforschung.de
+0.283 0.400 0.50	ARD 21:45 Uhr
+0.291 0.139 0.30	Bawarbong p
+0.291 0.721 1.00	D
+0.286 0.791 1.00	Bewerbungen an:
+0.301 0.138 0.30	TAPE Media Film GmbH
+0.295 0.248 0.50	Mail an:
+0.296 0.791 1.00	Deutsche Bahn
+0.309 0.139 0.30	info@mediafiim.project
+0.305 0.793 0.50	info@@brf.kundenservice.de
+0.352 0.142 1.00	20.16 Tatort (ARD) Nun kommen
+0.347 0.493 1.00	Lukrative
+0.363 0.140 1.00	die Krimi-Fans wieder aut Ihre
+0.358 0.452 1.00	Halbtagstiltigkelt:
+0.360 0.686 1.00	f
+0.373 0.140 1.00	Kosten: Horst Schliémann alias
+0.371 0.427 1.00	Expandierendes High-Tech-
+0.382 0.137 1.00	Gustav George ermittelt Ihm zur
+0.381 0.427 1.00	Unternehmen der Film- und
+0.379 0.696 1.00	20:15
+0.379 0.754 1.00	Diskussionsrunde:
+0.391 0.138 1.00	Seite steht Denise Mercier. Die
+0.391 0.427 1.00	Medienbranche sucht junge
+0.391 0.696 1.00	3Sat
+0.388 0.754 1.00	Drei Länder - ein Thema
+0.403 0.138 1.00	gebürtige Schweizerin spielt die
+0.400 0.427 1.00	Mitarbeiterinnen für Empfang
+0.403 0.698 1.00	LIVE
+0.398 0.754 1.00	TALK-SHOW
+0.411 0.135 1.00	Freundin des rüden Ermittlers
+0.411 0.425 1.00	und Kundenbindung. Erfahrung
+0.422 0.133 0.50	eine Frau mit Stil, die Verstände
+0.420 0.425 1.00	mit PC, gute Internet- und
+0.422 0.698 1.00	,Kommt die Öko-Diktatur? - Zündstoff
+0.432 0.133 1.00	für Schliemanns Lebenswandel
+0.430 0.425 1.00	Fromdeprachenkenntnisse
+0.442 0.131 1.00	zeigt, sich aber auch in Szene zu
+0.440 0.425 1.00	erforderlichl
+0.433 0.698 1.00	Benzinpreis*. Wie begegnet man
+0.442 0.698 1.00	in Deutschland, der Schweiz und
+0.452 0.131 1.00	setzen weiß. Mit dieser Rolle hofft
+0.462 0.131 1.00	sie, sich im deutschen Fernsehen
+0.455 0.435 1.00	Interesaenten wenden sich an
+0.452 0.698 1.00	Osterreich dem Verkehrskollaps?
+0.472 0.129 1.00	etablieren zu können.
+0.467 0.437 1.00	New Media GmbH
+0.462 0.696 1.00	Wie retten wir die Umwelt?
+0.478 0.474 0.50	Tol. 089/45 79 00
+0.472 0.698 0.50	(bis 21:30)
+0.481 0.129 1.00	(bis 21:45 Uhr)
+0.490 0.474 1.00	www.newmedia.de
+0.522 0.092 0.50	g
+0.523 0.115 0.30	SHUA BHES
+0.541 0.472 1.00	h
+0.535 0.772 0.50	i
+0.548 0.117 1.00	Bei uns wird Erfolg belohnt!
+0.551 0.780 1.00	22:55 Stern
+0.562 0.115 1.00	Wir suchen für unsere sechs Hotelbetriebe im gehobenen
+0.560 0.483 0.50	Die PSA koopériert mit Über 500 unabhängigen
+0.573 0.115 0.50	***- Bereich in München, Frankfurt und Bertin
+0.568 0.485 1.00	Personaldienstleistern und ist daher immer die
+0.565 0.784 1.00	TV-Countdown
+0.582 0.485 0.50	Unser Ziel ist os, den besten Mitarbeiter zur
+0.577 0.485 1.00	erste Adresse, wenn es um Zeitarbeit geht
+0.578 0.782 1.00	(VOX)
+0.588 0.110 1.00	Mitarbeiter/innen am Empfang
+0.594 0.349 0.30	41
+0.592 0.483 1.00	richtigen Zeit am richtigen Ort anbieten zu
+0.602 0.483 1.00	können.
+0.594 0.784 1.00	In zehn Reportagen
+0.607 0.109 1.00	Wenn Sie bereits Rezeptionserfahrung oder auch gerade ausgelernt
+0.619 0.484 1.00	Studentische Unternehmensberater,
+0.612 0.485 1.00	Wir suchen ständig:
+0.606 0.786 0.50	zeigt „Spiegel TV"-
+0.621 0.109 1.00	haben, mind. 1 Fremdsprache (E) sprechen und EDV-erfahren sind.
+0.617 0.786 1.00	Mann Jörg Hafkemeyer,
+0.632 0.109 0.50	senden Sie bitte Ihre Bewerbung an:
+0.629 0.485 1.00	Studenten für IT-Administration und
+0.638 0.485 1.00	Schüler-Nachhilfe (Englisch, Französisch,
+0.631 0.789 1.00	wie sich die ersten
+0.647 0.482 1.00	Mathe)
+0.641 0.789 1.00	Monate der neuen
+0.653 0.101 1.00	; Blattl's Hotels Zentralbüro. Geschäftsbereich Personal.
+0.655 0.484 1.00	Messehostessen
+0.654 0.791 1.00	Regierung gestalten.
+0.664 0.101 1.00	Postfach 221144, 80501 München
+0.673 0.483 1.00	PSA-Zeitarbeit
+0.666 0.789 1.00	Jetzt werden die
+0.682 0.485 0.50	Tel. 089/74 68 91 93
+0.677 0.791 1.00	Weichen für die Zu-
+0.692 0.485 1.00	www.PSA-zeitarbeit.de
+0.690 0.793 1.00	kunft Deutschlands neu
+0.702 0.791 1.00	gestellt. (bis 23:50)
+0.714 0.070 0.30	1
+0.721 0.101 1.00	Max Frisch:
+0.734 0.101 1.00	Biedermann und die
+0.735 0.402 1.00	Transparent - Das Kulturstudio
+0.746 0.099 1.00	Brandstifter
+0.749 0.398 0.50	(22:15, Radio Wien)
+0.765 0.097 1.00	Samstag. 19. September,
+0.763 0.400 1.00	Architekten sprechen über die
+0.766 0.764 1.00	Sie lieben den Umgang
+0.776 0.094 1.00	20:10-21:17 Uhr, Hessischer
+0.776 0.400 1.00	Zukunft von Europas Metropolen.
+0.779 0.795 1.00	mit Menschen?
+0.788 0.094 0.50	Rundfunk „Ein Lehrstück ohne Lehre"
+0.789 0.398 1.00	Weiters: Rückschau und Vorschau
+0.788 0.739 1.00	Sie sind außerdem auch dynamisch und
+0.799 0.090 1.00	nannte Frisch sein ursprünglich als
+0.802 0.398 1.00	auf das Programm der ,Wiener
+0.799 0.743 1.00	ehrgeizig, dann sind Sie bei uns genau
+0.811 0.090 1.00	Hörspiel gedachtes und dann für das
+0.815 0.396 1.00	Schule für Dichtung*. Und ein Bericht
+0.810 0.749 1.00	richtig. Münchens bekannte PRIMA-
+0.821 0.090 1.00	Theater bearbeitetes Stück, das 1958
+0.820 0.754 1.00	Werbung bietet Ihnen neben einem
+0.834 0.088 1.00	in Zürich uraufgeführt wurde. Man
+0.830 0.396 1.00	über das Obdachlosen-Projekt
+0.830 0.743 1.00	tollen Team hervorragende Verdienst- u
+0.846 0.088 1.00	sah darin sowohl eine Warnung vor
+0.842 0.394 1.00	„Wochenklausur".
+0.840 0.791 1.00	Aufstiegsmöglichkeiten.
+0.856 0.088 1.00	dem Kommunismus afs auch vor dem
+0.853 0.735 0.50	Wir brauchen Leute wie Siel Rufen Sie ar
+0.868 0.088 1.00	Faschismus. (chw.)
+0.872 0.780 0.50	Tel. 0 89/2 35 55 43

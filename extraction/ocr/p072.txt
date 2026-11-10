@@ -1,0 +1,13 @@
+0.105 0.084 1.00	Hörverstehen, Teil 3
+0.122 0.070 1.00	LANGUAGE Tests
+0.189 0.047 1.00	Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.
+0.209 0.049 1.00	Sie hören jeden Text zweimal.
+0.228 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 56 - 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.247 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 56 - 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.269 0.045 1.00	falsch auf dem Antwortbogen.
+0.359 0.047 1.00	56. Sie können zwei Flüge nach Griechenland gewinnen.
+0.411 0.047 1.00	57. Für Ihre Gruppe ist ein Wagen im Zug nach Aschaffenburg reserviert.
+0.465 0.045 1.00	58. Auf der Internetseite kann man auch günstige Angebote für Haushaltsgerät.
+0.517 0.047 1.00	59. Erst morgen Abend bildet sich Nebel..
+0.570 0.045 1.00	60. Am besten fahren Sie ab Northeim mit dem Bus.
+0.562 0.576 1.00	hschul

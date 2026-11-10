@@ -1,0 +1,33 @@
+0.074 0.092 1.00	Leseverstehen, Teil 2
+0.092 0.076 1.00	LANGUAGE Tests
+0.182 0.047 1.00	Lesen Sie den Text und die Aufgaben 6 - 10. Welche Lösung (a, b oder c) ist jeweils richtig?
+0.199 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+0.253 0.047 1.00	Leben
+0.282 0.049 1.00	Das machen wir mit links
+0.306 0.047 1.00	Über eine Million Österreicher sind Linkshänder - und langsam setzen sie sich durch in der
+0.334 0.047 1.00	Rechtshänder - Welt
+0.378 0.047 1.00	Schau der macht das mit der linken Hand. Solche und ähnliche Kommentare hörte der gelernte Porzellanformer Gerhard
+0.394 0.047 1.00	Spur (51) von Besuchern, die die Porzellanmanufaktur im Wiener Augarten besichtigten und dem Künstler beim
+0.410 0.049 1.00	Herstellen eines Kunstwerkes zusahen - allerdings nur früher, als nur die rechte Hand die so genannte schöne Hand war,
+0.426 0.047 1.00	die man zum Arbeiten. Schreiben usw. verwenden durfte. Heute ist es offensichtlich normal, dass jemand mit der linken
+0.442 0.049 1.00	Hand Vasen aus Porzellan bearbeitet. Gerhard Spur wird jedenfalls nicht mehr bestaunt.
+0.469 0.047 1.00	Links arbeiten
+0.497 0.049 1.00	Gut 15 Prozent der Menschheit sind Linkshänder. Über die Gründe für Linkshändigkeit ist sich die Wissenschaft nicht
+0.515 0.047 1.00	einig. Fest steht nur. Wenn Kinder gezwungen werden, statt mit der linken Hand mit der rechten Hand zu schreiben, hat
+0.531 0.047 1.00	dies schwerwiegende Folgen. Dies führt zu Knoten im Kopf so die Linkshänder-Expertin Johanna Barbara Sattier.
+0.546 0.047 1.00	Spätestens wenn umgeschulte Kinder mit dem Lesen und Schreiben beginnen, macht sich das Chaos im Kopf
+0.562 0.049 1.00	bemerkbar. In der Schule ist es mittlerweile verboten, Linkshänder auf rechts umzuschulen. Probleme machen allerdings
+0.578 0.047 1.00	noch Arbeitsplätze, die nicht für Linkshänder geeignet sind, erklärt Erich Pospischill, Leiter des arbeitsmedizinischen
+0.594 0.047 1.00	Zentrums Mödling: Schon die Computermaus auf der falschen Seite führt zu rascherer Ermüdung, weil das Gehirn durch
+0.610 0.047 1.00	das ständige Umdenken zusätzlich belastet wird.
+0.638 0.047 1.00	Lösungen im Betrieb
+0.667 0.047 1.00	Die Maschine, an der Slata Tanasic tagtäglich arbeitet, funktioniert von links unten nach rechts oben. Genau verkehrt für
+0.685 0.049 1.00	die 41-Jahrige, die seit 21 Jahren im Seibert-Elektronikwerk arbeitet. Ich habe gesagt, dass ich mit der Maschine so nicht
+0.699 0.047 1.00	arbeiten kann. Und das wurde akzeptiert. Slata wurde in einen anderen Arbeitsbereich versetzt und macht jetzt
+0.715 0.049 1.00	Arbeiten, die auch mit der linken Hand möglich sind: Montieren und Vorbereiten der Bauteile.
+0.744 0.049 1.00	Eltern können helfen
+0.772 0.049 1.00	Bei Kleinkindern lässt sich nicht sofort erkennen, ob sie links- oder rechtshändig sind, sagt die Expertin Sattler: Viele
+0.789 0.049 1.00	Kinder ahmen zuerst die Tätigkeiten in unserer rechtshändigen Welt nach. Deshalb rät Sattler den Eltern, ihren Kinder
+0.804 0.049 1.00	beim Herausfinden ihrer Händigkeit zu helfen: Blumen gießen mit einer kleinen Kanne, einen Ball werfen - bei diesen
+0.820 0.049 1.00	Handlungen greifen Kinder automatisch mit der starken Hand zu. Und dann sollten Eltern bereits erste Konsequenzen
+0.837 0.047 1.00	ziehen.

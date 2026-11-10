@@ -1,0 +1,119 @@
+##### P14 pages [171, 183] key p183 sections {'L1': [171, 172], 'L2': [173, 174], 'L3': [175, 176], 'SB1': [177], 'SB2': [178], 'H': [179, 180, 181], '?': [182], 'LOES': [183]}
+
+=== P14-L1 [Zeitung] pages [171, 172] verified=True
+INSTR: Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+  a) Abendwanderungen ab 89 Euro
+  b) Ausflugsziele für Literaturinteressierte
+  c) Hinweis für Besucher der Bregenzer Festspiele
+  d) Ihre Zeitung folgt Ihnen in den Urlaub
+  e) Laute Musik stört den Nachbarn
+  f) Musikveranstaltungen am Nachmittag
+  g) Neue Zeitung für Ihre Urlaubsplanung
+  h) Rekord: 70.000 Besucher im Bücherdorf
+  i) Schlechtes Wetter: Festspiele abgesagt
+  j) Wandern ohne Gepäck
+  1. Wenn Sie verreisen, wünschen wir ihnen erholsame und angenehme Ferienlage Bitte denken Sie daran, sich ihre Zeitung in den Urlaubtort nachsenden zu lassen. Denn mit den Neuigkeiten von zu Hause und aus aller Weil lässt sich die schönste Zeit des Jahres erst richtig genießen ganz Europa kostenlos, Die Höhe des Bezeugendes bleibt unverändert. Ausführliche Informationen und entsprechende Coupons ihrem Europabericht. Griechisch wird meistens von Zwölftklässlern als dritte Fremdsprache neben Französisch und Englisch gewählt. finden Sie in unserem großen Reise Service – Anzeigen oder rufen Sie uns einfach an:
+Telefon 01 30-18 58 50 zum Nulltarif.
+Hannoversche Allgemeine
+Neue Presse
+  2. Im Luftkurort Stadtkylf in der Mittelgebirgslandschaft des Oberen Kullas werden dreitägige Wanderungen ohne Gepäck veranstaltet Die Rundwanderung im deutsch – bei gischen Naturpark führt abends zu reservierten Zimmern. Die Betriebe übernehmen den Gepäcktransport zum nächsten Tagesziel. Die Wanderungen werden ganzjährig angeboten. In den Wanderprogramm sind drei Übernachtungen mit Frühstück dreimal Gepäcktransport, eine Wanderkarte, eine Wegbeschreibung und ein Wanderpass enthalten. Der Pauschalbetrag beträgt pro Person 89 Euro.
+Auskünfte:
+Verkehrsverein Erholungsgebiet Oberes Kylltal.
+Kurallee, 54589 Stadtkylf, Telefon ( 06597) 28 78.
+  3. Für den einen ist es musikalischer Hochgenuss für den anderen schlicht Lärm. Gemeint ist Musik, die aus Lautsprechen, Radios oder durch Musikinstrumente durch geöffnet Türen und Fenster bei sommerlichen Temperaturen ins Freie dringt. Die Gemeinde weist darauf hin, dass der Mittagsruhe von 13 bis 15 Uhr und nachts von 22 bis 7 Uhr keine musikalische Ruhestörung erfolgen darf. Gartengeräte mit Motoren dürfen montags bis freitags nur von 8 bis 13 und von 15 bis 19 Uhr benutzt werden, an Sonnabenden von 9 bis 13 Uhr. An Sonn - und Feiertagen dürfen die Geräte nicht zum Einsatz kommen.
+  4. In dem Bücherdorf in Mühlbeck/ Fredersdorf(Sachsen – Anhalt ) warten in acht Antiquarten über 7000 Bücher aus allen Bereichen der Literatur auf Interessenten. In acht Antiquariten warten über 70000 Bücher aus allen Bereichen der Literatur auf Interessenten. Das in reizvoller landschaftlicher Umgebung liegende Bücherdorf nahe Bitterfeld unweit der A19 und des Flughafens Leipzig ist aus allen Teilen Deutschlands leicht zu erreich. Geöffnet sind die Antiquariate auch am Samstag und Sonntag. In Europa gibt es bereits zahlreiche solcher Bücherdörfer .u.a. in Belgien Frankreich Großbritannien den Initiatorin des deutschen Bücherdorfes ist Heidi Dehne (Tel. 03493/4 30 43).
+  5. Die Bregenzer Festspiele sind bemüht, die Vorstellungen auch bei zweifelhafter Witterung bzw. leichtem Regen auf der Seebühne abzuhalten, weshalb es zu Verzögerungen des Beginns oder zu Unterbrechungen kommen kann. Sollte die Seeaufführung nicht stattfinden können, wird eine halbszenische Version von Porgy and Bess im Festspielhaus gegeben. Wir empfehlen unseren Gästen , bei unsicherer Wetterlage regenfester Kleidung den Vorzug zu geben und auf Schirme zu verzichten, da diese die Sicht beeinträchtigen. Das Spiel auf dem See wird ohne Pause gespielt. Die Spieldauer beträgt ca.2 Std. 45 Min.
+  SOLUTION(complete): 1d 2j 3e 4b 5c
+
+=== P14-L2 [Computerprobleme] pages [173, 174] verified=True
+INSTR: Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+  TITLE: Computerprobleme – ein Kinderspiel / Anne und Melanie (beide 6) stehen Erzieherinnen mit Vorschlägen hilfreich zur Seite
+  Von Christiane Altenberger
+  Sie sind die Problemlöser im Kindergarten an der Munckerstraße. Wenn das Malprogram spinnt, plötzlich ein Spiel auftaucht, das keiner kennt, dann rufen die Erzieherinnen nach Anne und Melanie. Die sind zwar erst sechs Jahre alt, aber mit den Computerspielen kennen sie sich aus. Die Kinder wissen manchmal mehr als wir sagt Eva Schilling. Leiterin des Kindergartens. Gelernt haben die beiden ihr Know-how bei Multimedia-Landschaften für Kinder, einem Projekt, das das Schulamt zusammen mit dem Studio im Netz gestartet hat.
+  Im Rahmen dieses Projekts werden in städtischen Kindergärten zwei Wanderstationen mit je drei Multimedia-Computern und einem Farbdrucker installiert. Die Stationen wandern durch 14 Kindergärten, wo sie jeweils für vier Wochen installiert werden. Mit dabei in den Kindergärten: ein ganzer Satz von Spiel – Software. Vierjährige am Computer? In Pädagogen kreisen sind viele Berührungsängste da, weiß Edith llg, Fachberaterin für Kindergärten beim Schulamt, aber wir können uns aus dieser Entwicklung nicht ausklinken. Die Kinder wollen sich mit ihrer Umwelt auseinandersetzen. Angefangen hat diese Auseinandersetzung im Studio im Netz – 193 Kinder waren eingeladen, um erste Erfahrungen am Computer zu sammeln. Die Kinder waren absolut begeistert, haben immer wieder gefragt, wann gehen wir da wieder hin, so Frau llg.
+  Bevor jedoch die Computer in die Kindergärten kamen, waren die Eltern aufzuklären. Bei manchen Eltern löste das Stichwort Computer akute Ängste aus nach dem Motto: Mein fröhliches, gesundes Kind setzt sich vor den Computer und steht sechs Stunden später krank, sprachlos und einsam wieder auf.
+  Diese Ängste haben sich inzwischen gelegt und die Erfahrung vor Ort zeigt, dass sie weitgehend über flüssig sind. Die Erzieherinnen achten auch darauf, dass die Kinder nie länger als 15 bis 20 Minuten vor den Computern sitzen, und holen vor allem kreative Software auf den Bildschirm.
+  Das einsame Dämmern vor dem Computer ist wohl ohnehin eher Sache der Erwachsenen – die Kinder spielen immer zu zweit oder zu dritt an der Maschine. Eva Schilling hat beobachtet, dass die Kinder am Computer sehr friedlich miteinander umgehen, sie helfen sich gegenseitig, es gibt wenig Konflikte. Dabei entwickeln gerade Kinder, die sich sonst nur schwer auf etwas konzentrieren können, plötzlich ungeahnte Konzentrationszeiten. Eva Schilling kann sich deshalb die Computer als Dauereinrichtung im Kindergarten vorstellen.
+  Q6. Das Schulamt hat ein Projekt gestartet, bei dem
+     a) Computer in Kindergärten aufgestellt werden.
+     b) Computerspiele für Vierjährige entwickelt werden sollen.
+     c) Kinder neue Farbdrucker ausprobieren sollen.
+  Q7. Die Kinder
+     a) hatten großen Spaß bei dem Projekt.
+     b) wollten lieber draußen im Freien spielen.
+     c) wussten nicht, wann sie ins Studio im Netz gehen sollten.
+  Q8. Eltern fürchten, dass
+     a) der Computer ihren Kindern schadet.
+     b) ihre Kinder nicht so früh aufstehen können.
+     c) ihre Kinder vor dem Computer Angst haben.
+  Q9. Die Erzieherinnen
+     a) arbeiten jeden Tag 15 bis 20 Minuten am Computer.
+     b) spielen immer mit zwei oder drei Kindern am Computer.
+     c) wählen für die Kinder die Software aus.
+  Q10. Wenn die Kinder am Computer sitzen, dann
+     a) gibt es häufig Streit.
+     b) hilft ein Kind dem anderen.
+     c) können sich die meisten nicht lange konzentrieren.
+  SOLUTION(complete): 6a 7a 8a 9c 10b
+
+=== P14-L3 [Praktikum] pages [175, 176] verified=True
+INSTR: Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+  11. Sie haben von einer noch unbekannten Schauspielerin gehört und möchten gern einen Film sehen.
+  12. Sie haben bereits in einem Hotel gearbeitet und suchen wieder eine neue interessante Stelle.
+  13. Sie interessieren sich für Umweltschutz und suchen eine passende Sendung.
+  14. Ihr Freund, der am Institut für Film und Bild studiert, sucht einen geeigneten Praktikumsplatz.
+  15. In einer Sendereihe wird im Fernsehen über die neue politische Entwicklung in Deutschland berichtet. Sie wollen sich informieren.
+  16. Sie interessieren sich für moderne Stadtentwicklung und suchen dazu eine Sendung im Rundfunk.
+  17. Sie wollen bei der Deutschen Bahn eine Ausbildung machen.
+  18. Sie interessieren sich für politisches Theater und möchten am Wochenende dazu etwas hören oder sehen.
+  19. Sie arbeiten gern mit anderen zusammen und suchen eine Tätigkeit bei einer Werbefirma.
+  20. Sie studieren Fremdsprachen und suchen einen Job, bei dem Sie mit Kindern arbeiten können.
+  [a] PRAKTIKANT/IN / im Bereich Medien- und / Veranstaltungstechnik / g e s u c h t / Praktikumszeit: mind. 6 Monate / Kurze schriftliche Bewerbung an: / TAPE Media Film GmbH, / [unleserlich]str. 17, 80939 München
+  [b] ARTE Themenabend / 20.45 Was ist mit unse- / rer Jugend los? / „UNSERE ZUKUNFT“ / Wie kommen Jugendliche in / Deutschland und Frankreich mit / der Wirtschafts- und Bildungs- / politik zurecht? / bis 23.45 771-605
+  [c] Wir suchen / junge / Mitarbeiter für eine / freiberufliche Neben- / tätigkeit / (telefonische Absprache und Planung / von Interviewer-Einsätzen, 15–25 Std./ / Woche). Spezielle Vorkenntnisse sind / nicht erforderlich, wichtig ist uns sicheres / Auftreten am Telefon. / Nähere Informationen unter / ☎ (089) 92 23-421 / rb Bahnreisenforschung, / Arabellastr. 33, 81925 München
+  [d] 20.15 Tatort aus Münster / Nun kommen die Fans von Frank / Thiel wieder auf ihre Kosten: Frank / Thiel alias Axel Prahl ermittelt. Ihm / zur Seite steht Denise Mercier. Die / Schweizerin spielt die Freundin / des rüden Ermittlers – eine Frau / mit Stil, die Verständnis für Thiels / Lebenswandel zeigt, sich aber auch / in Szene zu setzen weiß. Mit dieser / Rolle hofft sie, im deutschen Fernse- / hen bekannt zu werden. / (bis 21.45 Uhr)
+  [e] Lukrative Halbtagstätigkeit / Expandierendes / High-Tech-Unternehmen sucht für / Empfang und einfache Büroar- / beiten Aushilfe, MS-Office- und / Englischkenntnisse erforderlich! / Interessenten wenden sich an / Loewe New Media GmbH, / Tel. 089/45 79 00
+  [f] 3Sat / 20.15 LIVE / Drei Länder – ein Thema / TALK-SHOW / „Kommt die Öko-Diktatur – Zünd- / stoff Benzinpreis“. Wie begegnet / man in Deutschland, der Schweiz / und Österreich dem Verkehrskol- / laps? Wie retten wir die Umwelt? / bis 21.30 65-437-662
+  [g] Bei uns wird / Erfolg belohnt! / Wir suchen für unsere 6 Ho- / telbetriebe im gehobenen / ***-Bereich in Mün- / chen, Frankfurt und Berlin / Mitarbeiter/innen / am Empfang / Wenn Sie bereits Rezeptionserfahrung oder auch / gerade ausgelernt haben, mind. eine Fremdsprache / (E) sprechen und EDV-erfahren sind, senden Sie / bitte Ihre Bewerbung an: / Blatti's Hotels Zentralbüro, Geschäftsbereich Personal, / Postfach 22 11 44, 80501 München
+  [h] Wir suchen ständig: / • Studenten für Schüler-Nach- / hilfeunterricht: / Englisch, Französisch, Mathematik / • Messehostessen / • Babysitter / Tiersitter / Std.-Lohn ca. 13,00 EUR / Vermittlungsagentur Gerlsschwager / Tel. 089/74 68 91 93
+  [i] 22.55 Stern TV-Count- / down (VOX) / In zehn Reportagen zeigt / „Spiegel TV“-Mann Jörg Haf- / kemeyer, wie sich die ersten / Monate der neuen Regierung / gestalten. Jetzt werden Wei- / chen für die Zukunft Deutsch- / lands gestellt. / (bis 21.45 Uhr)
+  [j] Max Frisch: Biedermann und die / Brandstifter; / Samstag, 19. September, / 20.10–21.17 Uhr, HR2. / „Ein Lehrstück ohne Lehre“ nannte / Frisch sein ursprünglich als Hörspiel / gedachtes und dann für das Theater / bearbeitetes Stück, das 1958 in Zürich / uraufgeführt wurde. Man sah darin / sowohl eine Warnung vor dem Kommu- / nismus wie vor dem Faschismus. (chw.)
+  [k] 22.15 Radio Bremen / Bei einem internationalen Kon- / gress präsentierten vergangenes / Wochenende in Bremen Archi- / tekten ihre Projekte zum Thema / „Städtische Freiräume“. Weiter- / hin: Rückschau und Vorschau / auf das Programm der „Bremer / Schule für Dichtung“. Und ein / Bericht über die Obdachlosen- / Betreuung „Wochenklausur“.
+  [l] Lieben Sie den Umgang / mit Menschen? / Sind Sie obendrein auch noch / dynamisch und ehrgeizig, dann / sind Sie bei uns richtig. / Münchens bekannte PRIMA- / Werbung bietet Ihnen neben / einem tollen Team hervorragende / Verdienst- und Aufstiegsmöglich- / keiten. / Wir brauchen Leute wie Sie! / Rufen Sie an!
+  SOLUTION(complete): 11d 12g 13f 14a 15i 16k 17x 18j 19l 20h
+
+=== P14-SB1 [Beatrice] pages [177] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen
+  Liebe Beatrice,
+  wie du ja weißt, sind meine Eltern seit Anfang Mai in einem Haus [[21]]Mittelnehmer in Spanien. Zuerst wollen meine Eltern warten, bis ich mit dem Gymnasium fertig bin. Aber dann sind sie doch [[22]] früher gefahren.
+  Als ich im Sommer 18 wurde, wollte ich mit [[23]] älteren Bruder zusammen eine kleine Wohnung mieten. Das hat aber nicht geklappt. Eine Freundin hat [[24]] dann ein Zimmer in ihrer Wohngemeinschaft angeboten. Ich wohne jetzt mit drei [[25]] zusammen in der Innenstadt. Ich bin sehr zufrieden, [[26]] mein Zimmer recht klein ist.
+  In der Schule habe ich keine Probleme. Ich staune selbst über meine Noten, wenn ich [[27]] denke, wie [[28]] Zeit ich mir für Hausaufgaben nehme.
+  Manchmal schicken mir meine Eltern eine E-Mail. [[29]] sie rufen an.
+  [[30]] jetzt habe ich jede Woche von ihnen gehört.
+  Das war’s für heute, bis bald und liebe Grüße Saskia
+  21: a) am | b) in | c) zum
+  22: a) bloß | b) erst | c) schon
+  23: a) mein | b) meinem | c) meinen
+  24: a) ihr | b) mich | c) mir
+  25: a) Freund | b) Freundin | c) Freundinnen
+  26: a) aber | b) obwohl | c) trotz
+  27: a) daran | b) darauf | c) darüber
+  28: a) wenig | b) wenigen | c) weniger
+  29: a) Damit | b) Oder | c) Sondern
+  30: a) Ab | b) Bis | c) Seit
+  SOLUTION(complete): 21a 22c 23b 24c 25c 26b 27a 28a 29b 30b
+
+=== P14-SB2 [Alpen] pages [178] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.
+  Chiffre 2063/9369
+  Sehr geehrter Unbekannter,
+  mein Mann und ich haben Ihre Anzeige in den Mitteilungen des Deutschen. Alpenvereins [[31]]. Wir wohnen etwa 40 km außerhalb von Nürnberg und schreiben Ihnen, [[32]] wir Lust hätten, etwas in einer Gruppe zu machen.
+  Unseren Sommerurlaub verbringen wir eigentlich regelmäßig in den Bergen. Und [[33]] es unser Terminkalender erlaubt, gehen wir auch noch am Wochenende wandern, [[34]] fahren wir in die Gegend vom Wilden Kaiser, wo wir inzwischen alle Wanderwege [[35]].
+  Wir fahren zwar beide auch Ski, [[36]] der Winter den Bergen ist nicht so unbedingt unsere Sache.
+  Dagegen macht es [[37]] viel Spaß. Fahrrad zu fahren,; hier in Leupoldstein haben wir tolle Radwege, die durch die Felder führen. Daher [[38]] wir uns auch auf gemeinsame Radtouren hier bei uns freuen.
+  Zum Schluss noch ein [[39]] Worte zu uns selbst. Wir sind 64 und 62. Jahre alt, lieben Musik und gehen ab und zu gern ins Theater.
+  Rufen Sie uns doch einfach [[40]] an: Tel.: 09243/7448.
+  Viele Grüße
+  Ilka und Heiner Grossmann
+  WORDS: a=ABER b=AUSSEN c=EINMAL d=ENTDECKT e=ETWAS f=HATTEN g=KENNEN h=LERNEN i=OFT j=PAAR k=UNS l=WANN m=WEIL n=WENN o=WÜRDEN
+  SOLUTION(complete): 31d 32m 33n 34i 35g 36a 37k 38o 39j 40c

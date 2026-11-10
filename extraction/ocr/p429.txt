@@ -1,0 +1,30 @@
+0.078 0.092 1.00	Leseverstehen, Teil 2
+0.096 0.076 1.00	LANGUAGE Tests
+0.166 0.047 1.00	Lesen Sie den Text und die Aufgaben 6 - 10. Welche Lösung (a, b oder c) ist jeweils richtig?
+0.185 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+0.235 0.047 1.00	Beruf am Flughafen: Kinderbetreuerin
+0.278 0.049 1.00	Dem Kind zuliebe in Kloten warten
+0.324 0.045 1.00	Auf keinem anderen Flughafen sei der Aufenthalt familienfeindlicher als in Kloten, sagen
+0.347 0.045 1.00	viele Eltern. Weil die Wartezeit im Flug vergeht - dank der 18 Kinderbetreuerinnen.
+0.371 0.047 1.00	Von Gabriella Hofer
+0.426 0.049 1.00	24000 Kinder aus der ganzen Welt wurden letztes Jahr auf dem Flughafen Zürich-Kloten betreut. Die 18
+0.446 0.049 1.00	Mitarbeiterinnen, die sich im Schichtbetrieb ablösen, stehen den Eltern und ihren Kindern täglich von 6.30 bis
+0.467 0.049 1.00	22 Uhr mit Rat und Tat zur Seite. Die vielsprachigen Betreuerinnen - viele von ihnen sind ausgebildete
+0.485 0.049 1.00	Krankenschwestern, Kleinkindererzieherinnen oder Flugbegleiterinnen - verfügen auch über Erste-Hilfe-
+0.506 0.049 1.00	Kenntnisse. Der Flughafen Zürich-Kloten ist der einzige in Europa, der seinen kleinsten Gästen in beiden
+0.526 0.047 1.00	Terminals einen eigenen Aufenthaltsraum bietet.
+0.557 0.049 1.00	Aufenthalt und Betreuung sind kostenlos. In beiden Räumen stehen vier Wickeltische mit Papierwindeln, eine
+0.578 0.049 1.00	Küche zum Aufwärmen der Kindermahlzeiten, sechs Bettchen, ein Laufgitter, Nachttöpfe und Toiletten für
+0.599 0.049 1.00	Kleinkinder zur Verfügung. Außerdem gibt es zahlreiche Stofftierchen, Schaukelpferdchen, Bauklötze,
+0.619 0.049 1.00	Puppenstuben, einen großen Stall, Bilderbücher, Spiele und vieles mehr.
+0.650 0.045 1.00	Es ist ein Erlebnis für die Kinder, mit Kindern zu spielen, die eine andere Muttersprache sprechen oder aus
+0.670 0.047 1.00	einem anderen Kulturkreis kommen, weiß Alice Martin (40). Die ehemalige Kinderschwester, selber Mutter
+0.690 0.049 1.00	eines sechsjährigen Sohnes, gehört seit 14 Jahren zum Team der Betreuerinnen. Zusammen mit 17
+0.711 0.049 1.00	Kolleginnen ist sie abwechselnd in den beiden Kinderspielzimmern den Terminals A und B beschäftigt.
+0.743 0.049 1.00	Bevor Alice Martin 1994 von der Flughafendirektion angestellt wurde, war sie viele Jahre auf einer
+0.763 0.049 1.00	Geburtenabteilung und später noch in einem Behindertenheim beschäftigt. Die Kontakte zu den jetzt von ihr
+0.779 0.049 1.00	betreuten Kindern seinen nicht mehr so intensiv wie früher im Spital oder im Heim, dafür biete ihr die heutige
+0.802 0.047 1.00	Tätigkeit mehr Abwechslung.
+0.834 0.049 1.00	Die kinderliebende Frau reist selber gern und viel. Auch ihre Fremdsprachenkenntnisse kommen ihr hier
+0.855 0.047 1.00	zugute. Alice Martin spricht neben ihrer Muttersprache Englisch, Französisch und Spanisch. Sehr bereichernd
+0.875 0.047 1.00	sei, dass sie in ihrer täglichen Arbeit andere Kulturen kennenlerne.

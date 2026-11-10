@@ -1,0 +1,334 @@
+{
+ "batch": 35,
+ "pages": [
+  341,
+  350
+ ],
+ "records": [
+  {
+   "page": 341,
+   "paper": "P23",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. Sie sollen um 19:30 Uhr bei Georg und Claudia sein .\n57. Im südlichen Österreich ist es tagsüber sonnig, später windig und regnerisch.\n58. Der Speisewagen befindet sich im hinteren Teil des Zuges.\n59. Die Schweizer geben für Urlaub mehr Geld aus als für ihre Gesundheit.\n60. Der Sänger beginnt seine Konzertreise mit einer Vorstellung in Wien.",
+   "arabic_labels_excluded": [
+    "جر جو وكلوديا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "chull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P23; legible contact sheet — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 342,
+   "paper": "P23",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nEine Bekannte hat Ihnen folgenden Brief geschrieben:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\nIch habe eine tolle Überraschung. stelle dir vor, was mir mein Onkel angeboten hat. Er rief\nmich am Samstag an. Er hat ein großes Ferienhaus im Schwarzwald. Das Haus kann ich für die\nFerien kostenlos haben. Ich kann auch Freunde mitbringen! Wäre das nichts für uns? Wir\nkönnten uns alle dort treffen. Du, deine Eltern und Freunde, und ich mit meiner Familie und\nmeinen Freunden. Ich würde mich wahnsinnig freuen, wenn das klappen würde. Bitte schreibe\nmir so schnell du kannst, damit wir alles planen können. Urlaub im Schwarzwald - das wird\ntraumhaft schön!\nHerzliche Grüße\nPetra\nAntworten Sie auf den Brief. Schreiben Sie etwas zu den folgenden Punkten:\n. Warum Sie gern nach Deutschland kommen möchten\n. Wie Sie anreisen wollen\n. Was Sie gemeinsam machen könnten\n. Wen Sie mitbringen möchten\nBevor Sie den Brief schreiben, überlegen Sie sich eine passende Reihenfolge der punkte, eine passende\nEinleitung und einen passenden Schluss. Vergessen Sie nicht Datum und Anrede.\nSchreiben Sie mindestens 100 Wörter.",
+   "arabic_labels_excluded": [
+    "بيترا"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.989,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "chsc",
+     "uberraschung"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P23; legible contact sheet — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 343,
+   "paper": "P23",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\n      Disco\nMeyerhofer\nArbeitsplatz für ihren Vater\n21 b\nIhrem\n1 B\n41 -\n22 a\nwar\n2 D\n42 +\n23 a\nhat\n3 C\n43 +\n24 a\nbis\n4 A\n44 +\n25 b\nden\n5 G\n45 -\n26 b\ndie\n27 a\nim\n28 a\ngeöffnet\n29 b\nProbleme\n30 b\nman\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nLeipzigerin\n      Blanco Ruiz\nFrau Schäfer\n6\nB\n46 -\n31 H\nMIR\n7\nB\n47 -\n32 D\nFÜR\n8\nC\n48 +\n33 F\nKENIE\n9\nC\n49 -\n34 I\nMIT\n10 C\n50 +\n35 E\nGUTE\n51 +\n36 A\nAM\n52 +\n37 C\nDASS\n53 +\n38 B\nBIS\n54 -\n39 L\nPRO\n55 -\n40 J\nMÖCHTE\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\n             Wien                                                                                                                               Georg und Claudia\n11 G\n56 -\n12 F\n57 +\n13 J\n58 -\n14 A\n59 -\n15 X\n60 +\n16 E\n17 X\n18 C\n19 I\n20 L",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.88,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "claudi",
+     "telc"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P23 compared on legible contact sheet; identical to verified P12",
+   "uncertain": []
+  },
+  {
+   "page": 344,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Firmen*Olympiade*\n Also *Ahmed* du weißt ja ,wir einen Urlaub am Ende des Monats haben\n,und wir können mit unseren Kolleginnen und Kollegen etwas\norganiesieren,was hältst du davon?\n Ja,da gehe ich ganz d´accord ,aber hast du einige Vorscläge ,mir fällt\nnichts ein.\n Ja ,wir können entweder einen Ausflug ,oder eine Firmen-Olympiade\norganiesiern ,was denkst du?\n Ich bin für eine Firlme-Olympiade ,Ich möchte etwas Sport treiben ,aber\nwann können wir die Olympiade machen?\n Wie wäre es mit dem nächsten Sonntag ,da haben wir all Zeit.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.43
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 30,
+    "sample_missing": [
+     "anen",
+     "arbeiten",
+     "atil",
+     "edagon",
+     "essen",
+     "firma",
+     "ganzen",
+     "gemei",
+     "gemeinsam",
+     "germachi",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "getränke",
+     "gleichen",
+     "ihre",
+     "ihrem",
+     "ihren",
+     "ihrer",
+     "kosten",
+     "lang",
+     "minuten",
+     "nonsen",
+     "organisieren",
+     "planen",
+     "sportarfen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 345,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich möchte dir widersprechen ,ich glaube am Samstag wäre besser ,am\nnächsten Tag haben wir alle Frei und wir können denn ausruhen ,aber wo\nwird die Olympiade?\n Im großen Park in Berlin ,was meinst de?\n Ich bin derselben Meinung ,aber welche Sport können wir treiben ,mit fällt\nnichts ein?\n Wir können nicht nur joggen ,sondern auch Radfahrren ,was denkst du?\n Ja ,Ich jogge gern , aber hast du Vorschläge zum Essen ,oder Trinken?\n Ja ,darum kann ich mich kümmern ,und was ist mit dir?\n Ja, natürlich werden wir zu spanischer Musik tanzen, das ist mein Favorit\n,was ist mit dir?\n Ich kann auch ein paar Getränke mit bringen ,das wird bestimmt jedem\nschmecken ,Übrigens , Wie viel sollten wir für die Olympiade bezahlen?\n Ungefähr 25 Euro pro Persom ,aber mit welchen Verkehrsmittle können\nwir fahren?\n Ich bevorzuge den Zug ,damit wir die Natur genießen können ,Außerdem\nist er schneller und bequemer ,was denkst du darüber?\n Du hast Recht ,ich glaube das wird bestimmt ein toller Ausflug.\n Das glaube ich auch ,ich wünsche dir Hals und Beinbruch.\n Eben falls.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.988,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "nachsten"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 346,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "* Hauskauf *\n Teilnehmer A\n- Ich habe einen Beitrag zum Thema *HausKauf* gelesen.\n- Die Person die sich äußert heißt *Silke Kühne*.\n- Sie ist 39 Jahre Alt ,und arbeitet als Rechtsanwältin.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.53
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 51,
+    "sample_missing": [
+     "aber",
+     "andere",
+     "auch",
+     "außerdem",
+     "berichitet",
+     "berichten",
+     "damn",
+     "darüber",
+     "dass",
+     "dazu",
+     "drei",
+     "eigenen",
+     "eine",
+     "einer",
+     "erfahrungen",
+     "erwas",
+     "erzahlen",
+     "garten",
+     "gesprachspartner",
+     "gesprächspartne",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "haben",
+     "haoskauf",
+     "hrer"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 347,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Frau *Kühne* bevorzugt ihr eigenes Haus zu besitzen.\n- Sie hat seit 3 Jahren ein neues Haus gekauft.\n- Obwohl das Haus sehr teuer ist ,bleibet es besser als jeden Monate zu zahlen.\n- Es gibt sowohl viele Plätze für die Kinder ,als auch einen scönen Garten davor.\n***************************************************************\n*Meinung*\n- Ich habe eine ähnliche Meinung wie *Silke* ,es ist besser ,wenn ich\nmein eigenes Haus habe ,weil ich Stabilität mag .\n- Ich möchte nicht nur eine große Familie gründen ,sondern auch viele\nKinder haben ,deshalb brauche ich ein großes Haus.\n- Ich bevorzuge auch mein Geld an meinem eigenen Haus zu anlegen\n ,statt jeden Monat eine Miete zu zahlen.\n***************************************************************\n*Erfahrung*\n Mein Väter hat sein eigenes Haus gekauft ,damit ich nach meiner\nHeirat bei ihm wohne.\n Ich arbeite in der Nähe von zu Hause ,und lebe also mit meiner\n  Familie in unserem eigenen Haus.\n Ich möchte auch eine große Familie gründen ,das machen wir\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.986,
+    "ocr_words_missing_from_textlayer": 4,
+    "sample_missing": [
+     "stabilitat",
+     "yyyy",
+     "yyyyy",
+     "yyyyyy"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 348,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "immer in meinem Heimatland.\n Ich bevorzuge Stabilität und Familienleben ,Das macht mir viel Spaß.\n***************************************************************\n Teilnehmer B\n- Ich habe auch einen Beitrag von *Jörg Göbel* gelesen.\n- Er ist 30 Jahre Alt .und arbeitet als Elektroingenieur.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.51
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 57,
+    "sample_missing": [
+     "allein",
+     "andere",
+     "ausland",
+     "außerdem",
+     "berichten",
+     "berichtet",
+     "beruflichen",
+     "brauche",
+     "dann",
+     "darüber",
+     "dazu",
+     "denn",
+     "eigenen",
+     "eine",
+     "einer",
+     "erfahrungen",
+     "erzählen",
+     "etwas",
+     "frage",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "gründen",
+     "haben",
+     "haus",
+     "hauskauf"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 349,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "***************************************************************\n Herr *Göbel* bevorzugt kein eigenes Haus zu besitzen.\n Wegen seiner Arbeit bleibt er nicht lange in derselben Wohnung.\n Er hat weder Frau ,noch Kinder ,deswegen braucht er nicht so viel Plätz zu leben.\n***************************************************************\n*Meinung*\n* Ich gehe ganz d´accord ,ich finde es besser ,wenn ich ein Haus miete.\n* Ich mag viel reisen ,damit ich verschiedene Kulturen kennenlerne\n   ,deshalb bleibe ich nicht lange in derselben Wohnung.\n* Ich bin auch am Anfang meiner Karriere ,deswegen habe ich nicht\n  genug Geld ,um mein eigenes Haus zu kaufen.\n* Ich habe weder Frau noch Kinder ,falls ich in eine neue Stadt reisen\n möchte ,wird es einfach ,eine Wohnung für eine Person zu finden\n ,aber das ist sehr schwer wenn ich eine große Familie lebe.\n***************************************************************\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 350,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Erfahrung*\n- Damit habe ich auch gute Erfahrungen.\n- Bevor ich mein Studium beendete, lebte ich mit meiner Familie in\nunserem eigenen Haus ,dadurch habe ich viel Geld gespart.\n- Und jetzt wegen meiner Arbeit ,bin ich viel unterwegs ,deshalb kann\nich mein Haus nicht kaufen\neigenes Haus zu kaufen ,sondern auch eine große Familie\n                                               zu gründen.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    "- Aber nach meiner Pensionierung **تقاعد, plane ich nicht nur mein"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.971,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "aber",
+     "iochschul",
+     "nach",
+     "pensionierung",
+     "plane"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  }
+ ]
+}

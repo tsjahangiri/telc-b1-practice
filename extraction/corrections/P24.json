@@ -1,0 +1,162 @@
+{
+ "manual": {
+  "L1": {
+   "type": "lesen1",
+   "pages": [
+    356,
+    357
+   ],
+   "instructions": "Lesen Sie die Überschriften a - j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.Sie können jede Überschrift nur einmal benutzen Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.",
+   "headings": [
+    {
+     "key": "a",
+     "text": "Der öffentliche Verkehr auf einen Blick."
+    },
+    {
+     "key": "b",
+     "text": "Türen auf für fremde Kulturen."
+    },
+    {
+     "key": "c",
+     "text": "Ski fahren in der Schweiz."
+    },
+    {
+     "key": "d",
+     "text": "Schlank werden und trotzdem gut essen."
+    },
+    {
+     "key": "e",
+     "text": "Herr Ober, es schmeckt mir nicht!\", sagen nur wenige Gäste."
+    },
+    {
+     "key": "f",
+     "text": "Die schönsten Bahnstrecken in Deutschland."
+    },
+    {
+     "key": "g",
+     "text": "Die Deutschen beschweren sich sofort"
+    },
+    {
+     "key": "h",
+     "text": "Wanderungen im Schnee."
+    },
+    {
+     "key": "i",
+     "text": "Hauptsache es schmeckt - Gesundheit ist Nebensache"
+    },
+    {
+     "key": "j",
+     "text": "Immer beliebter: Studienreisen in die Schweiz"
+    }
+   ],
+   "texts": [
+    {
+     "num": 1,
+     "text": "Es stimmt : Wir essen einfach zu viel Fett, zu viel Fleisch und zu wenig Ballaststoffe. Doch die wenigsten scheint das zu kümmern . Die Hausmannskost mit Kohlrouladen , Schweine braten und Currywurst sind nach wie vor die Lieblingsgerichte der Deutschen. Und nur jeder Fünfte will sich der Figur zuliebe beim Essen einschränken . Das ergab die neueste Umfrage der Gesellschaft für Konsumforschung über - Trends in der Ernährung .\n( aus einer deutschen Zeitung )"
+    },
+    {
+     "num": 2,
+     "text": "Sämtliche Informationen zu den Bahnlinien und ausgesuchten Busverbindungen in der Bundesrepublik können Sie in gesammelter Form auf der Webseite des Verkehrsclubs Deutschland ( www.vcd.net ) finden . Unter dem Menüpunkt Fahrpläne Bus und Bahn Deutschland \" können Sie die wichtigsten Daten zum Fernverkehr, zu Regional- und S Bahnen sowie zu Buslinien abrufen . Per Suchbefehl erhalten Sie außerdem Auskunft über Verkehrsverbunde und rund 8000 Bahnhöfe in Deutschland . www.vcd.net\n( aus einer deutschen Zeitung )"
+    },
+    {
+     "num": 3,
+     "text": "Immer mehr Gäste in den Wintersportorten wollen auch in der kalten Jahreszeit ihrem Hobby, dem Wandern , frönen und suchen Freude und + Erholung abseits des Pistenrummels. Sie finden beides auf markierten und vom Schnee geräumten Winterwanderwegen in den Bergen . Der Autor Emanuel Balsinger stellt drei Dutzend Routen in der Schweiz vor und liefert sämtliche Informationen zu einfachen Spaziergängen im Schnee oder anspruchsvollen , längeren Wanderungen. Das Buch kostet CHF 34,80. Erhältlich im Buchhandel oder direkt bei : Werd Verlag , Postfach , 8021 Zürich.\n( aus einem Schweizer Nachrichtenmagazin )"
+    },
+    {
+     "num": 4,
+     "text": "Der Service im Restaurant ist schlecht , das Essen lauwarm und mäßig , Beschweren Sie sich ? Nein ? Dann befinden Sie sich in großer Gesellschaft. Nach dem Ergebnis einer Studie der Bundesforschungsanstalt für Ernährung hat nur jeder Dritte beim Anblick des bestellten Menüs daran gedacht, sich zu beschweren . Wenige von ihnen machten ihrem Ärger auch tatsächlich Luft . Die übrigen zwei Drittel hielten lieber still, weil sie den Aufwand scheuten , keine Zeit hatten oder es peinlich fanden . Dabei hatten die Aufmüpfigen durchweg Erfolg . Die meisten erhielten eine Ersatzleistung. Seltener gab's eine Entschuldigung und noch seltener Preisnachlass.\n( aus einer deutschen Zeitung )"
+    },
+    {
+     "num": 5,
+     "text": "Die Jugendaustausch - Organisation AFS Interkulturelle Programme Schweiz \" sucht Familien , die während eines Jahres Schüler und Schülerinnen aus dem Ausland beherbergen möchten. Die 16- bis 19 - jährigen Jungen und Mädchen kommen vorwiegend aus Neuseeland und Australien , aber auch aus Südafrika, Chile , Simbabwe , Costa Rica und Kolumbien . In ihrem Austauschjahr möchten sie unsere Kultur und Sprache kennen lernen. Die Gastfamilien bieten kostenlos Unterkunft und Verpflegung . Es braucht ein offenes Herz, etwas Mut und Humor. Wer sich gerne mit neuen Gedanken und Menschen aus fremden Kulturen auseinandersetzt , wendet sich an : AFS Interkulturelle Programme Schweiz CH 8037 Zürich , Langstr . 4 Tel .: 01/2116041 ; Fax 01/2122012 E - Mail : info@afs.ch Internet : www.afs.ch\n( aus einer Schweizer Zeitung )."
+    }
+   ]
+  }
+ },
+ "sections": {
+  "L1": [
+   356,
+   357
+  ],
+  "L3": [
+   360,
+   361
+  ]
+ },
+ "fixes": [
+  [
+   "L2",
+   "Susanne Müller\"",
+   "Susanne Müller seinen Geburtsort.\""
+  ],
+  [
+   "L2",
+   "## seinen Geburtsort.\\n",
+   ""
+  ]
+ ],
+ "ads_manual": {
+  "page": 361,
+  "ads": {
+   "a": "OBER-GOMS\nWandern im Wallis\n08.–10. Juni Fr. 425\n18.–25. August Fr. 750\n22.–28. September Fr. 750\nHalbpension/Führungen/\nWanderungen/Klettertouren mit\ngeprüften Bergführern\nHotel Walser\n3988 Ulrichen\nTel.: 027/973 21 22\nFax: 027/973 21 29\nwww.goms.ch/hotel-walser",
+   "b": "Ausstellung\n„Märchen – Mythen –\nErzählungen“\nAcht Künstlerinnen zeigen ihre\nArbeiten\nvom 2. bis 30. Juni in Thun\nDie Arbeiten werden in der Zeit\nvom 2. bis 30. Juni in Schau-\nfenstern der Innenstadt gezeigt.\nVernissage:\n2. Juni, 19.30 Uhr\nSchibenstrasse 21 – Thun\nTel. 033 222 02 47",
+   "c": "Chocolat-Werbung\nKULTURTIPP:\nIm Rahmen der Ausstellung „Chocolat-Tobler:\nDie Geschichte der Schokolade von 1899 bis\nheute“ präsentieren und kommentieren Christian\nJacquet und Fritz Kobi im Kornhausforum alte\nund neue Chocolat-Tobler-Werbefilme.\nBern:\nKornhausforum 19 Uhr\nMehr Ausgehtipps in der „Berner Woche“ und im\nInternet unter www.BernerWoche.ch",
+   "d": "Sarazena\nZermatt\nHerzlich willkommen in unserem\ngemütlichen Ferienhotel in zentraler Lage!\nPerfekt ausgestattete Zimmer\nmit allem Komfort, Fitnessraum,\nTennishalle, Schwimmbad,\nreichhaltiges Frühstücksbuffet.\nBruno & Catherine Wyrsch-Zurniwen\nTel. 027/967 44 41 · Fax 027/967 63\n25\nInternet: www.hotel-sarazena.ch\nE-Mail: sarazena.zermatt@bluewin.ch",
+   "e": "DAS ASCHENPUTTEL\nCinderella, Cenerentola, Aschenputtel\n– einmal erzählt, einmal gespielt:\nKULTURTIPP:\nDie Schriftstellerin\nElke Seidenreich\npräsentiert\nzusammen mit der Basel Sinfonietta\nden bekannten Märchenstoff\nauf der Bühne\nTheaterhalle Bern, 20.30 Uhr",
+   "f": "SCHWEIZER\nFERIENORT\nZERMATT\nErholung pur im Naturfreunde-Hotel Zermatt\n• Herrliche Wanderwege in den Bergen\n• Vorzügliche Küche\n• Eigener Bahnanschluss\nNATURFREUNDE-HOTEL ZERMATT\nDaniela + René Zimmermann\nTel. 027 967 27 88 · Fax 967 60 29\nzermatt@spectraweb.ch",
+   "g": "Tierpark Goldau\n... ein Besuch, der sich lohnt!\n• Freilaufzone\n• Abenteuerspielplatz\n• Restaurant\n• 365 Tage im Jahr offen\nEintritt frei für Begleitpersonen\nvon Gruppen ab 12 Personen\nTel. 041-855 50 00\nwww.tierpark.ch",
+   "h": "DER\nFEURIGE\nELIAS\nHistorische Lokomotiven und Waggons, jetzt\nausgestellt im Bahnmuseum WORB\nFührungen für Kinder und Erwachsene:\nJeden Samstag und Sonntag 11:00 Uhr und 16:00 Uhr\nInfos: RBS, 3048 Worb\nTelefon: (031) 925 55 55",
+   "i": "Geöffnet:\nMo.–Fr. 9.00–19. Uhr Sa. 9.00–14.00 Uhr\nANDREAS TIERWELT\n• Vögel – Nager – Pflanzen\n• Warm- und Kaltwasserfische\n• Futter und Zubehör für alle Tierarten\n• Aquarien und Terrarien\n• Fachberatung\nKreuzgasse 14\nCH 4500 Solothurn\nTel. 032 622 20 20\nFax 032 621 52 32",
+   "j": "TANZ IMPULSE\nSchule für zeitgenössischen Tanz,\nklassisches Ballett, Malen und Tanz\nLaufendes Kursangebot für Anfänger und\nFortgeschrittene, Einführungskurse zum\nKennenlernen, ganzheitliche Bewegungsschule.\nOffene Gruppen für Kinder, Jugendliche und\nErwachsene, max. 10 Teilnehmerinnen.\nInformation und Beratung:\ntanz impulse\nTel. 027 967 18 18\nwww.tanz-impulse-bern.ch",
+   "k": "JÄGGI BUCHHANDLUNG\nDienstag 8.5., 20 Uhr\nINGRID NOLL (Live im Loeb)\ndie erfolgreichste und ungewöhnlichste\ndeutsche Krimiautorin liest aus ihrem\nunheimlichen Werk „Selige Witwen“.\nEintritt Fr. 10,00\nTiketCorner.ch\n0848 800 800\nVorverkauf 2. UG im Loeb Bern\nTelefon 031 320 20 20\nEingang Spitalgasse\nTüröffnung 30 Min. vor Beginn",
+   "l": "Viking-Tours\nFlussfahrten auf der Aare\ntägliche Fahrten von Mai bis Sep.\nAbfahrt der Schiffe: 11 Uhr, 14 Uhr, 16 Uhr\nTreffpunkt: Thun/Schwäbis Schiffs-\nsteg\nPreise: 43 Franken\nSpezialangebot: Abendfahrten (Rückkehr\n23 Uhr), Tanz an Bord,\nSpezialangebote für\nSenioren\nTel. 01 434 33 66 · Fax: 01 434 33 44\nviking@viking.ch\nwww.viking.ch"
+  }
+ },
+ "uncertain": {
+  "L3": [
+   {
+    "location": "p361, ad f (small print)",
+    "note": "Bullet lines and e-mail address very small; 'Herrliche Wanderwege in den Bergen / Vorzügliche Küche / Eigener Bahnanschluss' and 'zermatt@spectraweb.ch' read with low confidence."
+   },
+   {
+    "location": "p361, ad j",
+    "note": "Small grey text partly overlaid by a figure drawing; 'www.tanz-impulse-bern.ch' and 'Teilnehmerinnen' low confidence."
+   },
+   {
+    "location": "p361, ad d",
+    "note": "Surname 'Wyrsch-Zurniwen' low confidence."
+   }
+  ],
+  "SB1": [
+   {
+    "location": "p362, sentence with gap 27",
+    "note": "Source text is incomplete: 'Allerdings (27)' is followed directly by 'Ich telefonisch nur über Handy erreichbar.' — a line appears to be missing in the source. Reproduced as printed; not reconstructed."
+   }
+  ]
+ },
+ "notes": {
+  "L1": [
+   "Pages 356–357 are image-only (screenshots); text transcribed with OCR and checked against the image.",
+   "The five texts are not numbered in the source; numbered 1–5 in printed order (top to bottom), consistent with the answer key.",
+   "Answer key p368: the entry '2 A' is set in a different font and was not parsed automatically; read visually from the key page (1 I, 2 A, 3 H, 4 E, 5 B)."
+  ],
+  "L3": [
+   "Ads page p361 is a photo of a printed page; ads transcribed manually from 230-dpi crops with OCR assistance."
+  ]
+ },
+ "verified": {
+  "L1": true,
+  "L2": true,
+  "L3": true,
+  "SB1": true,
+  "SB2": true
+ },
+ "solution_fixes": {
+  "L1": {
+   "2": "a"
+  }
+ },
+ "paper_notes": [
+  "P24 is a duplicate of P04 (identical exercises and answer key)."
+ ]
+}

@@ -1,0 +1,20 @@
+0.090 0.012 1.00	- Frau *Polanski* bevorzugt einen besten Freund zh haben.
+0.137 0.012 1.00	- Sie sagt ,dass sie ihre beste Freundin seit der Kindheit kennt.
+0.182 0.012 1.00	- Obwohl sie in verschiedenen Städten leben ,bleiben sie immer im Kontakt.
+0.225 0.012 1.00	- Sie können nicht nur sich problenlos verstehen ,sondern auch Freunden und
+0.254 0.014 1.00	Sorgen teilen.
+0.299 0.012 1.00	- Außerdem streiten sie sich noch nie.
+0.342 0.012 1.00	***************************************************************
+0.384 0.016 1.00	*Meinung*
+0.433 0.014 1.00	- Ich bin derselben Meinung wie *Sandra*
+0.483 0.012 1.00	- Ich finde es wichtig ,wenn man einen Freund seit der Kindheit hat
+0.531 0.021 1.00	,und mit ihm im Kontakt bleibt.
+0.578 0.014 1.00	-Heutzutage ist es schwer ,einen treuen Freund zu finden.
+0.601 0.628 0.30	&chu
+0.620 0.010 0.50	- Ab und zu braucht man einen Freund, der seine Geheimnisse * ,u/*
+0.673 0.025 1.00	mit Ihnen teilt.
+0.722 0.012 1.00	- Ich finde das Leben ohne Freunde langweilig
+0.767 0.010 0.50	**********
+0.767 0.150 0.30	k*******
+0.767 0.458 0.30	***.***:
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

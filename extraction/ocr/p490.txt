@@ -1,0 +1,15 @@
+0.090 0.041 1.00	*Erfahrung*
+0.126 0.010 1.00	• Damit habe ich auch gute Erfahrungen.
+0.158 0.014 1.00	• In meinem Heimatland mussen wir heiraten ,damit wir mit einer
+0.205 0.043 1.00	Frau leben.
+0.248 0.008 1.00	• Wir sind Muslime ,und das ist in unserer Religion nicht erlaubt.
+0.321 0.016 0.50	• Ich bin noch Ledig,aber falls ich heirate, möchte ich eine wonderbar
+0.378 0.047 1.00	Hochzeit machen.
+0.410 0.016 1.00	• Ich bin der Meinung ,dass ich mit meiner Familie,und meinen
+0.440 0.045 1.00	Freunden feiern soll ,und viel Spaß haben.
+0.474 0.016 1.00	• Ich weiß ja ,dass die Hochzeit viel kostet ,aber ich heirate nicht
+0.506 0.045 1.00	nicht jeden Tag.
+0.533 0.016 0.50	• In meinem Heimatland feiern wir gern ,und konkorrieren* wåli*
+0.540 0.554 0.50	ihschul
+0.570 0.045 1.00	um die beste Hochzeit.
+0.897 0.117 1.00	m.com/mahmoudemad007

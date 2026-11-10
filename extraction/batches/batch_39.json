@@ -1,0 +1,298 @@
+{
+ "batch": 39,
+ "pages": [
+  381,
+  390
+ ],
+ "records": [
+  {
+   "page": 381,
+   "paper": "P25",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\nSchweiz\nSchmidt\nUrlaub\n21 b\nIhnen\n1 J\n41 +\n22 b\nwas\n2 C\n42 +\n23 b\nObwohl\n3 B\n43 -\n24 b\nmit\n4 I\n44 -\n5 E\n25 a\nerst\n45 +\n26 b\nsondern\n27 a\nder\n28 b\num\n29 b\nbei\n30 b\nmir\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nKarl Popper\nessen\nSchütz\n6\nB\n46 -\n31 H\nSONDERN\n7\nA\n47 +\n32 F\nSAGT\n8\nB\n48 -\n33 B\nBEIM\n9\nB\n49 +\n34 M WELCHEN\n10 A\n50 -\n35 G\nSOLLTE\n51 -\n36 K\nWEGEN\n52 +\n37 I\nVON\n53 -\n38 A\nAUF\n54 +\n55 -\n39 N\nWÜRDE\n40 L\nWEIL\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\nMöbel\nMannheim\n56 +\n11 C\n12 X\n57 -\n58 -\n13 A\n14 L\n59 -\n15 J\n60 +\n16 G\n17 X\n18 D\n19 K\n20 F",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.92,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "telcc"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P25 compared on legible contact sheet; identical to verified P01 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 382,
+   "paper": "P26",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\na) Zufriedenheit im Job schützt vor Stress\nb) Erfolgreiche Männer können auch gute Väter sein\nc) Keiner lacht so fröhlich wie der Weihnachtsmann\nd) Wie Männer und Frauen lachen\ne) Weniger Arbeit – weniger Stress\nf) Schlechte Nachrichten? Sagen Sie es mit einem Lächeln\ng) Der Beruf ist für Männer wichtiger als die Familie\nh) Auch ältere Menschen leiden unter Stress\ni) Frauen reagieren besser auf schlechte Nachrichten als Männer\nj) Mit 70 Jahren macht das Leben am meistens Spaß",
+   "arabic_labels_excluded": [
+    "الضحك (مع اريس)"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.93,
+    "ocr_words_missing_from_textlayer": 7,
+    "sample_missing": [
+     "aeruris",
+     "chul",
+     "manner",
+     "rami",
+     "samner",
+     "vater",
+     "wichier"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 383,
+   "paper": "P26",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. Frauen lachen auf viele Arten Sie kichern glucksen und manchmal singen sie fast Bei Männern dagegen\nkommt das viel seltener vor. Aber gemeinsam ist Männern und Frauen, dass sie in Vokalen lachen die\nim Mundzentrum gebildet werden. Und das ist entscheidend: Nur wenn die Vokale im Mundzentrum\ngebildet werden, ist das Lachen für uns fröhlich und positiv. Damit ist bewiesen, dass das Lachen vom\nWeihnachtsmann, dass wie eine tiefes Ho, ho , ho klingt. Kaum als fröhlich empfunden wird. Denn\ndieser Laut wird im hinteren Teil des Mundraums gebildet.\n(aus einer deutschen Zeitung)\n2. Viel Arbeit, viel Stress. Wer viel arbeitet muss nicht unbedingt gestresst sein. Frauen in medizinischen\nBerufen zum Beispiel klagen trotz teilweise hoher Belastung deutlich weniger über stressbedingte\nKrankheiten als Raumpflegerinnen, Kindergärtnerinnen oder Berufsschullehrerinnen. Dies zeigt eine\nUntersuchung des Hamburger IPO – Instituts, das für eine Studie 1000 Frauen und Männer befragt hat.\nVor Stress schützen laut Studie ein angenehmes Betriebsklima, ein gutes Verhältnis zur Chefin oder\nzum Chef und die Möglichkeit, die eigene Arbeit selbstständig zu planen.\n(aus einer deutschen Zeitung)\n3. Ein neues Buch zeigt, wie Männer Fähigkeiten aus dem Arbeitsleben auf die Erziehung übertragen\nkönnen und so zu erfolgreichen Vätern werden. Da wird die gemeinsame Kindererziehung zur\nPartnerarbeit (oder sogar zum Joint Venture) geschicktes Verhandeln heißt, das Kind zu überzeugen,\ndass sie Zähne geputzt werden müssen, und der Familienurlaub hat alle Qualitäten einer Tagung oder\neines Seminars: Man erhält die Gelegenheit, die Kinder intensiv zu studieren.\n(aus einer deutschen Zeitung)\n4. Eine Studie der Universität Essex hat ergeben dass wir mit siebzig Jahren am glücklichsten sind. Zwar\nhaben die meisten Menschen in diesem Alter gesundheitliche Probleme, aber dafür genießen sie viel\nFreizeit und haben keinen Stress mehr. Deshalb macht ihnen das Leben so viel Spaß wie nie zuvor. Die\nStudie besagt auch, dass wir einen ersten Höhepunkt der Lebensfreude mit fünfzehn Jahren erreichen.\nDanach geht es bergab zwischen dreißig und fünfzig Jahren tragen wir am meisten Verantwortung das\nLeben ist geprägt von Sachzwängen.\n(aus einer deutschen Zeitung)\n5. Warum bleiben manche Managerinnen erfolgreich, obwohl sie Nachrichten mitteilen, die ihr Publikum\nlieber nicht hören möchte? Ganz einfach: Sie verkaufen die schlechte Nachricht mit Humor. Ein\nLondoner Soziologe hat während einer Studie beobachtet, dass gerade bei Reden unangenehmen\nInhalts oft heiter gelacht wird. Das Lachen wird bewusst provoziert, etwa durch bestimmte Wörter\noder durch ein eigenes breites Lächeln. Die fröhliche Stimmung soll dafür sorgen, dass die Zuhörenden\ndas Gefühl haben würden mehr wissen als alle anderen.\n(aus einer deutschen Zeitung)",
+   "arabic_labels_excluded": [
+    "الضحك (مع اريس)"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 384,
+   "paper": "P26",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nInformationsverhaltungen sind wichtige Grundlagen für die\nBerufswahl\nDie Entscheidung, welchen Beruf man erlernen will, ist nicht leicht. Große) Firmen bieten spezielle Information\nVeranstaltung für Schülerinnen und Schüler an. Wir haben einen Info – Nachmittag der Bank Credit Suisse in Bern\nbeucht und uns danach bei den Jugendlichen umgehört.\n20 Schülerinnen und Schüler kann Irene Leiser um Punkt 13 Uhr zu diesem Info – Nachmittag Begrüßen. Die\njugendlichen kommen aus dem ganzen Kanton Bern und haben sich vorher bei der Bank angemeldet. Viermal im\nFrühling und zwei weitere Male im August werden diese Info Veranstaltungen bei der Credit Suisse durchgeführt. Sie\nrichten sich vor allem an Schülerinnen und Schüler aus der 8. Klasse. Irene Leiser hat gute Erfahrungen mit diesen\nVeranstaltungen gemacht die Jugendlichen können danach ihre Erwartungen an den Beruf und die Ausbildung an die\nRealität anpassen.\nIm ersten Teil des Nachmittags erklärt Frau Leiser die Hauptaufgaben einer Bank und stellt die Firma vor. Danach treten\ndie Lehrlinge in Aktion: Daniel Sommer und Linda Schmidt sind im Zweiten Lehrjahre und erzählen aus ihrem\nBerufsalltag. Dieser Teil gefällt den Schülerinnen und Schülern besonders gut.\nDie Jugendlichen identifizieren sich mit den Lehrringe und sehen, wo sie selber in zwei Jahren beruflich stehen könnten.\nDas fasziniert sehr zum Schluss folge Informationen darüber, welche Voraussetzungen man mitbringen muss und wie\nman sich bewirbt. Um 16:30 Uhr schließt Frau Leiser die Veranstaltung. Sie ist zufrieden mit dem Nachmittag. Die\nGruppe war sehr aufmerksam. Interessierten Schülerinnen und Schüler gibt sie folgenden Tipp: Gehen Sie auch noch zu\nanderen Firmen. Fragen Sie dort möglichst viele Lehrlinge und Mitarbeiter nach ihren Erfahrungen Wir haben danach\neine Schülerin und einen Schüler befragt wie sie den Nachmittag erlebt haben:\nTugba Kaptan aus Biel, 8. Klasse\nMich fasziniert das Umfeld einer Bank. Ich hätte mehr Leute bei der Arbeit sehen wollen zum Beispiel am Schalter. Aber\nder Tag hat mir weiter geholfen. Ich habe viele Dinge erfahren die ich bis her nicht gewusst habe. Solche Nachmittag ist\nideal weil da schulfrei ist.\nAlan Blank aus Mühleberg,8. Klasse\nDie Bank ist eigentlich mein Traumbiet und bietet mir nach der Lehre viele Entscheidungsmöglichkeiten. Ich habe mich\numgeschaut und mich über viele Beruf informiert. Jetzt weiß ich, dass ich eine Lehre in diesem Bereich machen will. Ich\nsuche nach der optimalen Lehrestelle. Eine Großbank wäre toll für mich. Dieser Nachmittag hat mir gefallen. Alles war\nsehr gut organisiert. Ich kann solche Veranstaltungen nur empfehlen . Was mir persönlich gefehlt hat, ist eine Führung\ndurch den Betrieb. Es ist wichtig zu sehen, wie das alles genau vor sich geht.",
+   "arabic_labels_excluded": [
+    "سلوك المعلومات"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "egiu",
+     "ähaglesl"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 385,
+   "paper": "P26",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Um Berufe kennenzulernen,\narbeiten Berner Schüler in den Ferien bei großen Firmen.\nA\nnehmen Berner Schüler an Informationsveranstaltungen von großen Firmen teil.\nsollen Berner Schüler zweimal jährlich ein Praktikum machen.\nC\n7. Frau Leiser\nerzählt aus ihrem Berufsalltag in der Bank.\nA\nstellt die wichtigsten Aufgaben der Bank vor.\nzeigt den Jugendlichen die ganze Firma.\nC\n8. An dem Informationsnachmittag\nbekamen die Jugendlichen eine Liste mit Bewerbungstipps.\nA\nwar die Gruppe interessiert und hat gut zugehört.\nwurden viele Fragen gestellt.\nC\n9. Tugba Kaptan\nfand es gut, dass sie am Schalter arbeiten durfte.\nA\nfand es schade, dass an diesem Nachmittag die Schule ausgefallen ist.\nhat viele Informationen bekommen.\nC\n10. Alan Blank\nmöchte später gern bei einer Bank arbeiten.\nA\nmöchte viele Dinge besser nicht selbst entscheiden.\nweiß noch nicht, was er machen will.\nC",
+   "arabic_labels_excluded": [
+    "سلوك المعلومات"
+   ],
+   "images": {
+    "count": 5,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.662,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "egiu",
+     "ähaglesl"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 386,
+   "paper": "P26",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Ihre Freund wollen einen Sprachkurs in Spanien machen und ihre Kinder mitnehmen.\n12. Ihr Auto ist kaputt und Sie brauchen jemanden, der es repariert.\n13. Sie wollen mit einem Videoprogramm Deutsch lernen.\n14. Sie wollen Ihrer Kursleiterin eine Kursabschlussreise vorschlagen.\n15. Ihr Fernseher ist kaputt. Sie wollen ihn reparieren lassen.\n16. Eine Bekannte hat eine neue Wohnung. Sie möchten ihr etwas für die Küche schenken.\n17. Sie suchen ein Geschenk für ein 6- jähriges Kind.\n18. Ihr Kind ist krank. Sie suchen einen Kinderarzt.\n19. Ihre Tante ist operiert worden. Jetzt ist sie wieder zu Hause und braucht spezielles Essen.\n20. Sie haben sich beim Tennis den Fuß verletzt und brauchen einen Arzt.",
+   "arabic_labels_excluded": [
+    "كورس اللغة"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 387,
+   "paper": "P26",
+   "section": "L3",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nmuten Leseverstehen und Sprachbausteine\na\n*** Spanisch lernen •..\nb\nAndalusien: Sevilla/Conil\nKombiangebot:\nEquador: Quito\nCan Ribes\nEinmal was erleben!\nKurs plus Unterkunft\nSpanischkurse • Urlaub • Seminare\nBildungsurlaub\nganzjährig, alle Niveaus\nSpanischkurse mit Kinderbetreuung\n2 Wochen ab 280 Euro\nin altem Landhaus in Katalonien\nKurse für Schüler\nWenn Sie mit Ihrer Klasse Abenteuer, Romantk, Natur\nSie mit uns Kanu fahren\npur und Gemeinschaftssport erleben woilen, dann soltten\nHCADÉMIA ATLANTIKA\nKontakt:\nCh. Eckhardt, Dellstr. 13,\n* wir orpanisieren für Sie die komplette Tour\nElbbecken 7 • 22299 Hamburg\nSeit 1984\n47051 Duisburg\n• Versicherungsschutz auf dem Wasser durch uns\n• Befreuung der Tour durch einen erfahrenen Kamuten\nTelefon: (0203) 287588\nTel. 040/477587\nFax: (0203) 21715\nAnmeidung und ausführliche information:\nAm Sportplatz 70 - 49459 Lembruch\nFax 040/477539\nTel.: 05447-525 • Fax: 05447-1772\nE-mail: spanisch@atlantika.net\nwww.atlantika.net\nRadio- und Fernsehtechnik GmbH\nschnell\nAutoreparatur\nund günstig\nSchrott-Autos\nSCHMIDT & MÜLLER\nunfall-Autos\nTV - HiFi - Video\nWir erledigen alles für Sie:\nReparaturen, Kabelanschlüsse,\nKupplung - TÜV - Untall\nAuspuff • Bremsen -AU\nAntennenbau, Satellitenanlagen\n•ANKAUF\nkaum Wartezeit\n• ABHOLEN\nLimesstraße 103\n81243 München\nFa. ASS\nRufen Sie uns an:\n• ABMELDEN\nTel. 089-8 71 20 20\nLandsberger Str. 328\nlelclon 54 644733\n2 (089) 8 63 39 75, 9-18 Uhr\nMail:\nFernseh-Schmidt@muenchen.de\nh\nPraxis Dr. W. Penners\nLiebevolle Geschenkideen\nFACHHANDEL\nOrthopäde • Chirotherapie - Sportmedizin\nfür Klein und Groß im\nGRÜN\nRothenfelserstraße 4 - München-Nesaubing\nHarlachinger\ngeöffnet von Montag bis Donnerstag B-13 Uar.\nKinderladen\nHaushaltsgeräte • Einbauküchen\nTermine nach Vereinbarung\nHaushaltswaren • Bestecke\nPorzellan und Glaswaren\nTelefon 87 04 01\nPuppendoktor - Wir reparieren Puppen\nGeschenke • Geschenkgutscheine\nund Stofftiere jeder Art\nund Hochzeitslisten\nVertretung in dringenden Nottällen:\nDr. Heyn - Telefon 8344025\nHeigeistr. 1 - Ecke Naupliastraße\nLeibistraße 9\nTelefon 089-644838\n82166 Lochham/München\nTel. 089-87 53 23\nAyeikochen??\nSemeianützige Gesellschaft der Landeshauptstaét mbl\nNein! Danke!\nK\nMÜNCHENSTIFT\nPiZZaAVANTI\nauch Sa + So warmes Essen\nwohnen und pfiegen in der Stadt\nHEIMSERVICEGUTUNDFRISCH\nWir bringen zu Ihnen ins Haus:\n• Werkfags eine warme Mahlzeit (mit\nPfiege zu Hause\nCHICKEN-AKTION\noder ohne Suppe)\n• an Samstagen, Sonntagen, Fefertagen\n• Chicken-Chips-Menü\nauf Wunsch tiefgefforen\njeweils mit gem. Salat und Getränk 6,20 Euro\n• Chicken-Wings-Menü\n• Normalkost, Schonkost, Djat, vegeta-\nrisch oder LUXUS - a la Carte\n• weit über 100 abwechslungsreiche\nmit gern. Salat und Getränk 7,20 Euro\n• Firmen-Menü, Pizza n. Wahl\nMenüs\n89 11 66-17\nTelefon\nTel. 89 66 90 99\n89 11 66-18\noder\nAmbulanter Dienst in Laim/ Pasing:\nLandsberger Straße 487 bei der Offenbachstr.,\nAlfons-Hoffmann-Haus\nMo.-Fr. 10-23 Uhr - Sa./So./Feiertag 11-23 Uhr\nCaritas-Zentrum Menzing\nAgnes-Bernauer-Straßle 185, 80687 München\nPizza AVANTI\nTelefon (089) 5 46 47-230\nHeimservice mit Stehimbiss\nÖkumenische Sozialstation\nPippinger Str. 97/ Nahe Verdistraße",
+   "arabic_labels_excluded": [
+    "كورس اللغة"
+   ],
+   "images": {
+    "count": 3,
+    "page_coverage": 0.97
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 226,
+    "sample_missing": [
+     "abenteuer",
+     "abholen",
+     "abmelden",
+     "abwechslungsreiche",
+     "agnes",
+     "aktion",
+     "alfons",
+     "alle",
+     "alles",
+     "altem",
+     "ambulanter",
+     "andalusien",
+     "ankauf",
+     "anmeidung",
+     "antennenbau",
+     "atlantika",
+     "auch",
+     "ausführliche",
+     "auspuff",
+     "autoreparatur",
+     "autos",
+     "avanti",
+     "ayeikochen",
+     "befreuung",
+     "bernauer"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Ads photo — same ad page as p161 (P13); transcription re-checked",
+   "uncertain": []
+  },
+  {
+   "page": 388,
+   "paper": "P26",
+   "section": "SB1",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 1\nLANGUAGE Tests\nLesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.\nMarkieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen\n……………………………………………………………………………………………………………………………………………………\nSchwarzenbek, den ……..\nLiebe Maria,\ndanke vielmals für die Einladung. Nächste Woche werde ich also (21) dir in Berlin sein. Ich\nfreue mich schon sehr (22) , denn schließlich haben wir uns fast ein (23) Jahr nicht gesehen.\nWie du ja weißt, wohne ich jetzt auf dem Land hier in der Nähe von Hamburg und das finde ich\nganz toll. (24) ich würde gern auch mal wieder in eine richtige Disko gehen. Mal wieder eine\nganze Nascht tanzen, das (25) mein Traum! Und zu zwei macht es viel (26) Spaß!\nWeißt du eigentlich, ob die Disko am Wittenberger Platz (27) existiert?\nLeider habe ich noch keine Ahnung, (28) ich in Berlin ankommen werde. Jedenfalls (29) ich\nversuchen, eine Mitfahrgelegenheit zu finden. Es gibt ja im Internet die Mitfahrzentrale, (30)\nso etwas organisiert. Also mache dir keine Sorgen, wenn ich etwas später komme!\nIch freue mich sehr auf dich!\nAlexandra\nA bei\nA Aber\nA auch\n21.\n24.\n27.\n30.\nA\ndas\nB nach\nB Sondern\nB noch\ndie\nC zu\nC Trotzdem\nC nur\nder\nC\n22.\nA\ndarauf\n25.\nA\nhätte\n28.\nA\nals\ndarum\nwäre\nwann\nB\nB\nB\ndazu\nwürde\nwenn\nC\nC\nC\nA\nA\nA\n23.\nhalbe\n26.\nam meisten 29.\ndarf\nB\nhalben\nganz\nsoll\nB\nhalbes\nmehr\nwill\nC\nC\nC",
+   "arabic_labels_excluded": [
+    "ماريا"
+   ],
+   "images": {
+    "count": 4,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "luts"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 389,
+   "paper": "P26",
+   "section": "SB2",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 2\nLANGUAGE Tests\nLesen sie den Text und schließen Sie\nLücken 31 – 40. Benutzen Sie die Wörter\n(a, o) Jedes Wort passt nur einmal.\nMarkieren Sie Ihre Lösungen für die\nAufgaben 31 – 40 auf dem\nAntwortbogen.\nFrankfurter Allianz\nBahnstr. 99\nMax Kuhne\nTel.: 069-951670\nFrankfurt, den …….\nNeuer Berater für Ihre Versicherungen\nSehr geehrter Herr Frankel,\nwir möchten Sie darüber informieren, (31) Ihre Versicherungen künftig von Herrn Max Kuhne bearbeitet\nwerden. Ihm wurden (32) Unterlangen übergeben.\nAlle Kundendaten (33) selbstverständlich streng vertraulich behandelt. Wenn Sie also (34) zu Ihren\nVersicherungen haben, wenden Sie sich in Zukunft bitte an Herrn Kuhne. Er berät und (35) Sie gern. Auch im\nSchadensfall (36) er Ihnen schnell und zuverlässig weiter. Im Übrigen möchten wir uns (37) einen Fehler in\nunserer letzten Beitragsrechnung entschuldigen. Leider ist (38) die Adresse von Herrn Kuhne nicht korrekt.\nSeine (39) Anschrift und Telefonnummer finden Sie auf diesem Brief oben rechts.\nWir danken (40) für Ihr Vertrauen.\nMit freundlichen Grüßen\nIhre Frankfurter Allianz\na ANTWORTEN d\nDORT\ng\nHABEN\nj\nIHRE\nm\nRICHTIGE\nb\nAUF\ne\nFRAGEN\nh\nHILFT\nk INFORMIERT\nn\nWERDEN\nc\nDASS\nf\nFÜR\ni\nIHNEN\nl\nOB\no\nZU",
+   "arabic_labels_excluded": [
+    "فرانكل ( التأمين )"
+   ],
+   "images": {
+    "count": 7,
+    "page_coverage": 0.25
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "msung"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 390,
+   "paper": "P26",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 1\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.\n…………………………………………………………………………………………………………………………………………………………\n41. Für die Sprechen ist es unwichtig, ob ihre Kinder in der Schule gut sind.\n42. Der Sprecher findet es wichtig, dass Eltern immer für ihre Kinder da sind.\n43. Die Sprecherin glaubt, dass sie mehr mit ihrer Tochter sprechen müsste.\n44. Es ist dem Sprecher wichtig, dass seine Kinder gesund leben.\n45. Der Sprecher möchte, dass sein Kind die eigenen Ideen realisieren kann.",
+   "arabic_labels_excluded": [
+    "طفال في المدرسة",
+    "الأ"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "kschull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P26; legible contact sheet — outside website scope",
+   "uncertain": []
+  }
+ ]
+}

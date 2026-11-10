@@ -1,0 +1,22 @@
+0.090 0.012 1.00	- Frau *Kühne* bevorzugt ihr eigenes Haus zu besitzen.
+0.132 0.012 1.00	- Sie hat seit 3 Jahren ein neues Haus gekauft.
+0.174 0.012 1.00	- Obwohl das Haus sehr teuer ist ,bleibet es besser als jeden Monate zu zahlen.
+0.215 0.012 1.00	- Es gibt sowohl viele Plätze für die Kinder ,als auch einen scönen Garten davor.
+0.256 0.010 1.00	***************************************************************
+0.298 0.016 1.00	*Meinung*
+0.340 0.012 1.00	- Ich habe eine ähnliche Meinung wie *Silke*
+0.349 0.643 1.00	,es ist besser ,wenn ich
+0.381 0.016 0.50	mein eigenes Haus habe ,weil ich Stabilitat mag •
+0.427 0.012 1.00	- Ich möchte nicht nur eine große Familie gründen ,sondern auch viele
+0.459 0.016 1.00	Kinder haben,deshalb brauche ich ein großes Haus.
+0.507 0.012 1.00	- Ich bevorzuge auch mein Geld an meinem eigenen Haus zu anlegen
+0.555 0.021 1.00	,statt jeden Monat eine Miete zu zahlen.
+0.600 0.012 0.50	***************************************************************
+0.644 0.016 1.00	*Erfahrung*
+0.696 0.012 1.00	• Mein Väter hat sein eigenes Haus gekauft ,damit ich nach meiner
+0.728 0.045 1.00	Heirat bei ihm wohne.
+0.760 0.014 1.00	• Ich arbeite in der Nähe von zu Hause ,und lebe also mit meiner
+0.810 0.031 1.00	Familie in unserem eigenen Haus.
+0.857 0.014 1.00	• Ich möchte auch eine große Familie gründen ,das machen wir
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007
+0.994 0.187 0.30	>YYyyyyУУ}}yyyyyyУУyy™yyyyyУУУУy}yyyyУУУУУ»»yУУУУУyyyyyyуy

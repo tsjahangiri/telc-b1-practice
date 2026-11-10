@@ -1,0 +1,20 @@
+0.103 0.090 1.00	Hörverstehen, Teil 2
+0.121 0.076 1.00	LANGUAGE Tests
+0.192 0.047 1.00	Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.
+0.211 0.047 1.00	Sie hören das Gespräch zweimal.
+0.231 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 46 - 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.250 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 46 - 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.272 0.047 1.00	falsch auf dem Antwortbogen.
+0.292 0.047 1.00	Lesen Sie jetzt die Aufgaben 46 - 55. Sie haben dazu 30 Sekunden Zeit.
+0.382 0.045 1.00	46. Mit einem Praktikum können sich Jugendliche auf das Studium vorbereiten.
+0.423 0.045 1.00	47. Herrn Mahlers Firma bietet jungen Leuten in verschiedenen Abteilungen ein Praktikum an.
+0.464 0.045 1.00	48. Herrn Mahlers Firma stellt alle Praktikanten nach der Ausbildung ein.
+0.504 0.045 1.00	49. Bei einer Bewerbung ist das Schulzeugnis für Herrn Mahler das Wichtigste.
+0.545 0.047 1.00	50. Praktikanten sollten selbst erkennen, wo man sie brauchen könnte.
+0.586 0.045 1.00	51. Herr Mahler meint, dass die Ideen der Praktikanten bei der Arbeit stören.
+0.626 0.047 1.00	52. Herr Mahler legt großen Wert auf Teamarbeit.
+0.666 0.047 1.00	53. Nach Frau Bachs Meinung verhalten sich Praktikanten im Betrieb oft wie in der
+0.708 0.076 1.00	Schuleoder an der Universität.
+0.749 0.045 1.00	54. Für den Praktikanten ist es gut, wenn er Interesse an der Arbeit zeigt.
+0.788 0.045 1.00	55. Herr Mahler empfiehlt den Praktikanten, das Team mit Fleiß und guter Laune
+0.828 0.076 1.00	zuunterstützen.

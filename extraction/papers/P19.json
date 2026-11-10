@@ -1,0 +1,541 @@
+{
+ "id": "P19",
+ "pages": [
+  271,
+  284
+ ],
+ "answer_key_page": 284,
+ "page_sections": {
+  "L1": [
+   271,
+   272
+  ],
+  "L2": [
+   273,
+   274
+  ],
+  "L3": [
+   275,
+   276
+  ],
+  "SB1": [
+   277
+  ],
+  "SB2": [
+   278
+  ],
+  "H": [
+   279,
+   280,
+   281
+  ],
+  "?": [
+   282,
+   283
+  ],
+  "LOES": [
+   284
+  ]
+ },
+ "exercises": [
+  {
+   "type": "lesen1",
+   "instructions": "Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.",
+   "headings": [
+    {
+     "key": "a",
+     "text": "Märchen-Festspiele in Bremen"
+    },
+    {
+     "key": "b",
+     "text": "Griechische Botschaft bietet Sprachkurse für Schüler"
+    },
+    {
+     "key": "c",
+     "text": "Universitätsstadt wird 300 Jahre"
+    },
+    {
+     "key": "d",
+     "text": "Wissenschaft: Von der Körpergröße hängt das Gehalt ab"
+    },
+    {
+     "key": "e",
+     "text": "Durch Handel reich geworden"
+    },
+    {
+     "key": "f",
+     "text": "Interessante Universitätsstadt mit hoher Lebensqualität"
+    },
+    {
+     "key": "g",
+     "text": "Latein in deutschen Schulen wieder beliebter"
+    },
+    {
+     "key": "h",
+     "text": "Wer wenig lacht, verdient auch weniger"
+    },
+    {
+     "key": "i",
+     "text": "Fremdsprachen: Schüler lernen nur Englisch und Französisch"
+    },
+    {
+     "key": "j",
+     "text": "Griechisch wird in deutschen Schulen kaum unterrichtet"
+    }
+   ],
+   "texts": [
+    {
+     "num": 1,
+     "text": "In Deutschland lernen nur ganz wenige Schüler Griechisch. Es sind insgesamt nur 0.14 aller Schüler. Vor 30 Jahren waren es noch 0,48 So berichtet die griechische Botschaft in Berlin in ihrem Europabericht. Griechisch wird meistens von Zwölftklässlern als dritte Fremdsprache neben Französisch und Englisch gewählt. Die wenigen Schüler, die Griechisch wählen, haben Verwandte in Griechenland."
+    },
+    {
+     "num": 2,
+     "text": "Dem Meer verdankt die Hansestadt Bremen ihre Bedeutung. Bremer Kaufleute und Seefahrer nutzten die günstige geografische Lage, um in aller Welt heimisch zu werden. Seit Generationenhaben sie Handel getrieben, so dass Geld in die Stadt. Dies steht man der Stadt heute noch an: das Alte Rathaus, das Kaufmannhaus, die historische Innenstadt. Außerdem war Bremen auch immer eine Heimat für natürlich das Märchen der Bremer Stadtmusikanten."
+    },
+    {
+     "num": 3,
+     "text": "Freiburg, die Hauptstadt des Schwarzwaldes, liegt in einer der sonnigsten Gegenden Deutschlands. Wo es so viel Sonne gibt , da ist auch viel Lebensfreude, und nicht zuletzt gehören auch badische Küche und badischer Wein zum Besten was in Deutschland geboten wird. Zum einmaligen Flair gemütlichen Universitätsstadt trägt auch ihre Lage bei. Frankreich und die Schweiz sind nicht weit entfernt. Die Stadt selbst lockt mit vielen alten Straßen mit zahlreichen Museen und Baudenkmälern. Über alles hinaus ragt die große Kirche, die nach 300 – jähriger Bauzeit 1513 vollendet wurde."
+    },
+    {
+     "num": 4,
+     "text": "In einer wissenschaftlichen Untersuchung hat man erforscht, warum bestimme Menschen mehr Geld verdienen als andere. Britische Wissenschaftler behaupten, größeren Menschen zahlt der Chef mehr. Im Laufe des vergangenen Jahres haben zwei weitere Untersuchungen festgestellt: Wer wenig lacht oder häufig mit Kollegen trinken geht, verdient mehr nur: Nicht lachen und mit Kollegen trinken, gehen das kann man lernen. Aber wachsen?"
+    },
+    {
+     "num": 5,
+     "text": "Das Statistische Bundesamt berichtet, dass in deutschen Schulen allgemein wieder mehr Latein gelernt wird. Allein in Thüringen hat sich die Anzahl in den letzten beiden Jahren verdoppelt Während der Tiefpunkt bei Latein im vorletzten Jahr erreicht war, wählen zurzeit wieder mehr Schüler Latein als erste Fremdsprache. Als vorteilhaft hat sich offenbar vor allem das wittenbergische Modell erwiesen, das Latein in der fünften Klasse mit einer modernen Fremdsprache (Französisch, Englisch usw.) kombiniert Allerdinges sind hier meist nur drei Stunden für beide Sprachen pro Woche vorgesehen. Das sei bei Weitem zu wenig, Kritisieren Lateinlehrer Weitem zu wenig kritisieren Lateinlehrer."
+    }
+   ],
+   "id": "P19-L1",
+   "section": "Leseverstehen, Teil 1",
+   "pages": [
+    271,
+    272
+   ],
+   "topic": "Märchenfestspiele",
+   "solution": {
+    "1": "j",
+    "2": "e",
+    "3": "f",
+    "4": "d",
+    "5": "g"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Text 1 contains the sentence 'Griechisch wird meistens von Zwölftklässlern ...' which also appears (out of place) in P03 text 1."
+   ],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen2",
+   "instructions": "Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.",
+   "title": "Leben",
+   "subtitle": "Das machen wir mit links",
+   "text": "Über eine Million Österreicher sind Linkshänder – und langsam setzen sie sich durch in der Rechtshänder – Welt\nSchau der macht das mit der linken Hand. Solche und ähnliche Kommentare hörte der gelernte Porzellanformer Gerhard Spur (51) von Besuchern, die die Porzellanmanufaktur im Wiener Augarten besichtigten und dem Künstler beim Herstellen eines Kunstwerkes zusahen – allerdings nur früher, als nur die rechte Hand die so genannte schöne Hand war, die man zum Arbeiten. Schreiben usw. verwenden durfte. Heute ist es offensichtlich normal, dass jemand mit der linken Hand Vasen aus Porzellan bearbeitet. Gerhard Spur wird jedenfalls nicht mehr bestaunt.\n## Links arbeiten\nGut 15 Prozent der Menschheit sind Linkshänder. Über die Gründe für Linkshändigkeit ist sich die Wissenschaft nicht einig. Fest steht nur. Wenn Kinder gezwungen werden, statt mit der linken Hand mit der rechten Hand zu schreiben, hat dies schwerwiegende Folgen. Dies führt zu Knoten im Kopf so die Linkshänder-Expertin Johanna Barbara Sattier. Spätestens wenn umgeschulte Kinder mit dem Lesen und Schreiben beginnen, macht sich das Chaos im Kopf bemerkbar. In der Schule ist es mittlerweile verboten, Linkshänder auf rechts umzuschulen. Probleme machen allerdings noch Arbeitsplätze, die nicht für Linkshänder geeignet sind, erklärt Erich Pospischill, Leiter des arbeitsmedizinischen Zentrums Mödling: Schon die Computermaus auf der falschen Seite führt zu rascherer Ermüdung, weil das Gehirn durch das ständige Umdenken zusätzlich belastet wird.\n## Lösungen im Betrieb\nDie Maschine, an der Slata Tanasic tagtäglich arbeitet, funktioniert von links unten nach rechts oben. Genau verkehrt für die 41- Jährige, die seit 21 Jahren im Seibert-Elektronikwerk arbeitet. Ich habe gesagt, dass ich mit der Maschine so nicht arbeiten kann. Und das wurde akzeptiert. Slata wurde in einen anderen Arbeitsbereich versetzt und macht jetzt Arbeiten, die auch mit der linken Hand möglich sind: Montieren und Vorbereiten der Bauteile.\n## Eltern können helfen\nBei Kleinkindern lässt sich nicht sofort erkennen, ob sie links- oder rechtshändig sind, sagt die Expertin Sattler: Viele Kinder ahmen zuerst die Tätigkeiten in unserer rechtshändigen Welt nach. Deshalb rät Sattler den Eltern, ihren Kinder beim Herausfinden ihrer Händigkeit zu helfen: Blumen gießen mit einer kleinen Kanne, einen Ball werfen – bei diesen Handlungen greifen Kinder automatisch mit der starken Hand zu. Und dann sollten Eltern bereits erste Konsequenzen ziehen.",
+   "questions": [
+    {
+     "num": 6,
+     "stem": "Gerhard Spur",
+     "options": {
+      "a": "arbeitet heute nur noch mit der rechten Hand.",
+      "b": "arbeitet früher mit Linkshändern zusammen.",
+      "c": "stellt seine Kunstwerke mit der linken Hand her."
+     }
+    },
+    {
+     "num": 7,
+     "stem": "Heute ist wissenschaftlich bewiesen, dass",
+     "options": {
+      "a": "es eine klare Ursache für Linkshändigkeit gibt.",
+      "b": "Linkshänder besser im Lesen und Schreiben sind.",
+      "c": "Linkshänder das Schreiben mit der rechten Hand schadet."
+     }
+    },
+    {
+     "num": 8,
+     "stem": "Erich Pospischill meint, dass",
+     "options": {
+      "a": "es für Linkshänder sehr oft keine geeigneten Arbeitsplätze gibt.",
+      "b": "Linkshänder vor allem im Computerbereich eingesetzt werden.",
+      "c": "Linkshänder wesentlich öfter krank sind."
+     }
+    },
+    {
+     "num": 9,
+     "stem": "Frau Slata Tanasic",
+     "options": {
+      "a": "arbeitet seit 41 Jahren in der gleichen Firma.",
+      "b": "erledigt alle Arbeiten mit der linken Hand.",
+      "c": "ist seit 21 Jahren an der gleichen Maschine beschäftigt."
+     }
+    },
+    {
+     "num": 10,
+     "stem": "Laut der Linkshänder-Expertin Johanna Sattier",
+     "options": {
+      "a": "haben Linkshänder meistens auch linkshändige Eltern.",
+      "b": "kann man Linkshändigkeit bei kleinen Kindern nicht gleich entdecken.",
+      "c": "sind linkshändige Kinder besonders gut im Ballspielen."
+     }
+    }
+   ],
+   "id": "P19-L2",
+   "section": "Leseverstehen, Teil 2",
+   "pages": [
+    273,
+    274
+   ],
+   "topic": "Linkshänder",
+   "solution": {
+    "6": "c",
+    "7": "c",
+    "8": "a",
+    "9": "c",
+    "10": "b"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen3",
+   "instructions": "Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.",
+   "situations": [
+    {
+     "num": 11,
+     "text": "Sie lieben Krimis und möchten daher einer Krimiautorin beim Vorlesen zuhören."
+    },
+    {
+     "num": 12,
+     "text": "Ihr Bekannter würde gerne am Wochenende ein Boot mieten."
+    },
+    {
+     "num": 13,
+     "text": "Sie möchten sich in einem Hotel in den Bergen erholen und mit dem Zug anreisen."
+    },
+    {
+     "num": 14,
+     "text": "Sie möchten sich eine Märchenvorstellung im Theater ansehen."
+    },
+    {
+     "num": 15,
+     "text": "Ihre Freundin sucht ein angenehmes Hotel, in dem man auch Sport treiben kann."
+    },
+    {
+     "num": 16,
+     "text": "Am Sonntag wollen Sie einen kleinen Ausflug mit Kindern machen. Die Kinder mögen Tiere."
+    },
+    {
+     "num": 17,
+     "text": "Ihre Bekannten möchten gerne im Mai eine Schiffsfahrt machen."
+    },
+    {
+     "num": 18,
+     "text": "Sie möchten gerne am Wochenende tanzen gehen und suchen eine tolle Disco."
+    },
+    {
+     "num": 19,
+     "text": "Der kleine Sohn von Freunden ist begeistert von der Eisenbahn. Sie möchten am Wochenende mit ihm etwas Interessantes machen."
+    },
+    {
+     "num": 20,
+     "text": "Sie möchten im August eine Woche in den Bergen wandern und brauchen eine erfahren Person, die mit Ihnen geht."
+    }
+   ],
+   "ads": [
+    {
+     "key": "a",
+     "text": "OBER-GOMS\nWandern im Wallis\n08.–10. Juni Fr. 425\n18.–25. August Fr. 750\n22.–28. September Fr. 750\nHalbpension/Führungen/\nWanderungen/Klettertouren mit\ngeprüften Bergführern\nHotel Walser\n3988 Ulrichen\nTel.: 027/973 21 22\nFax: 027/973 21 29\nwww.goms.ch/hotel-walser"
+    },
+    {
+     "key": "b",
+     "text": "Ausstellung\n„Märchen – Mythen –\nErzählungen“\nAcht Künstlerinnen zeigen ihre\nArbeiten\nvom 2. bis 30. Juni in Thun\nDie Arbeiten werden in der Zeit\nvom 2. bis 30. Juni in Schau-\nfenstern der Innenstadt gezeigt.\nVernissage:\n2. Juni, 19.30 Uhr\nSchibenstrasse 21 – Thun\nTel. 033 222 02 47"
+    },
+    {
+     "key": "c",
+     "text": "Chocolat-Werbung\nKULTURTIPP:\nIm Rahmen der Ausstellung „Chocolat-Tobler:\nDie Geschichte der Schokolade von 1899 bis\nheute“ präsentieren und kommentieren Christian\nJacquet und Fritz Kobi im Kornhausforum alte\nund neue Chocolat-Tobler-Werbefilme.\nBern:\nKornhausforum 19 Uhr\nMehr Ausgehtipps in der „Berner Woche“ und im\nInternet unter www.BernerWoche.ch"
+    },
+    {
+     "key": "d",
+     "text": "Sarazena\nZermatt\nHerzlich willkommen in unserem\ngemütlichen Ferienhotel in zentraler Lage!\nPerfekt ausgestattete Zimmer\nmit allem Komfort, Fitnessraum,\nTennishalle, Schwimmbad,\nreichhaltiges Frühstücksbuffet.\nBruno & Catherine Wyrsch-Zurniwen\nTel. 027/967 44 41 · Fax 027/967 63\n25\nInternet: www.hotel-sarazena.ch\nE-Mail: sarazena.zermatt@bluewin.ch"
+    },
+    {
+     "key": "e",
+     "text": "DAS ASCHENPUTTEL\nCinderella, Cenerentola, Aschenputtel\n– einmal erzählt, einmal gespielt:\nKULTURTIPP:\nDie Schriftstellerin\nElke Seidenreich\npräsentiert\nzusammen mit der Basel Sinfonietta\nden bekannten Märchenstoff\nauf der Bühne\nTheaterhalle Bern, 20.30 Uhr"
+    },
+    {
+     "key": "f",
+     "text": "SCHWEIZER\nFERIENORT\nZERMATT\nErholung pur im Naturfreunde-Hotel Zermatt\n• Herrliche Wanderwege in den Bergen\n• Vorzügliche Küche\n• Eigener Bahnanschluss\nNATURFREUNDE-HOTEL ZERMATT\nDaniela + René Zimmermann\nTel. 027 967 27 88 · Fax 967 60 29\nzermatt@spectraweb.ch"
+    },
+    {
+     "key": "g",
+     "text": "Tierpark Goldau\n... ein Besuch, der sich lohnt!\n• Freilaufzone\n• Abenteuerspielplatz\n• Restaurant\n• 365 Tage im Jahr offen\nEintritt frei für Begleitpersonen\nvon Gruppen ab 12 Personen\nTel. 041-855 50 00\nwww.tierpark.ch"
+    },
+    {
+     "key": "h",
+     "text": "DER\nFEURIGE\nELIAS\nHistorische Lokomotiven und Waggons, jetzt\nausgestellt im Bahnmuseum WORB\nFührungen für Kinder und Erwachsene:\nJeden Samstag und Sonntag 11:00 Uhr und 16:00 Uhr\nInfos: RBS, 3048 Worb\nTelefon: (031) 925 55 55"
+    },
+    {
+     "key": "i",
+     "text": "Geöffnet:\nMo.–Fr. 9.00–19. Uhr Sa. 9.00–14.00 Uhr\nANDREAS TIERWELT\n• Vögel – Nager – Pflanzen\n• Warm- und Kaltwasserfische\n• Futter und Zubehör für alle Tierarten\n• Aquarien und Terrarien\n• Fachberatung\nKreuzgasse 14\nCH 4500 Solothurn\nTel. 032 622 20 20\nFax 032 621 52 32"
+    },
+    {
+     "key": "j",
+     "text": "TANZ IMPULSE\nSchule für zeitgenössischen Tanz,\nklassisches Ballett, Malen und Tanz\nLaufendes Kursangebot für Anfänger und\nFortgeschrittene, Einführungskurse zum\nKennenlernen, ganzheitliche Bewegungsschule.\nOffene Gruppen für Kinder, Jugendliche und\nErwachsene, max. 10 Teilnehmerinnen.\nInformation und Beratung:\ntanz impulse\nTel. 027 967 18 18\nwww.tanz-impulse-bern.ch"
+    },
+    {
+     "key": "k",
+     "text": "JÄGGI BUCHHANDLUNG\nDienstag 8.5., 20 Uhr\nINGRID NOLL (Live im Loeb)\ndie erfolgreichste und ungewöhnlichste\ndeutsche Krimiautorin liest aus ihrem\nunheimlichen Werk „Selige Witwen“.\nEintritt Fr. 10,00\nTiketCorner.ch\n0848 800 800\nVorverkauf 2. UG im Loeb Bern\nTelefon 031 320 20 20\nEingang Spitalgasse\nTüröffnung 30 Min. vor Beginn"
+    },
+    {
+     "key": "l",
+     "text": "Viking-Tours\nFlussfahrten auf der Aare\ntägliche Fahrten von Mai bis Sep.\nAbfahrt der Schiffe: 11 Uhr, 14 Uhr, 16 Uhr\nTreffpunkt: Thun/Schwäbis Schiffs-\nsteg\nPreise: 43 Franken\nSpezialangebot: Abendfahrten (Rückkehr\n23 Uhr), Tanz an Bord,\nSpezialangebote für\nSenioren\nTel. 01 434 33 66 · Fax: 01 434 33 44\nviking@viking.ch\nwww.viking.ch"
+    }
+   ],
+   "ads_image_page": 276,
+   "id": "P19-L3",
+   "section": "Leseverstehen, Teil 3",
+   "pages": [
+    275,
+    276
+   ],
+   "topic": "Eisenbahn",
+   "solution": {
+    "11": "k",
+    "12": "x",
+    "13": "f",
+    "14": "e",
+    "15": "d",
+    "16": "g",
+    "17": "l",
+    "18": "x",
+    "19": "h",
+    "20": "a"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Same situations and ad page as P04/P07/P09 (p276); transcription re-checked."
+   ],
+   "uncertain": [
+    {
+     "location": "p276, ad f (small print)",
+     "note": "Bullet lines and e-mail address very small; 'Herrliche Wanderwege in den Bergen / Vorzügliche Küche / Eigener Bahnanschluss' and 'zermatt@spectraweb.ch' read with low confidence."
+    },
+    {
+     "location": "p276, ad j",
+     "note": "Small grey text partly overlaid by a figure drawing; 'www.tanz-impulse-bern.ch' and 'Teilnehmerinnen' low confidence."
+    },
+    {
+     "location": "p276, ad d",
+     "note": "Surname 'Wyrsch-Zurniwen' low confidence."
+    }
+   ],
+   "verified": true
+  },
+  {
+   "type": "sprach1",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen",
+   "text": "Liebe Jelena,\nich hab dir doch schon vom Deutschkurs erzählt, [[21]] ich hier besuche. Der ist wirklich ganz gut. Wir haben jetzt eine neue Aufgabe bekommen. Wir müssen Informationen [[22]] Thema Gesundheit und Ernährung suchen und schauen, was es dazu Interessantes [[23]] Internet gibt. Die interessanteste Internetseite, die ich finden [[24]] , ist www.gesund.ch . Diese Seite ist für [[25]] Leute gemacht, die gern mehr über gesunde Ernährung erfahren möchten. Fachleute beschreiben hier genau, [[26]] Lebensmittel für unseren Körper wichtig und gesund sind und wie oft und wie viel man pro Tag essen sollte. Außerdem kann man [[27]] seinen persönlichen Speiseplan selbst erstellen und dafür passende Rezepte [[28]] . Für Menschen, [[29]] ein paar Kilos zu viel haben, gibt es auch Tipps zum Abnehmen und Links zu verschiedenen Fitnesszentren in der Schweiz.\nUnd was gibt es bei dir Neues? [[30]] mir doch möglichst bald zurück!\nBis dann und viele Grüße\nPaola",
+   "gaps": [
+    {
+     "num": 21,
+     "options": {
+      "a": "das",
+      "b": "den",
+      "c": "der"
+     }
+    },
+    {
+     "num": 22,
+     "options": {
+      "a": "zu",
+      "b": "zum",
+      "c": "zur"
+     }
+    },
+    {
+     "num": 23,
+     "options": {
+      "a": "am",
+      "b": "im",
+      "c": "mit"
+     }
+    },
+    {
+     "num": 24,
+     "options": {
+      "a": "können",
+      "b": "könnten",
+      "c": "konnte"
+     }
+    },
+    {
+     "num": 25,
+     "options": {
+      "a": "junge",
+      "b": "jungen",
+      "c": "junges"
+     }
+    },
+    {
+     "num": 26,
+     "options": {
+      "a": "welche",
+      "b": "welchen",
+      "c": "welcher"
+     }
+    },
+    {
+     "num": 27,
+     "options": {
+      "a": "mir",
+      "b": "dir",
+      "c": "sich"
+     }
+    },
+    {
+     "num": 28,
+     "options": {
+      "a": "fand",
+      "b": "finden",
+      "c": "gefunden"
+     }
+    },
+    {
+     "num": 29,
+     "options": {
+      "a": "denen",
+      "b": "deren",
+      "c": "die"
+     }
+    },
+    {
+     "num": 30,
+     "options": {
+      "a": "Schreibe",
+      "b": "Schreiben",
+      "c": "Schreibt"
+     }
+    }
+   ],
+   "id": "P19-SB1",
+   "section": "Sprachbausteine, Teil 1",
+   "pages": [
+    277
+   ],
+   "topic": "Jelena",
+   "solution": {
+    "21": "b",
+    "22": "b",
+    "23": "b",
+    "24": "c",
+    "25": "a",
+    "26": "a",
+    "27": "c",
+    "28": "b",
+    "29": "c",
+    "30": "a"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "sprach2",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.",
+   "text": "Sehr geehrter Herr Gauberger,\nihre Anzeige habe ich mit Interesse gelesen. Ich bin [[31]] lange Rentner und bekomme monatlich nur wenig Geld. Wenn ich die Möglichkeit [[32]] , noch ein wenig zu verdienen, würde mir das sehr helfen. Ich bin [[33]] schon 72 Jahre alt, aber noch bei sehr guter Gesundheit. Daher denke ich, dass ich die Arbeit [[34]] Probleme machen kann. Seit über dreißig Jahren treibe ich [[35]] Tag Sport. Auch das frühe Aufstehen macht mir gar [[36]] aus.\nEinige Fragen hätte ich trotzdem noch: Müssen die Zeitungen [[37]] ausgetragen werden und wie lange ist man unterwegs? Außerdem möchte ich natürlich wissen, [[38]] man verdient. Ich bin gerne bereit, mich bei [[39]] vorzustellen, damit Sie sehen können, dass ich für die Tätigkeit [[40]] bin.\nMit freundlichen Grüßen\nEBERHARD SPITZWEG",
+   "words": [
+    {
+     "key": "a",
+     "word": "BEOUEM"
+    },
+    {
+     "key": "b",
+     "word": "GEEIGNET"
+    },
+    {
+     "key": "c",
+     "word": "HÄTTE"
+    },
+    {
+     "key": "d",
+     "word": "IHNEN"
+    },
+    {
+     "key": "e",
+     "word": "JEDEN"
+    },
+    {
+     "key": "f",
+     "word": "KÖNNTE"
+    },
+    {
+     "key": "g",
+     "word": "MEHR"
+    },
+    {
+     "key": "h",
+     "word": "NICHTS"
+    },
+    {
+     "key": "i",
+     "word": "OHNE"
+    },
+    {
+     "key": "j",
+     "word": "SCHON"
+    },
+    {
+     "key": "k",
+     "word": "SIE"
+    },
+    {
+     "key": "l",
+     "word": "TÄGLICH"
+    },
+    {
+     "key": "m",
+     "word": "WIE HOCH"
+    },
+    {
+     "key": "n",
+     "word": "WIE VIEL"
+    },
+    {
+     "key": "o",
+     "word": "ZWAR"
+    }
+   ],
+   "id": "P19-SB2",
+   "section": "Sprachbausteine, Teil 2",
+   "pages": [
+    278
+   ],
+   "topic": "Gauberger",
+   "solution": {
+    "31": "j",
+    "32": "c",
+    "33": "o",
+    "34": "i",
+    "35": "e",
+    "36": "h",
+    "37": "l",
+    "38": "n",
+    "39": "d",
+    "40": "b"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Word bank prints 'BEOUEM' (sic, for 'BEQUEM') — kept as printed."
+   ],
+   "uncertain": [],
+   "verified": true
+  }
+ ],
+ "missing_sections": [],
+ "paper_notes": [
+  "P19 is a duplicate of P07 (identical exercises and answer key)."
+ ]
+}

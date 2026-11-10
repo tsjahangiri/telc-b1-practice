@@ -1,0 +1,20 @@
+0.090 0.405 1.00	*Sommerfest*
+0.134 0.012 1.00	il 3 Gemeinsam etwas planen (ca. 6 Minuten)
+0.187 0.008 1.00	e und Ihre Gesprächspartnerin/Ihr Gesprächspartner arbeiten in der gleichen Firma. Sie sollen
+0.206 0.004 1.00	am ein Sommerfest für Ihre Kolleginnnen und Kollegen organisieren.
+0.223 0.010 1.00	berlegen Sie mit Ihrem Gesprächspartner/Ihrer Gesprächspartnerin, was zu tun ist.
+0.239 0.016 1.00	e haben sich schon einen Zettel mit Notizen gemacht:
+0.346 0.133 0.50	• Wann?
+0.401 0.133 0.50	• Wo?
+0.444 0.405 1.00	nochsc
+0.455 0.142 1.00	- Essen, Getränke
+0.516 0.150 1.00	• Spiele
+0.561 0.154 0.50	• Musik und Tanz
+0.613 0.914 0.30	Sha
+0.689 0.012 1.00	• Also *Ahmed* du weißt ja ,dass es Sommer ist, und wir können etwas mit
+0.722 0.045 1.00	unseren Kollegen unternehmen ,was denkst du davon?
+0.753 0.012 0.50	• Ja,da gehe ich ganz d'accord ,aber hast du einige Vorscläge ,mir fällt
+0.789 0.045 0.50	nichts ein.
+0.824 0.012 1.00	• Ja ,wir können einen Ausflug oder ein Sommerfest organisieren,und
+0.856 0.045 0.50	zusammen richtig Spaß haben , was denkst du ?
+0.930 0.010 1.00	www.instagram.com/mahmoudemad007

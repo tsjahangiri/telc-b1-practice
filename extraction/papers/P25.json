@@ -1,0 +1,523 @@
+{
+ "id": "P25",
+ "pages": [
+  369,
+  381
+ ],
+ "answer_key_page": 381,
+ "page_sections": {
+  "L1": [
+   369,
+   370
+  ],
+  "L2": [
+   371,
+   372
+  ],
+  "L3": [
+   373,
+   374
+  ],
+  "SB1": [
+   375
+  ],
+  "SB2": [
+   376
+  ],
+  "H": [
+   377,
+   378,
+   379
+  ],
+  "?": [
+   380
+  ],
+  "LOES": [
+   381
+  ]
+ },
+ "exercises": [
+  {
+   "type": "lesen1",
+   "instructions": "Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.",
+   "headings": [
+    {
+     "key": "a",
+     "text": "Neue Untersuchung über Familien in der Schweiz"
+    },
+    {
+     "key": "b",
+     "text": "Ein Jahr preiswert reisen"
+    },
+    {
+     "key": "c",
+     "text": "Buchtipp: Ausflüge für Familien"
+    },
+    {
+     "key": "d",
+     "text": "Bahnfahren im nächsten Jahr um 25% teurer!"
+    },
+    {
+     "key": "e",
+     "text": "Ein Unternehmen mit vielen beruflichen Möglichkeiten"
+    },
+    {
+     "key": "f",
+     "text": "Neue Kindersendung im Fernsehen"
+    },
+    {
+     "key": "g",
+     "text": "Der Film soll echt sein: Schweizer Filmteam in Indien"
+    },
+    {
+     "key": "h",
+     "text": "Wie man im Zug Leute kennen lernt"
+    },
+    {
+     "key": "i",
+     "text": "Jeden Tag ein Stück Wirklichkeit im Fernsehen"
+    },
+    {
+     "key": "j",
+     "text": "Filmaufnahmen im Berner Oberland"
+    }
+   ],
+   "texts": [
+    {
+     "num": 1,
+     "text": "Immer wieder drehen indische Regisseure Szenen ihrer Kinofilme in den Schweizer Bergen. Warum nehmen sie die Strapazen und hoben Kosten einer solch langen Reise auf sich? Das Hamburger Abendblatt eines dieser Filmteams auf dem Drehplatz im idyllischen Berner Oberland erhielt spannende und heitere Antworten."
+    },
+    {
+     "num": 2,
+     "text": "KIDTOURS – Ferien mit Kindern ist ein praktischer Ausflugsführer für Familien: mit 1000 Tipps, Tricks und Ideen für jeden Geschmack, jedes Alter und jedes Budget. Das übersichtliche, hübsch illustrierte Nach- schlage werk erhalten Sie für € 19,50 im Buchhandel oder direkt bei Werd Verlag, www.werd.net."
+    },
+    {
+     "num": 3,
+     "text": "Das Halbtax -Abo ist Ihr Schlüssel zu günstigen Reisen mit Bahn, Bus und Schifft und präsentiert sich im praktischen Kreditkartenformat. Schon beim Abo selbst können Sie zünftig sparen: Für ein Jahr halbtaxeln bezahlen Sie 150 Schweizer Franken. Und das ist noch nicht alles: Mit dem Halbtax-Abo sind Sie gut informiert: Zweimal jährlich erhalten Sie das Kundenmagazin mit vielen Reise -Ideen und exklusiven Reiseangeboten. Mit Ihrem Halbtax-Abo erhalten Sie 25% Preisnachlass auf Zugfahrten von der Schweiz nach Deutschland und Österreich, wenn Sie Ihre Fahrkarte in der Schweiz kaufen.\nSBB CFF FF\nSBB – Schweizerische Bundesbahnen"
+    },
+    {
+     "num": 4,
+     "text": "Dokumentarfilm und Seifenoper zusammen heißt Doku-Soap, stammt aus England und macht sich seit Jahren auch auf deutschen TV Kanälen breit. Vor allem Privatsender haben sich als erfolgreiche Doku – Soap- Sender etabliert. In vielen TV- Serien kann man das wirkliche Leben von Menschen verfolgen und mit ihnen mit leben. Zurzeit besonders erfolgreich: die Sendung Tausche Familie die täglich um 18 Uhr viele Zuschauer vor den Fernseher lockt."
+    },
+    {
+     "num": 5,
+     "text": "Wir wollen dir bei der Berufswahl helfen: Die deutsche Bahn, ein Unternehmen mit Zukunft. Viele Berufe ändern sich im Laufe der Zeit. Genauso wie die Interessen im Leben. Und trotzdem gibt es Neigungen und Fähigkeiten, die du lange Zeit in deinem Leben behalten wirst. So zum Beispiel die Freude am Kontakt mit Menschen. Oder die Begeisterung für fremde Sprachen. Oder das Arbeiten in der freien Natur und im Team. Oder das Interesse an Technik und die Freude am Handwerk. Je nachdem, wofür du dich interessierst, kannst du bei der Deutschen Bahn aus insgesamt 15 Lehrberufen wählen. Um die richtige Entscheidung zu treffen, lohnt es sich, sich gründlich zu informieren, zum Beispiel aus unserer Website www. Bahn .de"
+    }
+   ],
+   "id": "P25-L1",
+   "section": "Leseverstehen, Teil 1",
+   "pages": [
+    369,
+    370
+   ],
+   "topic": "Schweiz",
+   "solution": {
+    "1": "j",
+    "2": "c",
+    "3": "b",
+    "4": "i",
+    "5": "e"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen2",
+   "instructions": "Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.",
+   "title": "Die neue Sir-Karl-Popper-Schule",
+   "subtitle": "Ein Schulversuch für besonders Klage Schüler",
+   "text": "WIEN. Es ist eine ganz normale Schulstunde – Geschichte – in einer ganz normale Klasse. Während der Lehrer einen Vortrag über das alle Rom hält, unterhalten sich die Schüler über den Schulball, kreieren die Kleidung des Lehrers, reichen Zettel unter der Schulbank weiter.\n## Ganz normale Kinder\nAuch überdurchschnittlich intelligente Kinder sind ganz normale Kinder, betont Elfriede Wegricht, Psychologin in der Sir – Karl Popper Schule, die im vergangen September Ihren Betrieb aufgenommen hat nur weil sie in der Schule gut sind, heißt das nicht, dass sie nicht genauso wie alle anderen Schüler Liebeskummer, Ärger mit den Eltern und andere Pubertätsporobleme haben Der Unterschied zwischen normalen und hochbegabten in ihrer bisherigen Schulkarriere nicht besonders anstrengen mussten und es nicht gewohnt sind, mit ihrer Zeit gut hauszuhalten\n## Förderung durch Forderung\nUm überdurchschnittlich intelligente Kinder nun entsprechend zu fördern, sieht das Konzept der Sir – Karl Popper- Schule mehr Fremdsprachen projektorientiertes Arbeiten in kleinen Klassen und vor allem mehr Eigenverantwortung für den Lernenden vor. Dazu kommt die Förderung der individuellen Fähigkeiten: Wer in einem Fach gut ist und sich besonders für ein Thema interessiert bekommt Sonderaufgaben und tiefer gehen Ende Unterlagen. Anfangs war der plötzlich Mehr aufwand ein Schock für die Schüler, die eine 40 – Stunden Woche zu bewältigen haben Aber es ist besser, sie erleben den Schock jetzt als zu Beginn des Studiums meint Herr Peters Lehrer und Schülerbetreuer an der Popper – Schule denn oft scheitern besonders kluge Menschen Später weil sie mit ihrer Intelligenz nichts anzufangen wissen Denn zumeist erreichten sie mit wenig Aufwand und Mitarbeit relativ gute Ergebnisse\n## Wer ist hochbegabt?\nZielgruppe der Sir – Karl Popper Schule sind Kinder, die in mindestens einem Fach hochbegabt sind und überdurchschnittlich gute Ergebnisse haben, das sind 20 – 30 der Schüler. Nach einer Aufnahmeprüfung wurden von 64 Bewerben 28 geteilt sind und von insgesamt 28 Lehren betreut werden In diesen Klassen können die über durchschnittliche intelligenten Schüler dann endlich so sein, wie sie sind, ohne bei jeder Wortmeldung von ihren Klassenkameraden beschimpft zu werden meint die Schulpsychologien Ziel des Schulversuchs sei es jedoch laut Peters nicht, besonders kluge Schüler von normalen Kindern zu trennen, sondern Erfahrung im Umgang mit überdurchschnittlich die Begabtenförderung in die Normalschule zu übernehmen.",
+   "questions": [
+    {
+     "num": 6,
+     "stem": "Die Psychologin der Popper-Schule meint, dass",
+     "options": {
+      "a": "besonders intelligente Kinder sich stark von anderen Kindern unterscheiden.",
+      "b": "besonders intelligente Schüler dieselben Probleme haben wie andere Kinder.",
+      "c": "besonders intelligente Schüler weniger Probleme im alltäglichen Leben haben."
+     }
+    },
+    {
+     "num": 7,
+     "stem": "Für überdurchschnittlich intelligente Schüler ist typisch, dass Sie",
+     "options": {
+      "a": "auch ohne viel Anstrengung gute Noten haben.",
+      "b": "nach der Schule immer großen Erfolg im Beruf haben.",
+      "c": "sich die Zeit zum Lernen besser als andere einteilen können."
+     }
+    },
+    {
+     "num": 8,
+     "stem": "Im Unterricht der Popper-Schule sollen die Schüler",
+     "options": {
+      "a": "immer in einer Fremdsprache miteinander sprechen.",
+      "b": "in ihren besten Fächern eine spezielle Betreuung bekommen.",
+      "c": "in kleinen Gruppen schwächeren Schülern helfen."
+     }
+    },
+    {
+     "num": 9,
+     "stem": "Die erste Zeit in der Popper-Schule war für die Schüler schwer, weil",
+     "options": {
+      "a": "sich ihre Noten plötzlich verschlechterten.",
+      "b": "sie auf einmal viel mehr Zeit mit Lernen verbringen mussten.",
+      "c": "sie noch nicht wussten, welche besonderen Talente sie hatten."
+     }
+    },
+    {
+     "num": 10,
+     "stem": "In der Popper-Schule werden nur Schüler aufgenommen,",
+     "options": {
+      "a": "die in mindestens einem Fach sehr gut sind.",
+      "b": "die mindestens 20 bis 30 Prozent der Aufnahmeprüfung erreichen.",
+      "c": "die von den insgesamt 28 Lehrern als intelligent beschrieben werden."
+     }
+    }
+   ],
+   "id": "P25-L2",
+   "section": "Leseverstehen, Teil 2",
+   "pages": [
+    371,
+    372
+   ],
+   "topic": "Karl Popper",
+   "solution": {
+    "6": "b",
+    "7": "a",
+    "8": "b",
+    "9": "b",
+    "10": "a"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen3",
+   "instructions": "Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.",
+   "situations": [
+    {
+     "num": 11,
+     "text": "Sie suchen für Ihre beiden Kinder neue Betten und möchten höchstens 200 Euro ausgeben."
+    },
+    {
+     "num": 12,
+     "text": "Sie haben Probleme mit dem Rücken und suchen ein Gesundheitsbett."
+    },
+    {
+     "num": 13,
+     "text": "Sie suchen ein schönes Sofa, das man auch als Gästebett benutzen kann."
+    },
+    {
+     "num": 14,
+     "text": "Vor Ihre Urlaubsreise möchten Sie Ihr Fahrrad überprüfen lassen."
+    },
+    {
+     "num": 15,
+     "text": "Ihre Freunde möchten eine organisierte Radtour machen und suchen ein geeignetes Angebot."
+    },
+    {
+     "num": 16,
+     "text": "Ihre Verwandten haben eine Woche Urlaub und suchen einen Ferienort am Meer."
+    },
+    {
+     "num": 17,
+     "text": "Sie suchen für drei Vormittage pro Woche eine Stelle als Küchenhilfe."
+    },
+    {
+     "num": 18,
+     "text": "Sie suchen eine leichte Arbeit für abends, um sich noch etwas Geld dazuzuverdienen."
+    },
+    {
+     "num": 19,
+     "text": "Ihre Bekannte möchte als Bedienung in einer Gaststätte arbeiten."
+    },
+    {
+     "num": 20,
+     "text": "Ihre Freunde wollen Familienurlaub machen und suchen ein Angebot, das auch ein Kinderprogramm enthält."
+    }
+   ],
+   "ads": [
+    {
+     "key": "a",
+     "text": "Und wenn mal\nBesuch kommt ...\nDoppelbett-Couch, Leder,\nschwarz, ausklappbar, mit\nBettkasten, Fußteil und\nvier Kissen, neuwertig\n650 Euro\n☎ 06323/981428"
+    },
+    {
+     "key": "b",
+     "text": "ConCon\nWohntextilien\nbietet Ihnen einfach alles in einer großen\nAuswahl: schöne Bettwäsche, Kissen,\nedle Bettdecken, feine Tischwäsche,\nTeppiche, Gardinen und vieles mehr.\nKommen Sie vorbei, wir beraten Sie gern!\nConCon\nGrünwaldstr. 127\n77340 Anderstadt\nTel.: 06750-762949\nwww.concon.de"
+    },
+    {
+     "key": "c",
+     "text": "Doppelstöckiges\nKinderbett\n(fast neuwertig) mit Rück-\nund Frontgitter, aus Metall,\nbraun, Kopf- und Fußteil mit\nhellem Holzeinsatz, sehr stabil,\nauch einzeln aufzustellen.\ninklusive Metallroste,\nLadenpreis 400 Euro, jetzt\nzum halben Preis abzugeben.\nTel.: 06333 - 987 654"
+    },
+    {
+     "key": "d",
+     "text": "Tankstelle –\n24-Stunden\nService\nSucht für Waschanlage und Shop\nAushilfskräfte\nstundenweise, vorwiegend abends\nBitte melden bei\nFr. Schneider\nTel: 0621 17 98 05 78"
+    },
+    {
+     "key": "e",
+     "text": "Sonderpreis für\nKurzentschlossene\n1 Woche Vollpension\n199 € / Person\noder Halbpension 98 € / Person\nBayr. Wald, schönes Haus,\nHallenbad, Sauna, Massage,\nKosmetik.\nWander- und Fahrradwege in\ndirekter Umgebung\nBachmann\nFerienwohnungen\nKallingstr. 2\n94535 Eging\nTel.: 08544-916044\nwww.ch-bachmann.de"
+    },
+    {
+     "key": "f",
+     "text": "Urlaub\nauf dem\nBauernhof\ngroße Apartments, EZ, DZ, 3-4 Bett-\nZimmer, UF (Frühstücksbuffet) 19 Euro.\nHP (3-Gang-Abendmenü) 25 Euro, 50%\nKinderermäßigung bis einschließlich\n11 Jahre, großer Abenteuerspielplatz!\nKinderklub! Tägliche Aktivitäten! Prospekt\nanfordern!\nFamilie Schmidt-Kreling\nBahnhofstr. 7, D-94239 Gotteszell/\nZachenberg\nTel. + Fax: 09929-2323"
+    },
+    {
+     "key": "g",
+     "text": "Ferienwhg. u.\nHäuser an der\nNordsee\nWinter- u. Frühjahrs-\nangebote, noch Whg./\nHäuser frei mit direktem\nZugang zum Strand\nWangerland-Hooksiel\nHorumersiel-Schillig\nHolger Dormann\nTel.: 08532/676567\nFax: 08532/676568\nwww.h.dormann.de"
+    },
+    {
+     "key": "h",
+     "text": "... gleich hinter den Ostseedünen\nJugendcamp im Ostseebad GRÖMITZ\nFür Kinder u. Jugendliche von 8-15 Jahre\nSommerferien ... ohne Eltern, viel Spaß haben.\nneue Freunde kennen lernen!!\nIndividuell buchbarer Zeitraum: 20.06.-30.08.\nLeistungen:\n• Übernachtung in Doppelwandzelten mit\nHolzböden (Schlafsack mitbringen!)\n• Vollpension (aktive Mithilfe beim Tisch- und\nGeschirrdienst erforderlich)\n• Sport- und Freizeitprogramm\n• Teambetreuer\nPreis p.P./Tag: 19,- €\nMehr Information unter\nwww.ostseejugendcamp.de"
+    },
+    {
+     "key": "i",
+     "text": "Kieferhochbett\nStabil, massiv, ca. 2 J.,\nTreppe, Rutsche, Vorhänge,\nnur für großes Kinder-\nzimmer geeignet,\nNeuwert: 800 €,\nVerkaufspreis jetzt 300 €\nTel.: 06897-7675"
+    },
+    {
+     "key": "j",
+     "text": "Mit dem Rad durch\ndie Lüneburger Heide\nWir sind ein kleiner Familienbetrieb\nmitten in der Heide. Rufen Sie uns\nan! Wir senden Ihnen gern unseren\nHausprospekt mit 20 ausgearbeiteten\nVorschlägen (10-40 km pro Tag) zu.\nAbends Rücktransport möglich.\nFam. Bevensen\nMoosweg 3 - 21274 Undeloh\nTel./Fax: 04189-564534"
+    },
+    {
+     "key": "k",
+     "text": "mit Biergarten\nRestaurant\nRODENHOF\nGrülingsstr. 91\n66113 Saarbrücken\nsucht Kellner/in\n(Vollzeitbeschäftigung)\n☎ 0681/4 45 48"
+    },
+    {
+     "key": "l",
+     "text": "Neue und gebrauchte\nFahrräder\n• Fachhandel\n• Werkstatt\n• Reparaturdienst\n• Zubehör\nWESTSPANGE\nSt. Johanner Straße 60\n66 117 Saarbrücken\n0681 14 93 18"
+    }
+   ],
+   "ads_image_page": 374,
+   "id": "P25-L3",
+   "section": "Leseverstehen, Teil 3",
+   "pages": [
+    373,
+    374
+   ],
+   "topic": "Möbel",
+   "solution": {
+    "11": "c",
+    "12": "x",
+    "13": "a",
+    "14": "l",
+    "15": "j",
+    "16": "g",
+    "17": "x",
+    "18": "d",
+    "19": "k",
+    "20": "f"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Same situations and ad page as P01 (p374 is another photo of the same page); P01 transcription re-checked against this photo."
+   ],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "sprach1",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen",
+   "text": "Sehr geehrter Herr Schmidt,\nim Januar hatte ich bei [[21]] für mich und meine Familie einen Flug nach Indien gebucht. Leider entsprach unser Flug überhaupt nicht dem, [[22]]bei der Buchung am Telefon ausgemacht worden war.\n[[23]] ich ausdrücklich einen Direktflug nach Mumbai bestellt hatte, haben Sie mir einen Flug [[24]] Zwischenstopp in Delhi ausgestellt. Wir mussten eine Nacht in Delhi verbringen und kamen so [[25]] einen Tag später als geplant in Mumbai an. Doch damit nicht genug. Der Flug war nicht nur anders als vereinbart, [[26]] auch noch viel teurer. statt [[27]] erwarteten 640 Euro kostete der Flug 720 Euro.\nIch darf Sie daher [[28]] Rückzahlung der zu viel verrechneten Kosten auf mein Konto [[29]] der Deutschen Bank in Mumbai bitten. Meine Bankdaten haben Sie bereits.\nIch bitte Sie, die Angelegenheit bald zu klären und [[30]] dann zu antworten. Mit\nfreundlichen Grüßen\nHarish Khurana",
+   "gaps": [
+    {
+     "num": 21,
+     "options": {
+      "a": "ihnen",
+      "b": "Ihnen",
+      "c": "Sie"
+     }
+    },
+    {
+     "num": 22,
+     "options": {
+      "a": "das",
+      "b": "was",
+      "c": "wie"
+     }
+    },
+    {
+     "num": 23,
+     "options": {
+      "a": "Danach",
+      "b": "Obwohl",
+      "c": "Nämlich"
+     }
+    },
+    {
+     "num": 24,
+     "options": {
+      "a": "für",
+      "b": "mit",
+      "c": "zu"
+     }
+    },
+    {
+     "num": 25,
+     "options": {
+      "a": "erst",
+      "b": "nach",
+      "c": "seit"
+     }
+    },
+    {
+     "num": 26,
+     "options": {
+      "a": "besonders",
+      "b": "sondern",
+      "c": "sonst"
+     }
+    },
+    {
+     "num": 27,
+     "options": {
+      "a": "der",
+      "b": "deren",
+      "c": "die"
+     }
+    },
+    {
+     "num": 28,
+     "options": {
+      "a": "für",
+      "b": "um",
+      "c": "zu"
+     }
+    },
+    {
+     "num": 29,
+     "options": {
+      "a": "an",
+      "b": "bei",
+      "c": "vor"
+     }
+    },
+    {
+     "num": 30,
+     "options": {
+      "a": "mich",
+      "b": "mir",
+      "c": "sich"
+     }
+    }
+   ],
+   "id": "P25-SB1",
+   "section": "Sprachbausteine, Teil 1",
+   "pages": [
+    375
+   ],
+   "topic": "Schmidt",
+   "solution": {
+    "21": "b",
+    "22": "b",
+    "23": "b",
+    "24": "b",
+    "25": "a",
+    "26": "b",
+    "27": "a",
+    "28": "b",
+    "29": "b",
+    "30": "b"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "sprach2",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.",
+   "text": "Sehr geehrte Frau Borner,\nes gibt ganz viele Raschläge, wie man sich ernähren soll, was man essen soll und was nicht. Die meisten Empfehlungen sind aber nicht für etwas, [[31]] gegen etwas, und zwar immer wieder gegen etwas anderes: gegen Fleisch zum Beispiel oder gegen Zucker, aber auch gegen Milch. so [[32]] man etwa, wer kein Fleisch isst, lebt nicht nur gesünder, sondern fühlt sich auch besser.\n[[33]] Durchsehen einer Zeitschrift ist mir Ihre Anzeige aufgefallen, und nun habe ich folgende Fragen an Sie: Von [[34]] Nahrungsmitteln darf man eigentlich so viel essen, wie man will? Was [[35]] jeden Tag gegessen werden? Und wie ist das mit der Milch? Die einen sagen, Milch ist sehr gesund [[36]] der vielen wichtigen Nährstoffe. Andere meinen, wer viel Milch trinkt, kann Probleme mit dem Magen bekommen. Außerdem kann man anstelle [[37]] Milch auch Mineralwasser trinken. Was soll ich jetzt glauben?\nFür eine Antwort [[38]] meine Fragen danke ich Ihnen im Voraus. Könnten Sie mir auch noch eine Broschüre schicken? Das Thema Essen und Sport [[39]] mich besonders interessieren, [[40]] ich selber viel Sport treibe.\nMit freundlichen Grüßen\nSilvia Schönenberger",
+   "words": [
+    {
+     "key": "a",
+     "word": "AUF"
+    },
+    {
+     "key": "b",
+     "word": "BEIM"
+    },
+    {
+     "key": "c",
+     "word": "DESWEGEN"
+    },
+    {
+     "key": "d",
+     "word": "MÖCHTE"
+    },
+    {
+     "key": "e",
+     "word": "NENNT"
+    },
+    {
+     "key": "f",
+     "word": "SAGT"
+    },
+    {
+     "key": "g",
+     "word": "SOLLTE"
+    },
+    {
+     "key": "h",
+     "word": "SONDERN"
+    },
+    {
+     "key": "i",
+     "word": "VON"
+    },
+    {
+     "key": "j",
+     "word": "WAS"
+    },
+    {
+     "key": "k",
+     "word": "WEGEN"
+    },
+    {
+     "key": "l",
+     "word": "WEIL"
+    },
+    {
+     "key": "m",
+     "word": "WELCHEN"
+    },
+    {
+     "key": "n",
+     "word": "WÜRDE"
+    },
+    {
+     "key": "o",
+     "word": "ZUM"
+    }
+   ],
+   "id": "P25-SB2",
+   "section": "Sprachbausteine, Teil 2",
+   "pages": [
+    376
+   ],
+   "topic": "essen",
+   "solution": {
+    "31": "h",
+    "32": "f",
+    "33": "b",
+    "34": "m",
+    "35": "g",
+    "36": "k",
+    "37": "i",
+    "38": "a",
+    "39": "n",
+    "40": "l"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  }
+ ],
+ "missing_sections": [],
+ "paper_notes": [
+  "P25 is a duplicate of P01 (identical exercises and answer key)."
+ ]
+}

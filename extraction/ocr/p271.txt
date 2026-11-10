@@ -1,0 +1,23 @@
+0.074 0.109 1.00	Leseverstehen, Teil 1
+0.092 0.092 1.00	LANGUAGE Tests
+0.179 0.047 1.00	Lesen Sie die Überschriften a - j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.
+0.198 0.047 1.00	Sie können jede Überschrift nur einmal benutzen.
+0.217 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+0.273 0.080 0.30	F5.3
+0.295 0.047 0.30	ag
+0.289 0.316 0.30	zhicbla
+0.299 0.160 0.30	Frola
+0.304 0.418 1.00	Guten Tag
+0.330 0.133 0.30	Привсу
+0.327 0.345 0.50	Crao
+0.340 0.199 1.00	Hello
+0.416 0.057 1.00	__a) Märchen-Festspiele in Bremen
+0.462 0.078 1.00	_b) Griechische Botschaft bietet Sprachkurse für Schüler
+0.491 0.076 0.30	-y Universitastade wird 300 Jahre O
+0.557 0.053 1.00	D) Wissenschaft: Von der Körpergröße hängt das Gehalt ab
+0.607 0.053 1.00	-E) Durch Handel reich geworden
+0.656 0.049 1.00	-_F) Interessante Universitatsstadt mit hoher Lebensqualitat
+0.702 0.078 1.00	_G) Latein in deutschen Schulen wieder beliebter
+0.751 0.070 1.00	_h) Wer wenig lacht, verdient auch weniger
+0.796 0.076 1.00	_i) Fremdsprachen: Schüler lernen nur Englisch und Französisch
+0.844 0.049 1.00	—) Griechisch wird in deutschen Schulen kaum unterrichtet

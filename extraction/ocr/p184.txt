@@ -1,0 +1,17 @@
+0.074 0.109 1.00	Leseverstehen, Teil 1
+0.092 0.092 1.00	LANGUAGE Tests
+0.118 0.803 0.30	snsil
+0.148 0.047 1.00	Lesen Sie die Überschriften a - j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.
+0.167 0.078 1.00	Sie können jede Überschrift nur einmal benutzen.
+0.186 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+0.391 0.086 1.00	a) Zufriedenheit im Job schützt vor Stress
+0.442 0.086 1.00	b) Erfolgreiche Männer können auch gute Väter sein
+0.493 0.086 1.00	c) Keiner lacht so fröhlich wie der Weihnachtsmann
+0.539 0.086 1.00	d) Wie Männer und Frauen lachen
+0.594 0.086 1.00	e) Weniger Arbeit - weniger Stress
+0.625 0.659 0.30	chul
+0.645 0.082 1.00	f) Schlechte Nachrichten? Sagen Sie es mit einem Lächeln
+0.693 0.082 1.00	g) Der Beruf ist für Männer wichtiger als die Familie
+0.744 0.086 1.00	h) Auch ältere Menschen leiden unter Stress
+0.795 0.082 1.00	i) Frauen reagieren besser auf schlechte Nachrichten als Männer
+0.846 0.082 1.00	J) Mit 70 Jahren macht das Leben am meistens Spaß

@@ -1,0 +1,70 @@
+0.077 0.097 1.00	Sprachausteine, Teil 1
+0.083 0.776 0.30	Luts
+0.096 0.082 1.00	LANGUAGE Tests
+0.151 0.045 1.00	Lesen sie den Text und schließen Sie Lücken 21 - 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.
+0.172 0.047 1.00	Markieren sie Ihre Lösungen für die Aufgaben 21 - 30 auf dem Antwortbogen
+0.272 0.715 1.00	Schwarzenbek, den .......
+0.308 0.047 1.00	Liebe Maria,
+0.342 0.045 1.00	danke vielmals für die Einladung. Nächste Woche werde ich also (21) dir in Berlin sein. Ich
+0.366 0.045 1.00	freue mich schon sehr (22) , denn schließlich haben wir uns fast ein (23) Jahr nicht gesehen.
+0.388 0.045 1.00	Wie du ja weißt, wohne ich jetzt auf dem Land hier in der Nähe von Hamburg und das finde ich
+0.413 0.045 1.00	ganz toll. (24) ich würde gern auch mal wieder in eine richtige Disko gehen. Mal wieder eine
+0.436 0.045 1.00	ganze Nascht tanzen, das (25) mein Traum! Und zu zwei macht es viel (26) Spaß!
+0.471 0.051 1.00	Weißt du eigentlich, ob die Disko am Wittenberger Platz (27) existiert?
+0.506 0.045 1.00	Leider habe ich noch keine Ahnung, (28) ich in Berlin ankommen werde. Jedenfalls (29) ich
+0.529 0.045 1.00	versuchen, eine Mitfahrgelegenheit zu finden. Es gibt ja im Internet die Mitfahrzentrale, (30)
+0.554 0.047 1.00	so etwas organisiert. Also mache dir keine Sorgen, wenn ich etwas später komme!
+0.589 0.045 1.00	Ich freue mich sehr auf dich!
+0.625 0.047 1.00	Alexandra
+0.660 0.062 1.00	21.
+0.660 0.150 1.00	A
+0.664 0.177 1.00	bei
+0.661 0.287 1.00	24.
+0.660 0.366 1.00	A
+0.661 0.392 1.00	Aber
+0.661 0.493 1.00	27.
+0.660 0.554 1.00	A
+0.664 0.579 1.00	auch
+0.664 0.706 1.00	30.
+0.658 0.762 1.00	A das
+0.685 0.150 1.00	B nach
+0.686 0.366 0.50	B
+0.683 0.378 1.00	Sondern
+0.686 0.552 0.30	B
+0.684 0.579 1.00	noch
+0.687 0.762 0.50	B
+0.685 0.786 1.00	die
+0.705 0.172 0.30	zU
+0.708 0.366 0.50	C
+0.702 0.390 1.00	Trotzdem
+0.708 0.554 0.30	C
+0.706 0.581 1.00	nur
+0.705 0.786 1.00	der
+0.750 0.055 1.00	22.
+0.751 0.150 1.00	A darauf
+0.751 0.290 1.00	25.
+0.750 0.366 1.00	A hätte
+0.754 0.489 1.00	28.
+0.754 0.583 1.00	als
+0.773 0.150 1.00	B darum
+0.773 0.366 1.00	B wäre
+0.778 0.552 0.30	B
+0.776 0.581 1.00	wann
+0.798 0.150 0.50	C
+0.794 0.170 0.30	dazu
+0.792 0.366 1.00	C würde
+0.795 0.583 1.00	wenn
+0.840 0.053 1.00	23.
+0.836 0.150 0.50	A
+0.840 0.172 1.00	halbe
+0.840 0.292 1.00	26.
+0.839 0.365 0.50	A am meisten 29.
+0.842 0.579 1.00	darf
+0.859 0.148 1.00	B halben
+0.860 0.366 0.50	B ganz
+0.860 0.552 0.30	B
+0.860 0.583 1.00	soll
+0.876 0.148 0.50	C halbes
+0.875 0.390 1.00	mehr
+0.885 0.366 0.30	C
+0.878 0.583 1.00	will

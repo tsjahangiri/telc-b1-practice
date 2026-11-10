@@ -1,0 +1,23 @@
+0.096 0.008 1.00	- Ich habe auch einen Beitrag von * AnneSpieler * gelesen.
+0.137 0.004 0.50	I- Er ist 30 Jahre Alt .und arbeitet als Apothekerin.
+0.183 0.458 0.30	********
+0.183 0.737 1.00	*********
+0.225 0.006 1.00	• Frau *Spieler* bevorzugt Kein Geld zu sparen.
+0.262 0.008 0.50	• Wenn sie ihr Geld ausgibt ,macht es ihr viel Spaß.
+0.292 0.006 1.00	• Sie kauft immer gerne viel Kleidung und Schmuck, obwohl sie sie
+0.323 0.047 0.50	nicht braucht.
+0.356 0.008 1.00	• Aber sie denkt, das Geld ist da, damit wir es ausgeben können.
+0.408 0.039 1.00	****
+0.410 0.294 0.50	************************************
+0.410 0.793 1.00	*******
+0.452 0.016 0.50	*Meinung*
+0.503 0.014 1.00	* Da gehe ich ganz d'accord ,ich finde es besser ,wenn ich mein
+0.537 0.016 1.00	Geld spare.
+0.580 0.016 1.00	* Ich denke, das Geld ist da, um uns Spaß zu machen, nicht um es zu
+0.620 0.018 1.00	sparen.
+0.658 0.014 1.00	* Manchmal muss man etwas Geld für Notfälle sparen, aber das
+0.712 0.023 1.00	möchte ich lieber nicht, aber ich bevorzuge mein Geld zu genießen.
+0.802 0.041 0.50	********
+0.802 0.458 0.50	*****
+0.804 0.848 0.50	***
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

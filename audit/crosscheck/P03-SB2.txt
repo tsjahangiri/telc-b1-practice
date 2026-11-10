@@ -1,0 +1,5 @@
+# P03-SB2 pages [30] ratio 0.909
+## website words not in OCR:
+geehrte Frau Bauer
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests

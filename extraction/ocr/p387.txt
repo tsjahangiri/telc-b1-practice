@@ -1,0 +1,135 @@
+0.071 0.060 1.00	Leseverstehen, Teil 3
+0.089 0.045 0.50	LANGUAGE Tests
+0.152 0.176 0.50	muten Leseverstehen und Sprachbausteine
+0.193 0.158 0.30	a
+0.201 0.197 0.50	*** Spanisch lernen •..
+0.199 0.425 1.00	b
+0.213 0.205 1.00	Andalusien: Sevilla/Conil
+0.232 0.183 1.00	Kombiangebot:
+0.224 0.238 1.00	Equador: Quito
+0.223 0.435 1.00	Can Ribes
+0.222 0.699 0.50	Einmal was erleben!
+0.242 0.184 1.00	Kurs plus Unterkunft
+0.242 0.433 1.00	Spanischkurse • Urlaub • Seminare
+0.262 0.195 1.00	Bildungsurlaub
+0.254 0.197 1.00	ganzjährig, alle Niveaus
+0.253 0.439 1.00	Spanischkurse mit Kinderbetreuung
+0.277 0.205 1.00	2 Wochen ab 280 Euro
+0.277 0.458 1.00	in altem Landhaus in Katalonien
+0.270 0.530 1.00	Kurse für Schüler
+0.270 0.663 1.00	Wenn Sie mit Ihrer Klasse Abenteuer, Romantk, Natur
+0.286 0.663 0.50	Sie mit uns Kanu fahren
+0.279 0.663 1.00	pur und Gemeinschaftssport erleben woilen, dann soltten
+0.294 0.192 0.50	HCADÉMIA ATLANTIKA
+0.293 0.573 0.50	Kontakt:
+0.302 0.468 1.00	Ch. Eckhardt, Dellstr. 13,
+0.298 0.663 0.50	* wir orpanisieren für Sie die komplette Tour
+0.329 0.199 0.50	Elbbecken 7 • 22299 Hamburg
+0.321 0.261 0.50	Seit 1984
+0.314 0.522 1.00	47051 Duisburg
+0.307 0.663 1.00	• Versicherungsschutz auf dem Wasser durch uns
+0.315 0.663 1.00	• Befreuung der Tour durch einen erfahrenen Kamuten
+0.324 0.489 1.00	Telefon: (0203) 287588
+0.340 0.240 1.00	Tel. 040/477587
+0.334 0.517 0.50	Fax: (0203) 21715
+0.327 0.663 1.00	Anmeidung und ausführliche information:
+0.336 0.663 0.50	Am Sportplatz 70 - 49459 Lembruch
+0.350 0.238 1.00	Fax 040/477539
+0.346 0.663 0.50	Tel.: 05447-525 • Fax: 05447-1772
+0.367 0.189 1.00	E-mail: spanisch@atlantika.net
+0.360 0.232 1.00	www.atlantika.net
+0.384 0.702 1.00	Radio- und Fernsehtechnik GmbH
+0.398 0.232 1.00	schnell
+0.408 0.192 1.00	Autoreparatur
+0.403 0.229 1.00	und günstig
+0.395 0.472 1.00	Schrott-Autos
+0.394 0.717 1.00	SCHMIDT & MÜLLER
+0.408 0.478 1.00	unfall-Autos
+0.407 0.747 0.50	TV - HiFi - Video
+0.426 0.435 1.00	Wir erledigen alles für Sie:
+0.423 0.715 1.00	Reparaturen, Kabelanschlüsse,
+0.443 0.234 0.50	Kupplung - TÜV - Untall
+0.436 0.234 0.50	Auspuff • Bremsen -AU
+0.433 0.710 1.00	Antennenbau, Satellitenanlagen
+0.442 0.435 0.50	•ANKAUF
+0.452 0.234 1.00	kaum Wartezeit
+0.455 0.435 1.00	• ABHOLEN
+0.448 0.754 1.00	Limesstraße 103
+0.458 0.756 1.00	81243 München
+0.474 0.232 0.50	Fa. ASS
+0.468 0.234 1.00	Rufen Sie uns an:
+0.469 0.435 0.50	• ABMELDEN
+0.472 0.747 0.50	Tel. 089-8 71 20 20
+0.481 0.230 1.00	Landsberger Str. 328
+0.491 0.232 0.30	lelclon 54 644733
+0.487 0.450 0.50	2 (089) 8 63 39 75, 9-18 Uhr
+0.487 0.797 1.00	Mail:
+0.497 0.708 1.00	Fernseh-Schmidt@muenchen.de
+0.525 0.429 1.00	h
+0.531 0.700 1.00	Praxis Dr. W. Penners
+0.545 0.211 1.00	Liebevolle Geschenkideen
+0.541 0.456 1.00	FACHHANDEL
+0.542 0.717 1.00	Orthopäde • Chirotherapie - Sportmedizin
+0.552 0.222 1.00	für Klein und Groß im
+0.552 0.507 1.00	GRÜN
+0.558 0.729 0.50	Rothenfelserstraße 4 - München-Nesaubing
+0.567 0.195 1.00	Harlachinger
+0.567 0.692 0.50	geöffnet von Montag bis Donnerstag B-13 Uar.
+0.583 0.199 1.00	Kinderladen
+0.577 0.446 1.00	Haushaltsgeräte • Einbauküchen
+0.577 0.762 0.50	Termine nach Vereinbarung
+0.586 0.458 1.00	Haushaltswaren • Bestecke
+0.594 0.466 1.00	Porzellan und Glaswaren
+0.590 0.760 0.50	Telefon 87 04 01
+0.606 0.175 1.00	Puppendoktor - Wir reparieren Puppen
+0.603 0.441 1.00	Geschenke • Geschenkgutscheine
+0.615 0.216 1.00	und Stofftiere jeder Art
+0.612 0.480 1.00	und Hochzeitslisten
+0.606 0.749 0.50	Vertretung in dringenden Nottällen:
+0.616 0.752 0.50	Dr. Heyn - Telefon 8344025
+0.629 0.187 1.00	Heigeistr. 1 - Ecke Naupliastraße
+0.628 0.499 1.00	Leibistraße 9
+0.638 0.218 1.00	Telefon 089-644838
+0.637 0.454 1.00	82166 Lochham/München
+0.650 0.485 0.50	Tel. 089-87 53 23
+0.649 0.694 0.30	Ayeikochen??
+0.699 0.166 0.50	Semeianützige Gesellschaft der Landeshauptstaét mbl
+0.692 0.754 1.00	Nein! Danke!
+0.703 0.415 0.30	K
+0.712 0.175 1.00	MÜNCHENSTIFT
+0.711 0.441 0.50	PiZZaAVANTI
+0.706 0.725 0.50	auch Sa + So warmes Essen
+0.724 0.174 1.00	wohnen und pfiegen in der Stadt
+0.727 0.515 1.00	HEIMSERVICEGUTUNDFRISCH
+0.721 0.727 1.00	Wir bringen zu Ihnen ins Haus:
+0.731 0.725 1.00	• Werkfags eine warme Mahlzeit (mit
+0.746 0.220 1.00	Pfiege zu Hause
+0.746 0.439 1.00	CHICKEN-AKTION
+0.740 0.737 1.00	oder ohne Suppe)
+0.749 0.725 0.50	• an Samstagen, Sonntagen, Fefertagen
+0.765 0.495 1.00	• Chicken-Chips-Menü
+0.757 0.737 1.00	auf Wunsch tiefgefforen
+0.779 0.443 1.00	jeweils mit gem. Salat und Getränk 6,20 Euro
+0.773 0.497 1.00	• Chicken-Wings-Menü
+0.767 0.727 1.00	• Normalkost, Schonkost, Djat, vegeta-
+0.775 0.737 0.50	risch oder LUXUS - a la Carte
+0.783 0.727 1.00	• weit über 100 abwechslungsreiche
+0.799 0.460 1.00	mit gern. Salat und Getränk 7,20 Euro
+0.792 0.476 1.00	• Firmen-Menü, Pizza n. Wahl
+0.792 0.737 1.00	Menüs
+0.810 0.795 1.00	89 11 66-17
+0.802 0.817 1.00	Telefon
+0.827 0.503 0.50	Tel. 89 66 90 99
+0.828 0.795 0.50	89 11 66-18
+0.821 0.823 1.00	oder
+0.837 0.191 1.00	Ambulanter Dienst in Laim/ Pasing:
+0.832 0.439 1.00	Landsberger Straße 487 bei der Offenbachstr.,
+0.846 0.222 1.00	Alfons-Hoffmann-Haus
+0.839 0.437 0.50	Mo.-Fr. 10-23 Uhr - Sa./So./Feiertag 11-23 Uhr
+0.845 0.731 1.00	Caritas-Zentrum Menzing
+0.859 0.193 1.00	Agnes-Bernauer-Straßle 185, 80687 München
+0.857 0.509 1.00	Pizza AVANTI
+0.868 0.224 0.50	Telefon (089) 5 46 47-230
+0.863 0.480 1.00	Heimservice mit Stehimbiss
+0.857 0.758 1.00	Ökumenische Sozialstation
+0.866 0.747 1.00	Pippinger Str. 97/ Nahe Verdistraße

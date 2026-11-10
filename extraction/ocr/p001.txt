@@ -1,0 +1,16 @@
+0.068 0.109 1.00	Leseverstehen, Teil 1
+0.086 0.092 1.00	LANGUAGE Tests
+0.150 0.047 1.00	Lesen Sie die Überschriften a - j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.
+0.167 0.047 1.00	Sie können jede Überschrift nur einmal benutzen.
+0.187 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+0.332 0.053 1.00	a) Neue Untersuchung über Familien in der Schweiz
+0.391 0.072 1.00	_b) Ein Jahr preiswert reisen
+0.442 0.066 1.00	__c) Buchtipp: Ausflüge für Familien
+0.496 0.078 1.00	_d) Bahnfahren im nächsten Jahr um 25% teurer!
+0.549 0.060 1.00	__e) Ein Unternehmen mit vielen beruflichen Möglichkeiten
+0.545 0.552 0.50	ihschul
+0.602 0.057 1.00	f) Neue Kindersendung im Fernsehen
+0.657 0.053 1.00	g) Der Film soll echt sein: Schweizer Filmteam in Indien
+0.705 0.053 0.50	_h) Wie man im Zug Leute kennen lernt
+0.762 0.051 1.00	—i) Jeden Tag ein Stück Wirklichkeit im Fernsehen
+0.809 0.051 1.00	_J) Filmaufnahmen im Berner Oberland

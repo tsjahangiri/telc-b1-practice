@@ -1,0 +1,4 @@
+0.065 0.176 1.00	gedauert
+0.062 0.356 0.50	c davon
+0.064 0.554 0.50	LC würden
+0.192 0.050 1.00	@telcc1hochschul

@@ -1,0 +1,67 @@
+{
+ "fixes": [
+  [
+   "SB1",
+   "j jetzt",
+   "jetzt"
+  ]
+ ],
+ "ads_manual": {
+  "page": 54,
+  "ads": {
+   "a": "MUSEUM\nDER STADT\nFÜSSEN\nLechhalde 3 · 87629 Füssen\nTel. (08362) 50 53 - 45 u. 43\nSTAATSGALERIE IM HOHEN\nSCHLOSS FÜSSEN\nMagnusplatz 10 · 87629 Füssen\nTel. (08362) 50 53 - 64\nÖffnungszeiten:\nApril bis Oktober:\nDi.–So. 11.00–16.00 Uhr\nMo. geschlossen\nNovember bis März:\nDi.–So. 14.00–16.00 Uhr\nMo. geschlossen",
+   "b": "Franziskaner Stüberl\n87629 Füssen – Eingang Fußgängerzone\nKemptener Straße 1 –\nTelefon (08362) 37124\nIm Herzen der Stadt\nInh. Bernd Zienteck\nGutbürgerliche Allgäuer und\nBayerische Küche\nDer beliebte Treffpunkt in\ngemütlicher Atmosphäre\nSonntag Ruhetag\nAuf Ihren Besuch freut sich\nBernd Zienteck mit Team",
+   "c": "SENNEREI-GENOSSENSCHAFT\nBAYERN\nHopferau – Lehern 15 – Telefon (08363) 37124\nFrisch vom Erzeuger:\n• Allgäuer Emmentaler\n• Allgäuer Bergkäse\n• Tilsiter\n• Frisch-Milch\n• eigene Butter-\nherstellung\nÖFFNUNGSZEITEN:\nWochentags 7.30–12.00 u. 16.30–18.30 Uhr\nSa. u. Feiertag 7.30–10.30 u. 17.00–18.30 Uhr",
+   "d": "Sprachen lernen &\nLeute treffen\nBildungsurlaub für Erwachsene in\nEngland, Malta, Frankreich, Spanien,\nItalien und Kalifornien\nFordern Sie heute unseren 56-seitigen\nKatalog an; ein Exemplar des Sprachtests\nschicken wir Ihnen gleich mit,\nselbstverständlich kostenlos.\nTel: 069-61 09 120 | Fax: 069-6 03 13 95\nMorgensternstr. 180\n60596 Frankfurt\nSPRACHCAFFE",
+   "e": "Jahreskonzert Füssen\nWolfgang Amadeus Mozart\nKlavierkonzert Nr. 21 in C-Dur\nPianist: Hanno Porter\nLeitung:\nStadtmusikdirektor Robert Maul\nKarten bei der Kurverwaltung Füssen\nund an der Abendkasse",
+   "f": "Das Heimatmuseum\nFüssen lädt zum\nBesuch ein\nÖffnungszeiten:\nMontag bis Freitag\n10.00–12.00 Uhr\nund 14.00–16.45 Uhr\nSamstag und Sonntag\n10.00–12.00 Uhr\nIn der Instrumentensammlung sind wertvolle\nGeigen von Mittenwalder Meistern ausgestellt.\nAußerdem kann man in einer besondere\neingerichteten Werkstatt dem Geigenbauer\nbei der Arbeit zuschauen.\nAußerhalb der Öffnungszeiten sind Gruppen ab\n20 Personen nach Voranmeldung willkommen.\nTelefon (0 83 62) 25 11",
+   "g": "bonCas\nSpezialitätenkäserei\nP. und U. Moser-Kolb\nHessenbohlstraße 14\nCH – 8512 Lustdorf\nSchweiz\nE-Mail: bocheese@bluewin.ch",
+   "h": "Alfa Sprachreisen\nCrash-Kurse für Manager.\nSprachkurse und High-School-Programme\nfür 12- bis 18-Jährige.\nEnglisch, Französisch, Spanisch, 17 Länder,\nmehr als 60 Kursorte.\nFordern Sie unsere kostenl. Broschüre an!\nAlfa-Sprachreisen GmbH\nRotebuhlplatz 15 • 70178 Stuttgart\nTel. 0711-61 55 300 • Fax 0711-61 55 3010\nhttp://www.alfa-sprachreisen.de",
+   "i": "4. APRIL »Deutsche Schlagernacht«\n12. APRIL Ostersonntag: 70er/80er Jahre Party\nNEU:\nSchnitzel-Woche\nAmadeus\nCafé · Bistro\nTiroler Straße 19\n87459 PFRONTEN-DORF · Tel. [unleserlich]",
+   "j": "Free-System\nEnglisch, Französisch, Italienisch,\nSpanisch, Deutsch für Ausländer\nMaschinenschreiben/Steno\n• Sie bestimmen die Unterrichtszeit\n• Sie lernen, so rasch Sie wollen\n• Intensivkurse, Einzel-/Privat- und\nKleingruppen (1–5 Teilnehmer)\n• Intensive Crash Courses\n• Brush up and Business\n• Sprachkurse für Manager\n• English for Secretaries\n• Firmenkurse (intern/extern)\n• First/Proficiency/TOEFL/GMAT Alliance Française\nKursbeginn jetzt!\nInstitut Grünberger\nRostock, direkt beim Hauptbahnhof",
+   "k": "Ritterstub'n\nFischspezialitäten\nDas Restaurant mit gepflegter\nGastlichkeit im Herzen der Altstadt\ngeöffnet von 11⁰⁰–14⁰⁰ Uhr und 17⁰⁰–24⁰⁰ Uhr\nMontag Ruhetag\nWarme Küche bis 22⁰⁰ Uhr\nRitterstraße 4 · 87629 Füssen ·\nTel. 08362/7759\nFam. Roth-Winter freut sich auf Ihren Besuch",
+   "l": "Wollen Sie fein\nessen gehen?\nAlpenschlössle\nFüssen-Bad Faulenbach\nTel. (08362) 4017\nHotel-Restaurant\nAlpenschlössle\nAuf Ihren Besuch freut sich Familie Hummel\nHotel · Café · Pension"
+  }
+ },
+ "uncertain": {
+  "L3": [
+   {
+    "location": "p54, ad i (address line)",
+    "note": "Tiny white-on-black print: phone number unreadable — marked [unleserlich], not guessed. Street 'Tiroler Straße 19' read from the clearer photo of the same page on p228."
+   },
+   {
+    "location": "p54, ad f (small grey text)",
+    "note": "Opening hours and descriptive paragraph in very small grey print; read with moderate confidence."
+   },
+   {
+    "location": "p54, ad c (address line)",
+    "note": "'Hopferau – Lehern 15 – Telefon (08363) 37124' very small; low confidence."
+   },
+   {
+    "location": "p54, ad g (e-mail)",
+    "note": "'bocheese@bluewin.ch' low confidence."
+   }
+  ]
+ },
+ "notes": {
+  "L3": [
+   "Ads page p54 is a skewed photo with handwritten circled numbers from a previous user (not exam content). Ads transcribed manually from 230-dpi crops with OCR assistance."
+  ],
+  "L1": [
+   "In the source (p49) the headings a, d, f, h, i, j are printed in bold — formatting only; not reproduced."
+  ],
+  "L2": [
+   "In the source (p52) the correct options (6A, 7A, 8A, 9C, 10B) are printed in bold, which reveals the answers. Formatting not reproduced in the website."
+  ],
+  "SB1": [
+   "Option 27b: the text layer contained a stray letter ('j jetzt'); the printed page shows 'jetzt'."
+  ]
+ },
+ "verified": {
+  "L1": true,
+  "L2": true,
+  "L3": true,
+  "SB1": true,
+  "SB2": true
+ }
+}

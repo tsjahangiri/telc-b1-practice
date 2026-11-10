@@ -1,0 +1,54 @@
+{
+ "fixes": [
+  [
+   "L2",
+   "\"title\": \"Informationsverhaltungen sind wichtige Grundlagen für die\", \"subtitle\": \"Berufswahl\"",
+   "\"title\": \"Informationsverhaltungen sind wichtige Grundlagen für die Berufswahl\", \"subtitle\": \"\""
+  ],
+  [
+   "SB2",
+   "Max Kuhne\\nTel.: 069-951670",
+   "Max Kuhne\\n60322 Frankfurt\\nTel.: 069-951670"
+  ]
+ ],
+ "ads_manual": {
+  "page": 161,
+  "ads": {
+   "a": "••• Spanisch lernen •••\nAndalusien: Sevilla/Conil\nEquador: Quito\nKombiangebot:\nKurs plus Unterkunft\n• ganzjährig, alle Niveaus\n• Bildungsurlaub\n2 Wochen ab 280 Euro\nACADÉMIA ATLANTIKA\nseit 1984\nElbbecken 7 · 22299 Hamburg\nTel. 040/477587\nFax 040/477539\nwww.atlantika.net\nE-mail: spanisch@atlantika.net",
+   "b": "Can Ribes\nSpanischkurse · Urlaub · Seminare\nSpanischkurse mit Kinderbetreuung\nKurse für Schüler\nin altem Landhaus in Katalonien\nKontakt:\nCh. Eckhardt, Dellstr. 13,\n47051 Duisburg\nTelefon: (0203) 287588\nFax: (0203) 21715",
+   "c": "Einmal was erleben!\nWenn Sie mit Ihrer Klasse Abenteuer, Romantik, Natur\npur und Gemeinschaftssport erleben wollen, dann sollten\nSie mit uns Kanu fahren.\n• wir organisieren für Sie die komplette Tour\n• Versicherungsschutz auf dem Wasser durch uns\n• Betreuung der Tour durch einen erfahrenen Kanuten\nAnmeldung und ausführliche Information:\nAm Sportplatz 70 · 49459 Lembruch\nTel.: 05447-525 · Fax: 05447-1772",
+   "d": "Autoreparatur\nschnell\nund günstig\nAuspuff · Bremsen · AU\nKupplung · TÜV · Unfall\nkaum Wartezeit\nRufen Sie uns an:\nFa. ASS\nLandsberger Str. 328\nTelefon 54 64 47 33",
+   "e": "Schrott-Autos\nUnfall-Autos\nWir erledigen alles für Sie:\n• ANKAUF\n• ABHOLEN\n• ABMELDEN\n☎ (089) 8 63 39 75, 9–18 Uhr",
+   "f": "Radio- und Fernsehtechnik GmbH\nSCHMIDT & MÜLLER\nTV – HiFi – Video\nReparaturen, Kabelanschlüsse,\nAntennenbau, Satellitenanlagen\nLimesstraße 103\n81243 München\nTel. 089-8 71 20 20\nMail:\nFernseh-Schmidt@muenchen.de",
+   "g": "Liebevolle Geschenkideen\nfür Klein und Groß im\nHarlachinger\nKinderladen\nPuppendoktor – Wir reparieren Puppen\nund Stofftiere jeder Art\nHeigelstr. 1 · Ecke Naupliastraße\nTelefon 089-644838",
+   "h": "FACHHANDEL\nGRÜN\nHaushaltsgeräte · Einbauküchen\nHaushaltswaren · Bestecke\nPorzellan und Glaswaren\nGeschenke · Geschenkgutscheine\nund Hochzeitslisten\nLeiblstraße 9\n82166 Lochham/München\nTel. 089-87 53 23",
+   "i": "Praxis Dr. W. Penners\nOrthopäde · Chirotherapie · Sportmedizin\nRothenfelserstraße 4 · München-Neuaubing\ngeöffnet von Montag bis Donnerstag 8–13 Uhr.\nTermine nach Vereinbarung\nTelefon 87 04 01\nVertretung in dringenden Notfällen:\nDr. Heyn · Telefon 8344025",
+   "j": "Gemeinnützige Gesellschaft der Landeshauptstadt mbH\nMÜNCHENSTIFT\nwohnen und pflegen in der Stadt\nPflege zu Hause\nAmbulanter Dienst in Laim/Pasing:\nAlfons-Hoffmann-Haus\nAgnes-Bernauer-Straße 185, 80687 München\nTelefon (089) 5 46 47-230",
+   "k": "Pizza AVANTI\nHEIMSERVICE GUT UND FRISCH\nCHICKEN-AKTION\n• Chicken-Chips-Menü\n• Chicken-Wings-Menü\njeweils mit gem. Salat und Getränk 6,20 Euro\n• Firmen-Menü, Pizza n. Wahl\nmit gem. Salat und Getränk 7,20 Euro\n* * *\nTel. 89 66 90 99\nLandsberger Straße 487 bei der Offenbachstr.,\nMo.–Fr. 10–23 Uhr · Sa./So./Feiertag 11–23 Uhr\nPizza AVANTI\nHeimservice mit Stehimbiss",
+   "l": "Allein Kochen??\nNein! Danke!\nauch Sa + So warmes Essen\nWir bringen zu Ihnen ins Haus:\n• Werktags eine warme Mahlzeit (mit\noder ohne Suppe)\n• an Samstagen, Sonntagen, Feiertagen\nauf Wunsch tiefgefroren\n• Normalkost, Schonkost, Diät, vegeta-\nrisch oder LUXUS – à la carte\n• weit über 100 abwechslungsreiche\nMenüs\nTelefon\n89 11 66-17\noder\n89 11 66-18\nCaritas-Zentrum Menzing\nÖkumenische Sozialstation\nPippinger Str. 97/Nähe Verdistraße"
+  }
+ },
+ "uncertain": {
+  "L3": [
+   {
+    "location": "p161, ad i (small condensed print)",
+    "note": "Address line and opening hours read with moderate confidence."
+   }
+  ]
+ },
+ "notes": {
+  "L3": [
+   "Ads page p161 is a photo; transcribed manually from 230–250-dpi crops."
+  ],
+  "L2": [
+   "Title spans two lines in the source; joined."
+  ]
+ },
+ "verified": {
+  "L1": true,
+  "L2": true,
+  "L3": true,
+  "SB1": true,
+  "SB2": true
+ }
+}

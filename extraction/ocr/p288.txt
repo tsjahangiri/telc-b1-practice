@@ -1,0 +1,15 @@
+0.074 0.057 1.00	Leseverstehen, Teil 2
+0.092 0.041 1.00	LANGUAGE Tests
+0.166 0.047 1.00	6. Der Schweizer Schlafforscher Alexander Borbety
+0.211 0.103 0.50	A
+0.205 0.127 1.00	behauptet, dass der gesunde Schlaf gleichmäßig ist.
+0.240 0.119 1.00	] beschäftigt sich seit 50 Jahren mit dem Thema Schlaf.
+0.273 0.121 1.00	meint, dass es beim Schlaf verschiedene Stufen gibt.
+0.312 0.047 1.00	7. Während der Leichtschlafphase
+0.358 0.101 1.00	A
+0.353 0.125 0.50	erholt man sich nicht gut.
+0.387 0.117 1.00	träumt man besonders viel.
+0.418 0.121 1.00	wacht man öfter auf.
+0.608 0.509 0.50	rn
+0.821 0.127 1.00	manchmal nachts aufwachen.
+0.856 0.101 1.00	c zu viel und zu lange schlafen.

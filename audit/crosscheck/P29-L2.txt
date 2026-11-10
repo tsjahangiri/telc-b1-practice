@@ -1,0 +1,5 @@
+# P29-L2 pages [429, 430] ratio 0.938
+## website words not in OCR:
+Erste-Hilfe-Kenntnisse hat Ausbildung Flugbegleiterin Pilotin Aufenthaltsräumen liebsten liebsten anderer Sprachen findet
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests Erste-Hilfe Kenntnisse Leseverstehen Teil LANGUAGE Tests

@@ -1,0 +1,59 @@
+{
+ "fixes": [
+  [
+   "SB1",
+   "Herrn\\n## Das COMPUTER-MAGAZIN\\nMatthias Buschhaus",
+   "Das COMPUTER-MAGAZIN\\nHerrn\\nMatthias Buschhaus"
+  ]
+ ],
+ "ads_manual": {
+  "page": 290,
+  "ads": {
+   "a": "MeineWelt\nist Beethoven\nJung gebliebener Rentner,\nehemaliger Musiklehrer (Gymnasium),\nBeethovenfan, besucht (fast) alle\nBeethovenkonzerte und Opern auf\nder ganzen Welt.\nSuche kultur- und musikbegeisterte\nBegleiterin über 50. Zuschriften unter\nA/B 5813 an diese Zeitung",
+   "b": "Richtig bewerben – Bewer-\nbungen richtig gestalten\nvon Hans Müller\nDas 11-Punkte-Programm\nzur erfolgreichen Bewerbung\naus dem Milleniums-Verlag, mit vielen\nMusterbeispielen und Checklisten hilft\nIhnen, Bewerbung und Bewerbungs-\ngespräch erfolgreich zu bestehen.\nJetzt neu in Ihrer Buchhandlung!",
+   "c": "Wir suchen zum nächstmöglichen Termin\neine/n\nRezeptionisten/\nRezeptionistin\nSie sind:\nzeitlich flexibel, sympatisch und freund-\nlich, zwischen 20 und 35 Jahre alt\nWir bieten:\nüberdurchschnittliche Bezahlung, festes\nArbeitsverhältnis (ganzjährig), gute\nArbeitsatmosphäre\nWir erwarten:\nIhre Bewerbungsunterlagen\nHotel Vier Jahreszeiten\nPostfach 12345",
+   "d": "Neuerscheinung zur Buchmesse\n»Ratgeber Au-pair«\nvon Erika und Justus Meier-Krause\naus dem Inhalt:\n• Suche und Auswahl des richtigen\nAu-pair-Mädchens\n• Vertragsbestimmungen\n• Wie hoch ist das passende Ge-\nhalt?\n• Was müssen Sie beachten? uvm.\nMILLENIUMS-VERLAG · HAMBURG",
+   "e": "Wir sind\nein Sportclub mit\nengagierten Mitgliedern und\nsuchen für die nächste Saison einen\nneuen\nJugendtrainer\nfür unsere Vereinsjugend.\nSchwerpunkte: Handball, Volleyball,\nBasketball, Fußball\n2 Nachmittage pro Woche\n(je 3 Stunden)\nSportclub Erbach\nTel.: 01233/56744",
+   "f": "Nette Lehrerin sucht Partner:\nIch bin über dreißig, aber unter vier-\nzig; meine Hobbys sind Reiten und\nWandern. Ich suche einen humorvol-\nlen, intelligenten Enddreißiger, der\nmit mir zu Fuß oder zu Pferd ferne\nGegenden erkundet und immer ein\noffenes Ohr für mich hat.\nZ/B 2240",
+   "g": "Wir stellen ein:\nAutomechaniker/\nAutoschlosser\nSie haben eine abgeschlosse-\nne Berufsausbildung und viel\nFreude\nan Ihrem Beruf?\nDann schwimmen Sie mit uns\nauf der Erfolgswelle.\nBewerbungsunterlagen an:\nAutohaus Robert & Sohn,\nPostfach,\n33378 Rheda-Wiedenbrück",
+   "h": "Großes Modehaus sucht\njunge\nModels\n(männlich/weiblich)\nfür Modeschauen in ganz Deutschland und Österreich in den\nMonaten Juli und August\nWir bieten gute Bezahlung bei freier Reise, Kost und Logis.\nBewerbungen mit Foto an:\nModehaus Schwärzinger,\nMarketing-Abteilung, Postfach,\n76530 Baden-Baden",
+   "i": "Kindergarten\n„Hokuspokus“\nsucht neue\nMitarbeiterin\nzum 1. September.\nSie sind: kinderlieb, temperamentvoll,\nkreativ und geduldig!\nDann bieten wir Ihnen einen Job in einem\ndynamischen, jungen Team mit guter\nBezahlung!\nBewerbung an:\nHokuspokus, Gartenstr. 19, Karlsruhe",
+   "j": "Stadtverwaltung\nErbach\nAbteilung Sport\nUm den Bürgerinnen und Bürgern die\nWahl des richtigen Sportvereins zu\nerleichtern, haben wir eine Informations-\nbroschüre mit den Anschriften aller\nVereine zusammengestellt.\nDie Broschüre\n„SPORTVEREINE BEI UNS“\nist ab sofort kostenlos im Rathaus, im\nBürgerbüro und bei allen Banken und\nSparkassen erhältlich.",
+   "k": "Immer Ärger\nmit der Autowerkstatt?\nReparaturen zu teuer und schlecht gemacht?\nMachen Sie es doch selbst!\nIn dem Standardwerk\nHANDBUCH AUTO\nvon Heribert Pawa\nfinden Sie – reich bebildert – detaillierte Anleitungen\nfür viele Reparaturarbeiten am eigenen Auto.\nMilleniums-Verlag – Hamburg",
+   "l": "Für meine 2 und 4-jährigen Töchter suche ich\nab kommenden Winter nettes, kreatives\nrussisches\nAu-pair-Mädchen\nfür die Betreuung der Kinder und leichte\nHausarbeiten. Voraussetzungen: mindestens\n21 Jahre alt, Studentin, gute Referenzen, mit\nmeinen zweisprachig aufwachsenden Töchtern\nausschließlich Russisch sprechen.\nBewerbung an:\nDr. Igor Kafelnikow,\nStettiner Str. 17, 10178 Berlin"
+  }
+ },
+ "uncertain": {
+  "L3": [
+   {
+    "location": "p290, ad k",
+    "note": "Author name 'Heribert Pawa' (very small print) low confidence."
+   },
+   {
+    "location": "p290, ad h",
+    "note": "Small lines 'für Modeschauen in ganz Deutschland ...' moderate confidence."
+   }
+  ]
+ },
+ "notes": {
+  "L1": [
+   "Same exercise as P13 Leseverstehen Teil 1."
+  ],
+  "SB1": [
+   "Letter header: sender block 'Das COMPUTER-MAGAZIN' (right) and recipient address (left) are printed side by side; reordered so that the recipient address lines stay together."
+  ],
+  "L3": [
+   "Same situations and ad page as P15 (p290); transcription re-checked."
+  ]
+ },
+ "verified": {
+  "L1": true,
+  "L2": true,
+  "L3": true,
+  "SB1": true,
+  "SB2": true
+ },
+ "paper_notes": [
+  "P20 is a duplicate of P15 (identical exercises and answer key)."
+ ]
+}

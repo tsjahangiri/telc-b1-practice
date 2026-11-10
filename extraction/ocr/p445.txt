@@ -1,0 +1,24 @@
+0.074 0.055 1.00	Leseverstehen, Teil 2
+0.092 0.041 1.00	LANGUAGE Tests
+0.138 0.045 1.00	6. In der Schweiz gibt es etwa 800.000 Menschen, die
+0.182 0.103 0.50	A
+0.179 0.131 1.00	als Kind Angst vor der Schule hatten.
+0.214 0.121 1.00	beim Lesen und Schreiben große Schwierigkeiten haben.
+0.249 0.105 1.00	C erst als Erwachsene Lesen und Schreiben lernen.
+0.288 0.045 1.00	7. Sonja Kündig
+0.330 0.129 1.00	besitzt die Fähigkeit, sich Zahlen sehr gut zu merken.
+0.365 0.127 1.00	hat nach dem Kurs eine Stelle bei einer Bank gefunden.
+0.400 0.105 0.50	c lernte ihren Mann im Kurs kennen.
+0.442 0.045 1.00	8. Michael Feller
+0.483 0.131 1.00	ist heute mit seinen Lernfortschritten zufrieden.
+0.516 0.127 1.00	versucht jetzt, trotz Schwierigkeiten längere Taxte zu lesen.
+0.525 0.517 0.50	ehschul
+0.552 0.117 1.00	wechselte den Wohnort, weil er Probleme in der Schule hatte.
+0.590 0.045 1.00	9. Die Leiterin des Kurses stellt fest, dass
+0.632 0.133 1.00	der Kurs die Teilnehmenden selbstsicherer macht.
+0.667 0.099 1.00	B die Teilnehmenden keinen Grammatikunterricht brauchen.
+0.702 0.105 1.00	c sie selbst einen neuen Kommunikationsstil lernen muss.
+0.738 0.045 1.00	10. Christian Koller
+0.779 0.133 1.00	diskutiert nun auch mit Kollegen über Themen aus der Zeitung.
+0.814 0.127 1.00	hat noch nie einen Zeitungsartikel gelesen.
+0.849 0.105 1.00	C wurde früher von seinen Kollegen oft ausgelacht.

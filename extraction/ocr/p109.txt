@@ -1,0 +1,153 @@
+0.071 0.060 1.00	Leseverstehen, Teil 3
+0.089 0.045 1.00	LANGUAGE Tests
+0.132 0.113 1.00	90 Minuten Leseverstehen und Sprachbausteine
+0.125 0.949 1.00	9
+0.173 0.142 1.00	OBER-GOMS
+0.190 0.179 1.00	Wandern Im Wallis
+0.187 0.390 1.00	Ausstellung
+0.208 0.138 0.30	06.-10. Junl
+0.215 0.138 0.30	18.-25. Angust
+0.208 0.290 0.50	Fr. 425
+0.201 0.421 0.50	.Marchen - Mythen -
+0.201 0.643 1.00	Chocolat-Werbung
+0.197 0.804 0.30	КUСТУRТIРP:
+0.222 0.175 0.30	,Septembe
+0.215 0.292 0.30	Fr. 7350
+0.211 0.452 0.50	irzählungen
+0.215 0.645 0.50	Im Rahmen der Ausstellung Chocolat-Totler:
+0.224 0.290 0.30	F. 750
+0.227 0.398 1.00	Acht Künstlerinnen zeigen ihre
+0.225 0.645 1.00	Die Geschichte der Schokolade von 1899 bis
+0.247 0.156 1.00	Wanderungen/Klettertouren mit
+0.240 0.172 1.00	Haibpension/Führungen/
+0.237 0.462 1.00	Arbeiten
+0.235 0.645 0.50	heule" präsentieren und kommenteren Christian
+0.254 0.183 1.00	gepeüften Bergführem
+0.247 0.407 0.50	vom 2. bis 30. Juni in Thun
+0.246 0.645 0.50	Jacquet und Fritz Kobi im Komhausforum alle
+0.257 0.396 1.00	Die Arbeiten werden in der Zeit
+0.256 0.645 1.00	und neue Chocolat-Tobler-Werbefime
+0.273 0.199 1.00	Hotel Walser
+0.267 0.400 0.50	vom 2. bis 30. Juni in Schau-
+0.269 0.647 1.00	Bern:
+0.285 0.197 0.50	3988 Ulrchen
+0.279 0.394 1.00	fenstern der Innenstadt gezeigt.
+0.279 0.645 0.50	Komhausforum 19 UM
+0.301 0.191 0.30	Fax. 022/073 21 20
+0.294 0.193 0.30	Tel: 027/973 21 22
+0.295 0.452 1.00	Vernissage:
+0.288 0.647 0.50	Mehr Ausgehtipps in der ,Berner Woche* und im
+0.304 0.437 0.50	2. Juni, 19.30 Uhr
+0.299 0.647 1.00	Indernet unter www.BernerWoche.ch
+0.314 0.158 1.00	www.goms.ch/hotel-walser
+0.314 0.411 1.00	Schibenstrasse 21 - Thun
+0.324 0.429 0.50	Tel. 033 222 02 47
+0.347 0.109 1.00	d
+0.356 0.179 1.00	sarazena
+0.357 0.423 0.50	DAS ASCHENPUTTEL
+0.369 0.232 1.00	Zermalt
+0.368 0.411 0.50	Cindenefia, Cenerentola, Aschenputtel
+0.376 0.437 0.50	- einmal erzähit, enmal gespieit:
+0.369 0.661 1.00	SCHWEIZER
+0.385 0.160 0.50	Herzlich wilkommen in unser
+0.394 0.142 0.50	emütichen Ferienhofel in zeptraler Lag
+0.389 0.445 0.50	KULTURTIPP:
+0.388 0.665 1.00	FERIENORT
+0.406 0.164 1.00	Perfekt ausgestattete Zimme
+0.401 0.811 1.00	ZERMATT
+0.416 0.160 1.00	mit allem Komfort, Fitnessraum,
+0.424 0.175 1.00	Tennishalle, Schwimmbad,
+0.423 0.454 1.00	Die Scheftstellerin
+0.418 0.651 1.00	Erholung pur im Naturfreunde-Hotel Zermatt
+0.435 0.160 1.00	reichhaltiges Frühstucksbuffet
+0.435 0.454 0.50	Elke Seldenreich
+0.435 0.651 0.50	• Heeriche Wanderwege in den Berger
+0.446 0.129 1.00	Bruno & Catherine Wyrsch-Zumiwen
+0.453 0.427 0.50	ammen mit dér Basel Sinfonietta
+0.446 0.470 0.50	präsentiert
+0.456 0.129 0.50	Tel. 027 /967 44 41 - Fax 027 /967 63
+0.467 0.127 1.00	25
+0.462 0.427 1.00	den bekannten Mürchenstotf
+0.462 0.663 1.00	NATURFREUNDE-HOTEL ZERMATT-
+0.475 0.129 0.50	internet: www.hotei-sarazena.ch
+0.471 0.458 0.50	aut der Bühne
+0.469 0.696 0.50	Danieia + René Zimmermann
+0.475 0.696 0.30	Tel. 027 907 27 88 - Fax 967 80 29
+0.485 0.127 0.50	E-Mail: sarazenazermatt@bluewin.ch
+0.484 0.425 0.50	Theaterhaile Bemn, 20.30 Uhe
+0.520 0.101 0.50	g
+0.523 0.140 1.00	Tierpark Goldau
+0.519 0.320 1.00	h
+0.523 0.388 1.00	DER
+0.520 0.676 0.50	Geöffnet:
+0.526 0.676 0.50	Mo.-Ft. 9.00-19. Ut Sa 9.00-14.00 Uhr
+0.541 0.140 0.50	ein Besuch, der sch lohnti
+0.552 0.123 1.00	• Freilautzone
+0.545 0.347 1.00	FEURIGE
+0.545 0.706 1.00	ANDREAS TIERWELT
+0.562 0.125 1.00	• Abenteuerspielplatz
+0.563 0.427 1.00	ELIAS
+0.561 0.676 0.50	• Vögel - Nager - Pilanzen
+0.573 0.127 0.50	• Restaurant
+0.568 0.678 1.00	• Warm- und Kaltwasserfische
+0.581 0.123 0.50	• 365 Tage im Jahr offen
+0.577 0.678 1.00	• Futter und Zubehör für alle Tierarten
+0.590 0.359 1.00	Historische Lokomotiven und Waggons, jetat
+0.593 0.677 0.50	• Fachberatung
+0.586 0.678 1.00	+ Aquarion und Terrarian
+0.602 0.121 1.00	Eintritt frei für Begleitpersonen
+0.600 0.380 1.00	ausgestellt im Bahnmuseum WORB
+0.610 0.121 1.00	von Gruppen ab 12 Personen
+0.607 0.678 0.50	Kreurgasse 14
+0.618 0.380 1.00	Führungen für Kinder und Erwachsene:
+0.615 0.680 0.50	CH 4500 Solothum
+0.623 0.121 0.50	Tel 041-855 50 00
+0.626 0.343 1.00	Jeden Samstag und Sonntag 11:00 Uhr und 16:00 Uhr
+0.623 0.678 1.00	Tel. 032 622 20 20
+0.635 0.125 0.50	www.berpark.ch
+0.637 0.415 0.50	Infos: RBS, 3048 Worb
+0.632 0.684 0.50	Fax 032 621 52 32
+0.645 0.407 0.50	Telefon: (031) 925 55 55
+0.663 0.366 0.30	k
+0.680 0.388 0.50	JÄGGI BUCHHANDLUNG
+0.677 0.721 1.00	Viking-Tours
+0.690 0.696 1.00	Flussfahrten ouf der Aare
+0.699 0.152 0.30	TANZ IHPHLSE
+0.701 0.433 0.50	Dienstag 8.5., 20 Uhr
+0.703 0.641 1.00	tägliche Fahrten von Mai bis Sep.
+0.715 0.094 1.00	Schule für zeitgenössischen Tanz,
+0.712 0.405 1.00	INGRID NOLL (Live im Loeb)
+0.717 0.641 0.50	Abfahrt der Schitfe: 11 Uhr, 14 Uhr, 16 Uhr
+0.727 0.090 0.50	klassisches Ballett, Malen und Tanz
+0.725 0.382 1.00	die erfolgreichste und ungewöhnlchste
+0.730 0.643 1.00	Treffpunkt:
+0.728 0.762 0.50	Thun/Schwäbis Schiffs-
+0.738 0.388 1.00	deulsche Krimiautorin liest aus ihrem
+0.749 0.090 0.50	Laufendes Kursangebot für Anfänger und
+0.741 0.762 1.00	steg
+0.757 0.092 0.30	Forgoschrittene, Einführurgskurse zum
+0.750 0.388 0.50	unheimlchen Werk „Selige Witwen".
+0.754 0.643 1.00	Preise:
+0.753 0.762 1.00	43 Franken
+0.767 0.092 0.30	Kennentéirion, piruhetiche Bewugungsachule
+0.769 0.441 1.00	Eintritt Ft. 10,00
+0.766 0.643 1.00	Spezialangebot:
+0.766 0.762 1.00	Abendfahrten (Rückkeht
+0.779 0.094 0.50	Otlene Gruppeni für Kindes, Jugendlche und
+0.776 0.762 0.50	23 Uhr), Tanz an Bord,
+0.789 0.092 0.30	Erwachsett, max. 10 Tedehmednnen
+0.786 0.374 1.00	TiketCorner.ch
+0.786 0.762 1.00	Spezialangebote für
+0.796 0.374 1.00	0848 800 800
+0.796 0.764 1.00	Senioren
+0.808 0.090 0.30	Infonnation und Beralun
+0.807 0.374 0.50	Vorverkaut 2. UG im Loeb Bern
+0.818 0.092 1.00	tanz impulse
+0.815 0.374 1.00	Telefon 031 320:20 20
+0.814 0.643 0.50	Tel 01 434 33 66 - Fax: 01 434 33 44
+0.827 0.090 0.50	Tel. 027 967 18 18
+0.833 0.376 1.00	Eingang Spitalgasse
+0.830 0.643 0.50	viking @viking.ch
+0.839 0.092 0.30	www.lana-impulbe-bemich
+0.843 0.374 0.50	Türotfnung 30 Min, vor Beginn
+0.843 0.645 0.50	www.viking.ch

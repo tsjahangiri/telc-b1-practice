@@ -1,0 +1,14 @@
+0.156 0.084 1.00	Hörverstehen, Teil 3
+0.173 0.070 1.00	LANGUAGE Tests
+0.240 0.047 1.00	Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.
+0.262 0.049 1.00	Sie hören jeden Text zweimal.
+0.281 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 56 - 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.301 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 56 - 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.321 0.045 1.00	falsch auf dem Antwortbogen.
+0.350 0.752 0.30	.......
+0.411 0.047 1.00	56. Sie sollen um 19:30 Uhr bei Georg und Claudia sein .
+0.461 0.047 1.00	57. Im südlichen Österreich ist es tagsüber sonnig, später windig und regnerisch.
+0.516 0.047 1.00	58. Der Speisewagen befindet sich im hinteren Teil des Zuges.
+0.567 0.045 1.00	59. Die Schweizer geben für Urlaub mehr Geld aus als für ihre Gesundheit.
+0.598 0.629 0.50	§chull
+0.619 0.045 1.00	60. Der Sänger beginnt seine Konzertreise mit einer Vorstellung in Wien.

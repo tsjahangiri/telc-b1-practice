@@ -1,0 +1,5 @@
+# P09-L2 pages [106, 107] ratio 0.957
+## website words not in OCR:
+finden
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests Leseverstehen Teil LANGUAGE Tests lkonmeten later schen trctimne ehschul

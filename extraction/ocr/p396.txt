@@ -1,0 +1,17 @@
+0.090 0.012 1.00	• Ja stimmt ,wir können auch neue Spiele für Kinder hinzufügen ,was
+0.128 0.043 1.00	denkst du?
+0.167 0.012 1.00	• Ja ,ich bin derselben Meinung ,aber dafür brauchen wir einige Werkzeuge
+0.203 0.043 1.00	‚hast du Vorschläge?
+0.241 0.012 1.00	• Ja ‚ich kann sowohl eine Leiter *Ju* ,als auch Malwerkzeuge mitbringen
+0.278 0.041 0.30	,aber was ist mit dem Material? *J4uülail je liLa*
+0.318 0.012 0.50	• Wir brauchen Farben ,Tapete *zib Üg* ,und Farbroller ,das kann ich mit
+0.355 0.043 0.50	bringen ‚aber wer kann die Tapete aufhängen * ğl*?
+0.392 0.012 1.00	• Wie wäre es mit unserem freund Thomas ,weil er in diesem Bereich
+0.428 0.043 0.30	arbeitet? * Jl ljs ç Ję" ‚ich kann auch die Möbel reparieren.
+0.469 0.012 0.50	• Ja ,das ist ein guter Vorschlag ‚ich kann auch die Wände streichen * j!
+0.506 0.045 0.50	* ¿}ş",so rufe ich Thomas an ,dann treffen wir uns morgen im
+0.543 0.045 0.50	Kindergarten.
+0.583 0.012 0.50	• Ja ,supper ,ich wünsche dir Hals und Beinbruch,bis morgen.
+0.583 0.607 0.50	ischul
+0.621 0.012 0.50	• Eben falls ‚bis dann.
+0.930 0.010 1.00	www.instagram.com/mahmoudemad007

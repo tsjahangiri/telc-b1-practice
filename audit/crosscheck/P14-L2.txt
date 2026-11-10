@@ -1,0 +1,5 @@
+# P14-L2 pages [173, 174] ratio 0.961
+## website words not in OCR:
+Multimedia-Landschaften Multimedia-Computern llg llg hatten großen Spaß
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests Multimedia Landschaften Multimedia Leseverstehen Teil LANGUAGE Tests harten eroken pals prieht hochschul

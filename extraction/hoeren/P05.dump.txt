@@ -1,0 +1,29 @@
+=== P05-H1 [Einzelkind] p[57] src=text_layer key p61
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören diese Texte nur einmal. / Entscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.
+  41. Die Sprecherin wäre lieber ein Einzelkind.   [-]
+  42. Der Sprecher hat heute ein gutes Verhältnis zu seinem Bruder.   [+]
+  43. Die Sprecherin würde heute gern noch eine Schwester haben.   [-]
+  44. Die Sprecherin hat schon früh lernen müssen, dass man im Zusammenleben viel Rücksicht nehmen muss.   [+]
+  45. Die Sprecherin versteht sich sehr gut mit ihrem Bruder.   [+]
+  nums=[41, 42, 43, 44, 45] complete=True
+=== P05-H2 [Wallner-Calletti] p[58] src=text_layer key p61
+INSTR: Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. / Sie hören das Gespräch zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.
+  46. Frau Wallner-Calletti lebt seit fünf Jahren in Italien.   [-]
+  47. Sie wollen zuerst nur ein Jahr an einem italienischen Gymnasium unterrichten.   [+]
+  48. Sie hat ihren Mann bei einem Italienischkurs kennengelernt.   [-]
+  49. Sie eröffnete ein Wiener Restaurant in Rom.   [+]
+  50. Sie hatte am Anfang große Probleme, da sie das Kochen erst lernen musste.   [-]
+  51. Frau Wallner-Calletti besitzt Inzwischen auch ein italienisches Weinlokal.   [-]
+  52. Sie hatte immer große Schwierigkeiten mit den Behörden.   [-]
+  53. Ihre Tochter lernt die deutsche und die italienische Sprache.   [+]
+  54. Sie möchte bald eine Filiale des Wiener Café Central in Rom eröffnen.   [-]
+  55. Sie glaubt, dass man überall Erfolg haben kann, wenn man sich bemüht.   [+]
+  nums=[46, 47, 48, 49, 50, 51, 52, 53, 54, 55] complete=True
+=== P05-H3 [Ingolstadt] p[59] src=text_layer key p61
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören jeden Text zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen.
+  56. Sie müssen in Ingolstadt die Regionalbahn nach Regensburg nehmen.   [-]
+  57. Clara kann wegen einer Prüfung die Theaterkarten nicht abholen.   [-]
+  58. Im Schwarzwald können die Straßen morgen glatt werden.   [+]
+  59. Der Liederabend findet zu einem späteren Termin statt.   [+]
+  60. Im Untergeschoss gibt es Winterkleidung zum halben Preis.   [-]
+  nums=[56, 57, 58, 59, 60] complete=True

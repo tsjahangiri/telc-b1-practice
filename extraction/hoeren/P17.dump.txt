@@ -1,0 +1,29 @@
+=== P17-H1 [Computer] p[246] src=text_layer key p250
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören diese Texte nur einmal. / Entscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.
+  41. Der Sprecher hat zu Hause keinen Computer.   [-]
+  42. Der Sprecher benutzt den Computer nur am Arbeitsplatz.   [-]
+  43. Die Sprecherin lehnt Computer ab.   [+]
+  44. Die Sprecherin hat kein großes Vertrauen zu Computern.   [+]
+  45. Die Sprecherin braucht den Computer im täglichen Leben.   [-]
+  nums=[41, 42, 43, 44, 45] complete=True
+=== P17-H2 [Bachinger] p[247] src=text_layer key p250
+INSTR: Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. / Sie hören das Gespräch zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.
+  46. Herr Bachinger hat ein Buch über Väter geschrieben.   [+]
+  47. Herr Bachinger hat vor zehn Monaten geheiratet.   [-]
+  48. Herr Bachinger meint, dass die Zeitungen mehr über moderne Familien berichten sollen.   [-]
+  49. Herr Bachinger konnte seinen Chef sofort überzeugen.   [+]
+  50. Hausarbeit war für Herrn Bachinger nichts Neues.   [+]
+  51. Seine Kollegen haben ihn anfangs sehr vermisst.   [-]
+  52. Herr Bachinger hat gegen viele Vorurteile kämpfen müssen.   [-]
+  53. Herr Bachinger hat das Buch für andere Väter geschrieben.   [-]
+  54. Er will erst wieder arbeiten gehen, wenn sein Sohn in die Schule kommt.   [+]
+  55. Herr Bachinger meint, dass Teilzeitarbeit für ihn das Beste sei.   [-]
+  nums=[46, 47, 48, 49, 50, 51, 52, 53, 54, 55] complete=True
+=== P17-H3 [Der Fahrer] p[248] src=text_layer key p250
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören jeden Text zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen.
+  56. Der Fahrer des Wagens mit dem Kennzeichen HB-D 256 soll ins Erdgeschoss kommen.   [+]
+  57. Die Firma liefert das bestellte Sofa am Dienstag ab drei Uhr nachmittags.   [-]
+  58. Der Gasthof Lindner ist neben einer Tankstelle.   [+]
+  59. Der Film Komiker läuft täglich um 20 Uhr.   [+]
+  60. Das Wetter ist am Abend noch gut.   [-]
+  nums=[56, 57, 58, 59, 60] complete=True

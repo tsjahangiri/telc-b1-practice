@@ -1,0 +1,25 @@
+0.092 0.008 1.00	• Frau *Rößner* bevorzugt einen Urlaub ohne ihre Bekannten zu
+0.123 0.041 1.00	machen.
+0.158 0.008 1.00	• Sie findet es besser ,wenn sie und ihr Mann die Zeit alleine verbringen
+0.192 0.008 1.00	• Sie möchten sich auch zusammen ausruhen ,aber das ist nicht
+0.224 0.049 1.00	möglich ,wenn sie in einer Gruppe reisen .
+0.270 0.012 1.00	*****************
+0.270 0.458 0.30	K*******
+0.270 0.684 0.30	*************
+0.312 0.014 1.00	*Meinung*
+0.362 0.027 1.00	Ich habe eine ähnliche Meinung wie *Tamara*
+0.362 0.690 1.00	,ich finde es besser
+0.413 0.045 1.00	wenn ich einen Urlaub nur mit meiner Frau mache ,da könner wir
+0.446 0.045 1.00	unsere Freiheit haben ,um besondere Plätze zu besuchen ,oder
+0.480 0.045 1.00	etwas besonderes zu machen.
+0.531 0.010 1.00	• Während wir alleine reisen , können wir auch unsere Privatheit haben.
+0.564 0.037 1.00	Wir können irgendwo ,und irgendwann ausgehen, ohne,dass
+0.597 0.035 1.00	jemand bei uns ist.
+0.631 0.031 1.00	Wir wollen uns ausruhen , ohne dass andere uns folgen ,aber das ist
+0.661 0.039 1.00	sehr schwerig bei Reisen mit Verwandten.
+0.711 0.010 1.00	********************:
+0.711 0.456 1.00	******************************
+0.753 0.016 1.00	*Erfahrung*
+0.807 0.014 1.00	Ich habe die folgende Erfahrung :
+0.855 0.014 1.00	• Seit 3 Monaten bin ich mit meinem Man nach Alexandria gefahren.
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

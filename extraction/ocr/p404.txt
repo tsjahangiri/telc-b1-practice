@@ -1,0 +1,49 @@
+0.081 0.084 1.00	Sprachausteine, Teil 2
+0.099 0.070 1.00	LANGUAGE Tests
+0.172 0.068 1.00	Lesen sie den Text und schließen Sie
+0.192 0.068 1.00	Lücken 31 - 40. Benutzen Sie die Wörter
+0.211 0.066 1.00	(a, o) Jedes Wort passt nur einmal.
+0.231 0.070 1.00	Markieren Sie Ihre Lösungen für die
+0.251 0.068 1.00	Aufgaben 31 - 40 auf dem
+0.272 0.066 1.00	Antwortbogen.
+0.342 0.045 1.00	Sehr geehrte Damen und Herren,
+0.376 0.047 1.00	unsere Organisation hat den (31), eine deutsch-französische Konferenz zu europäischen
+0.401 0.047 1.00	Entwicklungsprogrammen vorzubereiten.
+0.423 0.051 1.00	Diese Veranstaltung könnte in Breisach (32), und daher brauchen wir von Ihnen nähere(33).
+0.444 0.043 1.00	In Ihrer Anzeige (34) Sie die Sehenswürdigkeiten von Breisach und die verschiedenen
+0.469 0.045 1.00	touristischen Möglichkeiten. Deshalb erscheint uns Ihre Stadt als sehr (35), auch (36) sie als
+0.494 0.047 1.00	Brücke zu Europa gilt.
+0.517 0.051 1.00	Nun haben wir folgende Bitte: Für diese Veranstaltung (37) wir ein gutes Hotel, möglichst am
+0.539 0.047 1.00	Ufer des Rheins, mit Konferenz- und Arbeitsräumen, ausgestattet mit den notwendigen
+0.564 0.045 1.00	technischen Anlagen, Internetanschluss usw. Es sollte (38) ruhig gelegen sein. Können Sie uns
+0.587 0.047 1.00	dazu Vorschläge schicken? Der (39) wäre 15.-21. November.
+0.610 0.047 1.00	Bitte geben Sie uns möglichst bald Bescheid. Für Prospekte und Informationen zu Preisen und
+0.634 0.047 1.00	Buchungsbedingungen (40) wir Ihnen dankbar.
+0.657 0.047 1.00	Mit freundlichen Grüßen
+0.689 0.047 1.00	ADRIAN SCHÖLLER
+0.712 0.047 1.00	EVD Trans GmbH
+0.773 0.047 0.50	a
+0.770 0.117 1.00	AUCH
+0.770 0.232 1.00	d
+0.770 0.279 1.00	FRAGEN
+0.773 0.394 1.00	g
+0.770 0.425 1.00	INFORMATIONEN
+0.770 0.657 1.00	SUCHEN
+0.773 0.776 0.50	m
+0.770 0.860 1.00	VOR
+0.794 0.047 1.00	b
+0.795 0.099 1.00	AUFTRAG
+0.794 0.265 1.00	GEEIGENET
+0.794 0.394 1.00	h
+0.792 0.456 1.00	KÖNNTEN
+0.794 0.616 0.50	k
+0.795 0.659 1.00	TERMIN
+0.797 0.778 0.50	n
+0.792 0.846 1.00	WÄREN
+0.818 0.078 1.00	BESCHREIBEN
+0.818 0.236 1.00	f
+0.815 0.267 1.00	GEGEÜBER
+0.818 0.398 0.50	i
+0.817 0.446 1.00	STATTFINDEN
+0.818 0.671 1.00	TOUR
+0.818 0.858 1.00	WEIL

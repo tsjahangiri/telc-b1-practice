@@ -1,0 +1,108 @@
+##### P10 pages [117, 129] key p129 sections {'L1': [117, 118], 'L2': [119, 120], 'L3': [121, 122], 'SB1': [123], 'SB2': [124], 'H': [125, 126, 127], '?': [128], 'LOES': [129]}
+
+=== P10-L1 [Eine Karte] pages [117, 118] verified=True
+INSTR: Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+  a) Eine Karte – viele Vorteile
+  b) Endlich Ferien ohne Kinder
+  c) Günstiger Urlaub für Vereinsmitglieder
+  d) Meer statt Berge
+  e) Neues Wohnprojekt für Alleinerziehende
+  f) Reisebüros weltweit vernetzt
+  g) Schweizer Seen weiterhin sehr beliebt
+  h) Söhne schenken mehr als Töchter
+  i) Schöne werden großzügiger beschenkt
+  j) Tipps: Wo auch Kinder ihren Spaß haben
+  1. Das fängt ja gut an: Schon im Kinderzimmer werden Jungs bevorzugt – sie bekommen mehr geschenkt als Mädchen. Das ist das Ergebnis einer Untersuchung vom Bundesverband des Spielwaren- Einzelhandels-Bundesweit wurden 6500 Familien nach ihren Schenkgewohnheiten befragt. Fast immer wurden für die Söhne – auch schon im Babyalter – mehr gekauft. Zuständig für die Geschenke sind übrigens meist die Mütter.
+  2. In diesem Sommer werden weitere 200 Großstadt-Jugendherbergen auf der ganzen Welt miteinander vernetzt ICYN heißt das Zauberwort – International Communication Youth Network. Das System wurde speziell für Jugendherbergen entwickelt. Für nur 15 Euro Jahresgebühr kann man mit der ICYN-Karte weltweit nicht nur Übernachtungen in anderen Herbergen reservieren, sondern auch unbegrenzt im Internet surfen, sogar gratis übers Internet telefonieren, Bahn- und Flugtickets bargeldlos buchen sowie günstige Konzerttickets bekommen.
+  3. Ob zu Hause, irgendwo in der Schweiz oder im Ausland: Ferien mit Kindern wollen gut geplant sein. Wo gibt es denn Orte, wo Kinder noch Abenteuer erleben, Hotels oder Wohnungen, in denen sie sich wohl fühlen, wo aber gleichzeitig auch die Eltern auf ihre Rechnung kommen? Ruth Michaela Richter gibt Tipps, verrät Adressen und zeigt Beispiele. Damit werden sogar Städtereisen oder Schlossferien in England interessant.
+  4. Die Sehnsucht nach dem Meer ist in der Schweiz groß, vor allem bei der jüngeren Generation. Ein Drittel der Schweizerinnen und Schweizer würde nach einer Umfrage im Tausch für eine Meeresküste die Hälfte der Berge hergeben. Die Zeitschrift mare ließ über 1000 Personen in der Schweiz nach ihrem Verhältnis zum Meer befragen. Rund 42 Prozent der 15-bis 34-Jährigen würden – treu dem Motto der Jugendbewegung der 80er Jahre: Nieder mit den Alpen, freie Sicht aufs Mittelmeer – den Tausch eingehen. In der Deutschschweiz könnten sich nur 29 Prozent von den Bergen trennen, in der Roman die sind es 37 und im Tessin 43 Prozent.
+  5. Ob für die traditionelle Familie oder für Alleinerziehende: Der Verein für Familienherbergen in Gelsenkirchen bietet schon seit Jahren preisgünstige Ferien. Über 1100 Zimmer und Wohnungen – auch für das kleine Portemonnaie – stehen zwischen Nordsee und Sizilien den Mitgliedern im neuen Katalog zur Auswahl. Nichtmitglieder erhalten diesen Katalog gegen eine Gebühr von 5 Euro.
+Infos: Telefon 061/981 25 25 oder www.ferienwohnung.ch
+  SOLUTION(complete): 1i 2a 3j 4d 5c
+
+=== P10-L2 [Sprachliche] pages [119, 120] verified=True
+INSTR: Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+  TITLE: Du oder Sie – das ist hier die Frage / Sprachliche Regeln am Arbeitsplatz
+  Häufig erscheint Invar Kamprad, lekea-Gründer und-Besitzer, am Morgen unangemeldet angemeldet am Hintereingang einer seiner Filialen Guten Morgen ich bin der Invar Das schwedische Möbelbaus ist das beste Beispiel für die Du Kultur am Arbeitsplatz, denn alle Beschäftigten sprechen sich mit Du an. Die Gesellschaft für deutsche Sprache in Wiesbaden hat nun in einer Untersuchung festgestellt, dass mehr als 53 Prozent der befragten Personen alle Arbeitskollegen duzen. Wie zu erwarten sind es vor allem die 16 – bis 29 jährigen (59 Prozent) die sich lieber schnell duzen Bei den über 60 – Jährigen sank die Zahl auf 14 Prozent warum eigentlich sagt man am Arbeitsplatz immer öfter Du Zum Beispiel pflegen Ikea Greenpeace und McDonalds alle das obligatorische Du Damit wollen sie Vertrauen aufbauen und ein familiäres Umfeld schaffen. Gegenüber den Kunden ist an jedoch vorsichtiger geworden. So hat Ikea im Verkaufskatalog statt dem Du wieder das sie eingeführt Man hofft mit Sie mehr Leute nicht nur jüngere anzusprechen. Bis heute üblich ist das Du zum Beispiel in Schweizer Gewerkschaften Viele Mitglieder sind sogar beleidigt, wenn sie mit sie angesprochen werden Es gibt aber auch umgekehrten Fall, zwar bei der Polizei Wer in Deutschland einen Polizisten duzt riskiert eine Strafe in der Schweizer hingegen findet man eine Anzeige wegen Duzens eines Beamten übertrieben Polizisten werden sowieso kaum mit Du angesprochen meint Hanspeter Fäh von der Zürcher Stadtpolizei Der Trend zum Du kann jedoch auch als sozialer Druck oder Zwang empfunden werden. Ein Du abzulehnen gilt nämlich als unfreundlich. Das hat Dieter S Angestellter bei einem Textilgeschäft in Deutschland erfahren Ein Gericht entschied, dass er seine Kollegen weiterhin mit Du ansprechen musste.
+  So sehr das Du in der Gesellschaft auch an Bedeutung gewinnt das Sie hat immer noch eine feste soziale Basis und kann diese sogar ausbauen Benimmkurse, wo man Höflichkeit und die richtigen Umgangsformen lernt, sind heute im Trend immer mehr Firmen schulen ihre Mitarbeiter in stilvollem Verhalten. Dazu gehören folgende Grundregeln: Die ältere Person bietet der jüngeren das Du an Oft ist jedoch auch die Stellung entscheidend Der ältere Mitarbeiter bietet seinem jüngeren Chef nie das Du an.
+  Q6. Die Firma Ikea benutzt heute das. Du,
+     a) weil das ein Zeichen für eine Familie Atmosphäre ist.
+     b) weil sie mehr jüngere Kunden gewinnen will.
+     c) weil so mehr Leute den Verkaufskatalog lesen.
+  Q7. In der Schweiz
+     a) gilt das Du in Gewerkschaften als Beleidigung.
+     b) werden Polizisten nur selten mit Du angesprochen.
+     c) wird man bestraft, wenn man zu Beamten Du sagt.
+  Q8. Eine Untersuchung hat gezeigt,
+     a) dass 14 Prozent der jüngeren Mitarbeiter das Sie vorziehen.
+     b) dass besonders jüngere Arbeitskollegen schneller das Du wählen.
+     c) dass sich alle Arbeitskollegen gern mit Du anderen würden.
+  Q9. Durch Kurse können Angestellte
+     a) höfliches Verhalten am Arbeitsplatz lernen.
+     b) ihre Stellung im Arbeitsleben verbessern.
+     c) neue Trends beim Einrichten des Arbeitsplatzes kennen lernen.
+  Q10. Probleme am Arbeitsplatz kann es geben,
+     a) wenn man das Sie ablehnt.
+     b) wenn man wegen eines Fehlers vor Gericht muss.
+     c) wenn man zu den Mitarbeitern Sie sagen will.
+  SOLUTION(complete): 6a 7b 8b 9a 10c
+
+=== P10-L3 [DB] pages [121, 122] verified=True
+INSTR: Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+  11. Sie haben von einer Schweizer Schauspielerin gehört und möchten gern einen Film sehen.
+  12. Sie haben gerade Ihre Ausbildung beendet und suchen eine Stelle an der Rezeption.
+  13. Sie interessieren sich für Umweltschutz und suchen eine passende Sendung.
+  14. Ihr Freund, der am Institut für Film und Bild studiert, sucht einen geeigneten Praktikumsplatz.
+  15. In einer Sendereihe wird im Fernsehen über die neue politische Entwicklung in Deutschland berichtet. Sie wollen sich informieren.
+  16. Sie interessieren sich für Großstädte und ihre Entwicklung und suchen dazu eine Sendung im Rundfunk.
+  17. Sie sind mit der Schule fertig und wollen bei der Deutschen Bahn eine Ausbildung machen.
+  18. Sie interessieren sich für politisches Theater und möchten dazu am Wochenende etwas hören oder sehen.
+  19. Sie arbeiten gern mit anderen zusammen und suchen eine Tätigkeit bei einer Werbefirma.
+  20. Sie wollen mehr über das Thema Arbeiten in Europa erfahren.
+  [a] PRAKTIKANT/IN / im Bereich Medien- und / Veranstaltungstechnik gesucht / Unser Hauptaufgabengebiet / ist die Durchführung von / Pressekonferenzen und Themen- / Events. Das Praktikum ist bezahlt / und dauert 6 Monate. Sie arbeiten / in einem namhaften Team und / sammeln Ihre Erfahrungen da, wo sie / entstehen, von der Konzeption bis / zur Realisation. / Bewerbung per E-Mail an: / TAPE Media Film GmbH / info@mediafilm.project
+  [b] 20:45 ARTE / Neue Chancen auf dem Arbeitsmarkt / THEMENABEND / „Unsere Zukunft“ / Wie kommen Arbeitsuchende in der / Europäischen Union mit der Wirtschafts- / und Bildungskrise zurecht? Hat uns die EU / mehr Jobs gebracht? / TV-Abend mit Stefan Bröker und namhaften / Gästen aus verschiedenen EU-Ländern / ARD 21:45 Uhr
+  [c] Wir suchen engagierte MitarbeiterInnen / für Kundenbefragungen in unseren / Zügen, 10–15 Std./Woche. Wichtig sind / sicheres Auftreten, zeitliche Flexibilität / und Fremdsprachenkenntnisse (Engl., / Frz.). Mehrjährige Berufserfahrung er- / wünscht. / Nähere Informationen unter: / www.bahnreisenforschung.de / DB / Bewerbungen an: / Deutsche Bahn / info@brf.kundenservice.de
+  [d] 20.15 Tatort (ARD) Nun kommen / die Krimi-Fans wieder auf ihre / Kosten: Horst Schliemann alias / Gustav George ermittelt. Ihm zur / Seite steht Denise Mercier. Die / gebürtige Schweizerin spielt die / Freundin des rüden Ermittlers – / eine Frau mit Stil, die Verständnis / für Schliemanns Lebenswandel / zeigt, sich aber auch in Szene zu / setzen weiß. Mit dieser Rolle hofft / sie, sich im deutschen Fernsehen / etablieren zu können. / (bis 21:45 Uhr)
+  [e] Lukrative / Halbtagstätigkeit: / Expandierendes High-Tech- / Unternehmen der Film- und / Medienbranche sucht junge / MitarbeiterInnen für Empfang / und Kundenbindung. Erfahrung / mit PC, gute Internet- und / Fremdsprachenkenntnisse / erforderlich! / Interessenten wenden sich an / New Media GmbH / Tel. 089/45 79 00 / www.newmedia.de
+  [f] 20:15 3Sat LIVE / Diskussionsrunde: / Drei Länder – ein Thema / TALK-SHOW / „Kommt die Öko-Diktatur? – Zündstoff / Benzinpreis“. Wie begegnet man / in Deutschland, der Schweiz und / Österreich dem Verkehrskollaps? / Wie retten wir die Umwelt? / (bis 21:30)
+  [g] Bei uns wird Erfolg belohnt! / Wir suchen für unsere sechs Hotelbetriebe im gehobenen / ***-Bereich in München, Frankfurt und Berlin / Mitarbeiter/innen am Empfang / Wenn Sie bereits Rezeptionserfahrung oder auch gerade ausgelernt / haben, mind. 1 Fremdsprache (E) sprechen und EDV-erfahren sind, / senden Sie bitte Ihre Bewerbung an: / Blatti's Hotels Zentralbüro, Geschäftsbereich Personal, / Postfach 221144, 80501 München
+  [h] Die PSA kooperiert mit über 500 unabhängigen / Personaldienstleistern und ist daher immer die / erste Adresse, wenn es um Zeitarbeit geht. / Unser Ziel ist es, den besten Mitarbeiter zur / richtigen Zeit am richtigen Ort anbieten zu / können. / Wir suchen ständig: / Studentische Unternehmensberater, / Studenten für IT-Administration und / Schüler-Nachhilfe (Englisch, Französisch, / Mathe) / Messehostessen / PSA-Zeitarbeit / Tel. 089/74 68 91 93 / www.PSA-zeitarbeit.de
+  [i] 22:55 Stern / TV-Countdown / (VOX) / In zehn Reportagen / zeigt „Spiegel TV“- / Mann Jörg Hafkemeyer, / wie sich die ersten / Monate der neuen / Regierung gestalten. / Jetzt werden die / Weichen für die Zu- / kunft Deutschlands neu / gestellt. (bis 23:50)
+  [j] Max Frisch: / Biedermann und die / Brandstifter / Samstag, 19. September, / 20:10–21:17 Uhr, Hessischer / Rundfunk. „Ein Lehrstück ohne Lehre“ / nannte Frisch sein ursprünglich als / Hörspiel gedachtes und dann für das / Theater bearbeitetes Stück, das 1958 / in Zürich uraufgeführt wurde. Man / sah darin sowohl eine Warnung vor / dem Kommunismus als auch vor dem / Faschismus. (chw.)
+  [k] Transparent – Das Kulturstudio / (22:15, Radio Wien) / Architekten sprechen über die / Zukunft von Europas Metropolen. / Weiters: Rückschau und Vorschau / auf das Programm der „Wiener / Schule für Dichtung“. Und ein Bericht / über das Obdachlosen-Projekt / „Wochenklausur“.
+  [l] Sie lieben den Umgang / mit Menschen? / Sie sind außerdem auch dynamisch und / ehrgeizig, dann sind Sie bei uns genau / richtig. Münchens bekannte PRIMA- / Werbung bietet Ihnen neben einem / tollen Team hervorragende Verdienst- u. / Aufstiegsmöglichkeiten. / Wir brauchen Leute wie Sie! Rufen Sie an! / Tel. 0 89/2 35 55 43
+  SOLUTION(complete): 11d 12g 13f 14a 15i 16k 17x 18j 19l 20b
+
+=== P10-SB1 [Samir] pages [123] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen
+  Sehr geehrter Herr Samir,
+  im Mai habe ich bei [[21]] für mich und meine Familie Flugtickets nach Indien bestellt und diese zwei Tage vor Abflug am 27. Juni auch erhalten. Leider entsprachen die Tickets überhaupt nicht dem, was zuvor bei der Buchung am Telefon ausgemacht worden [[22]].
+  [[23]] ich ausdrücklich einen Direktflug nach Mumbai bestellt hatte, haben Sie mir Tickets [[24]] Zwischenstopp in Delhi ausgestellt. Wir mussten eine Nacht in Delhi verbringen und kamen so [[25]] einen Tag später als geplant in Mumbai an. Doch damit nicht genug. Die Tickets waren nämlich nicht nur anders als vereinbart, [[26]] auch noch viel teurer. Statt der erwarteten 640 Euro kosteten [[27]] Tickets 720 Euro.
+  Ich darf Sie daher [[28]] Rückzahlung der zu viel verrechneten Kosten auf mein Konto [[29]] der Bank of India in Mumbai bitten. Meine Bankdaten finden Sie unten.
+  Ich bitte Sie, die Angelegenheit bald zu klären und [[30]] dann zu antworten.
+  Mit freundlichen Grüßen
+  Luisa Martin
+  21: a) ihnen | b) Ihnen | c) Sie
+  22: a) hat | b) war | c) wäre
+  23: a) Danach | b) Obwohl | c) Nämlich
+  24: a) für | b) mit | c) zu
+  25: a) erst | b) jetzt | c) schon
+  26: a) besonders | b) sondern | c) sonst
+  27: a) den | b) der | c) die
+  28: a) für | b) um | c) zu
+  29: a) an | b) bei | c) vor
+  30: a) mich | b) mir | c) sich
+  SOLUTION(complete): 21b 22b 23b 24b 25a 26b 27c 28b 29b 30b
+
+=== P10-SB2 [ADRIAN] pages [124] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.
+  Sehr geehrte Damen und Herren,
+  unsere Organisation hat den [[31]] , eine deutsch-französische Konferenz zu europäischen Entwicklungsprogrammen vorzubereiten.
+  Diese Veranstaltung könnte in Breisach [[32]] , und daher brauchen wir von Ihnen nähere[[33]]. In Ihrer Anzeige [[34]] Sie die Sehenswürdigkeiten von Breisach und die verschiedenen touristischen Möglichkeiten. Deshalb erscheint uns Ihre Stadt als sehr [[35]] , auch [[36]] sie als Brücke zu Europa gilt.
+  Nun haben wir folgende Bitte: Für diese Veranstaltung [[37]] wir ein gutes Hotel, möglichst am Ufer des Rheins, mit Konferenz- und Arbeitsräumen, ausgestattet mit den notwendigen technischen Anlagen, Internetanschluss usw. Es sollte [[38]] ruhig gelegen sein. Können Sie uns dazu Vorschläge schicken? Der [[39]] wäre 15.-21. November.
+  Bitte geben Sie uns möglichst bald Bescheid. Für Prospekte und Informationen zu Preisen und Buchungsbedingungen [[40]] wir Ihnen dankbar.
+  Mit freundlichen Grüßen
+  ADRIAN SCHÖLLER
+  EVD Trans GmbH
+  WORDS: a=AUCH b=AUFTRAG c=BESCHREIBEN d=FRAGEN e=GEEIGENET f=GEGEÜBER g=INFORMATIONEN h=KÖNNTEN i=STATTFINDEN j=SUCHEN k=TERMIN l=TOUR m=VOR n=WÄREN o=WEIL
+  SOLUTION(complete): 31b 32i 33g 34c 35e 36o 37j 38a 39k 40n

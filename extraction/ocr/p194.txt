@@ -1,0 +1,14 @@
+0.081 0.084 1.00	Hörverstehen, Teil 3
+0.078 0.774 1.00	Regensburg
+0.099 0.068 1.00	LANGUAGE Tests
+0.189 0.047 1.00	Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.
+0.209 0.049 1.00	Sie hören jeden Text zweimal.
+0.228 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 56 - 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.249 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 56 - 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.269 0.045 1.00	falsch auf dem Antwortbogen.
+0.360 0.047 1.00	56. Sie müssen in Ingolstadt die Regionalbahn nach Regensburg nehmen.
+0.410 0.047 1.00	57. Clara kann wegen einer Prüfung die Theaterkarten nicht abholen.
+0.462 0.047 1.00	58. Im Schwarzwald können die Straßen morgen glatt werden.
+0.516 0.047 1.00	59. Der Liederabend findet zu einem späteren Termin statt.
+0.570 0.047 1.00	60.Im Untergeschoss gibt es Winterkleidung zum halben Preis.
+0.588 0.613 1.00	schull

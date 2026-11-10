@@ -1,0 +1,21 @@
+0.090 0.458 0.50	****
+0.090 0.791 0.50	*****
+0.144 0.008 1.00	• Herr *
+0.144 0.123 1.00	......* bevorzugt einen Urlaub mit Freunden zu machen ,weil
+0.189 0.041 1.00	alleine reisen ihm sehr langweilg ist.
+0.233 0.008 1.00	• Er findt es sehr interessant ,wenn er Ausflüge mit seinen Freunden
+0.275 0.041 1.00	macht ,da kann er bis Spät in die Nacht richtig feiern.
+0.343 0.041 0.50	*************
+0.343 0.242 0.50	************************************************
+0.385 0.016 1.00	*Meinung*
+0.436 0.010 0.50	• Da gehe ich ganz d'accord , ich finde es besser , wenn ich mit
+0.487 0.041 1.00	meinen Freunden reise ,damit wir zusammen richtig Spaß haben.
+0.532 0.008 0.50	• Wir können nicht nur zusammen spielen ,oder Campen ,sondern
+0.565 0.041 1.00	auch gemeinsame Ausflüge machen.
+0.619 0.010 0.50	• Falls ich nicht genug Geld habe ,finde ich einfach jemanden ,dermich
+0.663 0.041 1.00	bezahlt , das ist manchmal sehr hilfreich.
+0.709 0.027 1.00	Ich finde, dass Reisen mit Freunden einen besonderen Spaß macht,
+0.826 0.041 0.50	*******
+0.826 0.458 1.00	********
+0.826 0.805 1.00	******
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

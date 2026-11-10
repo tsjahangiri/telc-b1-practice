@@ -1,0 +1,493 @@
+1 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+2 L1 | Leseverstehen, Teil 1
+3 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+4 L2 | 6. Die Psychologin der Popper-Schule meint, dass
+5 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+6 L3 | الموبيليا
+7 SB1 | C
+8 SB2 | Sehr geehrte Frau Borner,
+9 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+10 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+11 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+12 S | Eine Freundin hat Ihnen den folgenden Brief geschrieben:
+13 LOES | Lösungen
+14 L1 | Leseverstehen, Teil 1
+15 L1 | Leseverstehen, Teil 1
+16 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+17 L3 | Leseverstehen, Teil 3
+18 SB2 | Neuendorf, den….
+19 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+20 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+21 S | Ein Bekannter hat Ihnen folgenden Brief geschrieben:
+22 LOES | Lösungen
+23 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+24 L1 | Leseverstehen, Teil 1
+25 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+26 L2 | A
+27 L3,H | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+28 L3 | سويسرا
+29 SB1 | C
+30 SB2 | Neuendorf, den….
+31 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+32 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+33 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+34 S | Ihr Freund Jan hat Ihnen folgende E-Mail geschrieben:
+35 LOES | Lösungen
+36 L1 | Leseverstehen, Teil 1
+37 L1 | Leseverstehen, Teil 1
+38 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+39 L2 | 6. Über das private Leben von Philipp Reis
+40 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+41 S | 90 Minuten Leseverstehen und Sprachbausteine
+42 SB1,S | C
+43 SB2 | Sehr geehrte Damen und Herren,
+44 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+45 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+46 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+47 S | Sie haben von einer Freundin folgenden Brief erhalten:
+48 LOES | Lösungen
+49 L1 | Leseverstehen, Teil 1
+50 L1 | Leseverstehen, Teil 1
+51 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+52 L2 | A
+53 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+54  | achbausteine
+55 SB1 | j
+56 SB2 | QUANTUM-SYSTEM
+57 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+58 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+59 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+60 S | Sie haben von einer Bekannten folgenden E-Mail erhalten:
+61 LOES | Lösungen
+62 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+63 L1 | Leseverstehen, Teil 1
+64 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+65 L2 | 6. In der Schweiz gibt es etwa 800.000 Menschen, die
+66 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+67 L3 | الموسيقا
+68 SB1,S | Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche 
+69 SB2 | Sehr geehrte Frau Borner,
+70 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+71 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+72 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+73 S | Sie haben von einer Freundin folgenden Brief erhalten:
+74 LOES | Lösungen
+75 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+76 L1 | Leseverstehen, Teil 1
+77 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+78 L2 | 6. Gerhard Spur
+79 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+80 L3,S | السكك الحديدية
+81 SB1 | C
+82 SB2 | Sehr geehrter Herr Gauberger,
+83 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+84 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+85 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+86 S | Sie haben im Urlaub Andreas kennengelernt. Er hat Ihnen folg
+87 S | موضوع اندرياس األساسي شرح
+88 LOES | Lösungen
+89 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+90 L1 | Leseverstehen, Teil 1
+91 L2,S | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+92 L2 | erhält von den Kindern Geschenke aus verschiedenen Materiali
+93 L2 | erhält von den Kindern Geschenke aus verschiedenen Materiali
+94 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+95 L3 | البلدان العربية
+96 SB1 | A
+97  | C gedauert
+98 SB2 | a
+99 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+100 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+101 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+102 S | Sie haben folgende E-Mail von Ihrer Freundin Sophie bekommen
+103 LOES | Lösungen
+104 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+105 L1 | Leseverstehen, Teil 1
+106 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+107 L2 | 6. Heute weiß man, dass Philipp Reis
+108 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+109 L3,S | السكك الحديدية
+110 SB1 | C
+111 SB2 | Sehr geehrte Damen und Herren,
+112 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+113 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+114 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+115 S | Sie haben von einer Freundin folgenden Brief erhalten:
+116 LOES | Lösungen
+117 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+118 L1 | Leseverstehen, Teil 1
+119 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+120 L2 | 6. Die Firma Ikea benutzt heute das. Du,
+121 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+122 L3,S | DB
+123 SB1 | A
+124 SB2 | Sehr geehrte Damen und Herren,
+125 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+126 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+127 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+128 S | Sie haben von Ihnen Freund folgende E-Mail erhalten:
+129 LOES | Lösungen
+130 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+131 L1 | Leseverstehen, Teil 1
+132 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+133 L2 | 6. Die Psychologin der Popper-Schule meint, dass
+134 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+135 L3 | Leseverstehen, Teil 3
+136 SB1 | Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche 
+137 SB2 | Sehr geehrte Damen und Herren,
+138 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+139 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+140 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+141 S | Sie haben folgenden Brief von einer Freundin erhalten:
+142 LOES | Lösungen
+143 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+144 L1 | 1. Ich möchte, dass Menschen, die meine Fotos gesehen haben,
+145 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+146 L2 | A
+147 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+148 L3 | فيينا
+149 SB1 | A
+150 SB2 | Sehr geehrte Herr Blanco Ruiz
+151 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+152 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+153 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+154 S | Eine Bekannte hat Ihnen folgenden Brief geschrieben:
+155 LOES | Lösungen
+156 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+157 L1 | Leseverstehen, Teil 1
+158 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+159 L2 | 6. Um Berufe kennenzulernen,
+160 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+161 L3 | كورس اللغة
+162 SB1 | Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche 
+163 SB2,S | a ANTWORTEN d
+164 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+165 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+166 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+167 S | Eine Bekannte hat Ihnen den folgende E-Mail geschrieben:
+168 LOES | Lösungen
+169  | www.instagram.com/mahmoudemad007
+170  | www.instagram.com/mahmoudemad007
+171 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+172 L1 | Leseverstehen, Teil 1
+173 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+174 L2 | A
+175 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+176 L3 | البراكتيكوم
+177 SB1,S | C
+178 SB2 | Chiffre 2063/9369
+179 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+180 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+181 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+182 S | Eine Freundin hat Ihnen den folgenden Brief geschrieben:
+183 LOES | Lösungen
+184 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+185 L1 | Leseverstehen, Teil 1
+186 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+187 L2 | A
+188 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+189 L3 | البحث عن وظيفة
+190 SB1 | C
+191 SB2 | Sehr geehrter Herr Maier,
+192 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+193 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+194 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+195 S | Eine Bekannte aus der Schweiz hat eine neue Stelle. Sie hat 
+196 S | شرح موضوع ايفا
+197 LOES | Lösungen
+198  | www.instagram.com/mahmoudemad007
+199  | www.instagram.com/mahmoudemad007
+200  | www.instagram.com/mahmoudemad007
+201  | www.instagram.com/mahmoudemad007
+202  | www.instagram.com/mahmoudemad007
+203  | www.instagram.com/mahmoudemad007
+204  | www.instagram.com/mahmoudemad007
+205  | www.instagram.com/mahmoudemad007
+206  | www.instagram.com/mahmoudemad007
+207  | www.instagram.com/mahmoudemad007
+208  | www.instagram.com/mahmoudemad007
+209  | www.instagram.com/mahmoudemad007
+210  | www.instagram.com/mahmoudemad007
+211  | www.instagram.com/mahmoudemad007
+212  | www.instagram.com/mahmoudemad007
+213  | www.instagram.com/mahmoudemad007
+214  | www.instagram.com/mahmoudemad007
+215  | www.instagram.com/mahmoudemad007
+216  | www.instagram.com/mahmoudemad007
+217  | www.instagram.com/mahmoudemad007
+218  | www.instagram.com/mahmoudemad007
+219  | www.instagram.com/mahmoudemad007
+220  | www.instagram.com/mahmoudemad007
+221  | www.instagram.com/mahmoudemad007
+222  | www.instagram.com/mahmoudemad007
+223 L1 | Leseverstehen, Teil 1
+224 L1 | Leseverstehen, Teil 1
+225 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+226 L2 | A
+227 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+228  | achbausteine
+229 SB1 | j
+230 SB2 | QUANTUM-SYSTEM
+231 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+232 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+233 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+234 S | Sie haben von einer Bekannten folgenden E-Mail erhalten:
+235 LOES | Lösungen
+236 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+237 L1 | Leseverstehen, Teil 1
+238 L2,S | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+239 L2 | erhält von den Kindern Geschenke aus verschiedenen Materiali
+240 L2 | erhält von den Kindern Geschenke aus verschiedenen Materiali
+241 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+242 L3 | البلدان العربية
+243 SB1 | A
+244  | C gedauert
+245 SB2 | a
+246 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+247 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+248 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+249 S | Sie haben folgende E-Mail von Ihrer Freundin Sophie bekommen
+250 LOES | Lösungen
+251  | www.instagram.com/mahmoudemad007
+252  | www.instagram.com/mahmoudemad007
+253 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+254 L1 | Leseverstehen, Teil 1
+255 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+256 L2 | A
+257 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+258 L3 | البراكتيكوم
+259 SB1,S | C
+260 SB2 | Chiffre 2063/9369
+261 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+262 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+263 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+264 S | Eine Freundin hat Ihnen den folgenden Brief geschrieben:
+265 LOES | Lösungen
+266  | www.instagram.com/mahmoudemad007
+267  | www.instagram.com/mahmoudemad007
+268  | www.instagram.com/mahmoudemad007
+269  | www.instagram.com/mahmoudemad007
+270  | www.instagram.com/mahmoudemad007
+271 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+272 L1 | Leseverstehen, Teil 1
+273 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+274 L2 | 6. Gerhard Spur
+275 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+276 L3,S | السكك الحديدية
+277 SB1 | C
+278 SB2 | Sehr geehrter Herr Gauberger,
+279 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+280 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+281 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+282 S | Sie haben im Urlaub Andreas kennengelernt. Er hat Ihnen folg
+283 S | موضوع اندرياس األساسي شرح
+284 LOES | Lösungen
+285 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+286 L1 | Leseverstehen, Teil 1
+287 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+288 L2 | A
+289 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+290 L3 | البحث عن وظيفة
+291 SB1 | C
+292 SB2 | Sehr geehrter Herr Maier,
+293 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+294 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+295 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+296 S | Eine Bekannte aus der Schweiz hat eine neue Stelle. Sie hat 
+297 S | شرح موضوع ايفا
+298 LOES | Lösungen
+299  | www.instagram.com/mahmoudemad007
+300  | www.instagram.com/mahmoudemad007
+301  | www.instagram.com/mahmoudemad007
+302  | www.instagram.com/mahmoudemad007
+303  | www.instagram.com/mahmoudemad007
+304 L1 | Leseverstehen, Teil 1
+305 L1 | Leseverstehen, Teil 1
+306 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+307 L3 | Leseverstehen, Teil 3
+308 SB2 | Neuendorf, den….
+309 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+310 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+311 S | Ein Bekannter hat Ihnen folgenden Brief geschrieben:
+312 LOES | Lösungen
+313 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+314 L1 | Leseverstehen, Teil 1
+315 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+316 L2 | 6. Heute weiß man, dass Philipp Reis
+317 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+318 L3,S | السكك الحديدية
+319 SB1 | C
+320 SB2 | Sehr geehrte Damen und Herren,
+321 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+322 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+323 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+324 S | Sie haben von einer Freundin folgenden Brief erhalten:
+325 LOES | Lösungen
+326  | www.instagram.com/mahmoudemad007
+327  | www.instagram.com/mahmoudemad007
+328  | www.instagram.com/mahmoudemad007
+329  | www.instagram.com/mahmoudemad007
+330  | www.instagram.com/mahmoudemad007
+331 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+332 L1 | 1. Ich möchte, dass Menschen, die meine Fotos gesehen haben,
+333 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+334 L2 | A
+335 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+336 L3 | فيينا
+337 SB1 | A
+338 SB2 | Sehr geehrte Herr Blanco Ruiz
+339 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+340 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+341 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+342 S | Eine Bekannte hat Ihnen folgenden Brief geschrieben:
+343 LOES | Lösungen
+344  | www.instagram.com/mahmoudemad007
+345  | www.instagram.com/mahmoudemad007
+346  | www.instagram.com/mahmoudemad007
+347  | www.instagram.com/mahmoudemad007
+348  | www.instagram.com/mahmoudemad007
+349  | www.instagram.com/mahmoudemad007
+350  | www.instagram.com/mahmoudemad007
+351  | www.instagram.com/mahmoudemad007
+352  | www.instagram.com/mahmoudemad007
+353  | www.instagram.com/mahmoudemad007
+354  | www.instagram.com/mahmoudemad007
+355  | www.instagram.com/mahmoudemad007
+356 L1 | Leseverstehen, Teil 1
+357 L1 | Leseverstehen, Teil 1
+358 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+359 L2 | 6. Über das private Leben von Philipp Reis
+360 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+361 S | 90 Minuten Leseverstehen und Sprachbausteine
+362 SB1,S | C
+363 SB2 | Sehr geehrte Damen und Herren,
+364 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+365 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+366 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+367 S | Sie haben von einer Freundin folgenden Brief erhalten:
+368 LOES | Lösungen
+369 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+370 L1 | Leseverstehen, Teil 1
+371 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+372 L2 | 6. Die Psychologin der Popper-Schule meint, dass
+373 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+374 L3 | الموبيليا
+375 SB1 | C
+376 SB2 | Sehr geehrte Frau Borner,
+377 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+378 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+379 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+380 S | Eine Freundin hat Ihnen den folgenden Brief geschrieben:
+381 LOES | Lösungen
+382 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+383 L1 | Leseverstehen, Teil 1
+384 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+385 L2 | 6. Um Berufe kennenzulernen,
+386 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+387 L3 | كورس اللغة
+388 SB1 | Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche 
+389 SB2,S | a ANTWORTEN d
+390 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+391 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+392 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+393 S | Eine Bekannte hat Ihnen den folgende E-Mail geschrieben:
+394 LOES | Lösungen
+395  | www.instagram.com/mahmoudemad007
+396  | www.instagram.com/mahmoudemad007
+397 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+398 L1 | Leseverstehen, Teil 1
+399 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+400 L2 | 6. Die Firma Ikea benutzt heute das. Du,
+401 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+402 L3,S | DB
+403 SB1 | A
+404 SB2 | Sehr geehrte Damen und Herren,
+405 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+406 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+407 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+408 S | Sie haben von Ihnen Freund folgende E-Mail erhalten:
+409 LOES | Lösungen
+410  | www.instagram.com/mahmoudemad007
+411  | www.instagram.com/mahmoudemad007
+412 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+413 L1 | Leseverstehen, Teil 1
+414 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+415 L2 | 6. Die Psychologin der Popper-Schule meint, dass
+416 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+417 L3 | Leseverstehen, Teil 3
+418 SB1 | Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche 
+419 SB2 | Sehr geehrte Damen und Herren,
+420 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+421 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+422 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+423 S | Sie haben folgenden Brief von einer Freundin erhalten:
+424 LOES | Lösungen
+425  | www.instagram.com/mahmoudemad007
+426  | www.instagram.com/mahmoudemad007
+427 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+428 L1 | Leseverstehen, Teil 1
+429 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+430 L2 | A
+431 L3,H | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+432 L3 | سويسرا
+433 SB1 | C
+434 SB2 | Neuendorf, den….
+435 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+436 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+437 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+438 S | Ihr Freund Jan hat Ihnen folgende E-Mail geschrieben:
+439 LOES | Lösungen
+440  | www.instagram.com/mahmoudemad007
+441  | www.instagram.com/mahmoudemad007
+442 L1 | Lesen Sie die Überschriften a – j und die Texte 1-5. Finden 
+443 L1 | Leseverstehen, Teil 1
+444 L2 | Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a
+445 L2 | 6. In der Schweiz gibt es etwa 800.000 Menschen, die
+446 L3 | Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden
+447 L3 | الموسيقا
+448 SB1,S | Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche 
+449 SB2 | Sehr geehrte Frau Borner,
+450 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+451 H | Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lö
+452 H | Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgabe
+453 S | Sie haben von einer Freundin folgenden Brief erhalten:
+454 LOES | Lösungen
+455  | www.instagram.com/mahmoudemad007
+456  | www.instagram.com/mahmoudemad007
+457  | www.instagram.com/mahmoudemad007
+458  | www.instagram.com/mahmoudemad007
+459  | www.instagram.com/mahmoudemad007
+460  | www.instagram.com/mahmoudemad007
+461  | www.instagram.com/mahmoudemad007
+462  | www.instagram.com/mahmoudemad007
+463  | www.instagram.com/mahmoudemad007
+464  | www.instagram.com/mahmoudemad007
+465  | www.instagram.com/mahmoudemad007
+466  | www.instagram.com/mahmoudemad007
+467  | www.instagram.com/mahmoudemad007
+468  | www.instagram.com/mahmoudemad007
+469  | www.instagram.com/mahmoudemad007
+470  | www.instagram.com/mahmoudemad007
+471  | www.instagram.com/mahmoudemad007
+472  | www.instagram.com/mahmoudemad007
+473  | www.instagram.com/mahmoudemad007
+474  | www.instagram.com/mahmoudemad007
+475  | www.instagram.com/mahmoudemad007
+476  | www.instagram.com/mahmoudemad007
+477  | www.instagram.com/mahmoudemad007
+478  | www.instagram.com/mahmoudemad007
+479  | www.instagram.com/mahmoudemad007
+480  | www.instagram.com/mahmoudemad007
+481  | www.instagram.com/mahmoudemad007
+482  | www.instagram.com/mahmoudemad007
+483  | www.instagram.com/mahmoudemad007
+484  | www.instagram.com/mahmoudemad007
+485  | www.instagram.com/mahmoudemad007
+486  | www.instagram.com/mahmoudemad007
+487  | www.instagram.com/mahmoudemad007
+488  | www.instagram.com/mahmoudemad007
+489  | www.instagram.com/mahmoudemad007
+490  | www.instagram.com/mahmoudemad007
+491  | www.instagram.com/mahmoudemad007
+492  | www.instagram.com/mahmoudemad007
+493  | منابع و اطالعات بیشتر درمورد آزمونهای تلک و

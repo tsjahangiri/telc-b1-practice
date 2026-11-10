@@ -1,0 +1,39 @@
+0.071 0.080 1.00	Leseverstehen, Teil 1
+0.089 0.066 1.00	LANGUAGE Tests
+0.198 0.129 1.00	1. Der Frankfurter Flughafen wird weiter ausgebaut. Eine Gruppe von Frankfurter Bürgern aus den östlichen
+0.217 0.158 1.00	Stadtteilen, die sich seit Jahren aktiv für den Naturschutz und die Umwelt einsetzt, lädt für Donnerstag dieser
+0.230 0.158 1.00	Woche um 19.30 Uhr zu einem Informationsabend über den Ausbau des Frankfurter Flughafens ein. Im Bürgerhaus
+0.244 0.158 1.00	Ostend, Parkstraße 24, Clubraurn 12, werden verschiedene Sprecher zu hören sein. Die Gruppe möchte Antworten
+0.259 0.158 1.00	auf folgende Fragen suchen: Wie viel Lärm durch Flugzeuge verträgt die Stadt? Oder Welche Auswirkungen hat der
+0.273 0.158 1.00	Flugverkehr auf Umwelt und Natur?
+0.323 0.127 1.00	2. Der Frankfurter Flughafen erfreut sich bei vielen Firmen als beliebter Ort für Veranstaltungen und Tagungen. Dies
+0.342 0.154 1.00	zeigt ein Bericht des Frankfurter Flughafens, der beim zehnjährigen Jubiläum des Kongresszentruns vorgelegt
+0.356 0.156 1.00	wurde. Im Jubiläumsjahr haben am Frankfurter Flughafen 6800 Veranstaltungen mit insgesamt 72000 Teilnehmern
+0.371 0.156 1.00	stattgefunden. Im Jahr davor waren es nur 6300 Veranstaltungen mit 70000 Gästen. Im Kongresszentrum, das direkt
+0.385 0.156 1.00	gegenüber dem Hauptgebäude des Flughafens liegt, gibt es 28 Konferenzräume für bis zu 200 Teilnehmer.
+0.400 0.156 1.00	Modernste Technik wie Laptop-Anschlüsse und Internetzugänge in allen Konferenzräumen sind ebenso vorhanden,
+0.413 0.156 1.00	wie ein Dolmetscherdienst und verschiedene Speisemöglichkeiten. Eine transportable Videokonferenz-Anlage
+0.429 0.156 1.00	ermöglicht Verbindungen in die ganze Welt.
+0.475 0.127 1.00	3. Eine Bürgergruppe mit dem Namen Südliches Frankfurt lädt für Montag kommender Woche, um 19.30 Uhr ins
+0.496 0.156 1.00	Pfarrhaus St. Mauritius, Mauritiusstraße 14, zu einer öffentlichen Expertenbefragung zum Thema Arbeitsplätze am
+0.510 0.158 1.00	Frankfurter Flughafen ein. Der Gruppe liegen Berichte und Daten vor, die nach den Worten der Sprecher der Gruppe
+0.523 0.156 1.00	sehr fantastisch und zweifelhaft sind. Deshalb hat die Bürgergruppe Südliches Frankfurt den Personalleiter des
+0.536 0.156 1.00	Frankfurter Flughafens, einen Experten aus dem Wirtschaftsministerium, einen bekannten Stadtentwicklungsplaner
+0.552 0.156 1.00	und einen Soziologen, der sich mit der Arbeitsplatzentwicklung in der Frankfurter Region beschäftigt, eingeladen. Im
+0.567 0.156 1.00	Anschluss an die Vorträge der Experten haben die Gäste Zeit, Fragen zu stellen.
+0.613 0.127 1.00	4. Das neue Halbjahresprogramm der Evangelischen Familienbildungsstätte bringt eine Übersicht über viele
+0.634 0.156 1.00	Veranstaltungen. Neben Kursen wie Geburtsvorbereitung und Babypflege steht diesmal das Thema Berufstätige
+0.647 0.156 1.00	Eltern im Mittelpunkt. In Gruppen und Kursen vor allem für Frauen geht es darum, wie sich nach der Geburt eines
+0.661 0.158 1.00	Kindes Beruf und Familie miteinander vereinbaren lassen. Das Verhältnis zwischen Mann und Frau spielt eine große
+0.676 0.156 1.00	Rolle im Angebot der Familienbildung; hierzu gibt es wieder spezielle Programme nur für Frauen oder nur für
+0.690 0.158 1.00	Männer. Auch zum Verhältnis der Generationen (Großeltern und Enkelkinder) gibt es wieder Angebote. Darüber
+0.705 0.156 1.00	hinaus wartet das Programm mit Kursen für Entspannung und Zeitmanagement auf, die bei Fragen des Alltags
+0.719 0.156 1.00	helfen wollen.
+0.766 0.127 1.00	5. Die Volkshochschule Dornbirn bietet in den kommenden Wochen neue Kurse an. Am Mittwoch nächster Woche
+0.786 0.158 1.00	beginnen zwei Malkurse für Kinder. Zweieinhalb- bis vierjährige Kinder treffen sich um 15.30 Uhr, Kinder im Alter
+0.801 0.156 1.00	von fünf und sechs Jahren um 17.00 Uhr. Für Kinder im Alter zwischen eineinhalb und sechs Jahren und ihre Väter
+0.814 0.158 1.00	beginnt am Samstag um 10.00 Uhr eine feste Vater-Kind-Gruppe. Am darauf-folgenden Samstag gibt es dann auch
+0.828 0.158 1.00	ein Treffen für Väter und Kinder bis dreieinhalb Jahren. Etwas anderes ist die Kultur- und Kreativwerkstatt am
+0.842 0.156 1.00	Montag nächster Woche. Aus Ton und Erde sollen Figuren nach afrikanischen Beispielen gebastelt werden. Zur
+0.856 0.156 1.00	Vorbereitung treffen sich die Teilnehmer am kommenden Montag zuerst im Museum. Anmeldung spätestens
+0.872 0.158 1.00	morgen bis 15.00 Uhr.

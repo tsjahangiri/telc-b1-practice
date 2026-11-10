@@ -1,0 +1,148 @@
+0.059 0.353 1.00	achbausteine
+0.074 0.949 0.30	9
+0.103 0.376 1.00	b
+0.121 0.184 1.00	MUSEUM
+0.135 0.184 1.00	DER STADT
+0.130 0.386 1.00	Franziskaner Stüberl
+0.128 0.681 1.00	SENNEREI GENOSSENSCHAFT
+0.148 0.182 1.00	FUSSEN
+0.144 0.752 1.00	BAYERN
+0.154 0.397 0.50	87629 Füssen - Eingang Fußgängerzone
+0.156 0.684 0.30	topferali -
+0.155 0.722 0.30	• Letem:15 - Tealio (09383) 37124
+0.165 0.160 0.50	Lechhalde 3 -87629 Füssen
+0.174 0.159 0.30	Tel. (08362) 50 53 - 45 u. 43
+0.166 0.449 0.50	Kemptener Strabe 1 -
+0.165 0.679 1.00	Frisch vom Erzeuger:
+0.176 0.446 0.30	Talefon (08362) 37124 9or506
+0.189 0.145 1.00	STAATSGALERIE IM HOHEN
+0.183 0.679 0.50	* Aligäuer Emmentaler
+0.191 0.455 1.00	Inh. Bernd Zienteck
+0.201 0.174 1.00	SCHLOSS FÜSSEN
+0.195 0.680 0.50	* Allgäuer Bergkäse
+0.215 0.155 0.50	Magnusplati 10 - 87629 Füssen
+0.209 0.476 1.00	Gutbürgerliche Allgliuer und
+0.205 0.680 0.50	• Tilsiter
+0.225 0.174 0.50	Tel. (08362) 50-53 - 64
+0.219 0.503 1.00	Bayerische Küche
+0.216 0.680 0.50	* Frisch-Milch
+0.236 0.124 1.00	Ötfnungszeiten:
+0.235 0.486 1.00	Der beliebte Treffpunktin
+0.228 0.680 0.50	* eigene Butter-
+0.249 0.125 0.50	April bis Oktober:
+0.244 0.486 1.00	gemütlicher Atmoaphäre
+0.239 0.687 1.00	herstellung
+0.258 0.125 0.50	Di.-So. 11.00-16.00 Uhr
+0.267 0.125 0.50	Mo. geschlossen
+0.261 0.509 0.30	Sonntag Ruhetug
+0.259 0.679 0.50	ÖFFNUNGSZEITER
+0.277 0.125 0.50	November bis Marz:
+0.272 0.488 0.50	Auf thren Besuch freiut sich
+0.269 0.680 1.00	Wochentags
+0.277 0.679 0.30	Sa e Folortag 7,30-16.30u. 17:0018.30UM
+0.270 0.749 0.30	7:30-12.00 u16.30
+0.287 0.125 0.50	Di.-So. 14.00-16:00 Uhr
+0.281 0.493 0.50	Bernd Zienteck mit Team
+0.296 0.123 0.50	Mo geschlossen
+0.326 0.092 1.00	d
+0.321 0.766 1.00	Das Heimatmuseum
+0.334 0.131 1.00	Sprachen lernen
+0.340 0.312 0.30	&
+0.333 0.776 1.00	Füssen lädt zum
+0.348 0.162 1.00	Leute treffen
+0.344 0.791 0.50	Besuch ein
+0.364 0.131 1.00	Bildungsurlaub für Erwachsene in
+0.365 0.782 0.30	Moltag bit Fra
+0.359 0.791 0.30	Qtinunonteten:
+0.373 0.123 1.00	England, Malta, Frankreich, Spanien,
+0.373 0.789 0.30	10:00-1200 h
+0.387 0.166 1.00	Italien und Kalifomnien
+0.387 0.396 1.00	Jahreskonzert Füssen
+0.382 0.778 0.30	ud1400-10A5-r
+0.400 0.137 0.50	Fordern Sie heute unseren 56 seitigen
+0.397 0.791 0.30	10:00-1200 12
+0.411 0.131 1.00	Katalog an; ein Exemplar des Sprachtests
+0.407 0.433 1.00	Wolfgang Amadeus Mozart
+0.422 0.160 1.00	schicken wir Ihnen gleich mit.
+0.417 0.425 1.00	Klavierkonzert Nr. 21 in C-Dur
+0.435 0.162 1.00	selbstverständlich kostenios.
+0.427 0.450 1.00	Pianist: Hanno Porter
+0.429 0.682 0.30	Soigu
+0.438 0.692 0.30	Auflerd
+0.448 0.121 0.50	Tel: 069-61 09 120 | Fax: 069-6 03 13 95
+0.446 0.488 1.00	Leitung
+0.446 0.684 0.30	singonc'
+0.462 0.119 1.00	Morgensternstr. 180
+0.462 0.242 0.30	РИОЩЕ
+0.456 0.419 1.00	Stadtmusikdirektor Robert Mau
+0.472 0.119 1.00	60596 Frankfurt
+0.469 0.431 0.50	Karten bei der Kurverwaltung Füsser
+0.462 0.678 0.30	AuBedtib der 9
+0.469 0.678 0.30	20 Personent nect
+0.478 0.462 0.50	und an der Abendkasse
+0.481 0.725 0.50	Telefon (0 83 62) 25 11
+0.506 0.386 1.00	h
+0.562 0.394 1.00	Alfa Sprachreisen
+0.577 0.452 1.00	Crash-Kurse für Manager.
+0.571 0.659 0.50	4APRIL >Deutsche Schlagernacht:
+0.587 0.415 1.00	Sprachkurse und High-School-Programme
+0.583 0.659 0.30	12. APMIL Oatersemtay 70er/80er Jahre Party
+0.599 0.454 0.50	für 12- bis 18-Jährige
+0.618 0.248 1.00	bonCas
+0.610 0.411 1.00	Englisch, Französisch, Spanisch, 17 Länder,
+0.605 0.764 1.00	NEU:
+0.613 0.731 1.00	Schnitzel-Woche
+0.606 0.935 0.50	Nicht kopieren oder aufbewahren. Jeder Verstoß wird gerichtlich verfoigt! ()
+0.622 0.458 0.50	mehr als 60 Kursorte.
+0.634 0.234 1.00	Spezialitätenkaserei
+0.641 0.234 0.50	P. und U, Moser-Kolb
+0.637 0.415 1.00	Fordern Sie unsere kosteni. Broschüre an!
+0.633 0.657 0.50	Amadeus
+0.638 0.807 0.30	Calé : Bistro
+0.650 0.234 0.50	Hessenbohlstraße 14
+0.658 0.236 0.50	CH - 8512 Lustdorf
+0.651 0.446 1.00	Alfa-Sprachreisen GmbH
+0.667 0.265 1.00	Schweiz
+0.663 0.429 0.50	Rotebuhiplatz 15 • 70178 Stuttgart
+0.676 0.224 0.30	E-Mat biocheeseBcla
+0.674 0.413 0.50	Tel. 0711-61 55 300 - Fax 0711-61 55 3010
+0.676 0.667 0.30	STEN CIRUNTEA
+0.686 0.433 1.00	http://www.alfa-sprachreisen.de
+0.696 0.043 0.30	/181
+0.697 0.954 0.50	Do not copy or store. All violations will be prosecuted!
+0.733 0.771 0.50	Wollen Sie fein
+0.743 0.777 0.50	essen gehen?
+0.760 0.187 1.00	Free-System
+0.762 0.456 0.30	2 Riczerszubne A
+0.775 0.121 1.00	Englisch, Französisch, Italienisch,
+0.785 0.127 1.00	Spanisch, Deutsch für Aus/änder
+0.786 0.450 1.00	Fischspezialitäten
+0.783 0.764 0.50	Fossen-Bad Faulenbac
+0.796 0.143 1.00	Maschinenschreiben/Steno
+0.792 0.778 0.30	Ted (06302) 4017
+0.804 0.425 1.00	Das Restaurant mit gepflegter
+0.813 0.111 0.30	• Sie bestimsten die Unterrichtazsit
+0.812 0.409 1.00	Gastlichkeit im Herzen der Altstadt
+0.811 0.772 0.50	Hotel-Restaurant
+0.824 0.111 0.30	• Sin lecsee, se rasch Sie wollen
+0.818 0.782 0.30	Apenschosse
+0.832 0.113 0.30	• Intessirkorse. Einzet-/Privat- and
+0.828 0.419 0.30	geöifnet von 1100-14%Uhr und 17"-24° Uhr
+0.844 0.119 0.30	Kielegraspee (1-5 Telimehover)
+0.846 0.458 0.30	Warme Kache bis 22° Ut
+0.839 0.487 1.00	Montag Ruhetag
+0.843 0.689 0.30	Aut Phren Beruch treut wch Famile Ham
+0.855 0.111 0.30	• Inteosine Crash Ceorses
+0.857 0.256 1.00	Kursbeginn
+0.865 0.111 0.30	• Brush up asd Besioess
+0.872 0.113 0.50	• Spracticarse för Masager
+0.868 0.276 1.00	jetzt!
+0.860 0.439 0.50	Ritterstraße 4 - 87629 Füssen:
+0.856 0.722 0.50	Hotel • Café : Fension
+0.869 0.476 1.00	Tel. 08362/7759
+0.884 0.115 0.30	- Engiish Tor Secretaries
+0.884 0.421 0.50	Fam. Roth-Winter freut sich auf ihren Bessch
+0.898 0.110 0.30	•First/Pratielency/TGEFL/GMAT Allisace Frauçaise
+0.892 0.113 0.30	- Firmankursn (infers/extera)
+0.917 0.136 1.00	Institut Grünberger
+0.926 0.135 0.50	Rostock, direkt beim Hauptbahnhot

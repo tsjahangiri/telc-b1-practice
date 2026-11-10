@@ -1,0 +1,292 @@
+{
+ "batch": 6,
+ "pages": [
+  51,
+  60
+ ],
+ "records": [
+  {
+   "page": 51,
+   "paper": "P05",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nComputerprobleme – ein Kinderspiel\nAnne und Melanie (beide 6) stehen Erzieherinnen mit Vorschlägen hilfreich zur Seite\nVon Christiane Altenberger\nSie sind die Problemlöser im Kindergarten an der Munckerstraße. Wenn das Malprogram spinnt, plötzlich ein\nSpiel auftaucht, das keiner kennt, dann rufen die Erzieherinnen nach Anne und Melanie. Die sind zwar erst\nsechs Jahre alt, aber mit den Computerspielen kennen sie sich aus. Die Kinder wissen manchmal mehr als wir\nsagt Eva Schilling. Leiterin des Kindergartens. Gelernt haben die beiden ihr Know-how bei Multimedia-\nLandschaften für Kinder, einem Projekt, das das Schulamt zusammen mit dem Studio im Netz gestartet hat.\nIm Rahmen dieses Projekts werden in städtischen Kindergärten zwei Wanderstationen mit je drei Multimedia-\nComputern und einem Farbdrucker installiert. Die Stationen wandern durch 14 Kindergärten, wo sie jeweils\nfür vier Wochen installiert werden. Mit dabei in den Kindergärten: ein ganzer Satz von Spiel – Software.\nVierjährige am Computer? In Pädagogen kreisen sind viele Berührungsängste da, weiß Edith llg, Fachberaterin\nfür Kindergärten beim Schulamt, aber wir können uns aus dieser Entwicklung nicht ausklinken. Die Kinder\nwollen sich mit ihrer Umwelt auseinandersetzen. Angefangen hat diese Auseinandersetzung im Studio im Netz\n– 193 Kinder waren eingeladen, um erste Erfahrungen am Computer zu sammeln. Die Kinder waren absolut\nbegeistert, haben immer wieder gefragt, wann gehen wir da wieder hin, so Frau llg.\nBevor jedoch die Computer in die Kindergärten kamen, waren die Eltern aufzuklären. Bei manchen Eltern löste\ndas Stichwort Computer akute Ängste aus nach dem Motto: Mein fröhliches, gesundes Kind setzt sich vor den\nComputer und steht sechs Stunden später krank, sprachlos und einsam wieder auf.\nDiese Ängste haben sich inzwischen gelegt und die Erfahrung vor Ort zeigt, dass sie weitgehend über flüssig\nsind. Die Erzieherinnen achten auch darauf, dass die Kinder nie länger als 15 bis 20 Minuten vor den\nComputern sitzen, und holen vor allem kreative Software auf den Bildschirm.\nDas einsame Dämmern vor dem Computer ist wohl ohnehin eher Sache der Erwachsenen – die Kinder spielen\nimmer zu zweit oder zu dritt an der Maschine. Eva Schilling hat beobachtet, dass die Kinder am Computer sehr\nfriedlich miteinander umgehen, sie helfen sich gegenseitig, es gibt wenig Konflikte. Dabei entwickeln gerade\nKinder, die sich sonst nur schwer auf etwas konzentrieren können, plötzlich ungeahnte Konzentrationszeiten.\nEva Schilling kann sich deshalb die Computer als Dauereinrichtung im Kindergarten vorstellen.",
+   "arabic_labels_excluded": [
+    "مشاكل الكمبيوتر"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 3,
+    "sample_missing": [
+     "aenas",
+     "jskü",
+     "schillling"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "Compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 52,
+   "paper": "P05",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Das Schulamt hat ein Projekt gestartet, bei dem\nComputer in Kindergärten aufgestellt werden.\nA\nComputerspiele für Vierjährige entwickelt werden sollen.\nB\nKinder neue Farbdrucker ausprobieren sollen.\nC\n7. Die Kinder\nhatten großen Spaß bei dem Projekt.\nA\nB\nwollten lieber draußen im Freien spielen.\nwussten nicht, wann sie ins Studio im Netz gehen sollten.\nC\n8. Eltern fürchten, dass\nder Computer ihren Kindern schadet.\nA\nihre Kinder nicht so früh aufstehen können.\nB\nihre Kinder vor dem Computer Angst haben.\nC\n9. Die Erzieherinnen\narbeiten jeden Tag 15 bis 20 Minuten am Computer.\nA\nB\nspielen immer mit zwei oder drei Kindern am Computer.\nwählen für die Kinder die Software aus.\nC\n10. Wenn die Kinder am Computer sitzen, dann\ngibt es häufig Streit.\nA\nhilft ein Kind dem anderen.\nB\nkönnen sich die meisten nicht lange konzentrieren.\nC",
+   "arabic_labels_excluded": [
+    "مشاكل الكمبوتر"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.986,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "groen",
+     "lochschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "Compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 53,
+   "paper": "P05",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Sie wollen am Wochenende gerne in ein Klavierkonzert gehen.\n12. Sie sind in Füssen und wollen am Montag ins Museum gehen.\n13. Sie sind in Süddeutschland im Urlaub und möchten gerne eine bayerische Spezialität\nessen.\n14. Sie haben sich mit Bekannten zu einem Fischessen verabredet.\n15. Sie sind in Bayern und wollen Käsespezialitäten einkaufen.\n16. Sie möchten einen Deutschkurs in Wien besuchen.\n17. Ihr 16 jähriger Sohn soll in den Ferien im Ausland Englisch lernen.\n18. Sie interessieren sich für einen Sprachkurs auf CD.\n19. Sie wollen, dass Ihre 10- jährige Tochter in den Ferien eine Fremdsprache lernt.\n20. Eine Bekannte will ihren Geburtstag in einem Restaurant feiern und dort auch\nübernachten.",
+   "arabic_labels_excluded": [
+    "الجبنة"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "Compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 54,
+   "paper": "P05",
+   "section": "?",
+   "text_source": "ocr",
+   "text": "achbausteine\n9\nb\nMUSEUM\nDER STADT\nFranziskaner Stüberl\nSENNEREI GENOSSENSCHAFT\nFUSSEN\nBAYERN\n87629 Füssen - Eingang Fußgängerzone\ntopferali -\n• Letem:15 - Tealio (09383) 37124\nLechhalde 3 -87629 Füssen\nTel. (08362) 50 53 - 45 u. 43\nKemptener Strabe 1 -\nFrisch vom Erzeuger:\nTalefon (08362) 37124 9or506\nSTAATSGALERIE IM HOHEN\n* Aligäuer Emmentaler\nInh. Bernd Zienteck\nSCHLOSS FÜSSEN\n* Allgäuer Bergkäse\nMagnusplati 10 - 87629 Füssen\nGutbürgerliche Allgliuer und\n• Tilsiter\nTel. (08362) 50-53 - 64\nBayerische Küche\n* Frisch-Milch\nÖtfnungszeiten:\nDer beliebte Treffpunktin\n* eigene Butter-\nApril bis Oktober:\ngemütlicher Atmoaphäre\nherstellung\nDi.-So. 11.00-16.00 Uhr\nMo. geschlossen\nSonntag Ruhetug\nÖFFNUNGSZEITER\nNovember bis Marz:\nAuf thren Besuch freiut sich\nWochentags\nSa e Folortag 7,30-16.30u. 17:0018.30UM\n7:30-12.00 u16.30\nDi.-So. 14.00-16:00 Uhr\nBernd Zienteck mit Team\nMo geschlossen\nd\nDas Heimatmuseum\nSprachen lernen\n&\nFüssen lädt zum\nLeute treffen\nBesuch ein\nBildungsurlaub für Erwachsene in\nMoltag bit Fra\nQtinunonteten:\nEngland, Malta, Frankreich, Spanien,\n10:00-1200 h\nItalien und Kalifomnien\nJahreskonzert Füssen\nud1400-10A5-r\nFordern Sie heute unseren 56 seitigen\n10:00-1200 12\nKatalog an; ein Exemplar des Sprachtests\nWolfgang Amadeus Mozart\nschicken wir Ihnen gleich mit.\nKlavierkonzert Nr. 21 in C-Dur\nselbstverständlich kostenios.\nPianist: Hanno Porter\nSoigu\nAuflerd\nTel: 069-61 09 120 | Fax: 069-6 03 13 95\nLeitung\nsingonc'\nMorgensternstr. 180\nРИОЩЕ\nStadtmusikdirektor Robert Mau\n60596 Frankfurt\nKarten bei der Kurverwaltung Füsser\nAuBedtib der 9\n20 Personent nect\nund an der Abendkasse\nTelefon (0 83 62) 25 11\nh\nAlfa Sprachreisen\nCrash-Kurse für Manager.\n4APRIL >Deutsche Schlagernacht:\nSprachkurse und High-School-Programme\n12. APMIL Oatersemtay 70er/80er Jahre Party\nfür 12- bis 18-Jährige\nbonCas\nEnglisch, Französisch, Spanisch, 17 Länder,\nNEU:\nSchnitzel-Woche\nNicht kopieren oder aufbewahren. Jeder Verstoß wird gerichtlich verfoigt! ()\nmehr als 60 Kursorte.\nSpezialitätenkaserei\nP. und U, Moser-Kolb\nFordern Sie unsere kosteni. Broschüre an!\nAmadeus\nCalé : Bistro\nHessenbohlstraße 14\nCH - 8512 Lustdorf\nAlfa-Sprachreisen GmbH\nSchweiz\nRotebuhiplatz 15 • 70178 Stuttgart\nE-Mat biocheeseBcla\nTel. 0711-61 55 300 - Fax 0711-61 55 3010\nSTEN CIRUNTEA\nhttp://www.alfa-sprachreisen.de\n/181\nDo not copy or store. All violations will be prosecuted!\nWollen Sie fein\nessen gehen?\nFree-System\n2 Riczerszubne A\nEnglisch, Französisch, Italienisch,\nSpanisch, Deutsch für Aus/änder\nFischspezialitäten\nFossen-Bad Faulenbac\nMaschinenschreiben/Steno\nTed (06302) 4017\nDas Restaurant mit gepflegter\n• Sie bestimsten die Unterrichtazsit\nGastlichkeit im Herzen der Altstadt\nHotel-Restaurant\n• Sin lecsee, se rasch Sie wollen\nApenschosse\n• Intessirkorse. Einzet-/Privat- and\ngeöifnet von 1100-14%Uhr und 17\"-24° Uhr\nKielegraspee (1-5 Telimehover)\nWarme Kache bis 22° Ut\nMontag Ruhetag\nAut Phren Beruch treut wch Famile Ham\n• Inteosine Crash Ceorses\nKursbeginn\n• Brush up asd Besioess\n• Spracticarse för Masager\njetzt!\nRitterstraße 4 - 87629 Füssen:\nHotel • Café : Fension\nTel. 08362/7759\n- Engiish Tor Secretaries\nFam. Roth-Winter freut sich auf ihren Bessch\n•First/Pratielency/TGEFL/GMAT Allisace Frauçaise\n- Firmankursn (infers/extera)\nInstitut Grünberger\nRostock, direkt beim Hauptbahnhot",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.88
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": null,
+    "ocr_words_missing_from_textlayer": 241,
+    "sample_missing": [
+     "abendkasse",
+     "achbausteine",
+     "aise",
+     "alfa",
+     "aligäuer",
+     "allgliuer",
+     "allgäuer",
+     "allisace",
+     "altstadt",
+     "amadeus",
+     "apenschosse",
+     "apmil",
+     "april",
+     "atmoaphäre",
+     "aubedtib",
+     "aufbewahren",
+     "auflerd",
+     "bayerische",
+     "bayern",
+     "beim",
+     "beliebte",
+     "bergkäse",
+     "bernd",
+     "beruch",
+     "besioess"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Ads photo; transcribed manually from 230dpi crops (corrections/P05.json)",
+   "uncertain": [
+    "p54 ad i: address/phone unreadable — marked [unleserlich]",
+    "p54 ad f/c/g: small print, moderate/low confidence"
+   ]
+  },
+  {
+   "page": 55,
+   "paper": "P05",
+   "section": "SB1",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 1\nLANGUAGE Tests\nLesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.\nMarkieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen\n……………………………………………………………………………………………………………………………………………………\nLiebe Catherine,\nseit ich dir letzte Mal von meinem Sprachhaufenhalt in der Schweiz (21) habe, ist viel passiert.\nIch kenne (22) Land jetzt schon recht gut.\nDie Schweiz ist ja wirklich nicht groß. (23) in jeder Gegend wird ein anderer Dialekt oder gar\neine andere Sprache gesprochen. Das ist (24) mich fast unglaublich! Bei uns in Australien fährt\nman mit dem Auto 24 Stunden lang geradeaus, und (25)man ankommt, dann sprechen die\nLeute dort immer noch dieselbe Sprache.\nAm Anfang hat mich das Sprachgemisch (26) sehr verwirrt , aber (27)verstehe ich fast alles,\nwenn jemand auf Schweizerdeutsch zu mir spricht. Ich kann aber nur auf Hochdeutsch\nantworten.\nZwischen der Schule hier und unserem Schulsystem in Australien gibt es einige (28) : In der\nSchweiz sprechen die Lehrer viel und die Schüler (29) Vieles im Kopf behalten oder\naufschreiben. In Australien arbeiten wir meistens im Rahmen von Projekten und machen\neigentlich alle Aufgaben auf (30) Computer.\nViele Grüße\nJack\n21.\nA erzähle\n24.\nA an\n27.\nA früher\n30. A dem\nB erzählen\nB für\nB jetzt\nj\nB den\nC erzählt\nC seit\nder\nC vor\nC\nA\ndiese\n25.\nA\nals\n28.\nunterschied\n22.\nA\nB\ndiesen\nB\nwann\nB\nunterschiede\ndieses\nwenn\nunterschieden\nC\nC\nC\nA aber\n26.\nA denn\n29.\nA brauchen\n23.\nB obwohl\nB ganz\nB haben\nC sondern\nC schon\nC müssen",
+   "arabic_labels_excluded": [
+    "كاترين"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "cschon",
+     "ihils"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "P05 SB1/SB2 compared; SB1 option 27b stray 'j' removed per image",
+   "uncertain": []
+  },
+  {
+   "page": 56,
+   "paper": "P05",
+   "section": "SB2",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 2\nLANGUAGE Tests\nLesen sie den Text und schließen Sie\nLücken 31 – 40. Benutzen Sie die Wörter\n(a, o) Jedes Wort passt nur einmal.\nMarkieren Sie Ihre Lösungen für die\nAufgaben 31 – 40 auf dem\nAntwortbogen.\nQUANTUM-SYSTEM\nDas Lotterie – Systemspiel\nOtto – Suhr- Allee 100. D- 10120 Berlin\nSehr geehrte Lottospieler,\nwer möchte nicht auch (31) bei sechs Richtigen im Lotto dabei sein? Vertrauen Sie beim Lottospiel nicht (32)\nauf das Glück, denn Sie (33) Ihre Chancen selbst strak verbessern, (34) Sie mit unserem Lotterie-System\nspielen – und das für nur 5 Euro in der Woche!\n(35) allein zu spielen, spielen Sie mit uns in einer starken Spielergemeinschaft. Dadurch erhöhen sich (36)\nautomatisch Ihre Chancen!\nUnd was Sie gewinnen können? (37). unserem Quantum-System spielen Sie mit einer Chance auf einen\nGewinn von 1 Million Euro! Alle Gewinne erhalten Sie umgehend und ungekürzt zu 100%- das (38) wir Ihnen!\nDavon habe ich mich selbst überzeugt! Spielen Sie mit uns das Quantum – System: (39) 700 Quantum –\nSystemspielgruppen haben zusammen schon über sieben Millionen Euro gewonnen.\nHerzliche Grüße,\nIhre SABINE MEIER-PÜTZ\nPS: Als besondere Gewinnchance erhalten Sie heute das. Vier-Richtige-Gratisspiel. (40) Sie hier unbedingt mit\nund gewinnen Sie! Ich drücke Ihnen die Daumen……\na\nBEI\nd\nEURE\ng\nGESTRN\nj\nNUR\nm\nÜBER\nb\nBEREITS\ne\nGANZ\nh\nKÖNNEN\nk\nSTATT\nn\nUNSER\nc\nEINMAL\nf GARANTIEREN i\nMACHEN\nl\nTECHNISCH\no\nWENN",
+   "arabic_labels_excluded": [
+    "اليانصيب"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.07
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.991,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "grülse"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "P05 SB1/SB2 compared; SB1 option 27b stray 'j' removed per image",
+   "uncertain": []
+  },
+  {
+   "page": 57,
+   "paper": "P05",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 1\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.\n…………………………………………………………………………………………………………………………………………………………\n41. Die Sprecherin wäre lieber ein Einzelkind.\n42. Der Sprecher hat heute ein gutes Verhältnis zu seinem Bruder.\n43. Die Sprecherin würde heute gern noch eine Schwester haben.\n44. Die Sprecherin hat schon früh lernen müssen, dass man im Zusammenleben viel Rücksicht\nnehmen muss.\n45. Die Sprecherin versteht sich sehr gut mit ihrem Bruder.",
+   "arabic_labels_excluded": [
+    "الطفل الوحيد"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "chschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P05; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 58,
+   "paper": "P05",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 2\nLANGUAGE Tests\nSie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.\n……………………………………………………………………………………………………………………………………..\n46. Frau Wallner-Calletti lebt seit fünf Jahren in Italien.\n47. Sie wollen zuerst nur ein Jahr an einem italienischen Gymnasium unterrichten.\n48. Sie hat ihren Mann bei einem Italienischkurs kennengelernt.\n49. Sie eröffnete ein Wiener Restaurant in Rom.\n50. Sie hatte am Anfang große Probleme, da sie das Kochen erst lernen musste.\n51. Frau Wallner-Calletti besitzt Inzwischen auch ein italienisches Weinlokal.\n52. Sie hatte immer große Schwierigkeiten mit den Behörden.\n53. Ihre Tochter lernt die deutsche und die italienische Sprache.\n54. Sie möchte bald eine Filiale des Wiener Café Central in Rom eröffnen.\n55. Sie glaubt, dass man überall Erfolg haben kann, wenn man sich bemüht.",
+   "arabic_labels_excluded": [
+    "السيدة فالنا كاليتي"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.989,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schwieriskeiten"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P05; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 59,
+   "paper": "P05",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nRegensburg\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. Sie müssen in Ingolstadt die Regionalbahn nach Regensburg nehmen.\n57. Clara kann wegen einer Prüfung die Theaterkarten nicht abholen.\n58. Im Schwarzwald können die Straßen morgen glatt werden.\n59. Der Liederabend findet zu einem späteren Termin statt.\n60. Im Untergeschoss gibt es Winterkleidung zum halben Preis.",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "nschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P05; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 60,
+   "paper": "P05",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nSie haben von einer Bekannten folgenden E-Mail erhalten:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\nDu hast schon so lange nicht mehr geschrieben. Wie geht es dir? Heute habe ich eine Bitte.\nVielleicht kannst du uns helfen?\nEine 16-jährige Schülerin aus deinem Land wird uns besuchen und zwei Wochen bei uns in\nGoldbach bleiben. Natürlich möchten wir, dass sie sich wohl fühlt. Dein Land kennen wir nur\nvon deinen Erzählungen, denn wir waren selbst noch nicht da. Bitte gib uns ein paar\nInformationen Z.B über typische Gewohnheiten oder typisches Essen. Was können wir tun und\nwie können wir uns vorbereiten?\nWir freuen uns schon auf deine Antwort.\nSchon einmal viele Dank und liebe Grüße\nCaroline\nAntworten Sie Caroline. Schreiben Sie etwas zu den folgenden vier Punkten:\n. Reaktion auf den Besuch der Schülerin\n. Vorschlag zu Essen und Trinken\n. Warum Sie so lange nicht geschrieben haben\n. Unternehmungen/Programm mit der Schülerin\nÜberlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine\npassende Anrede, Einleitung und einen passenden Schluss.",
+   "arabic_labels_excluded": [
+    "كارولينا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P05; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  }
+ ]
+}

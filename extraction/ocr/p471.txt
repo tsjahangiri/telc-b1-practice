@@ -1,0 +1,13 @@
+0.090 0.023 1.00	*Erfahrung*
+0.144 0.002 1.00	• Damit habe ich auch gute Erfahrungen.
+0.188 0.010 1.00	• Seit 3 Monaten bin ich mit meinen Freunden nach Louxor gefahren.
+0.228 0.010 1.00	• Dort können wir sowohl eine Fahrt aud dem Nil machen ,als auch in
+0.273 0.041 1.00	der Wüste campen.
+0.315 -0.000 1.00	• Wir haben zusammen eine tolle Woche verbracht ,aber finde ich
+0.360 0.041 1.00	nicht möglich ‚falls ich allene reisen.
+0.401 0.041 1.00	Während der Reise könnten wir auch zusammen bis Spät in die
+0.446 0.041 0.50	Nacht feriern,und viel Spaß haben.
+0.491 0.031 1.00	Ich möchte auch im nächsten Sommer einenUrlaub mit meinen
+0.533 0.041 1.00	Freunden mache , Ich denke, diese Erfahrung verdient es, wiederholt
+0.585 0.610 0.50	schul
+0.897 0.117 1.00	m.com/mahmoudemad007

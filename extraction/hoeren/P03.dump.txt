@@ -1,0 +1,29 @@
+=== P03-H1 [Fremdsprache] p[31] src=text_layer key p35
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören diese Texte nur einmal. / Entscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.
+  41. Die Sprecherin ist dagegen, dass Kinder so früh eine Fremdsprache lernen.   [-]
+  42. Die Sprecherin meint, dass das frühe Lernen einer Fremdsprache für viele Kinder Nachteile  hat.   [+]
+  43. Der Sprecher findet es schade, dass er im Kindergarten keine Fremdsprache lernen konnte.   [-]
+  44. Die Sprecherin meint, dass das Fremdsprachenlernen erst in der Schule beginnen sollte.   [+]
+  45. Der Sprecher ist dagegen, dass Kinder schon früh Fremdsprache lernen.   [+]
+  nums=[41, 42, 43, 44, 45] complete=True
+=== P03-H2 [kranke] p[32] src=text_layer key p35
+INSTR: Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. / Sie hören das Gespräch zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.
+  46. In Deutschland gibt es immer mehr Organisationen, die sich um alte und kranke   Menschen.   [+]
+  47. Die Spitex hat versorgt alte oder kranke Menschen im Krankenhaus.   [+]
+  48. Die Spitex hat zwei große Aufgabenbereiche.   [-]
+  49. Es gibt Aufgaben, die nur von einer Krankenschwester gemacht werden dürfen.   [+]
+  50. Die Spitex kümmert sich nur um alte  Leute.   [-]
+  51. Die Spitex bekommt Geld von den Krankenkassen.   [-]
+  52. Die Krankenkassen geben den größten Teil ihres Geldes für die Spitex aus.   [+]
+  53. Herr Maurer findet den Preis pro Stunde in Ordnung.   [+]
+  54. Die Spitex ist in der ganzen Schweiz eine private Organisation.   [-]
+  55. In Zukunft betreut die Spitex auch die alten Menschen in Deutschland.   [-]
+  nums=[46, 47, 48, 49, 50, 51, 52, 53, 54, 55] complete=True
+=== P03-H3 [Fahrer] p[33] src=text_layer key p35
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören jeden Text zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen.
+  56. Der Fahrer des Wagens mit dem Kennzeichen HB-D 256 soll ins Erdgeschoss kommen.   [+]
+  57. Die Firma liefert das bestellte Sofa am Dienstagnachmittag zwischen drei und sechs Uhr liefern.   [-]
+  58. Der Gasthof Lindner liegt neben einer Tankstelle.   [+]
+  59. Der Film Komiker wird mehrmals am Tag gezeigt.   [+]
+  60. Für den Abend wird kein Regen erwartet.   [-]
+  nums=[56, 57, 58, 59, 60] complete=True

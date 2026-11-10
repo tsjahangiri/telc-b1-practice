@@ -1,0 +1,172 @@
+0.071 0.060 1.00	Leseverstehen, Teil 3
+0.089 0.045 0.50	LANGUAGE Tests
+0.129 0.142 1.00	90 Minuten Leseverstehen und Sprachbausteine
+0.124 0.932 1.00	9
+0.166 0.140 0.30	a
+0.174 0.166 1.00	PLANA Badeland
+0.167 0.390 1.00	b
+0.177 0.725 1.00	NAKORN
+0.192 0.189 1.00	Mehr Bad für weniger Geld!
+0.189 0.427 1.00	Lerstudio Barbarossa
+0.193 0.727 1.00	Thai Restaurant
+0.208 0.177 1.00	Bei PLANA Badeland bekommen
+0.217 0.177 0.50	Sie immer mehr als Sie erwarten:
+0.210 0.402 1.00	NACHHILFE 5
+0.225 0.187 1.00	mehr Beratung, mehr Service
+0.221 0.400 0.50	HAUSAUFGABENBETREHUNG
+0.214 0.741 1.00	Sieben Jahre
+0.222 0.700 0.50	Original thailiindische Küche
+0.234 0.179 0.50	id mehr Bad fürs Geld, So werden
+0.234 0.402 0.30	- Von der Grundsehule biz zuw. Abitur
+0.231 0.694 1.00	sind für uns ein Grund zu feiem
+0.243 0.193 0.50	Büdem echte Traumbäder, die
+0.250 0.197 1.00	icht gleich die Welt kosten.
+0.244 0.405 0.50	- alle Fächer, alle Klassen
+0.243 0.696 0.50	aut alle Gerichte 20% Rabalt*
+0.256 0.413 0.50	kosténloser Probtunterricht
+0.254 0.692 0.30	*nur bei flarzitlung - kaine Kiedtkarter
+0.254 0.936 1.00	Leseverstehen
+0.265 0.205 1.00	100 Badideen auf 1000 qm
+0.273 0.214 1.00	Ausstellungsfläche
+0.267 0.402 0.30	Wolfsschlucht 19
+0.267 0.762 0.30	Neul
+0.282 0.209 0.30	So, 10.00-11.000 Uhr,
+0.276 0.405 0.50	(Eingang Theaterstrabe)
+0.278 0.715 1.00	Jeden Sonntag Brunch
+0.289 0.228 0.50	10.00-14.00 Uhr
+0.289 0.402 0.30	TEL: 056177 667924
+0.286 0.713 0.50	pro Person nur Euro 9-
+0.304 0.218 1.00	Hanauer Straße 56
+0.301 0.402 0.30	Constudlio Barbareisa
+0.299 0.690 0.50	Wiheimshöher Allee 42 - Kassel
+0.320 0.207 0.50	Tel, 069714 31 49-0
+0.312 0.222 1.00	69720 Frankfurt
+0.314 0.402 0.30	Вааtика.
+0.311 0.710 1.00	Telefon (0561) 10 49 28
+0.330 0.228 0.50	www.plana.de
+0.323 0.405 0.30	Mo.-De. 9-12 uиd 14-19 иик.
+0.321 0.721 1.00	dienstags-sonntags,
+0.340 0.166 1.00	Achtung:
+0.339 0.232 0.30	or PLANA Xoo
+0.333 0.402 0.30	Fratag 14-19 иir
+0.330 0.708 0.50	12.00-22:00 Uhr geötfnet
+0.349 0.166 0.30	derzeit weg
+0.342 0.331 0.50	d ist
+0.353 0.522 0.50	5
+0.363 0.727 1.00	Exotische
+0.379 0.234 1.00	Sopha's
+0.379 0.478 1.00	BUGA
+0.374 0.692 1.00	Pfannengerichte
+0.391 0.211 1.00	Thai-Gourmet
+0.404 0.181 1.00	Kassels exotischer Party
+0.407 0.413 1.00	Bundesgartenschau für Besucher gedffnet
+0.400 0.421 0.50	Vom 28.4 bis 9.10. aind de Pforten de
+0.394 0.669 0.50	Mit feurigen Gewürzen und emtefrischem
+0.403 0.671 0.50	Gemüse kochen wir Gerichte, die schoel
+0.417 0.168 0.50	Ab 10 Menüs Lieferung in beheid
+0.424 0.413 0.50	a. 2 Millonen Blumen - das und noch meh
+0.417 0.435 0.50	200 Hektar Landschaftspark und
+0.417 0.676 0.50	Thai-Gemüsepfanne, Weiren-Curry mit
+0.410 0.696 0.30	zuberuitet und presswest snd
+0.426 0.193 1.00	Silber-Woks, Catering und
+0.436 0.177 0.50	Fingerfood. Wir kochen auch bei
+0.430 0.458 0.50	hat die BUGA zu bieten
+0.426 0.669 0.50	Bananen, Blumenkchi und Pleptanne auf
+0.445 0.168 1.00	Ihnen unsere original Thai-Gerichte!
+0.449 0.446 0.50	ungshallen, z B. das Orchideen-Haus
+0.442 0.450 1.00	Besuchen Sie auch unsere
+0.435 0.727 0.30	thailindsche Mt.
+0.446 0.667 0.50	Das Essen genieden Se am selben Abend
+0.455 0.187 1.00	Wir faxen unsere Menü- und
+0.453 0.717 0.50	mit uns in der Gruppe.
+0.465 0.228 1.00	Speisekarten.
+0.469 0.405 0.50	Geolinet tãol 9.00-20.00 Ut
+0.462 0.671 0.50	Fretagsseminar mt Andrea Passanberg
+0.478 0.211 1.00	Tel.: 0561/802971
+0.478 0.405 0.30	Tageskarten, Erw.
+0.482 0.407 0.50	Kinder bie 12 1.7,- Euro
+0.475 0.489 0.30	14,- Euro,
+0.471 0.686 0.30	Fretag 12.11, 17.00 bis 21.00 Uhc
+0.480 0.745 0.50	18.50 Euro
+0.488 0.207 1.00	Fax: 0564/4612091
+0.491 0.407 0.50	apezieles Abendticket ab 17.00 Uhe 7,- Euro
+0.490 0.696 1.00	Volkshochschufe Wuppertal
+0.504 0.197 1.00	www.thai-partyservice.de
+0.501 0.483 1.00	www.buga.de
+0.499 0.737 0.50	Backerstr 14
+0.507 0.717 0.50	Tel: 06715-212 64:20
+0.535 0.144 0.50	g
+0.528 0.402 1.00	h
+0.542 0.168 1.00	Kindervortrag
+0.542 0.413 1.00	Volkshochschule Wuppertal-Süd
+0.542 0.717 1.00	Viehmann
+0.555 0.170 0.50	Für 8 bis 12yahrige Kinder bietet das
+0.555 0.413 1.00	Blumenzauber
+0.564 0.170 0.50	Mathematkum etwas Besonderes:
+0.562 0.413 0.50	Samutagswerkstatt mit Waltraud Maisc
+0.558 0.694 1.00	Ihr Partner für moderne Floristk
+0.573 0.170 0.50	An einem Samstag im Monat halt Prot.
+0.574 0.413 0.50	Sa 16.10,10.00-18.00 Uhr
+0.568 0.700 0.50	Blumen, Pilanzen, Straucher
+0.581 0.172 1.00	Beutelspacher einen speziellen Vortrag für
+0.577 0.719 1.00	Rosen in allen Farben
+0.590 0.172 0.50	Kinder, In spielerischer Weise steit er
+0.590 0.415 0.50	Mit Blumen, Blattem, Früchten und alle
+0.587 0.725 0.50	Hochzeitsschmuck
+0.599 0.170 1.00	Themen wie Geheimcodes, Zauber der
+0.598 0.415 0.50	was die Natur zu bieten hat, lernen Si
+0.596 0.727 0.30	Büro, Meide- und
+0.609 0.170 0.50	Zahien, Licht und Schatten sowie optische
+0.607 0.413 1.00	Ihren persönlichen Blumenschmuck
+0.606 0.715 1.00	Ausstellungsdekoration
+0.618 0.172 0.50	Täuschungen vor.
+0.618 0.413 1.00	herzustellen, verschiedene Komponitions-
+0.615 0.741 0.30	Leferservice:
+0.629 0.170 1.00	Karten im Vorverkaut
+0.626 0.413 1.00	techniken, kreatives Arbeiten - das richtige
+0.638 0.170 0.50	Mathematkum Giefen, Liebigstr. 8,
+0.637 0.413 1.00	Geschenk für jede Gelegenheit
+0.634 0.729 0.30	pn - Forstkduchgeschift
+0.648 0.172 0.50	35390 Gießen
+0.642 0.739 1.00	Wartekuppe 3
+0.653 0.413 1.00	VHS Wuppertal-Süd
+0.653 0.729 0.30	69936 Frankfurt
+0.663 0.415 1.00	Max-Reinhardt-Weg 29
+0.661 0.723 0.50	Telefon 069-4124.04
+0.672 0.413 1.00	49278 Wuppertal
+0.696 0.682 0.50	Wir ziehen um -
+0.705 0.216 0.50	KUNO'S
+0.706 0.415 1.00	HARTMANN & SCHRÖDER
+0.715 0.713 0.50	profitieren Sie jetzt von
+0.724 0.230 1.00	Mebile Freizeit
+0.730 0.417 1.00	• Zuverlässig und kompetent
+0.725 0.719 1.00	unseren Angeboten!
+0.737 0.166 0.50	Rolsemobile vom Kleiowotnwagen bis zur
+0.740 0.415 0.50	• Transporter-/Minibue-Verleih für Ihren
+0.734 0.895 1.00	12
+0.747 0.164 0.50	Luxusausführung, Zubehir, alles auf über
+0.751 0.427 1.00	Umzug
+0.744 0.686 0.50	Traumhafte Mobel und Accessóires:
+0.757 0.164 0.50	3000 gm Ausstellungsgelánde:
+0.762 0.415 0.50	• Tagestarife, Wochentanfe.
+0.754 0.706 1.00	Porzellan, Lampen, Geschirt,
+0.767 0.164 1.00	fachmännische Beratung
+0.772 0.425 1.00	Wochenendpauschale.
+0.765 0.694 1.00	Keramik, handgewebte Teppiche,
+0.781 0.164 0.50	Wir laden Sie ein zum FRUHLINGSFEST mit
+0.775 0.719 1.00	Tisch- und Bettwäsche
+0.789 0.170 0.50	verkautsoffenem Sonntag am 22./ 23.3.
+0.783 0.415 1.00	• Zusätzliches Angebot: 2 starke Männer
+0.799 0.427 0.50	weitere Mann 29,- Euro/Stunde.
+0.792 0.427 0.50	plus Lkw 48.- Euro/Stunde, jeder
+0.794 0.688 1.00	MOBELZENTRUM OBERWESER
+0.804 0.162 1.00	34295 Edermünde / Holzhausen
+0.804 0.721 1.00	34359 Reinhardshagen
+0.815 0.162 0.30	Tel. 0.56 65/6846
+0.817 0.417 0.50	Bad Vilbaler Str.83-85.
+0.810 0.726 0.50	6000 ml Ausstellung
+0.826 0.162 0.50	Deekt an der A 49
+0.827 0.417 0.50	37155 Kassol
+0.839 0.277 0.50	www.kuno-mobil.de
+0.836 0.415 0.50	Tel. 0561784073
+0.832 0.724 0.50	Telefon 0 55 44/3 07

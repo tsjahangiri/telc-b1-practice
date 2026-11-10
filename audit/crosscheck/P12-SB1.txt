@@ -1,0 +1,5 @@
+# P12-SB1 pages [149] ratio 0.793
+## website words not in OCR:
+Ihr Ihrem wurde ins er wir
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests AIhr BIhrem cins Cwurde

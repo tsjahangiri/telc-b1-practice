@@ -1,0 +1,60 @@
+0.065 0.078 1.00	Sprachausteine, Teil 1
+0.083 0.062 1.00	LANGUAGE Tests
+0.132 0.045 1.00	Lesen sie den Text und schließen Sie Lücken 21 - 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.
+0.153 0.047 1.00	Markieren sie Ihre Lösungen für die Aufgaben 21 - 30 auf dem Antwortbogen
+0.223 0.047 1.00	Liebe Beatrice,
+0.257 0.045 1.00	wie du ja weißt, sind meine Eltern seit Anfang Mai in einem Haus (21)Mittelnehmer in
+0.281 0.047 1.00	Spanien. Zuerst wollen meine Eltern warten, bis ich mit dem Gymnasium fertig bin. Aber dann
+0.304 0.047 1.00	sind sie doch (22) früher gefahren.
+0.347 0.047 1.00	Als ich im Sommer 18 wurde, wollte ich mit (23) älteren Bruder zusammen eine kleine
+0.373 0.047 1.00	Wohnung mieten. Das hat aber nicht geklappt. Eine Freundin hat (24) dann ein Zimmer inihrer
+0.398 0.047 1.00	Wohngemeinschaft angeboten. Ich wohne jetzt mit drei (25) zusammen in der Innenstadt. Ich
+0.422 0.047 1.00	bin sehr zufrieden, (26) mein Zimmer recht klein ist.
+0.465 0.047 1.00	In der Schule habe ich keine Probleme. Ich staune selbst über meine Noten, wenn ich (27)
+0.484 0.049 1.00	denke, wie (28) Zeit ich mir für Hausaufgaben nehme.
+0.522 0.053 1.00	Manchmal schicken mir meine Eltern eine E-Mail. (29) sie rufen an.
+0.564 0.051 1.00	(30) jetzt habe ich jede Woche von ihnen gehört.
+0.603 0.049 1.00	Das war's für heute, bis bald und liebe GrüßeSaskia
+0.648 0.062 1.00	21.
+0.648 0.119 0.50	A am
+0.648 0.244 1.00	24.
+0.648 0.316 0.50	A ihr
+0.648 0.478 1.00	27.
+0.648 0.554 1.00	A daran
+0.651 0.665 0.50	30.
+0.651 0.735 0.30	A Ab
+0.673 0.117 0.30	Bin
+0.670 0.318 0.50	B mich
+0.669 0.552 0.50	B darauf
+0.696 0.119 0.30	czum
+0.693 0.341 1.00	mir
+0.693 0.577 1.00	darüber
+0.695 0.762 1.00	Seit
+0.757 0.057 1.00	22.
+0.754 0.119 0.50	A bloß
+0.754 0.244 1.00	25.
+0.750 0.312 0.50	A Freund
+0.759 0.478 1.00	28.
+0.755 0.551 1.00	A wenig
+0.779 0.117 0.50	Berst
+0.776 0.318 1.00	B Freundin
+0.779 0.550 1.00	B wenigen
+0.797 0.119 0.30	cschon
+0.792 0.331 0.50	Freundinnen
+0.799 0.575 1.00	weniger
+0.808 0.316 0.30	C
+0.844 0.060 1.00	23.
+0.839 0.117 0.50	A
+0.846 0.138 0.50	mein
+0.846 0.244 1.00	26.
+0.839 0.316 1.00	A
+0.847 0.335 0.30	l aber
+0.846 0.478 1.00	29.
+0.844 0.552 1.00	A Damit
+0.864 0.117 1.00	B meinem
+0.865 0.314 0.50	B obwohl
+0.872 0.550 0.30	B
+0.865 0.567 0.50	Oder
+0.882 0.133 0.50	meinen
+0.884 0.333 1.00	trotz
+0.882 0.571 1.00	Sondern

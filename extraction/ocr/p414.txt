@@ -1,0 +1,35 @@
+0.089 0.090 1.00	Leseverstehen, Teil 2
+0.105 0.076 1.00	LANGUAGE Tests
+0.167 0.047 1.00	Lesen Sie den Text und die Aufgaben 6 - 10. Welche Lösung (a, b oder c) ist jeweils richtig?
+0.185 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+0.240 0.279 1.00	Die neue Sir-Karl-Popper-Schule
+0.270 0.279 1.00	Ein Schulversuch für besonders Klage Schüler
+0.312 0.049 1.00	WIEN. Es ist eine ganz normale Schulstunde - Geschichte - in einer ganz normale Klasse. Während der Lehrer
+0.333 0.045 1.00	einen Vortrag über das alle Rom hält, unterhalten sich die Schüler über den Schulball, kreieren die Kleidung
+0.353 0.047 1.00	des Lehrers, reichen Zettel unter der Schulbank weiter.
+0.373 0.049 1.00	Ganz normale Kinder
+0.392 0.047 1.00	Auch überdurchschnittlich intelligente Kinder sind ganz normale Kinder, betont Elfriede Wegricht, Psychologin
+0.411 0.047 1.00	in der Sir - Karl Popper Schule, die im vergangen September Ihren Betrieb aufgenommen hat nur weil sie in
+0.432 0.049 1.00	der Schule gut sind, heißt das nicht, dass sie nicht genauso wie alle anderen Schüler Liebeskummer, Ärger mit
+0.453 0.049 1.00	den Eltern und andere Pubertätsporobleme haben Der Unterschied zwischen normalen und hochbegabten in
+0.471 0.047 1.00	ihrer bisherigen Schulkarriere nicht besonders anstrengen mussten und es nicht gewohnt sind, mit ihrer Zeit
+0.493 0.047 1.00	gut hauszuhalten
+0.513 0.049 1.00	Federung durch Forderung
+0.533 0.049 1.00	Um überdurchschnittlich intelligente Kinder nun entsprechend zu fördern, sieht das Konzept der Sir - Karl
+0.554 0.049 1.00	Popper- Schule mehr Fremdsprachen projektorientiertes Arbeiten in kleinen Klassen und vor allem mehr
+0.574 0.049 1.00	Eigenverantwortung für den Lernenden vor. Dazu kommt die Förderung der individuellen Fähigkeiten: Wer in
+0.593 0.049 1.00	einem Fach gut ist und sich besonders für ein Thema interessiert bekommt Sonderaufgaben und tiefer gehen
+0.613 0.049 1.00	Ende Unterlagen. Anfangs war der plötzlich Mehr aufwand ein Schock für die Schüler, die eine 40 - Stunden
+0.634 0.049 1.00	Woche zu bewältigen haben Aber es ist besser, sie erleben den Schock jetzt als zu Beginn des Studiums meint
+0.654 0.049 1.00	Herr Peters Lehrer und Schülerbetreuer an der Popper - Schule denn oft scheitern besonders kluge Menschen
+0.673 0.047 1.00	Später weil sie mit ihrer Intelligenz nichts anzufangen wissen Denn zumeist erreichten sie mit wenig Aufwand
+0.693 0.049 1.00	und Mitarbeit relativ gute Ergebnisse
+0.714 0.047 1.00	Wer ist hochbegabt
+0.734 0.049 1.00	Zielgruppe der Sir - Karl Popper Schule sind Kinder, die in mindestens einem Fach hochbegabt sind und
+0.753 0.049 1.00	überdurchschnittlich gute Ergebnisse haben, das sind 20 - 30 der Schüler. Nach einer Aufnahmeprüfung
+0.775 0.049 1.00	wurden von 64 Bewerben 28 geteilt sind und von insgesamt 28 Lehren betreut werden In diesen Klassen
+0.794 0.049 1.00	können die über durchschnittliche intelligenten Schüler dann endlich so sein, wie sie sind, ohne bei jeder
+0.812 0.049 1.00	Wortmeldung von ihren Klassenkameraden beschimpft zu werden meint die Schulpsychologien Ziel des
+0.833 0.047 1.00	Schulversuchs sei es jedoch laut Peters nicht, besonders kluge Schüler von normalen Kindern zu trennen,
+0.853 0.047 1.00	sondern Erfahrung im Umgang mit überdurchschnittlich die Begabtenförderung in die Normalschule zu
+0.873 0.049 1.00	übernehmen.

@@ -1,0 +1,194 @@
+0.071 0.062 1.00	Leseverstehen, Teil 3
+0.089 0.045 1.00	LANGUAGE Tests
+0.167 0.122 1.00	90 Minuten Leseverstehen und Sprachbausteine
+0.160 0.961 1.00	9
+0.205 0.123 1.00	a
+0.215 0.175 1.00	Das Musikereignis in der Schweiz
+0.215 0.671 0.30	Kammermusilesoirte
+0.226 0.622 1.00	Rita Karin Meier: Klarinette und Bassetthorn
+0.238 0.622 1.00	Hansjürg Leuthold: Klannette
+0.247 0.433 1.00	b
+0.247 0.622 1.00	Ludvik Bozenicar: Fagott
+0.259 0.462 0.30	Sprachrrien
+0.257 0.622 1.00	Peter Solomon: Klavier
+0.269 0.473 1.00	Crash-Kurse für
+0.279 0.485 1.00	Manager.
+0.272 0.622 1.00	Beethoven:
+0.269 0.715 0.30	Duo Nr. 3
+0.286 0.314 0.50	sehr bewegt
+0.279 0.324 0.30	hat much
+0.286 0.491 1.00	Sprachkurse
+0.281 0.624 1.00	Glinka:
+0.279 0.715 1.00	Trio Pathétique
+0.279 0.960 1.00	Leseverstehen
+0.295 0.495 0.50	tür Urlaub
+0.290 0.622 1.00	Kreutzer:
+0.288 0.715 0.30	Trio op. 43
+0.302 0.501 0.50	- und Beruf.
+0.299 0.622 1.00	Mendelssohn:
+0.295 0.710 1.00	Konzertstück Nr. 2 d-moll op.114
+0.315 0.314 0.30	empfehlen.*
+0.308 0.326 0.50	allert nut
+0.313 0.439 1.00	High-School-Programme.
+0.308 0.622 1.00	Schumann:
+0.305 0.713 1.00	Fantasiestücke op. 73
+0.327 0.437 0.30	6 Sprachen
+0.329 0.439 0.30	mahit ais 60 Karsorte
+0.324 0.489 0.50	17 Lander
+0.318 0.622 0.30	Ponchiellr:
+0.314 0.715 0.50	Divertimento,llConvegno*
+0.323 0.185 0.30	Meissa
+0.330 0.624 0.50	Sonntag, 10. Januar 17.00 Uhr
+0.340 0.622 1.00	Alte Mühle Otelfingen
+0.350 0.170 1.00	City Halle Winterthur
+0.352 0.622 1.00	Mittwoch, 13. Januar
+0.350 0.764 0.50	19.30 Uhir
+0.359 0.622 1.00	Ref. Kirchengemeindehaus Zürich-Enge
+0.368 0.185 0.50	Mi bis Sa 19:30 Uft und So 1700 Uhr.
+0.369 0.624 1.00	Bederstrasse 25 - 8002 Zurich
+0.378 0.203 0.50	Bitte Ticket-Vorveriaut nutzen:
+0.388 0.222 0.50	Fastbox 0848 800 800
+0.381 0.690 1.00	Eintritt frei - Kollekte
+0.398 0.483 1.00	Singles
+0.410 0.489 1.00	reisen
+0.418 0.181 1.00	Das Schweizer
+0.421 0.460 1.00	gemeinsam
+0.414 0.638 0.50	Preiswerte Flüge weltweit
+0.433 0.201 0.30	Speltalel
+0.435 0.347 1.00	THERME
+0.435 0.441 1.00	Wer hat Lust auf Frankreich?
+0.429 0.618 0.50	Landon ab Euro 149.-
+0.443 0.444 1.00	Wir sind drei reiselustige
+0.436 0.618 0.50	Johannesburg ab Euro 599.-
+0.451 0.156 1.00	Hoch vom Dachberg (3000m)
+0.445 0.359 1.00	VALS
+0.452 0.444 1.00	Schweizer und suchen für
+0.445 0.618 0.50	New York ab Euro 299,-
+0.459 0.156 1.00	einfach gleiten über tief verschneite Hänge
+0.459 0.444 1.00	eine vierzehntägige Tour
+0.452 0.618 1.00	Sydney ab Euro 799.-
+0.448 0.764 0.30	TANEOF
+0.448 0.827 1.00	FREISEN
+0.468 0.156 0.50	und unten in der «Felsentherme» sich deri
+0.468 0.444 1.00	durch Südfrankreich noch
+0.462 0.620 0.30	Telefon 0 71 31/2691-0- Fax 25 1360
+0.462 0.840 0.50	Fiuapreise
+0.472 0.618 0.50	Hauptstr. 15 - 74081 Heibrorn
+0.465 0.841 0.30	inkt. MwSt
+0.478 0.154 1.00	Urgefühl des Badens hingeben. In diesen
+0.477 0.441 1.00	Leute, die bei uns mitma-
+0.487 0.156 1.00	Extremen findet der Mensch seine Natur.
+0.485 0.444 1.00	chen wollen.
+0.482 0.632 1.00	online im internet: www.take-off-reisen.com
+0.499 0.156 1.00	Auskunft: Hotel Therme, CH-7132 Vals
+0.496 0.464 1.00	Zuschriften unter:
+0.510 0.156 0.50	Telefon 081/926 80 80
+0.503 0.480 1.00	Chiffre: 0123
+0.512 0.745 1.00	Das Sprachreisen-
+0.523 0.743 1.00	Reisebüro in
+0.536 0.129 0.30	g
+0.538 0.172 1.00	Ihre Wandertage in
+0.545 0.439 0.30	Sncande
+0.538 0.520 1.00	DEUTSCHE UND
+0.533 0.743 1.00	Deutschland
+0.546 0.181 1.00	bester Alpenluft!
+0.557 0.431 0.30	deso
+0.557 0.462 0.50	Licdes
+0.549 0.520 1.00	ENGLISCHE
+0.548 0.704 1.00	Angebote von mehr als 35 Veranstal-
+0.561 0.175 0.50	Wunderbare Fernsicht-
+0.568 0.195 1.00	Blick auf Meran.
+0.562 0.339 0.30	Wakder
+0.561 0.520 1.00	BAROCKLIEDER
+0.555 0.704 1.00	tern mit Kursorten in der ganzen Welt
+0.571 0.700 0.50	cbjektve und kosteriose Beratung zum
+0.564 0.706 0.50	mit Sportmoglichkeiter: Umfassende,
+0.577 0.154 1.00	Unverbaute, zentrale Panoramalage - kein
+0.591 0.156 1.00	Gehminuten ins Dorfzentrum, Komfortzimmer
+0.586 0.156 1.00	Durchgangsverkehr! Nur 5 bequeme
+0.581 0.474 1.00	Georg Friedrich Händel
+0.580 0.702 1.00	Thema Schuler Sprachferien, Summer-
+0.592 0.487 0.50	Kantate: Vedendo Amor
+0.589 0.721 1.00	Schools und High-Schocl-Jahr.
+0.599 0.154 0.50	mit Balkon, TV, Tel., Safe, Hallen- und Freibad.
+0.602 0.476 1.00	Andreas Scholl Countertenor
+0.596 0.706 1.00	Fordem Sie auch unseren Katalog für
+0.615 0.154 1.00	tiges Frühstücksbuffet - Menüwahl. Diät-und
+0.609 0.154 1.00	Liegewiese, Sauna, Solarium, Lift Reichhal-
+0.610 0.491 1.00	Markus Märkl Cembalo
+0.606 0.758 1.00	Erwachsene an!
+0.619 0.483 0.50	Karl Emst Schröder Laute
+0.613 0.713 1.00	Getestet und empfohlen von lhrem
+0.623 0.154 0.50	Schonkast moglich. Kinderermaßigung!
+0.629 0.472 1.00	Montag, 18. Januar, 19.30 Uhr
+0.622 0.766 1.00	Spezialisten:
+0.640 0.154 0.50	Fichtpreis bis Ende des 1. HP p. Pers/Tg. Euro 49.-;
+0.635 0.154 0.50	im August 7 Tage HP ab Euro 299,-:
+0.638 0.470 1.00	Konservatorium Zürich, gr. Saal
+0.635 0.698 1.00	Euro-Schüler-Sprachreisen
+0.650 0.154 0.50	Richtpreis bis 30 11. HP p. Purs./Tg. Euro 39,-
+0.650 0.517 1.00	Vorverkauf:
+0.644 0.700 0.30	Grilparzerstr. 46
+0.658 0.458 0.50	Jecklin (Ram.str, Tel. 2537676) und
+0.653 0.698 1.00	81675 München
+0.653 0.834 0.30	pratee freit
+0.661 0.154 0.50	I-39017 SCHENNA b. Meran, Telefon
+0.667 0.450 0.50	Musik Hug (Limmatquai, Tel. 269 41 00)
+0.667 0.700 0.50	Fax 089/ 45 55 55 33
+0.660 0.700 0.30	Tel 0B9/45 55 5530
+0.677 0.154 0.50	Fax 0039 /0473/ 94 57 34
+0.670 0.154 1.00	0039/0473/94 5735
+0.676 0.429 1.00	oder an der Abendkasse Einzelbillette zu Fr. 32.-
+0.676 0.700 0.50	e-mail: info@sprachreise.com
+0.685 0.154 0.50	Einfach anrufen und buchen! Wir freuen uns.
+0.685 0.462 0.50	(mit Leg - + AllV-Auswes Fr. 20.-
+0.693 0.279 0.30	Ihre Famite Waider
+0.708 0.612 0.30	Engusch, Doutsch: Franabeisch, Russisch, Fonygiesisch, Spansch
+0.718 0.197 0.30	Singen im Chor
+0.719 0.390 0.50	AUF IN'S ALLGÄU...
+0.721 0.618 1.00	MIT SUPERLEARNING ALS BERUFBEGLEITENDE
+0.714 0.725 0.30	Italenisch.
+0.731 0.154 1.00	Hast Du Lutt, in unserem Kammerchor zu
+0.737 0.154 0.50	singen? Bel uns bist Du eins wichtge und
+0.741 0.396 0.30	um Lürgerfchen Press
+0.735 0.405 0.30	pin Aönigtiches Har
+0.737 0.499 1.00	Winter-Pauschale
+0.731 0.706 1.00	LERNMETHODE
+0.746 0.152 0.30	tragende Stimmel Lnter Dirgent ist Dand
+0.741 0.501 0.30	1D. Januiar-12. Fe
+0.751 0.154 0.50	Haladian. Er ist Komponat, und wir fühven
+0.749 0.522 0.30	DruM
+0.741 0.608 0.50	Intensiv - 3 mal höheres Lerntempo
+0.757 0.154 0.30	eT. Worke auf, de er elgens für uns ge-
+0.753 0.509 0.50	Euro 199.-
+0.749 0.608 1.00	aktiver Unterncht mit nur 1-5 Lernende
+0.766 0.154 0.30	schrleben hat
+0.763 0.405 0.50	5 ÜBERN. INKL HP P.P. IM DZ
+0.756 0.610 1.00	Stundenplan und Lerninhalt nach Bedar
+0.764 0.608 1.00	stressfreie Lemsituation
+0.776 0.156 0.50	Unser Repertaire ist zetgenüssische an
+0.773 0.421 0.50	, Schónhetsoase, medizin. Bäder-
+0.789 0.154 0.30	muttwochs von
+0.782 0.156 0.30	pruchsvele Chormutir. Wr proben jeweils
+0.779 0.398 1.00	und Massageabteilung, Sauerstoffkur
+0.773 0.657 1.00	Die effizienteste und angenehmste Art
+0.795 0.152 0.50	Altstetten 2H. Gesucht werdan Stmmen
+0.789 0.216 0.30	15.00 bis zeka 2030 Uhr im
+0.786 0.407 0.50	Naturheiverfahren, Arzt im Haus
+0.782 0.674 0.30	sehrscine sorecnen zuicinon
+0.791 0.608 0.50	J. P. & E. Schirmer
+0.804 0.152 0.50	alter Register Herlich wilkommeot
+0.799 0.446 0.30	Rönig Subrol
+0.798 0.610 1.00	Fluelastrasse 47, 8047 Zurich
+0.793 0.809 0.50	Sprechen!
+0.812 0.152 0.50	Interessenten maiden sich bitte bei Marcel
+0.812 0.433 0.50	D-87645 Schwangai
+0.805 0.610 0.50	Telefon 01/401 3901
+0.821 0.152 0.30	Sigrist Tec/Fax: 01 / 302 43/10
+0.818 0.409 0.50	feieton 08362/ 8890 Fax 8177
+0.812 0.610 0.50	Telefax 01 / 401 3902
+0.828 0.610 0.50	http://dialogica.ch
+0.821 0.610 0.50	Zürich, Basel, Berr, Zug
+0.828 0.815 1.00	DIALOGICA
+0.837 0.610 1.00	e-mail: dialogicazuerich@bluewin.ch
+0.872 0.125 1.00	1061-S10-520101

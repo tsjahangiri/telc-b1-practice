@@ -1,0 +1,26 @@
+0.076 0.086 1.00	Schriftlicher Ausdruck
+0.093 0.070 0.50	LANGUAGE Tests
+0.128 0.047 1.00	Sie haben von einer Freundin folgenden Brief erhalten:
+0.235 0.047 0.50	Liebe(r).
+0.270 0.047 1.00	die Sommerferien kommen rasch näher und ich freue mich sehr, dass du mich besuchen kommst. Ich habe
+0.290 0.047 1.00	tolle Idee:
+0.321 0.043 1.00	Ich möchte dich gerne zu einem Musikfestvial einladen, und zwar nach Rüdesheim (ca.50 km von Mainz).
+0.342 0.047 1.00	Dort spielen in diesem Sommer die besten internationalen Musikgruppen.
+0.373 0.051 1.00	Ich finde Open -Air - Konzerte einfach toll: die friedliche Stimmung unter den Besuchern, die gute Music und
+0.394 0.047 1.00	einfach viele schöne Momente, die man nie mehr vergisst. Vor allem, wenn das Wetter gut ist, kann man das
+0.414 0.047 1.00	so richtig genießen.
+0.446 0.047 1.00	Wir könnten mit dem Zug nach Rüdesheim fahren oder auch mein Auto nehmen. Was wäre dir lieber?
+0.464 0.049 1.00	Übernachten würde ich gern auf dem Festplatz. Was meinst du? Und willst du vielleicht noch jemanden
+0.485 0.049 1.00	mitbringen? Vielleicht hast du noch einen Wunsch, was du sonst noch hier machen möchtest? Schreibe mir
+0.506 0.049 1.00	bitte möglichst bald.
+0.525 0.047 1.00	Ich freue mich schon auf deine Antwort.
+0.570 0.047 1.00	Herzliche Grüße
+0.594 0.045 1.00	Sonja
+0.627 0.663 0.30	Chul.
+0.650 0.047 1.00	Antworten Sie Sonja. Schreiben Sie in Ihrem Brief etwas zu allen vier Punkten:
+0.696 0.049 1.00	Was sonst noch machen?
+0.719 0.045 1.00	• Wie zum Festival reisen?
+0.743 0.045 1.00	. Jemanden mitbringen?
+0.764 0.045 1.00	. Übernachten: Reaktion auf Sonjas Vorschlag
+0.808 0.049 1.00	Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine
+0.830 0.049 1.00	passende Anrede, Einleitung und einen passenden Schluss.

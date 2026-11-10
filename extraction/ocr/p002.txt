@@ -1,0 +1,33 @@
+0.073 0.086 1.00	Leseverstehen, Teil 1
+0.091 0.068 1.00	LANGUAGE Tests
+0.189 0.090 1.00	1. Immer wieder drehen indische Regisseure Szenen ihrer Kinofilme in den Schweizer Bergen.
+0.209 0.119 1.00	Warum nehmen sie die Strapazen und hoben Kosten einer solch langen Reise auf sich? Das
+0.227 0.121 1.00	Hamburger Abendblatt eines dieser Filmteams auf dem Drehplatz im idyllischen Berner
+0.244 0.119 1.00	Oberland erhielt spannende und heitere Antworten.
+0.297 0.088 1.00	2. KIDTOURS - Ferien mit Kindern ist ein praktischer Ausflugsführer für Familien: mit 1000 Tipps,
+0.317 0.117 1.00	Tricks und Ideen für jeden Geschmack, jedes Alter und jedes Budget. Das übersichtliche,
+0.334 0.117 1.00	hübsch illustrierte Nach- schlage werk erhalten Sie für € 19,50 im Buchhandel oder direkt bei
+0.350 0.119 1.00	Werd Verlag, www.werd.net.
+0.398 0.088 1.00	3. Das Halbtax -Abo ist Ihr Schlüssel zu günstigen Reisen mit Bahn, Bus und Schifft und
+0.420 0.119 1.00	präsentiert sich im praktischen Kreditkartenformat. Schon beim Abo selbst können Sie zünftig
+0.437 0.119 1.00	sparen: Für ein Jahr halbtaxeln bezahlen Sie 150 Schweizer Franken. Und das ist noch nicht
+0.453 0.117 1.00	alles: Mit dem Halbtax-Abo sind Sie gut informiert: Zweimal jährlich erhalten Sie das
+0.471 0.119 1.00	Kundenmagazin mit vielen Reise -Ideen und exklusiven Reiseangeboten. Mit Ihrem Halbtax-
+0.488 0.119 1.00	Abo erhalten Sie 25% Preisnachlass auf Zugfahrten von der Schweiz nach Deutschland und
+0.504 0.119 1.00	Österreich, wenn Sie Ihre Fahrkarte in der Schweiz kaufen.
+0.523 0.117 0.50	SBB CFF FF
+0.541 0.119 1.00	SBB - Schweizerische Bundesbahnen
+0.593 0.088 1.00	4. Dokumentarfilm und Seifenoper zusammen heißt Doku-Soap, stammt aus England und macht
+0.613 0.119 1.00	sich seit Jahren auch auf deutschen TV Kanälen breit. Vor allem Privatsender haben sich als
+0.631 0.119 1.00	erfolgreiche Doku - Soap- Sender etabliert. In vielen TV- Serien kann man das wirkliche Leben
+0.647 0.115 1.00	von Menschen verfolgen und mit ihnen mit leben. Zurzeit besonders erfolgreich: die Sendung
+0.664 0.117 1.00	Tausche Familie die täglich um 18 Uhr viele Zuschauer vor den Fernseher lockt.
+0.712 0.088 1.00	5. Wir wollen dir bei der Berufswahl helfen: Die deutsche Bahn, ein Unternehmen mit Zukunft.
+0.732 0.119 1.00	Viele Berufe ändern sich im Laufe der Zeit. Genauso wie die Interessen im Leben. Und
+0.750 0.119 1.00	trotzdem gibt es Neigungen und Fähigkeiten, die du lange Zeit in deinem Leben behalten wirst.
+0.767 0.119 1.00	So zum Beispiel die Freude am Kontakt mit Menschen. Oder die Begeisterung für fremde
+0.785 0.119 1.00	Sprachen. Oder das Arbeiten in der freien Natur und im Team. Oder das Interesse an Technik
+0.801 0.119 1.00	und die Freude am Handwerk. Je nachdem, wofür du dich interessierst, kannst du bei der
+0.818 0.119 1.00	Deutschen Bahn aus insgesamt 15 Lehrberufen wählen. Um die richtige Entscheidung zu
+0.836 0.119 1.00	treffen, lohnt es sich, sich gründlich zu informieren, zum Beispiel aus unserer Website
+0.853 0.119 1.00	www.Bahn.de

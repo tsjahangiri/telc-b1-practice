@@ -1,0 +1,23 @@
+0.087 0.388 1.00	*Schule Feiern*
+0.122 0.033 0.50	Teil 3 : Schule F
+0.157 0.023 0.50	- Wo
+0.194 0.024 0.50	_ wann
+0.221 0.023 1.00	_ wen einladen
+0.257 0.035 0.50	_Aktivitäten
+0.324 0.010 0.50	• Also *Mahmoud* du weißt ja ,dass das Semester bald endet ,und wir
+0.360 0.045 1.00	können mit unserer Freunden etwas organiesieren ,was hältst du davon?
+0.400 0.012 1.00	• Ja,da gehe ich ganz d'accord ,aber was können wir machen ,mir fält nicht
+0.436 0.045 0.50	ein?
+0.475 0.012 1.00	• Wie können entweder einen Party ,oder einen Ausflug machen ,was
+0.510 0.045 0.50	denkst du?
+0.551 0.012 0.50	• Ich glaube die Party wäre besser ,das macht mir viel Spaß ,aber wo
+0.589 0.045 1.00	können wir die party machen?
+0.625 0.010 1.00	• Wie wäre es mit meinem Haus ?,wir können im Garten feiern.
+0.666 0.012 1.00	• Das klingt gut ,die letzte Party ,die wir bei dir zu Hause gefeiert haben war
+0.702 0.045 1.00	echt supper ‚Apropos wann machen wir die Party?
+0.740 0.012 1.00	• Wie wäre es mit dem nächsten Sonnntag ,da haben wir alle Zeit?
+0.779 0.012 1.00	• Ich bin ganz anderer Meinung ,ich finde es besser,wenn wir am Samstag
+0.817 0.043 1.00	feiern ,am diesem Tag haben wir alle Frei ,damit wir bis Spät in die Nacht
+0.855 0.045 1.00	richtig feiern können.
+0.892 0.012 1.00	• Ja du hast völlig Recht ,aber wen sollten wir auch zur Party einladen.
+0.930 0.010 1.00	www.instagram.com/mahmoudemad007

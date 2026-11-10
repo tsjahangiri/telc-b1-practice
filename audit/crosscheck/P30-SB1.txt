@@ -1,0 +1,5 @@
+# P30-SB1 pages [448] ratio 0.798
+## website words not in OCR:
+an
+## OCR words (len>3) not in website:
+Sprachausteine Teil jses slinaga LANGUAGE Tests hull

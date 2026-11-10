@@ -1,0 +1,540 @@
+{
+ "id": "P29",
+ "pages": [
+  427,
+  439
+ ],
+ "answer_key_page": 439,
+ "page_sections": {
+  "L1": [
+   427,
+   428
+  ],
+  "L2": [
+   429,
+   430
+  ],
+  "L3": [
+   431,
+   432
+  ],
+  "SB1": [
+   433
+  ],
+  "SB2": [
+   434
+  ],
+  "H": [
+   435,
+   436,
+   437
+  ],
+  "?": [
+   438
+  ],
+  "LOES": [
+   439
+  ]
+ },
+ "exercises": [
+  {
+   "type": "lesen1",
+   "instructions": "Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.",
+   "headings": [
+    {
+     "key": "a",
+     "text": "Hinweis für Besucher der Bregenzer Festspiele"
+    },
+    {
+     "key": "b",
+     "text": "Abendwanderungen ab 89 Euro"
+    },
+    {
+     "key": "c",
+     "text": "Musikveranstaltungen am Nachmittag"
+    },
+    {
+     "key": "d",
+     "text": "Ihre Zeitung folgt Ihnen in den Urlaub"
+    },
+    {
+     "key": "e",
+     "text": "Schlechtes Wetter: Festspiele abgesagt"
+    },
+    {
+     "key": "f",
+     "text": "Rekord: 70.000 Besucher im Bücherdorf"
+    },
+    {
+     "key": "g",
+     "text": "Wandern ohne Gepäck"
+    },
+    {
+     "key": "h",
+     "text": "Neues für Literaturinteressierte"
+    },
+    {
+     "key": "i",
+     "text": "Neue Zeitung für Ihre Urlaubsplanung"
+    },
+    {
+     "key": "j",
+     "text": "Laute Musik stört den Nachbarn"
+    }
+   ],
+   "texts": [
+    {
+     "num": 1,
+     "text": "Abonnenten-Service\nWenn Sie verreisen, wünschen wir ihnen erholsame und angenehme Ferienlage Bitte denken Sie daran, sich ihre Zeitung in den Urlaubtort nachsenden zu lassen. Denn mit den Neuigkeiten von zu Hause und aus aller Weil lässt sich die schönste Zeit des Jahres erst richtig genießen ganz Europa kostenlos, Die Höhe des Bezeugendes bleibt unverändert. Ausführliche Informationen und entsprechende Coupons ihrem Europabericht. Griechisch wird meistens von Zwölftklässlern als dritte Fremdsprache neben Französisch und Englisch gewählt. finden Sie in unserem großen Reise Service – Anzeigen oder rufen Sie uns einfach an:\nTelefon 01 30-18 58 50 zum Nulltarif.\nHannoversche Allgemeine\nNeue Presse"
+    },
+    {
+     "num": 2,
+     "text": "Im Luftkurort Stadtkylf in der Mittelgebirgslandschaft des Oberen Kullas werden dreitägige Wanderungen ohne Gepäck veranstaltet Die Rundwanderung im deutsch – bei gischen Naturpark führt abends zu reservierten Zimmern. Die Betriebe übernehmen den Gepäcktransport zum nächsten Tagesziel. Die Wanderungen werden ganzjährig angeboten. In den Wanderprogramm sind drei Übernachtungen mit Frühstück dreimal Gepäcktransport, eine Wanderkarte, eine Wegbeschreibung und ein Wanderpass enthalten. Der Pauschalbetrag beträgt pro Person 89 Euro.\nAuskünfte:\nVerkehrsverein Erholungsgebiet Oberes Kylltal.\nKurallee, 54589 Stadtkylf, Telefon ( 06597) 28 78."
+    },
+    {
+     "num": 3,
+     "text": "Für den einen ist es musikalischer Hochgenuss für den anderen schlicht Lärm. Gemeint ist Musik, die aus Lautsprechen, Radios oder durch Musikinstrumente durch geöffnet Türen und Fenster bei sommerlichen Temperaturen ins Freie dringt. Die Gemeinde weist darauf hin, dass der Mittagsruhe von 13 bis 15 Uhr und nachts von 22 bis 7 Uhr keine musikalische Ruhestörung erfolgen darf. Gartengeräte mit Motoren dürfen montags bis freitags nur von 8 bis 13 und von 15 bis 19 Uhr benutzt werden, an Sonnabenden von 9 bis 13 Uhr. An Sonn - und Feiertagen dürfen die Geräte nicht zum Einsatz kommen."
+    },
+    {
+     "num": 4,
+     "text": "Das erste deutsche Bücherdorf hat in Mühlbeck/ Fredersdorf (Sachsen – Anhalt ) seit Ende September seine Tore geöffnet. In acht Antiquarten warten über 70 000 Bücher aus allen Bereichen der Literatur auf Interessenten. Das in reizvoller landschaftlicher Umgebung liegende Bücherdorf nahe Bitterfeld - unweit der A19 und des Flughafens Leipzig - ist aus allen Teilen Deutschlands leicht zu erreich. Geöffnet sind die Antiquariate auch am Samstag und Sonntag.\nIn Europa gibt es bereits acht solcher Bücherdörfer in Belgien, Frankreich, Großbritannien, den Niederlanden, Norwegen und der Schweiz. Initiatorin des deutschen Bücherdorfes ist Heidi Dehne (Tel. 03493/4 30 43)."
+    },
+    {
+     "num": 5,
+     "text": "Die Bregenzer Festspiele sind bemüht, die Vorstellungen auch bei zweifelhafter Witterung bzw. leichtem Regen auf der Seebühne abzuhalten, weshalb es zu Verzögerungen des Beginns oder zu Unterbrechungen kommen kann. Sollte die Seeaufführung nicht stattfinden können, wird eine halbszenische Version von Porgy and Bess im Festspielhaus gegeben. Wir empfehlen unseren Gästen , bei unsicherer Wetterlage regenfester Kleidung den Vorzug zu geben und auf Schirme zu verzichten, da diese die Sicht beeinträchtigen. Das Spiel auf dem See wird ohne Pause gespielt. Die Spieldauer beträgt ca.2 Std. 45 Min."
+    }
+   ],
+   "id": "P29-L1",
+   "section": "Leseverstehen, Teil 1",
+   "pages": [
+    427,
+    428
+   ],
+   "topic": "Zeitung",
+   "solution": {
+    "1": "d",
+    "2": "g",
+    "3": "j",
+    "4": "h",
+    "5": "a"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Text 1 contains a sentence about Greek ('Griechisch wird meistens ...') that appears inside the printed text box in the source; kept as printed."
+   ],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen2",
+   "instructions": "Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.",
+   "title": "Beruf am Flughafen: Kinderbetreuerin",
+   "subtitle": "Dem Kind zuliebe in Kloten warten",
+   "text": "Auf keinem anderen Flughafen sei der Aufenthalt familienfeindlicher als in Kloten, sagen viele Eltern. Weil die Wartezeit im Flug vergeht – dank der 18 Kinderbetreuerinnen. Von Gabriella Hofer\n24000 Kinder aus der ganzen Welt wurden letztes Jahr auf dem Flughafen Zürich-Kloten betreut. Die 18 Mitarbeiterinnen, die sich im Schichtbetrieb ablösen, stehen den Eltern und ihren Kindern täglich von 6.30 bis 22 Uhr mit Rat und Tat zur Seite. Die vielsprachigen Betreuerinnen – viele von ihnen sind ausgebildete Krankenschwestern, Kleinkindererzieherinnen oder Flugbegleiterinnen – verfügen auch über Erste-Hilfe-Kenntnisse. Der Flughafen Zürich-Kloten ist der einzige in Europa, der seinen kleinsten Gästen in beiden Terminals einen eigenen Aufenthaltsraum bietet.\nAufenthalt und Betreuung sind kostenlos. In beiden Räumen stehen vier Wickeltische mit Papierwindeln, eine Küche zum Aufwärmen der Kindermahlzeiten, sechs Bettchen, ein Laufgitter, Nachttöpfe und Toiletten für Kleinkinder zur Verfügung. Außerdem gibt es zahlreiche Stofftierchen, Schaukelpferdchen, Bauklötze, Puppenstuben, einen großen Stall, Bilderbücher, Spiele und vieles mehr.\nEs ist ein Erlebnis für die Kinder, mit Kindern zu spielen, die eine andere Muttersprache sprechen oder aus einem anderen Kulturkreis kommen, weiß Alice Martin (40). Die ehemalige Kinderschwester, selber Mutter eines sechsjährigen Sohnes, gehört seit 14 Jahren zum Team der Betreuerinnen. Zusammen mit 17 Kolleginnen ist sie abwechselnd in den beiden Kinderspielzimmern den Terminals A und B beschäftigt.\nBevor Alice Martin 1994 von der Flughafendirektion angestellt wurde, war sie viele Jahre auf einer Geburtenabteilung und später noch in einem Behindertenheim beschäftigt. Die Kontakte zu den jetzt von ihr betreuten Kindern seinen nicht mehr so intensiv wie früher im Spital oder im Heim, dafür biete ihr die heutige Tätigkeit mehr Abwechslung.\nDie kinderliebende Frau reist selber gern und viel. Auch ihre Fremdsprachenkenntnisse kommen ihr hier zugute. Alice Martin spricht neben ihrer Muttersprache Englisch, Französisch und Spanisch. Sehr bereichernd sei, dass sie in ihrer täglichen Arbeit andere Kulturen kennenlerne.",
+   "questions": [
+    {
+     "num": 6,
+     "stem": "Die Kinderbetreuerinnen kümmern sich um",
+     "options": {
+      "a": "Kinder, die auf dem Flughafen warten müssen.",
+      "b": "Kinder, die im Flugzeug krank wurden.",
+      "c": "Kinder, die ohne Eltern fliegen müssen."
+     }
+    },
+    {
+     "num": 7,
+     "stem": "Die Flughafen Zürich-Kloten ist besonders familienfreundlich,",
+     "options": {
+      "a": "seit Alice Martin dort arbeitet.",
+      "b": "weil die Wartezeit kürzer ist als auf anderen Flughäfen.",
+      "c": "weil es Räume gibt, in denen Kinder spielen können."
+     }
+    },
+    {
+     "num": 8,
+     "stem": "Frau Alice Martin hat eine Ausbildung als",
+     "options": {
+      "a": "Flugbegleiterin.",
+      "b": "Kinderschwester.",
+      "c": "Pilotin."
+     }
+    },
+    {
+     "num": 9,
+     "stem": "In den Aufenthaltsräumen spielen die Kinder",
+     "options": {
+      "a": "am liebsten mit 18 Betreuerinnen.",
+      "b": "am liebsten mit Alice Martin.",
+      "c": "auch mit Kindern anderer Kulturen und Sprachen."
+     }
+    },
+    {
+     "num": 10,
+     "stem": "Frau Alice Martin findet",
+     "options": {
+      "a": "die Arbeit auf dem Flughafen interessant und abwechslungsreich.",
+      "b": "die Arbeit auf dem Flughafen nicht so vielseitig wie die Arbeit im Spital.",
+      "c": "die Kontakte zu den Kindern auf dem Flughafen sehr intensiv."
+     }
+    }
+   ],
+   "id": "P29-L2",
+   "section": "Leseverstehen, Teil 2",
+   "pages": [
+    429,
+    430
+   ],
+   "topic": "Kinderbetreuerin",
+   "solution": {
+    "6": "a",
+    "7": "c",
+    "8": "b",
+    "9": "c",
+    "10": "a"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "lesen3",
+   "instructions": "Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.",
+   "situations": [
+    {
+     "num": 11,
+     "text": "Sie sind in der Schweiz und möchten sich ein paar Tage beim Baden erholen."
+    },
+    {
+     "num": 12,
+     "text": "Sie hören gerne klassische Musik, am liebsten Barocklieder. Sie möchten in ein Konzert gehen."
+    },
+    {
+     "num": 13,
+     "text": "Ihr Sohn möchte gerne in den Schulfeien seinen Fremdsprachenkenntnisse verbessern. Er möchte auch Sport treiben."
+    },
+    {
+     "num": 14,
+     "text": "Sie reisen nicht gerne allein und suchen deshalb Reisepartner."
+    },
+    {
+     "num": 15,
+     "text": "Sie möchten am Donnerstag Abend mit Ihrer Bekannten eine Musikveranstaltung besuchen."
+    },
+    {
+     "num": 16,
+     "text": "Ihre Familie möchte den nächsten Urlaub am Meer verbringen."
+    },
+    {
+     "num": 17,
+     "text": "Sie leben in Zürich und möchten dort möglichst schnell Englisch lernen."
+    },
+    {
+     "num": 18,
+     "text": "Sie bekommen Besuch von Ihrer Freundin. Sie möchte gerne tanzen gehen."
+    },
+    {
+     "num": 19,
+     "text": "Sie möchten Freunde im Ausland besuchen und suchen ein Reisebüro."
+    },
+    {
+     "num": 20,
+     "text": "Sie sind sportlich und möchten im Sommer in den Bergen wandern gehen."
+    }
+   ],
+   "ads": [
+    {
+     "key": "a",
+     "text": "Das Musikereignis in der Schweiz\nMusical\n«...hat mich sehr bewegt. \"Melissa\" kann ich allen nur empfehlen.»\nPaul Renker\nMelissa\nCity Halle Winterthur\nMi bis Sa 19.30 Uhr und So 17.00 Uhr.\nBitte Ticket-Vorverkauf nutzen:\nFastbox 0848 800 800"
+    },
+    {
+     "key": "b",
+     "text": "Sprachreisen\nCrash-Kurse für\nManager.\nSprachkurse\nfür Urlaub\nund Beruf.\nHigh-School-Programme.\n6 Sprachen, 17 Länder,\nmehr als 60 Kursorte."
+    },
+    {
+     "key": "c",
+     "text": "Kammermusiksoirée\nRita Karin Meier: Klarinette und Bassetthorn\nHansjürg Leuthold: Klarinette\nLudvik Bozenicar: Fagott\nPeter Solomon: Klavier\nBeethoven: Duo Nr. 3\nGlinka: Trio Pathétique\nKreutzer: Trio op. 43\nMendelssohn: Konzertstück Nr. 2 d-moll op.114\nSchumann: Fantasiestücke op. 73\nPonchielli: Divertimento „Il Convegno“\nSonntag, 10. Januar 17.00 Uhr\nAlte Mühle Otelfingen\nMittwoch, 13. Januar 19.30 Uhr\nRef. Kirchengemeindehaus Zürich-Enge\nBederstrasse 25 – 8002 Zürich\nEintritt frei – Kollekte"
+    },
+    {
+     "key": "d",
+     "text": "Das Schweizer\nSpektakel\nTHERME VALS\nHoch vom Dachberg (3000m)\neinfach gleiten über tief verschneite Hänge\nund unten in der «Felsentherme» sich dem\nUrgefühl des Badens hingeben. In diesen\nExtremen findet der Mensch seine Natur.\nAuskunft: Hotel Therme, CH-7132 Vals\nTelefon 081/926 80 80"
+    },
+    {
+     "key": "e",
+     "text": "Singles\nreisen\ngemeinsam\nWer hat Lust auf Frankreich?\nWir sind drei reiselustige\nSchweizer und suchen für\neine vierzehntägige Tour\ndurch Südfrankreich noch\nLeute, die bei uns mitma-\nchen wollen.\nZuschriften unter:\nChiffre: 0123"
+    },
+    {
+     "key": "f",
+     "text": "Preiswerte Flüge weltweit\nLondon ab Euro 149,–\nJohannesburg ab Euro 599,–\nNew York ab Euro 299,–\nSydney ab Euro 799,–\nTAKE OFF REISEN\nTelefon 0 71 31/25 91-0 · Fax 25 13 60\nHauptstr. 16 · 74081 Heilbronn\nFlugpreise inkl. MwSt.\nonline im internet: www.take-off-reisen.com"
+    },
+    {
+     "key": "g",
+     "text": "Ihre Wandertage in\nbester Alpenluft!\nHotel Walder\nWunderbare Fernsicht –\nBlick auf Meran.\nUnverbaute, zentrale Panoramalage – kein\nDurchgangsverkehr! Nur 5 bequeme\nGehminuten ins Dorfzentrum, Komfortzimmer\nmit Balkon, TV, Tel., Safe, Hallen- und Freibad,\nLiegewiese, Sauna, Solarium, Lift. Reichhal-\ntiges Frühstücksbuffet – Menüwahl. Diät- und\nSchonkost möglich. Kinderermäßigung!\nIm August 7 Tage HP ab Euro 299,–;\nRichtpreis bis Ende des J. HP p. Pers./Tg. Euro 49,–;\nRichtpreis bis 30.11. HP p. Pers./Tg. Euro 39,–\nI-39017 SCHENNA b. Meran, Telefon\n0039/0473/94 57 35\nFax 0039/0473/94 57 34\nEinfach anrufen und buchen! Wir freuen uns.\nIhre Familie Walder"
+    },
+    {
+     "key": "h",
+     "text": "Freunde des Liedes\nDEUTSCHE UND\nENGLISCHE\nBAROCKLIEDER\nGeorg Friedrich Händel\nKantate: Vedendo Amor\nAndreas Scholl Countertenor\nMarkus Märkl Cembalo\nKarl Ernst Schröder Laute\nMontag, 18. Januar, 19.30 Uhr\nKonservatorium Zürich, gr. Saal\nVorverkauf:\nJecklin (Rämistr., Tel. 253 76 76) und\nMusik Hug (Limmatquai, Tel. 269 41 00)\noder an der Abendkasse Einzelbillette zu Fr. 32.–\n(mit Leg- + AHV-Ausweis Fr. 20.–"
+    },
+    {
+     "key": "i",
+     "text": "Das Sprachreisen-\nReisebüro in\nDeutschland\nAngebote von mehr als 35 Veranstal-\ntern mit Kursorten in der ganzen Welt\nmit Sportmöglichkeiten. Umfassende,\nobjektive und kostenlose Beratung zum\nThema Schüler-Sprachferien, Summer-\nSchools und High-School-Jahr.\nFordern Sie auch unseren Katalog für\nErwachsene an!\nGetestet und empfohlen von Ihrem\nSpezialisten:\nEuro-Schüler-Sprachreisen\nGrillparzerstr. 46\n81675 München\nTel. 089/45 55 55 30\nFax 089/45 55 55 33\ne-mail: info@sprachreise.com\nEs sind noch Plätze frei!"
+    },
+    {
+     "key": "j",
+     "text": "Singen im Chor\nHast Du Lust, in unserem Kammerchor zu\nsingen? Bei uns bist Du eine wichtige und\ntragende Stimme! Unser Dirigent ist David\nHaladjian. Er ist Komponist, und wir führen\nz.T. Werke auf, die er eigens für uns ge-\nschrieben hat.\nUnser Repertoire ist zeitgenössische, an-\nspruchsvolle Chormusik. Wir proben jeweils\nmittwochs von 18.00 bis zirka 20.30 Uhr im\nAltstetten ZH. Gesucht werden Stimmen\naller Register. Herzlich willkommen!\nInteressenten melden sich bitte bei Marcel\nSigrist, Tel./Fax: 01/302 43 10."
+    },
+    {
+     "key": "k",
+     "text": "AUF IN'S ALLGÄU ...\n... ein königliches Haus\nzum bürgerlichen Preis!\nWinter-Pauschale\n10. Januar – 12. Februar\nEuro 199,–\n5 ÜBERN. INKL. HP P.P. IM DZ\nSauna, Schönheitsoase, medizin. Bäder-\nund Massageabteilung, Sauerstoffkur,\nNaturheilverfahren, Arzt im Haus.\nHotel\nKönig Ludwig\nD-87645 Schwangau\nTelefon 08362/8890 Fax 81779"
+    },
+    {
+     "key": "l",
+     "text": "Englisch, Deutsch, Französisch, Russisch, Portugiesisch, Spanisch, Italienisch\nMIT SUPERLEARNING ALS BERUFBEGLEITENDE\nLERNMETHODE\nIntensiv – 3 mal höheres Lerntempo\naktiver Unterricht mit nur 1–5 Lernenden\nStundenplan und Lerninhalt nach Bedarf\nstressfreie Lernsituation\nDie effizienteste und angenehmste Art\nsehr schnell Sprachen zu lernen\nJ. P. & E. Schirmer\nFlüelastrasse 47, 8047 Zürich\nTelefon 01/401 39 01\nTelefax 01/401 39 02\nZürich, Basel, Bern, Zug\nhttp://dialogica.ch\ne-mail: dialogica.zuerich@bluewin.ch\nSprechen!\nDIALOGICA"
+    }
+   ],
+   "ads_image_page": 432,
+   "id": "P29-L3",
+   "section": "Leseverstehen, Teil 3",
+   "pages": [
+    431,
+    432
+   ],
+   "topic": "Schweiz",
+   "solution": {
+    "11": "d",
+    "12": "h",
+    "13": "i",
+    "14": "e",
+    "15": "a",
+    "16": "x",
+    "17": "l",
+    "18": "x",
+    "19": "f",
+    "20": "g"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Same situations and ad page as P03 (p432 is a photo of the same printed page); transcription re-checked."
+   ],
+   "uncertain": [
+    {
+     "location": "p432, ad a (quote author)",
+     "note": "Very small print; author name read as 'Paul Renker' (low confidence)."
+    },
+    {
+     "location": "p432, ad j",
+     "note": "Small grey print on grey background; transcription mostly certain, individual words (e.g. 'Haladjian', 'Altstetten ZH') low confidence."
+    },
+    {
+     "location": "p432, ad h last line",
+     "note": "'(mit Leg- + AHV-Ausweis Fr. 20.–' — closing bracket not visible in source."
+    }
+   ],
+   "verified": true
+  },
+  {
+   "type": "sprach1",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen",
+   "text": "## An alle Kunden\n## Gewinnen\nSehr geehrter Herr Schröder,\nzum Start [[21]] das neue Geschäftsjahre haben wir uns für Sie etwas ganz Besonders ausgedacht: einen attraktiven Gewinn! [[22]] dem Beginn des neuen Geschäftsjahres feiern wir unsere erfolgreiche Buchidee. Machen Sie mit! Es warten auf Sie sehr [[23]] Gewinne im Wert von vielen Tausend Euro. Mit ihrer Kundennummer können Sie an einem Preisausschreiben teilnehmen. Senden Sie uns [[24]] das beigefügte Antwortschreiben zurück und bestellen Sie damit – ohne Risiko – das Buch des Monats. Sie erhalten dieses Buch mit [[25]] versprechen, es nach 10 Tage zurückgeben zu können, sollte Ihnen das Buch nicht gefallen. Ohne irgendetwas zu zahlen! Behalten Sie das Buch, was wir [[26]] hoffen, zahlen Sie nur 50 Prozent des sonst üblichen Preises in einer Buchhandlung. Gleichzeitig nehmen Sie an einem Preisausschreiben [[27]]. Bitte bedanken Sie: sollte Ihre Kundennummer[[28]] den richtigen Zahlen sein, haben Sie die Chance, ein Auto eine Reise und viele weitere Preise zu erhalten. Antworten Sie [[29]] noch diese Woche! Dann haben Sie in jedem Fall die Chance auf den Hauptgewinn - einen Mercedes der S-Klasse. Wenn Sie innerhalb der kommenden vier Wochen antworten, nehmen Sie immer[[30]] an unserer Gewinnverteilung teil – vorausgesetzt, Sie haben die richtige Kundennummer.\nMit freundlichen Grüßen\nPetra Obermoser\nLeiterin der Abteilung Marketing",
+   "gaps": [
+    {
+     "num": 21,
+     "options": {
+      "a": "auf",
+      "b": "in",
+      "c": "über"
+     }
+    },
+    {
+     "num": 22,
+     "options": {
+      "a": "Mit",
+      "b": "Von",
+      "c": "Zwischen"
+     }
+    },
+    {
+     "num": 23,
+     "options": {
+      "a": "schöne",
+      "b": "schönen",
+      "c": "schönes"
+     }
+    },
+    {
+     "num": 24,
+     "options": {
+      "a": "einfach",
+      "b": "immer",
+      "c": "noch"
+     }
+    },
+    {
+     "num": 25,
+     "options": {
+      "a": "unsere",
+      "b": "unserem",
+      "c": "unseren"
+     }
+    },
+    {
+     "num": 26,
+     "options": {
+      "a": "natürlich",
+      "b": "schön",
+      "c": "viele"
+     }
+    },
+    {
+     "num": 27,
+     "options": {
+      "a": "mit",
+      "b": "teil",
+      "c": "zu"
+     }
+    },
+    {
+     "num": 28,
+     "options": {
+      "a": "unter",
+      "b": "neben",
+      "c": "vor"
+     }
+    },
+    {
+     "num": 29,
+     "options": {
+      "a": "bald",
+      "b": "bereits",
+      "c": "unbedingt"
+     }
+    },
+    {
+     "num": 30,
+     "options": {
+      "a": "noch",
+      "b": "schon",
+      "c": "schnell"
+     }
+    }
+   ],
+   "id": "P29-SB1",
+   "section": "Sprachbausteine, Teil 1",
+   "pages": [
+    433
+   ],
+   "topic": "Schröder",
+   "solution": {
+    "21": "b",
+    "22": "a",
+    "23": "a",
+    "24": "a",
+    "25": "b",
+    "26": "a",
+    "27": "b",
+    "28": "b",
+    "29": "c",
+    "30": "a"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  },
+  {
+   "type": "sprach2",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.",
+   "text": "Neuendorf, den….\nSehr geehrte Frau Bauer,\nich habe Ihre Anzeige in der Neuen Presse gelesen und bin an dem Filmprojekt sehr [[31]].\nich war schon [[32]] für einige Wochen im Ausland. Vor allem im Sommer habe ich während meines Studiums viele Sprachkurse besucht. Länger als ein halbes Jahr habe ich [[33]] einmal im Ausland gelebt, und zwar [[34]] zwei Jahren. Mein Chef machte mir damals das Angebot, acht Monate im Tochterunternehmen der Firma in Portugal zu [[35]] , was ich dann auch getan habe.\nAm Anfang war es sehr schwer, weil ich niemanden kannte und alles sehr neu und [[36]] für mich war. Eigentlich wollte ich so schnell wie [[37]] wieder zurück. Aber dann habe ich nette Kollegen kennen gelernt, die mir auch über die Kultur und das Leben in Portugal [[38]] haben.\nIch glaube, dass meine Erfahrungen für viele andere Menschen, die auch im Ausland leben wollen, sehr interessant sein könnten, und ich [[39]] gerne auch vor der Kamera darüber erzählen. [[40]] Sie noch weitere Fragen an mich haben, können Sie mich gerne anrufen, meine Telefonnummer ist 07612/64788980.\nIch würde mich freuen, bald von Ihnen zu hören.\nMit freundlichen Grüßen\nKAROLINE POINTNER",
+   "words": [
+    {
+     "key": "a",
+     "word": "ALS"
+    },
+    {
+     "key": "b",
+     "word": "ANFANGEN"
+    },
+    {
+     "key": "c",
+     "word": "ARBEITEN"
+    },
+    {
+     "key": "d",
+     "word": "ERZÄHLT"
+    },
+    {
+     "key": "e",
+     "word": "FALLS"
+    },
+    {
+     "key": "f",
+     "word": "INFORMIERT"
+    },
+    {
+     "key": "g",
+     "word": "INTERESSIERT"
+    },
+    {
+     "key": "h",
+     "word": "MÖCHTEN"
+    },
+    {
+     "key": "i",
+     "word": "MÖGLICH"
+    },
+    {
+     "key": "j",
+     "word": "NUR"
+    },
+    {
+     "key": "k",
+     "word": "ÖFTER"
+    },
+    {
+     "key": "l",
+     "word": "UNBEKANNT"
+    },
+    {
+     "key": "m",
+     "word": "VOR"
+    },
+    {
+     "key": "n",
+     "word": "WÜRDE"
+    },
+    {
+     "key": "o",
+     "word": "ZWISCHEN"
+    }
+   ],
+   "id": "P29-SB2",
+   "section": "Sprachbausteine, Teil 2",
+   "pages": [
+    434
+   ],
+   "topic": "Bauer",
+   "solution": {
+    "31": "g",
+    "32": "k",
+    "33": "j",
+    "34": "m",
+    "35": "c",
+    "36": "l",
+    "37": "i",
+    "38": "d",
+    "39": "n",
+    "40": "e"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Identical exercise to P02 Sprachbausteine Teil 2 (Frau Bauer / Karoline Pointner) — duplicated in the source PDF."
+   ],
+   "uncertain": [],
+   "verified": true
+  }
+ ],
+ "missing_sections": [],
+ "paper_notes": [
+  "P29 is a duplicate of P03 (identical exercises and answer key)."
+ ]
+}

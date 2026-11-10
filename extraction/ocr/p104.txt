@@ -1,0 +1,17 @@
+0.074 0.109 1.00	Leseverstehen, Teil 1
+0.074 0.811 0.30	çlalal
+0.092 0.094 1.00	LANGUAGE Tests
+0.148 0.047 1.00	Lesen Sie die Überschriften a - j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.
+0.167 0.047 1.00	Sie können jede Überschrift nur einmal benutzen.
+0.186 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+0.362 0.047 1.00	_A) Finanzielle Unterstützung für Kunstprojekte mit Schülern
+0.423 0.051 1.00	B) Winterveranstaltung auf dem Eis mit Musik
+0.478 0.072 1.00	_c) Aktionsprogramm der Eu:Finanzielle Unterstützung für italienische Künstler
+0.523 0.080 1.00	_d) Kunstausstellung von italienischen Schülern
+0.542 0.547 0.50	hschull
+0.577 0.053 0.50	_e) Deutschlernen mit euer Methode im Radio
+0.628 0.064 1.00	_F) Geld für gemeinsame europäische Projekte
+0.688 0.078 1.00	_G) Elternverein organsiert Kunstausstellung
+0.743 0.053 1.00	_h) Mit der Eisenbahn ins winterliche Wien
+0.789 0.051 1.00	—i) Mehr Geld für österreichische Musikschulen
+0.838 0.055 1.00	) Wie Sprachaufenthalte auswählen?

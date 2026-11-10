@@ -1,0 +1,18 @@
+0.054 0.049 1.00	Leseverstehen, Teil 2
+0.071 0.035 1.00	LANGUAGE Tests
+0.153 0.047 1.00	6. Die Werbung in den Vereinigten Staaten
+0.193 0.133 1.00	beschäftigt sich überhaupt nicht mit Deutschland.
+0.227 0.129 1.00	zeigt immer wieder dasselbe Bild von Deutschland.
+0.260 0.123 1.00	zeigt viele unterschiedliche Seiten von Deutschland.
+0.269 0.103 0.50	C
+0.299 0.047 1.00	7. Die Eltern von Laura Rudelt.
+0.340 0.099 0.50	A
+0.342 0.129 1.00	arbeiten und lebten lange Jahre in den Niederlanden.
+0.376 0.103 1.00	B hatten nicht die Möglichkeiten wie ihre Tochter.
+0.411 0.097 1.00	C wollen ihre Tochter nun in den USA Besuchen.
+0.453 0.045 1.00	8. Während die Praktikantinnen in New York waren.
+0.496 0.136 1.00	bekamen sie eine Stadttührung.
+0.602 0.045 1.00	9. Die dritte Leipzigerin, die in die USA gereist ist
+0.714 0.094 1.00	c wurde von ihrer neuen Chefin freundlich aufgenommen.
+0.828 0.129 1.00	soll dabei vor allem das Land kennenlernen.
+0.862 0.094 1.00	C soll schon einmal im Ausland gewesen sein.

@@ -1,0 +1,22 @@
+0.093 0.060 1.00	Leseverstehen, Teil 3
+0.110 0.043 1.00	LANGUAGE Tests
+0.164 0.045 1.00	Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können
+0.185 0.043 1.00	jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 - 20 auf dem
+0.205 0.047 1.00	Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+0.276 0.045 1.00	11.Sie möchten für ein Jahr in Wien Psychologie studieren und suchen daher eine günstige
+0.310 0.076 1.00	Mietwohnung.
+0.349 0.045 1.00	12.Sie möchten am Abend ins Kino gehen und suchen daher eine verlässliche Person, die auf Ihr Kind
+0.383 0.078 1.00	aufpasst.
+0.423 0.045 1.00	13.Sie möchten in den Sommerferien nebenbei ein wenig Geld dazu verdienen und suchen daher
+0.458 0.078 1.00	einen passenden Job.
+0.496 0.045 1.00	14.Sie möchten ein Geburtstagfest organisieren und brauchen dafür einen Raum. Um das Essen und
+0.531 0.076 1.00	die Getränke für die Gäste möchten Sie sich selbst kümmern.
+0.570 0.047 1.00	15. Ihre Bekannten aus Deutschland müssen aus beruflichen Gründen nach Salzburg
+0.607 0.076 1.00	umziehen undhaben Sie gebeten, eine Mietwohnung für Sie suchen.
+0.648 0.045 1.00	16. Ihre 23 - jährige Freundin hat soeben einen Computerkurs abgeschlossen und sucht einen Job.
+0.686 0.045 1.00	17. Ihr 12 - jährige Sohn wünscht sich zum Geburtstag Buch über Sterne.
+0.725 0.047 1.00	18. Ihre Kinder möchten am Nachmittag ins Kino gehen. Sie suchen einen passenden Film für Kinder.
+0.763 0.047 1.00	19.Sie möchten mit Freunden gern ins Kino gehen. Da es ein sehr warmer Sommerabend ist , suchen
+0.798 0.078 1.00	Sie nach einer Vorstellung im Ferien.
+0.836 0.049 1.00	20.Ihre Freundin ist Erzieherin und zur Zeit arbeitslos. Sie möchte daher als Kindermädchen bei einer
+0.873 0.078 1.00	Familie arbeiten.

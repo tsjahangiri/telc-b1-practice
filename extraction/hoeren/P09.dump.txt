@@ -1,0 +1,29 @@
+=== P09-H1 [Arbeit zu fahren] p[112] src=text_layer key p116
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören diese Texte nur einmal. / Entscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.
+  41. Der Sprecher könnte sich vorstellen, mit dem Bus zur Arbeit zu fahren.   [-]
+  42. Die Sprecherin geht gern zu Fuß.   [-]
+  43. Der Sprecher findet es in Ordnung, dass seine Frau immer das Auto hat   [+]
+  44. Die Sprecherin fährt jeden Tag mit ihrem Motorrad zur Arbeit.   [+]
+  45. Die Sprecherin fährt immer mit dem Fahrrad zur Arbeit.   [-]
+  nums=[41, 42, 43, 44, 45] complete=True
+=== P09-H2 [UKI] p[113] src=text_layer key p116
+INSTR: Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. / Sie hören das Gespräch zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.
+  46. Das Ziel des Vereins UKI ist, ausländische Bürger in Österreich zu unterstützen.   [-]
+  47. Der Verein wendet sich besonders an internationale Manager, weil diese den Verein finanziell unterstützen.   [-]
+  48. Die Abendkurse für Berufstätige dauern neun Monate.   [+]
+  49. Es gibt einen speziellen Deutschkurs für Jugendliche, die eine österreichische Hauptschule besuchen wollen.   [+]
+  50. Es gibt auch Kurse, die nichts mit Deutschlernen zu tun haben.   [+]
+  51. Die Deutschlehrer sind gleichzeitig auch Sozialarbeiter.   [+]
+  52. Sozialarbeiter helfen Ausländern bei Problemen mit Ämtern.   [+]
+  53. Im Kurs werden Papiere für eine Bewerbung vorbereitet.   [+]
+  54. Frauen und Kinder lernen im Unterricht gemeinsam Deutsch.   [-]
+  55. Die Gesetze machen die Arbeit von Frau Böck schwerer.   [-]
+  nums=[46, 47, 48, 49, 50, 51, 52, 53, 54, 55] complete=True
+=== P09-H3 [Prag] p[114] src=text_layer key p116
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören jeden Text zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen.
+  56. Ihr Flug nach Prag ist nicht pünktlich.   [-]
+  57. Im Speisewagen kann man ins Internet gehen.   [-]
+  58. Montags bis freitags ab 8:00 Uhr kann man sich persönlich beraten lassen.   [+]
+  59. Das Hörspiel Katzen in der Nacht wird morgen um 20:30 Uhr gesendet.   [-]
+  60. Das Flugzeug landet mit 20 Minuten Verspätung in Leipzig.   [+]
+  nums=[56, 57, 58, 59, 60] complete=True

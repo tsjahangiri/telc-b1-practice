@@ -1,0 +1,68 @@
+0.064 0.078 1.00	Sprachausteine, Teil 1
+0.083 0.062 0.50	LANGUAGE Tests
+0.132 0.045 1.00	Lesen sie den Text und schließen Sie Lücken 21 - 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.
+0.151 0.047 1.00	Markieren sie Ihre Lösungen für die Aufgaben 21 - 30 auf dem Antwortbogen
+0.221 0.425 1.00	An alle Kunden
+0.246 0.047 1.00	Gewinnen
+0.292 0.047 1.00	Sehr geehrter Herr Schröder,
+0.327 0.045 1.00	zum Start (21) das neue Geschäftsjahre haben wir uns für Sie etwas ganz Besonders ausgedacht: einen
+0.347 0.049 1.00	attraktiven Gewinn! (22) dem Beginn des neuen Geschäftsjahres feiern wir unsere erfolgreiche Buchidee.
+0.368 0.049 1.00	Machen Sie mit! Es warten auf Sie sehr (23) Gewinne im Wert von vielen Tausend Euro. Mit ihrer
+0.388 0.049 1.00	Kundennummer können Sie an einem Preisausschreiben teilnehmen. Senden Sie uns (24) das beigefügte
+0.408 0.049 1.00	Antwortschreiben zurück und bestellen Sie damit — ohne Risiko - das Buch des Monats. Sie erhalten dieses
+0.427 0.047 1.00	Buch mit (25) versprechen, es nach 10 Tage zurückgeben zu können, sollte Ihnen das Buch nicht gefallen.
+0.448 0.049 1.00	Ohne irgendetwas zu zahlen! Behalten Sie das Buch, was wir (26) hoffen, zahlen Sie nur 50 Prozent des sonst
+0.468 0.047 1.00	üblichen Preises in einer Buchhandlung. Gleichzeitig nehmen Sie an einem Preisausschreiben (27).
+0.488 0.049 1.00	Bitte bedanken Sie: sollte Ihre Kundennummer(28) den richtigen Zahlen sein, haben Sie die Chance, ein Auto
+0.506 0.049 1.00	eine Reise und viele weitere Preise zu erhalten. Antworten Sie (29) noch diese Woche! Dann haben Sie in
+0.523 0.047 1.00	jedem Fall die Chance auf den Hauptgewinn - einen Mercedes der S-Klasse. Wenn Sie innerhalb der
+0.541 0.049 1.00	kommenden vier Wochen antworten, nehmen Sie immer(30) an unserer Gewinnverteilung teil -
+0.558 0.049 1.00	vorausgesetzt, Sie haben die richtige Kundennummer.
+0.594 0.049 1.00	Mit freundlichen Grüßen
+0.613 0.053 1.00	Petra Obermoser
+0.634 0.053 1.00	Leiterin der Abteilung Marketing
+0.653 0.043 1.00	21.
+0.653 0.119 0.50	A auf
+0.656 0.244 1.00	24.
+0.654 0.318 1.00	A einfach
+0.656 0.480 1.00	27.
+0.656 0.550 0.50	A mit
+0.658 0.674 0.50	30.
+0.657 0.733 0.50	A noch
+0.676 0.119 0.30	Bin
+0.674 0.318 1.00	B immer
+0.674 0.552 0.50	Bteil
+0.676 0.735 1.00	B schon
+0.699 0.117 0.30	c über
+0.699 0.316 0.30	cnoch
+0.702 0.577 0.30	zU
+0.699 0.754 1.00	schnell
+0.762 0.045 1.00	22.
+0.754 0.117 0.50	A Mit
+0.762 0.248 1.00	25.
+0.755 0.308 0.50	A unsere
+0.765 0.480 1.00	28.
+0.760 0.554 1.00	A
+0.765 0.577 1.00	unter
+0.783 0.119 1.00	B Von
+0.782 0.316 1.00	B unserem
+0.785 0.552 1.00	B neben
+0.804 0.119 1.00	cZwischen
+0.805 0.312 0.30	c unseren
+0.807 0.573 0.50	vor
+0.849 0.045 1.00	23.
+0.849 0.140 1.00	schöne
+0.852 0.246 1.00	26.
+0.844 0.318 1.00	A
+0.849 0.341 1.00	natürlich
+0.852 0.480 1.00	29.
+0.852 0.579 1.00	bald
+0.869 0.119 1.00	B schönen
+0.869 0.316 1.00	B schön
+0.862 0.550 0.50	B
+0.869 0.579 1.00	bereits
+0.886 0.133 0.50	schönes
+0.887 0.339 1.00	viele
+0.888 0.579 1.00	unbedingt
+0.900 0.119 0.30	C
+0.901 0.318 0.30	C

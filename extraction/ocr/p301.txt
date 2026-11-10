@@ -1,0 +1,30 @@
+0.000 0.661 0.30	KEANANNANNNNRRRNN
+0.090 0.016 0.50	*Erfahrung*
+0.145 0.012 1.00	• Ich habe die folgende Erfahrung , Ich habe einen Freun seit etwa 20
+0.176 0.043 1.00	Jahren , wir gingen sowohl af dieselbe Schule,als auch auf dieselbe
+0.207 0.047 1.00	Universitat.
+0.240 0.012 1.00	• Falls wir die Prüfung bestehen ,reisen wir auch zusammen nach
+0.272 0.047 1.00	Deutschland.
+0.304 0.012 1.00	• Er hat mir viel geholfen ,damit ich viele Schwierigkeiten überwinden
+0.336 0.045 1.00	kann.
+0.381 0.016 0.50	***************
+0.381 0.285 0.30	*********
+0.379 0.458 0.50	******************************
+0.422 0.010 1.00	Teilnehmer B
+0.467 0.018 0.50	il 2: Gespräch über ein Thema
+0.475 0.014 0.50	einer Zeitschrift haben. Sie etwas zum Themna _Der beste Freund bzw, die beste Freundin" gelesen. Be-
+0.488 0.012 0.50	fiten Sie Ihrer Gesprächspartnerin/Ihrem Gesgrächsparther darüber
+0.493 0.029 0.50	Gesprächspartnerin/ihr Gesprachspartner halveine andere Meinung dazu gelesen und berichtet Ihnen
+0.513 0.016 0.50	erhalten Sie sich dann mit Ihrer Gesprächspartneng@Ifrem Gesprächspartner über des Thema.
+0.512 0.016 0.50	h darüber.
+0.528 0.014 0.50	zen Sie ihre Meinüng und erzählen Sie von eigenen. Effahrungen.
+0.544 0.547 0.50	:hschul
+0.561 0.026 1.00	Der beste Freund bzw. die beste Freundin
+0.778 0.552 1.00	_Naja, einen besten Freund habe ich ei-
+0.787 0.554 1.00	gentlich gar nicht. Ich habe aber sehr viele
+0.799 0.556 1.00	Bekannte, zum Beispiel im Sportverein. Da
+0.815 0.556 1.00	treffen wir uns zweimal pro Woche zum
+0.825 0.558 1.00	Sport. Danach gehen wir auch manchmal
+0.840 0.560 1.00	zusammen in die Kneipe."
+0.867 0.014 1.00	oiger Münz, 25 Jahre, Betriebswirt
+0.897 0.010 1.00	www.instagram.com/mahmoudemad007

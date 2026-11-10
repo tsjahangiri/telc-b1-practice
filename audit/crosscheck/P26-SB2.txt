@@ -1,0 +1,5 @@
+# P26-SB2 pages [389] ratio 0.872
+## website words not in OCR:
+OB
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests MSUNG

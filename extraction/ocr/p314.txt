@@ -1,0 +1,34 @@
+0.074 0.070 1.00	Leseverstehen, Teil 1
+0.092 0.051 1.00	LANGUAGE Tests
+0.177 0.088 1.00	1. Rund 150,000 Sprachreisen werden von Deutschen jährlich unternommen. Der Wunsch, eine
+0.199 0.119 1.00	andere Sprache zu lernen, kann verschieden Gründe haben: private, schulische oder berufliche.
+0.217 0.119 1.00	Das Angebot an Sprachreisen wächst ständig, über die Qualität ist jedoch wenig oder nichts
+0.234 0.119 1.00	bekannt. Im Marktplatz geht es diesmal um Kriterien für das Lernen mit Erfolg. Welche
+0.250 0.119 1.00	Methoden sind zu empfehlen, welche Anbieter kosten? Ihre Fragen werden am Hörertelefon
+0.267 0.119 1.00	unter 0800-839601 von Fachleuten beantwortet.
+0.315 0.086 1.00	2. Die Metropole Wien lädt zum winterlichen Eisvergnügen vor dem Wiener Rathaus ein: vom 22.
+0.339 0.117 1.00	Januar bis 7.März kann man auf 1800 Quadratmetern übers Eis fahren. Die Musik dazu bestimmt
+0.355 0.121 1.00	den Fahrstil und reicht vom klassischen Walzer bis zur Diskomusik. Nachts werden auf der
+0.372 0.121 1.00	Eisbahn Partys veranstaltet, vom Samba - Fest bis zum Hip-Hop -Event. Speisen und Getränke
+0.389 0.117 1.00	gibt es an verschiedenen Ständen, Schlittschuhe und Stiefel kann man leihen. Informationen:
+0.407 0.121 1.00	Wiener Tourismusverband
+0.456 0.086 1.00	3. Für das Aktionsprogramm der Europäischen Union (EU) zur beruflichen Weiterbildung, Leonardo
+0.478 0.117 1.00	da Vinci, können noch bis zum 31. März Anträge gestellt werden. Ziel des Programms ist es,
+0.496 0.117 1.00	europäische Projekte zur beruflichen Weiterbildung zu unterstützen Anträge auf finanzielle
+0.511 0.117 1.00	unterstützen können die Institutionen stellen, die mit mindestens zwei weiteren europäischen
+0.529 0.117 1.00	Partnern an einem Projekt arbeiten wollen. Information: Nationale Koordinerungsstelle
+0.548 0.115 1.00	Leonardo da Vinci, Fehrbelliner Platz 3, D-10707 Berlin, Tel, 030/8643-0, Fax- 2637.
+0.594 0.084 1.00	4. Wien(SN.APA). Wie das Unterrichtsministerlum mitteilte, sollen im kommenden. Jahr monatlich
+0.618 0.115 1.00	70,000 Euro für Kulturprojekte an Schulen zur Verfügung gestellt werden. Unterstützt würden
+0.634 0.115 1.00	damit Veranstaltungen und Projekte, die das Verständnis der Kinder und Jugendlichen für die
+0.651 0.115 1.00	Künste wecken, das Interesse am Musisch - Kreativen verstärken und zu Kontakten und einer
+0.668 0.115 1.00	Auseinandersetzung mit Künstlern führen. Dadurch soll in altersgemäßer Form die ganzheitliche
+0.686 0.117 1.00	Entwicklung der Persönlichkeit von Kindern und Jugendlichen gefördert werden.
+0.738 0.088 1.00	5. Zum sechsten Mal veranstaltet das Comitato Geniton Binnigen/ Bottmingen seine breit
+0.759 0.117 1.00	angelegte multikulturelle Kunstausstellung Arte. An der Veranstaltung nehmen 70 Künstlerinnen
+0.776 0.117 1.00	und Künstler aus der Region sowie Gäste aus Italien, Frankreich, Deutschland und weiteren
+0.794 0.117 1.00	Ländern teil. Bei dem vor 18 Jahren gegründeten Comitato handelt es sich um einen
+0.810 0.117 1.00	Elternverein, der damals italienischsprachigen Kindern bei ihren Schulprobiemen hilfreich zur
+0.827 0.117 1.00	Seite stand. Da die jetzige dritte Kindergeneration nicht mehr diese Probleme hat, suchte das
+0.844 0.117 1.00	Comitato nach neuen Aufgeben und fand in der Organisation der alljährlichen Kunstausstellung
+0.862 0.117 1.00	ein neues, interessantes Betätigungsfeld.

@@ -1,0 +1,319 @@
+{
+ "batch": 18,
+ "pages": [
+  171,
+  180
+ ],
+ "records": [
+  {
+   "page": 171,
+   "paper": "P14",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\na) Abendwanderungen ab 89 Euro\nb) Ausflugsziele für Literaturinteressierte\nc) Hinweis für Besucher der Bregenzer Festspiele\nd) Ihre Zeitung folgt Ihnen in den Urlaub\ne) Laute Musik stört den Nachbarn\nf) Musikveranstaltungen am Nachmittag\ng) Neue Zeitung für Ihre Urlaubsplanung\nh) Rekord: 70.000 Besucher im Bücherdorf\ni) Schlechtes Wetter: Festspiele abgesagt\n  j) Wandern ohne Gepäck",
+   "arabic_labels_excluded": [
+    "الجريدة (مع فيرا)"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.04
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.796,
+    "ocr_words_missing_from_textlayer": 7,
+    "sample_missing": [
+     "panfurter",
+     "rierhundschau",
+     "tacesspiegel",
+     "toukszetung",
+     "zeirun",
+     "üddeutsche",
+     "ütua"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P14 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 172,
+   "paper": "P14",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. Wenn Sie verreisen, wünschen wir ihnen erholsame und angenehme Ferienlage Bitte denken Sie daran, sich ihre\nZeitung in den Urlaubtort nachsenden zu lassen. Denn mit den Neuigkeiten von zu Hause und aus aller Weil lässt\nsich die schönste Zeit des Jahres erst richtig genießen ganz Europa kostenlos, Die Höhe des Bezeugendes bleibt\nunverändert. Ausführliche Informationen und entsprechende Coupons ihrem Europabericht. Griechisch wird\nmeistens von Zwölftklässlern als dritte Fremdsprache neben Französisch und Englisch gewählt. finden Sie in\nunserem großen Reise Service – Anzeigen oder rufen Sie uns einfach an:\nTelefon 01 30-18 58 50 zum Nulltarif.\nHannoversche Allgemeine\nNeue Presse\n2. Im Luftkurort Stadtkylf in der Mittelgebirgslandschaft des Oberen Kullas werden dreitägige Wanderungen ohne\nGepäck veranstaltet Die Rundwanderung im deutsch – bei gischen Naturpark führt abends zu reservierten\nZimmern. Die Betriebe übernehmen den Gepäcktransport zum nächsten Tagesziel. Die Wanderungen werden\nganzjährig angeboten. In den Wanderprogramm sind drei Übernachtungen mit Frühstück dreimal\nGepäcktransport, eine Wanderkarte, eine Wegbeschreibung und ein Wanderpass enthalten. Der Pauschalbetrag\nbeträgt pro Person 89 Euro.\nAuskünfte:\nVerkehrsverein Erholungsgebiet Oberes Kylltal.\nKurallee, 54589 Stadtkylf, Telefon ( 06597) 28 78.\n3. Für den einen ist es musikalischer Hochgenuss für den anderen schlicht Lärm. Gemeint ist Musik, die aus\nLautsprechen, Radios oder durch Musikinstrumente durch geöffnet Türen und Fenster bei sommerlichen\nTemperaturen ins Freie dringt. Die Gemeinde weist darauf hin, dass der Mittagsruhe von 13 bis 15 Uhr und nachts\nvon 22 bis 7 Uhr keine musikalische Ruhestörung erfolgen darf. Gartengeräte mit Motoren dürfen montags bis\nfreitags nur von 8 bis 13 und von 15 bis 19 Uhr benutzt werden, an Sonnabenden von 9 bis 13 Uhr. An Sonn -\nund Feiertagen dürfen die Geräte nicht zum Einsatz kommen.\n4. In dem Bücherdorf in Mühlbeck/ Fredersdorf(Sachsen – Anhalt ) warten in acht Antiquarten über 7000 Bücher aus\nallen Bereichen der Literatur auf Interessenten. In acht Antiquariten warten über 70000 Bücher aus allen\nBereichen der Literatur auf Interessenten. Das in reizvoller landschaftlicher Umgebung liegende Bücherdorf nahe\nBitterfeld unweit der A19 und des Flughafens Leipzig ist aus allen Teilen Deutschlands leicht zu erreich. Geöffnet\nsind die Antiquariate auch am Samstag und Sonntag. In Europa gibt es bereits zahlreiche   solcher Bücherdörfer\n.u.a. in Belgien Frankreich Großbritannien den Initiatorin des deutschen Bücherdorfes ist Heidi Dehne\n(Tel. 03493/4 30 43).\n5. Die Bregenzer Festspiele sind bemüht, die Vorstellungen auch bei zweifelhafter Witterung bzw. leichtem Regen\nauf der Seebühne abzuhalten, weshalb es zu Verzögerungen des Beginns oder zu Unterbrechungen kommen\nkann. Sollte die Seeaufführung nicht stattfinden können, wird eine halbszenische Version von Porgy and Bess im\nFestspielhaus gegeben. Wir empfehlen unseren Gästen , bei unsicherer Wetterlage regenfester Kleidung den\nVorzug zu geben und auf Schirme zu verzichten, da diese die Sicht beeinträchtigen. Das Spiel auf dem See wird\nohne Pause gespielt. Die Spieldauer beträgt ca.2 Std. 45 Min.",
+   "arabic_labels_excluded": [
+    "الجريدة (مع فيرا)"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 8,
+    "sample_missing": [
+     "berliner",
+     "franhfurler",
+     "iepaiger",
+     "rundschau",
+     "tacesspiegel",
+     "tddeuische",
+     "teiun",
+     "volkszeitung"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P14 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 173,
+   "paper": "P14",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nComputerprobleme – ein Kinderspiel\nAnne und Melanie (beide 6) stehen Erzieherinnen mit Vorschlägen hilfreich zur Seite\nVon Christiane Altenberger\nSie sind die Problemlöser im Kindergarten an der Munckerstraße. Wenn das Malprogram spinnt, plötzlich ein\nSpiel auftaucht, das keiner kennt, dann rufen die Erzieherinnen nach Anne und Melanie. Die sind zwar erst\nsechs Jahre alt, aber mit den Computerspielen kennen sie sich aus. Die Kinder wissen manchmal mehr als wir\nsagt Eva Schilling. Leiterin des Kindergartens. Gelernt haben die beiden ihr Know-how bei Multimedia-\nLandschaften für Kinder, einem Projekt, das das Schulamt zusammen mit dem Studio im Netz gestartet hat.\nIm Rahmen dieses Projekts werden in städtischen Kindergärten zwei Wanderstationen mit je drei Multimedia-\nComputern und einem Farbdrucker installiert. Die Stationen wandern durch 14 Kindergärten, wo sie jeweils\nfür vier Wochen installiert werden. Mit dabei in den Kindergärten: ein ganzer Satz von Spiel – Software.\nVierjährige am Computer? In Pädagogen kreisen sind viele Berührungsängste da, weiß Edith llg, Fachberaterin\nfür Kindergärten beim Schulamt, aber wir können uns aus dieser Entwicklung nicht ausklinken. Die Kinder\nwollen sich mit ihrer Umwelt auseinandersetzen. Angefangen hat diese Auseinandersetzung im Studio im Netz\n– 193 Kinder waren eingeladen, um erste Erfahrungen am Computer zu sammeln. Die Kinder waren absolut\nbegeistert, haben immer wieder gefragt, wann gehen wir da wieder hin, so Frau llg.\nBevor jedoch die Computer in die Kindergärten kamen, waren die Eltern aufzuklären. Bei manchen Eltern löste\ndas Stichwort Computer akute Ängste aus nach dem Motto: Mein fröhliches, gesundes Kind setzt sich vor den\nComputer und steht sechs Stunden später krank, sprachlos und einsam wieder auf.\nDiese Ängste haben sich inzwischen gelegt und die Erfahrung vor Ort zeigt, dass sie weitgehend über flüssig\nsind. Die Erzieherinnen achten auch darauf, dass die Kinder nie länger als 15 bis 20 Minuten vor den\nComputern sitzen, und holen vor allem kreative Software auf den Bildschirm.\nDas einsame Dämmern vor dem Computer ist wohl ohnehin eher Sache der Erwachsenen – die Kinder spielen\nimmer zu zweit oder zu dritt an der Maschine. Eva Schilling hat beobachtet, dass die Kinder am Computer sehr\nfriedlich miteinander umgehen, sie helfen sich gegenseitig, es gibt wenig Konflikte. Dabei entwickeln gerade\nKinder, die sich sonst nur schwer auf etwas konzentrieren können, plötzlich ungeahnte Konzentrationszeiten.\nEva Schilling kann sich deshalb die Computer als Dauereinrichtung im Kindergarten vorstellen.",
+   "arabic_labels_excluded": [
+    "مشاكل الكمبيوتر"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P14 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 174,
+   "paper": "P14",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Das Schulamt hat ein Projekt gestartet, bei dem\nComputer in Kindergärten aufgestellt werden.\nA\nComputerspiele für Vierjährige entwickelt werden sollen.\nKinder neue Farbdrucker ausprobieren sollen.\nC\n7. Die Kinder\nhatten großen Spaß bei dem Projekt.\nA\nwollten lieber draußen im Freien spielen.\nwussten nicht, wann sie ins Studio im Netz gehen sollten.\nC\n8. Eltern fürchten, dass\nder Computer ihren Kindern schadet.\nA\nihre Kinder nicht so früh aufstehen können.\nihre Kinder vor dem Computer Angst haben.\nC\n9. Die Erzieherinnen\narbeiten jeden Tag 15 bis 20 Minuten am Computer.\nA\nspielen immer mit zwei oder drei Kindern am Computer.\nwählen für die Kinder die Software aus.\nC\n10. Wenn die Kinder am Computer sitzen, dann\ngibt es häufig Streit.\nA\nhilft ein Kind dem anderen.\nkönnen sich die meisten nicht lange konzentrieren.\nC",
+   "arabic_labels_excluded": [
+    "مشاكل الكمبيوتر"
+   ],
+   "images": {
+    "count": 5,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.942,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "eroken",
+     "harten",
+     "hochschul",
+     "pals",
+     "prieht"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P14 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 175,
+   "paper": "P14",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Sie haben von einer noch unbekannten Schauspielerin gehört und möchten gern einen Film\nsehen.\n12. Sie haben bereits in einem Hotel gearbeitet und suchen wieder eine neue interessante Stelle.\n13. Sie interessieren sich für Umweltschutz und suchen eine passende Sendung.\n14. Ihr Freund, der am Institut für Film und Bild studiert, sucht einen geeigneten Praktikumsplatz.\n15. In einer Sendereihe wird im Fernsehen über die neue politische Entwicklung in Deutschland\nberichtet. Sie wollen sich informieren.\n16. Sie interessieren sich für moderne Stadtentwicklung und suchen dazu eine Sendung im Rundfunk.\n17. Sie wollen bei der Deutschen Bahn eine Ausbildung machen.\n18. Sie interessieren sich für politisches Theater und möchten am Wochenende dazu etwas hören\noder sehen.\n19. Sie arbeiten gern mit anderen zusammen und suchen eine Tätigkeit bei einer Werbefirma.\n20. Sie studieren Fremdsprachen und suchen einen Job, bei dem Sie mit Kindern arbeiten können.",
+   "arabic_labels_excluded": [
+    "البراكتيكوم"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.953,
+    "ocr_words_missing_from_textlayer": 4,
+    "sample_missing": [
+     "psende",
+     "serdung",
+     "sseimnersien",
+     "umweteshutz"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P14 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 176,
+   "paper": "P14",
+   "section": "L3",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nun Misuten Leseverstehen and Sprachbansteine\n• PRAKTIKANT/IN\nb\nIm. Bereich Medien-\nVeraaslallungstechnik\nund\nARTE\nThomenabend\nWir suchen\nnints\n20.45 Was ist mit unse-\nMitarbeiter für eine\nror Jugend fos?\nfreiberufliche Neben-\nimind o Morole\n\"UNSERE ZUKUNFT\"\ntatigkeit\ntre Bewesbary an:\nWie kommen Jugendliche\nCteloloniuche: Abspracho und Planung\nfua Film Gentei\nDeutschlond und Frankreich mit\nvon inlervinwer-Enlitzen. 15-25 Std./\n7,80y39 Monchon\nder\nWirluchalts: und Bildungs-\nWoche). Speziein Vorkenedniese tind\nhis 23.45\npoitk zurocht?\nnicht eefordedlich, wichlig ist unis tachworet\n771-605\nAulirelen am Tolefon.\nNihem Informationen unfer\nZ (089) 92 23-421\nd\nrb Bahnreisenforschung.\n20.15 Tatortaus Münster\nArbellastr. 33, 81925 Minchen\nNun kommen de Fang vor\nThiel wieder auf thre Kosten. Frank\ncank\nThiel alas Axel Prafl ornittelt. Ihm\nLukrative Halutagstätigkeit\nzur Scito steht Denise Merdor\nSchweizerin\ndes rüden Enmittlars\nspielt die Froundin\nExpondierendes\nmit Stil, die Vorständnis tor Thnls\nFrau\nHigh-Tech-Untemelmien sucht fdr\n3 Sat\nEmpfang und einlathe Büroz\n20.15\nLIVE\nLebenswandel znigt, sich abncatch\nbeiten Aushille, MS-Oflica- und\nDrei Länder - cin Thema\nin Szene zu setzen weiß, Mit dieser\nErglischkenntnisse erfordarlich!\nRolle holft sie, im doutschen Femse\nTALK-SHOW\nhen bekannt zu werden,\ninteressonten wenden sich an\nKommt die Öko-Diktatur - Zund\n(bis 21.45 Uhr)\nLepwe New Media Brribht,\nStoll Benzinpreis\". Wie begegnet\nTel 089/45 79 00\nund Östorreich dem Verkehrskol\nman in Deutschland, der Schweiz\nlaps? Wie retten wir die Umwelt?\nbis 21.30\n65-437-662\n9\nBei uns wnt\nEdoig belchv!\nWesuchen linutoomfillo\nНЗНИДИОСТЕНТ НВСКОВОНРВИЛИ\n...\nBereicein Mor\ni\nrankliet tarxl Bealir\nh\n22.55\nStern TV-Count-\nMitarbeiter/innen\nWit suchen standig:\n• Studenten ll Schüler-Nach-\ndown (VOX)\nam Empfang\nTHLeUmITTET\nEnglech, Franzo\nch. MathenatA\nIn zehn\n,Spiegel TV\"-Mann Jörg Haf\nReportagen zoigt\ngede ausgelernt habenpmd. ene Fremdyprache\nWenn Sie bereds: Rezeptonserlateungpodet aucke\n• Babysiter / Tiersitler\n• Messahastessen\nkemeyer, wie sich die ersten\n(E) sprechen und EDv-erfatuen sin, senten Ser\nStd.-Lohn ca. 13,00 EUR\nMonate der neuen Regierung\ngestallen.\nJetzt werden Wei\nbitte lluc Boweibung arr\nVerinittlungsogentur Gerdsschwager\nBlatil's Motels Zentralbüre, Geschällsleraich Parsanal,\nTel. 089 / 74 58 91 93\nchen für die Zukunit Deutsch-\nlands gestellt\nPastlach 22 11 44, 00591 Müschien\n(bis 21.45 Uhr)\nMax Frisch: Biedermann und die\nk\nLieben Sie den Umgang\nBrandstifter;\n22.15 Radio Bremen\nmit Menschen?\nSamstag, 19. September,\nBel einem intemnationalen Kon-\nSind Sie obendrein auch noch\n20.10-21.17 Uhr, HR2.\ngress präsenterten vergangenes\n„Ein Lehrstück ohne Lehre\" nannle\nWochenende in Bremen Archi-\ndynamisch und elurgeizig, dann\nFrisch sein ursprünglich als Hörspiel\ntekien hre Projekte zum Thema\nsind Sie bei uns richtig.\ngedachtes und dann für das Theater\nStactische Freiäume\". Weiter\nMünchens bekannte PRIMA-\nbearbeitetes Stück, das 1958 in Zürich\nTin: Rückschau und Vorschau\nWerbung hietet ihnen neben\nuraufgeführt wurde. Man sah darin\nauf das Programm der , Bremer\ncinem tellen Team hervorragende\nsowohl eine Wamung vor dem Kommu-\nSchule für Dichtung'.\nUnd ein\nnismus wie vor dem Faschismus. (chw.)\nBercht über die Obdachlosen-\nVerdienst- und Aulstiegsmöglch-\nBetreuung \"Wochenklausur\"\nkeiten.\nWir brauchen Leute wie Sie!\nRulen Sie an!\n104• Casnan.",
+   "arabic_labels_excluded": [
+    "البراكتيكوم"
+   ],
+   "images": {
+    "count": 3,
+    "page_coverage": 0.97
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 277,
+    "sample_missing": [
+     "abncatch",
+     "abspracho",
+     "alas",
+     "arbellastr",
+     "archi",
+     "arte",
+     "auch",
+     "aucke",
+     "aulirelen",
+     "aulstiegsmöglch",
+     "ausgelernt",
+     "aushille",
+     "axel",
+     "babysiter",
+     "bahnreisenforschung",
+     "bealir",
+     "bearbeitetes",
+     "begegnet",
+     "beiten",
+     "bekannt",
+     "bekannte",
+     "belchv",
+     "benzinpreis",
+     "bercht",
+     "bereds"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Low-resolution ads photo (other edition of DB ad page); transcribed from 230-300dpi crops (corrections/P14.json)",
+   "uncertain": [
+    "p176: low-resolution photo; ad a street name unreadable; small print in a/g/h moderate-low confidence"
+   ]
+  },
+  {
+   "page": 177,
+   "paper": "P14",
+   "section": "SB1",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 1\nLANGUAGE Tests\nLesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.\nMarkieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen\n……………………………………………………………………………………………………………………………………………………\nLiebe Beatrice,\nwie du ja weißt, sind meine Eltern seit Anfang Mai in einem Haus (21)Mittelnehmer in\nSpanien. Zuerst wollen meine Eltern warten, bis ich mit dem Gymnasium fertig bin. Aber dann\nsind sie doch (22) früher gefahren.\nAls ich im Sommer 18 wurde, wollte ich mit (23) älteren Bruder zusammen eine kleine\nWohnung mieten. Das hat aber nicht geklappt. Eine Freundin hat (24) dann ein Zimmer in ihrer\nWohngemeinschaft angeboten. Ich wohne jetzt mit drei (25) zusammen in der Innenstadt. Ich\nbin sehr zufrieden, (26) mein Zimmer recht klein ist.\nIn der Schule habe ich keine Probleme. Ich staune selbst über meine Noten, wenn ich (27)\ndenke, wie (28) Zeit ich mir für Hausaufgaben nehme.\nManchmal schicken mir meine Eltern eine E-Mail. (29) sie rufen an.\n(30) jetzt habe ich jede Woche von ihnen gehört.\nDas war’s für heute, bis bald und liebe Grüße Saskia\n21.\nA am\n24.\nA ihr\n27.\nA daran\n30.\nA Ab\nB\nin\nB\nmich\nB\ndarauf\nB\nBis\nzum\nmir\ndarüber\nSeit\nC\nC\nC\nC\nA\nA\nA\n22.\nbloß\n25.\nFreund\n28.\nwenig\nerst\nFreundin\nwenigen\nB\nB\nschon\nFreundinnen\nweniger\nC\nC\nC\nA\nA\nmein\n26.\naber\n29.\n23.\nA\nDamit\nmeinem\nobwohl\nOder\nmeinen\ntrotz\nSondern\nC\nC\nC",
+   "arabic_labels_excluded": [
+    "بياتريس"
+   ],
+   "images": {
+    "count": 10,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.954,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "berst",
+     "cschon",
+     "czum",
+     "grüßesaskia",
+     "inihrer"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P14 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 178,
+   "paper": "P14",
+   "section": "SB2",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 2\nLANGUAGE Tests\nLesen sie den Text und schließen Sie\nLücken 31 – 40. Benutzen Sie die Wörter\n(a, o) Jedes Wort passt nur einmal.\nMarkieren Sie Ihre Lösungen für die\nAufgaben 31 – 40 auf dem\nAntwortbogen.\nChiffre 2063/9369\nSehr geehrter Unbekannter,\nmein Mann und ich haben Ihre Anzeige in den Mitteilungen des Deutschen. Alpenvereins (31). Wir\nwohnen etwa 40 km außerhalb von Nürnberg und schreiben Ihnen, (32) wir Lust hätten, etwas in\neiner Gruppe zu machen.\nUnseren Sommerurlaub verbringen wir eigentlich regelmäßig in den Bergen. Und (33) es unser\nTerminkalender erlaubt, gehen wir auch noch am Wochenende wandern, (34) fahren wir in die\nGegend vom Wilden Kaiser, wo wir inzwischen alle Wanderwege (35).\nWir fahren zwar beide auch Ski, (36) der Winter den Bergen ist nicht so unbedingt unsere Sache.\nDagegen macht es (37) viel Spaß. Fahrrad zu fahren,; hier in Leupoldstein haben wir tolle Radwege,\ndie durch die Felder führen. Daher (38) wir uns auch auf gemeinsame Radtouren hier bei uns freuen.\nZum Schluss noch ein (39) Worte zu uns selbst. Wir sind 64 und 62. Jahre alt, lieben Musik und gehen\nab und zu gern ins Theater.\nRufen Sie uns doch einfach (40) an: Tel.: 09243/7448.\nViele Grüße\nIlka und Heiner Grossmann\na\nABER\nd\nENTDECKT\ng\nKENNEN\nj\nPAAR\nm\nWEIL\nb\nAUSSEN\ne\nETWAS\nh\nLERNEN\nk\nUNS\nn\nWENN\nc\nEINMAL\nf\nHATTEN\ni\nOFT\nl\nWANN\no\nWÜRDEN",
+   "arabic_labels_excluded": [
+    "جبال االلب"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.05
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.991,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "crize",
+     "schul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P14 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 179,
+   "paper": "P14",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 1\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.\n…………………………………………………………………………………………………………………………………………………………\n41. Die Sprecherin könnte sich vorstellen, mit dem Bus zur Arbeit zu fahren.\n42. Die Sprecherin geht den ganzen Weg zur Arbeit zu Fuß.\n43. Der Sprecher fährt nie mit dem Auto zur Arbeit.\n44. Der Sprecher benutzt für den Weg zur Arbeit zurzeit verschiedene Verkehrsmittel.\n45. Für die Sprecherin ist der Firmenbus die einzige Möglichkeit zur Arbeit zu kommen.",
+   "arabic_labels_excluded": [
+    "الذهاب إلى العمل بالحافلة"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P14; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 180,
+   "paper": "P14",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 2\nLANGUAGE Tests\nSie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.\n……………………………………………………………………………………………………………………………………..\n46. Viele Touristen besuchen Torgau wegen seiner historischen Sehenswürdigkeiten.\n47. Den Spielpark Hartenfels gibt es schon seit vielen Jahren.\n48. Außer dem Spielpark gibt es in der Umgebung viele andere Freizeitmöglichkeiten für die\nKinder.\n49. Der Spielpark bietet den Kindern Spielmöglichkeiten, die sie zu Hause nicht haben.\n50. Die Kinder können im Spielpark auch selbst etwas bauen.\n51. Das Spielen am Back kann für die Kinder gefährlich werden.\n52. Beide Elternteile müssen auf die Kinder aufpassen.\n53. Im Spielpark können Kinder bis zum Alter von sieben von Aufsichtspersonen betreut\nwerden.\n54. Der Eintritt in den Spielpark ist zurzeit frei.\n55. Die Schlossführung bereitet Kindern und Erwachsenen viel Spaß.",
+   "arabic_labels_excluded": [
+    "السياح"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.988,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "etuall",
+     "getahrlich"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P14; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  }
+ ]
+}

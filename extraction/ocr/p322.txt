@@ -1,0 +1,22 @@
+0.103 0.090 1.00	Hörverstehen, Teil 2
+0.097 0.793 0.30	UKI iesş
+0.121 0.076 1.00	LANGUAGE Tests
+0.192 0.047 1.00	Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.
+0.211 0.047 1.00	Sie hören das Gespräch zweimal.
+0.231 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 46 - 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.250 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 46 - 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.272 0.047 1.00	falsch auf dem Antwortbogen.
+0.292 0.049 1.00	Lesen Sie jetzt die Aufgaben 46 - 55. Sie haben dazu 30 Sekunden Zeit.
+0.381 0.045 1.00	46. Das Ziel des Vereins UKI ist, ausländische Bürger in Österreich zu unterstützen.
+0.423 0.045 1.00	47. Der Verein wendet sich besonders an internationale Manager, weil diese den Verein
+0.464 0.078 1.00	finanziell unterstützen.
+0.503 0.045 1.00	48. Die Abendkurse für Berufstätige dauern neun Monate.
+0.548 0.045 1.00	49.Es gibt einen speziellen Deutschkurs für Jugendliche, die eine österreichische
+0.594 0.078 1.00	Hauptschulebesuchen wollen.
+0.625 0.660 0.30	chul
+0.641 0.045 1.00	50. Es gibt auch Kurse, die nichts mit Deutschlernen zu tun haben.
+0.688 0.045 1.00	51. Die Deutschlehrer sind gleichzeitig auch Sozialarbeiter.
+0.730 0.047 1.00	52. Sozialarbeiter helfen Ausländern bei Problemen mit Ämtern.
+0.778 0.047 1.00	53. Im Kurs werden Papiere für eine Bewerbung vorbereitet.
+0.821 0.047 1.00	54. Frauen und Kinder lernen im Unterricht gemeinsam Deutsch.
+0.862 0.047 1.00	55. Die Gesetze machen die Arbeit von Frau Böck schwerer.

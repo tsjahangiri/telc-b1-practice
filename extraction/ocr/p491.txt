@@ -1,0 +1,18 @@
+0.086 0.320 0.30	*Lallis öus Löü*
+0.153 0.060 1.00	Sie und Ihre Gesprächspartnerin/ihr Gesprächspartner haben einen gemeinsamen Freund, Dieser Freund
+0.170 0.060 1.00	kommt nach einem langen Auslandsaufenthalt zurück nach Hause. Sie wollen ihn am Flughafen überraschen.
+0.203 0.062 1.00	Überlegen Sie sich zusammen mit ihrer Gesprächspartnerin/Ihrem Gesprächspartner, was zu tun ist.
+0.221 0.059 1.00	Sie haben sich schon einen Zettel mit Notizen gemacht:
+0.347 0.133 1.00	• Viele Freunde
+0.395 0.136 1.00	• Geschenk, Blumen
+0.443 0.138 1.00	• Große Limousine mieten
+0.483 0.137 1.00	• Abendessen in seinem Lieblingsrestaurant
+0.483 0.467 0.30	ochsch
+0.539 0.139 0.30	• Kosten
+0.703 0.008 1.00	- Hallo *Thomas*
+0.703 0.203 1.00	‚wie geht's dir ?
+0.747 0.008 1.00	= Mir geht's gut ,und dir?
+0.789 0.012 1.00	- Mir geht's auch gut ,Also du weißt ja ,dass unser Freund *Müller* aus Deutschland
+0.815 0.016 1.00	kommt ,und wir können ihm am Flughafeb überraschen ‚was hältst du davon?
+0.857 0.004 0.50	= Ja ,ich gehe ganz dáccord ,Aber wer kann auch mit kommen ,mir fällt nichts ein.
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

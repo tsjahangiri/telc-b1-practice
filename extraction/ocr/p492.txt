@@ -1,0 +1,20 @@
+0.128 0.012 1.00	- Wir können sowohl Martin ‚als auch Mohamed mitnehmen ,sie würden sicher*Müllert
+0.154 0.016 0.50	empfangen , was denkst du ?
+0.196 0.008 1.00	= Ja ,ich bin derselben Meinung,aber wann wird das Flugzeug ankommen?
+0.237 0.008 1.00	- Am Samstag um 10 Uhr ,aber was sollten wir *Müller* schenken?
+0.278 0.008 1.00	= Ich bin für Blumenstauß ,du weißt ja ,dass *Müller* Blumen mag. Aber womit können
+0.304 0.010 1.00	wir *Müller* abholen?
+0.346 0.008 1.00	- Vielleicht können wir entweder einen Taxi ,oder eine große Limousine mieten
+0.388 0.012 1.00	,was ist deine Meinung?
+0.429 0.008 1.00	= Ich glaube eine Limousine wäre besser ,weil das bequemer und schneller ist ,aber hast
+0.455 0.010 1.00	du Vorschläge zum Essen.
+0.496 0.008 1.00	- Ja ,wie wäre es ,wenn wir in ein spanisches Restaurant gehen ?
+0.538 0.004 1.00	= Ich möchte dir widersprechen ,ich weiß ja ,dass *Müller italienisches Essen mag ,wir
+0.562 0.010 1.00	können in einem italienischen Restaurant buchen ‚was meinst du ?
+0.605 0.008 1.00	- Ja ,du hast recht ,aber wie viel kostet das Abendessen?
+0.631 0.667 0.30	chul
+0.645 0.000 1.00	= Nicht zu viel , etwa 150 Euro ,ich bezahle dafür ‚das ist wie ein Geschenk für *Müller*
+0.688 0.008 1.00	- So treffen wir uns am Samstag dann losfahren.
+0.730 0.004 0.50	FJa ,das machen wir , ich wünsche dir einen schönen Tag , Tschüss.
+0.770 0.008 1.00	- Eben falls, Tschüss
+0.897 0.014 1.00	www.instagram.com/mahmoudemad007

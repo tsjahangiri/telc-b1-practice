@@ -1,0 +1,5 @@
+# P28-L3 pages [416, 417] ratio 0.564
+## website words not in OCR:
+Veranstaltungstechnik Durchführung Pressekonferenzen dauert sammeln entstehen Realisation per E-Mail mediafilm.project Europäischen Wirtschafts Jobs Gästen verschiedenen engagierte Nähere 20.15 Schliemann Verständnis Halbtagstätigkeit erforderlich Interessenten Österreich Berlin Blatti's kooperiert
+## OCR words (len>3) not in website:
+jeia Leseverstehen Teil LANGUAGE Tests 16.Sie 18.Sie Leseverstehen Teil LANGUAGE Tests 2iia engaglerte Veranstalfungstechnik 20145 Durehführung Prebsakonferenzen Europlischen Wirtschafte olauert marhaften mehe Jobe Ishen Nahere Realivation Gasten verachiedenen Bawarbong Mail mediafiim.project 20.16 Halbtagstiltigkelt Schli Verstände Fromdeprachenkenntnisse erforderlichl Interesaenten Osterreich SHUA BHES koop riert Bertin Blattl's Siel

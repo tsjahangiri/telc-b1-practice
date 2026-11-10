@@ -1,0 +1,275 @@
+{
+ "batch": 16,
+ "pages": [
+  151,
+  160
+ ],
+ "records": [
+  {
+   "page": 151,
+   "paper": "P12",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 1\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.\n…………………………………………………………………………………………………………………………………………………………\n41.Die Sprecherin wünscht sich einen Arbeitsplatz für ihren Vater.\n42.Der Sprecher ist kein besonders guter Schüler.\n43.Die Sprecherin möchte nicht immer gestört werden.\n44.Der Sprecher versteht sich nicht gut mit seiner Mutter.\n45.Die Sprecherin ist am liebsten mit ihren Eltern zusammen.",
+   "arabic_labels_excluded": [
+    "فة ظو من اجل ب األ"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P12; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 152,
+   "paper": "P12",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 2\nLANGUAGE Tests\nSie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.\n……………………………………………………………………………………………………………………………………..\n46. Frau Schäfer hat von dem Verein kurz nach der Gründung zum ersten Mal gehört.\n47. Die Mitglieder des Vereins kommen aus ganz Deutschland.\n48. Die Mitglieder des Vereins wissen über Hausarbeit gut Bescheid.\n49. Im Verein werden oft Feste gefeiert.\n50. Der Verein bietet auch die Organisation von Festen an.\n51. Der Verein vermittelt Senioren, die tagsüber Kinder betreuen.\n52. Laut Frau Schäfer vertrauen viele Familien den Mitarbeiterinnen des\nVereins mehr als anderen.\n53. Vereinsmitglied kann nur werden, wer einen Beruf gelernt hat.\n54. Die Mitarbeiterinnen bekommen für ihre Arbeiten 10 Euro pro Stunde.\n55. Kunden mit wenig Geld zahlen für den Service nichts.",
+   "arabic_labels_excluded": [
+    "السيدة شيفر"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.986,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "alsanderen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P12; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 153,
+   "paper": "P12",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. Sie sollen um 19:30 Uhr bei Georg und Claudia sein .\n57. Im südlichen Österreich ist es tagsüber sonnig, später windig und regnerisch.\n58. Der Speisewagen befindet sich im hinteren Teil des Zuges.\n59. Die Schweizer geben für Urlaub mehr Geld aus als für ihre Gesundheit.\n60. Der Sänger beginnt seine Konzertreise mit einer Vorstellung in Wien.",
+   "arabic_labels_excluded": [
+    "جر جو وكلوديا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "chull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P12; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 154,
+   "paper": "P12",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nEine Bekannte hat Ihnen folgenden Brief geschrieben:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\nIch habe eine tolle Überraschung. stelle dir vor, was mir mein Onkel angeboten hat. Er rief\nmich am Samstag an. Er hat ein großes Ferienhaus im Schwarzwald. Das Haus kann ich für die\nFerien kostenlos haben. Ich kann auch Freunde mitbringen! Wäre das nichts für uns? Wir\nkönnten uns alle dort treffen. Du, deine Eltern und Freunde, und ich mit meiner Familie und\nmeinen Freunden. Ich würde mich wahnsinnig freuen, wenn das klappen würde. Bitte schreibe\nmir so schnell du kannst, damit wir alles planen können. Urlaub im Schwarzwald - das wird\ntraumhaft schön!\nHerzliche Grüße\nPetra\nAntworten Sie auf den Brief. Schreiben Sie etwas zu den folgenden Punkten:\n. Warum Sie gern nach Deutschland kommen möchten\n. Wie Sie anreisen wollen\n. Was Sie gemeinsam machen könnten\n. Wen Sie mitbringen möchten\nBevor Sie den Brief schreiben, überlegen Sie sich eine passende Reihenfolge der punkte, eine passende\nEinleitung und einen passenden Schluss. Vergessen Sie nicht Datum und Anrede.\nSchreiben Sie mindestens 100 Wörter.",
+   "arabic_labels_excluded": [
+    "بيترا"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.989,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "chsc",
+     "uberraschung"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P12; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 155,
+   "paper": "P12",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\n      Disco\nMeyerhofer\nArbeitsplatz für ihren Vater\n21 b\nIhrem\n1 B\n41 -\n22 a\nwar\n2 D\n42 +\n23 a\nhat\n3 C\n43 +\n24 a\nbis\n4 A\n44 +\n25 b\nden\n5 G\n45 -\n26 b\ndie\n27 a\nim\n28 a\ngeöffnet\n29 b\nProbleme\n30 b\nman\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nLeipzigerin\n      Blanco Ruiz\nFrau Schäfer\n6\nB\n46 -\n31 H\nMIR\n7\nB\n47 -\n32 D\nFÜR\n8\nC\n48 +\n33 F\nKENIE\n9\nC\n49 -\n34 I\nMIT\n10 C\n50 +\n35 E\nGUTE\n51 +\n36 A\nAM\n52 +\n37 C\nDASS\n53 +\n38 B\nBIS\n54 -\n39 L\nPRO\n55 -\n40 J\nMÖCHTE\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\n             Wien                                                                                                                               Georg und Claudia\n11 G\n56 -\n12 F\n57 +\n13 J\n58 -\n14 A\n59 -\n15 X\n60 +\n16 E\n17 X\n18 C\n19 I\n20 L",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.88,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "claudi",
+     "telc"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)",
+   "uncertain": []
+  },
+  {
+   "page": 156,
+   "paper": "P13",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\na) Zufriedenheit im Job schützt vor Stress\nb) Erfolgreiche Männer können auch gute Väter sein\nc) Keiner lacht so fröhlich wie der Weihnachtsmann\nd) Wie Männer und Frauen lachen\ne) Weniger Arbeit – weniger Stress\nf) Schlechte Nachrichten? Sagen Sie es mit einem Lächeln\ng) Der Beruf ist für Männer wichtiger als die Familie\nh) Auch ältere Menschen leiden unter Stress\ni) Frauen reagieren besser auf schlechte Nachrichten als Männer\nj) Mit 70 Jahren macht das Leben am meistens Spaß",
+   "arabic_labels_excluded": [
+    "الضحك (مع اريس)"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.93,
+    "ocr_words_missing_from_textlayer": 7,
+    "sample_missing": [
+     "aeruris",
+     "chul",
+     "manner",
+     "rami",
+     "samner",
+     "vater",
+     "wichier"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P13 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 157,
+   "paper": "P13",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. Frauen lachen auf viele Arten Sie kichern glucksen und manchmal singen sie fast Bei Männern dagegen\nkommt das viel seltener vor. Aber gemeinsam ist Männern und Frauen, dass sie in Vokalen lachen die\nim Mundzentrum gebildet werden. Und das ist entscheidend: Nur wenn die Vokale im Mundzentrum\ngebildet werden, ist das Lachen für uns fröhlich und positiv. Damit ist bewiesen, dass das Lachen vom\nWeihnachtsmann, dass wie eine tiefes Ho, ho , ho klingt. Kaum als fröhlich empfunden wird. Denn\ndieser Laut wird im hinteren Teil des Mundraums gebildet.\n(aus einer deutschen Zeitung)\n2. Viel Arbeit, viel Stress. Wer viel arbeitet muss nicht unbedingt gestresst sein. Frauen in medizinischen\nBerufen zum Beispiel klagen trotz teilweise hoher Belastung deutlich weniger über stressbedingte\nKrankheiten als Raumpflegerinnen, Kindergärtnerinnen oder Berufsschullehrerinnen. Dies zeigt eine\nUntersuchung des Hamburger IPO – Instituts, das für eine Studie 1000 Frauen und Männer befragt hat.\nVor Stress schützen laut Studie ein angenehmes Betriebsklima, ein gutes Verhältnis zur Chefin oder\nzum Chef und die Möglichkeit, die eigene Arbeit selbstständig zu planen.\n(aus einer deutschen Zeitung)\n3. Ein neues Buch zeigt, wie Männer Fähigkeiten aus dem Arbeitsleben auf die Erziehung übertragen\nkönnen und so zu erfolgreichen Vätern werden. Da wird die gemeinsame Kindererziehung zur\nPartnerarbeit (oder sogar zum Joint Venture) geschicktes Verhandeln heißt, das Kind zu überzeugen,\ndass sie Zähne geputzt werden müssen, und der Familienurlaub hat alle Qualitäten einer Tagung oder\neines Seminars: Man erhält die Gelegenheit, die Kinder intensiv zu studieren.\n(aus einer deutschen Zeitung)\n4. Eine Studie der Universität Essex hat ergeben dass wir mit siebzig Jahren am glücklichsten sind. Zwar\nhaben die meisten Menschen in diesem Alter gesundheitliche Probleme, aber dafür genießen sie viel\nFreizeit und haben keinen Stress mehr. Deshalb macht ihnen das Leben so viel Spaß wie nie zuvor. Die\nStudie besagt auch, dass wir einen ersten Höhepunkt der Lebensfreude mit fünfzehn Jahren erreichen.\nDanach geht es bergab zwischen dreißig und fünfzig Jahren tragen wir am meisten Verantwortung das\nLeben ist geprägt von Sachzwängen.\n(aus einer deutschen Zeitung)\n5. Warum bleiben manche Managerinnen erfolgreich, obwohl sie Nachrichten mitteilen, die ihr Publikum\nlieber nicht hören möchte? Ganz einfach: Sie verkaufen die schlechte Nachricht mit Humor. Ein\nLondoner Soziologe hat während einer Studie beobachtet, dass gerade bei Reden unangenehmen\nInhalts oft heiter gelacht wird. Das Lachen wird bewusst provoziert, etwa durch bestimmte Wörter\noder durch ein eigenes breites Lächeln. Die fröhliche Stimmung soll dafür sorgen, dass die Zuhörenden\ndas Gefühl haben würden mehr wissen als alle anderen.\n(aus einer deutschen Zeitung)",
+   "arabic_labels_excluded": [
+    "الضحك (مع اريس)"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P13 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 158,
+   "paper": "P13",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nInformationsverhaltungen sind wichtige Grundlagen für die\nBerufswahl\nDie Entscheidung, welchen Beruf man erlernen will, ist nicht leicht. Große) Firmen bieten spezielle Information\nVeranstaltung für Schülerinnen und Schüler an. Wir haben einen Info – Nachmittag der Bank Credit Suisse in Bern\nbeucht und uns danach bei den Jugendlichen umgehört.\n20 Schülerinnen und Schüler kann Irene Leiser um Punkt 13 Uhr zu diesem Info – Nachmittag Begrüßen. Die\njugendlichen kommen aus dem ganzen Kanton Bern und haben sich vorher bei der Bank angemeldet. Viermal im\nFrühling und zwei weitere Male im August werden diese Info Veranstaltungen bei der Credit Suisse durchgeführt. Sie\nrichten sich vor allem an Schülerinnen und Schüler aus der 8. Klasse. Irene Leiser hat gute Erfahrungen mit diesen\nVeranstaltungen gemacht die Jugendlichen können danach ihre Erwartungen an den Beruf und die Ausbildung an die\nRealität anpassen.\nIm ersten Teil des Nachmittags erklärt Frau Leiser die Hauptaufgaben einer Bank und stellt die Firma vor. Danach treten\ndie Lehrlinge in Aktion: Daniel Sommer und Linda Schmidt sind im Zweiten Lehrjahre und erzählen aus ihrem\nBerufsalltag. Dieser Teil gefällt den Schülerinnen und Schülern besonders gut.\nDie Jugendlichen identifizieren sich mit den Lehrringe und sehen, wo sie selber in zwei Jahren beruflich stehen könnten.\nDas fasziniert sehr zum Schluss folge Informationen darüber, welche Voraussetzungen man mitbringen muss und wie\nman sich bewirbt. Um 16:30 Uhr schließt Frau Leiser die Veranstaltung. Sie ist zufrieden mit dem Nachmittag. Die\nGruppe war sehr aufmerksam. Interessierten Schülerinnen und Schüler gibt sie folgenden Tipp: Gehen Sie auch noch zu\nanderen Firmen. Fragen Sie dort möglichst viele Lehrlinge und Mitarbeiter nach ihren Erfahrungen Wir haben danach\neine Schülerin und einen Schüler befragt wie sie den Nachmittag erlebt haben:\nTugba Kaptan aus Biel, 8. Klasse\nMich fasziniert das Umfeld einer Bank. Ich hätte mehr Leute bei der Arbeit sehen wollen zum Beispiel am Schalter. Aber\nder Tag hat mir weiter geholfen. Ich habe viele Dinge erfahren die ich bis her nicht gewusst habe. Solche Nachmittag ist\nideal weil da schulfrei ist.\nAlan Blank aus Mühleberg,8. Klasse\nDie Bank ist eigentlich mein Traumbiet und bietet mir nach der Lehre viele Entscheidungsmöglichkeiten. Ich habe mich\numgeschaut und mich über viele Beruf informiert. Jetzt weiß ich, dass ich eine Lehre in diesem Bereich machen will. Ich\nsuche nach der optimalen Lehrestelle. Eine Großbank wäre toll für mich. Dieser Nachmittag hat mir gefallen. Alles war\nsehr gut organisiert. Ich kann solche Veranstaltungen nur empfehlen . Was mir persönlich gefehlt hat, ist eine Führung\ndurch den Betrieb. Es ist wichtig zu sehen, wie das alles genau vor sich geht.",
+   "arabic_labels_excluded": [
+    "سلوك المعلومات"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "egiu",
+     "ähaglesl"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P13 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 159,
+   "paper": "P13",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Um Berufe kennenzulernen,\narbeiten Berner Schüler in den Ferien bei großen Firmen.\nA\nnehmen Berner Schüler an Informationsveranstaltungen von großen Firmen teil.\nsollen Berner Schüler zweimal jährlich ein Praktikum machen.\nC\n7. Frau Leiser\nerzählt aus ihrem Berufsalltag in der Bank.\nA\nstellt die wichtigsten Aufgaben der Bank vor.\nzeigt den Jugendlichen die ganze Firma.\nC\n8. An dem Informationsnachmittag\nbekamen die Jugendlichen eine Liste mit Bewerbungstipps.\nA\nwar die Gruppe interessiert und hat gut zugehört.\nwurden viele Fragen gestellt.\nC\n9. Tugba Kaptan\nfand es gut, dass sie am Schalter arbeiten durfte.\nA\nfand es schade, dass an diesem Nachmittag die Schule ausgefallen ist.\nhat viele Informationen bekommen.\nC\n10. Alan Blank\nmöchte später gern bei einer Bank arbeiten.\nA\nmöchte viele Dinge besser nicht selbst entscheiden.\nweiß noch nicht, was er machen will.\nC",
+   "arabic_labels_excluded": [
+    "سلوك المعلومات"
+   ],
+   "images": {
+    "count": 5,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.662,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "egiu",
+     "ähaglesl"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P13 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 160,
+   "paper": "P13",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Ihre Freund wollen einen Sprachkurs in Spanien machen und ihre Kinder mitnehmen.\n12. Ihr Auto ist kaputt und Sie brauchen jemanden, der es repariert.\n13. Sie wollen mit einem Videoprogramm Deutsch lernen.\n14. Sie wollen Ihrer Kursleiterin eine Kursabschlussreise vorschlagen.\n15. Ihr Fernseher ist kaputt. Sie wollen ihn reparieren lassen.\n16. Eine Bekannte hat eine neue Wohnung. Sie möchten ihr etwas für die Küche schenken.\n17. Sie suchen ein Geschenk für ein 6- jähriges Kind.\n18. Ihr Kind ist krank. Sie suchen einen Kinderarzt.\n19. Ihre Tante ist operiert worden. Jetzt ist sie wieder zu Hause und braucht spezielles Essen.\n20. Sie haben sich beim Tennis den Fuß verletzt und brauchen einen Arzt.",
+   "arabic_labels_excluded": [
+    "كورس اللغة"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P13 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  }
+ ]
+}

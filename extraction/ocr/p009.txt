@@ -1,0 +1,15 @@
+0.128 0.786 0.30	ätbeil
+0.140 0.092 1.00	Hörverstehen, Teil 1
+0.157 0.078 1.00	LANGUAGE Tests
+0.239 0.047 1.00	Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.
+0.263 0.049 1.00	Sie hören diese Texte nur einmal.
+0.282 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 41 - 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.302 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 41 - 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.323 0.043 1.00	falsch auf dem Antwortbogen.
+0.342 0.045 1.00	Lesen Sie jetzt die Aufgaben 41 - 45. Sie haben dazu 30 Sekunden Zeit.
+0.426 0.045 1.00	41. Der Sprecher hätte gern Urlaub wie die anderen Kinder gemacht.
+0.477 0.045 1.00	42. Dem Sprecher hat der Wanderurlaub nicht so gut gefallen.
+0.528 0.045 1.00	43. Die Sprecherin hat die Ferien bei Verwandten verbracht.
+0.578 0.045 1.00	44. Die Sprecherin hat mit ihren Eltern regelmäßig Fahrradausflüge gemacht.
+0.598 0.631 0.50	schul
+0.629 0.045 1.00	45. Der Sprecher hat den Urlaub mit den Eltern gemeinsam geplant.

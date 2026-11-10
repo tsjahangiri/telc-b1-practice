@@ -1,0 +1,2513 @@
+{
+ "1": {
+  "verified": true,
+  "method": "full",
+  "note": "P01 compared line by line with structured extraction; text layer matches image"
+ },
+ "2": {
+  "verified": true,
+  "method": "full",
+  "note": "P01 compared line by line with structured extraction; text layer matches image"
+ },
+ "3": {
+  "verified": true,
+  "method": "full",
+  "note": "P01 compared line by line with structured extraction; text layer matches image"
+ },
+ "4": {
+  "verified": true,
+  "method": "full",
+  "note": "P01 compared line by line with structured extraction; text layer matches image"
+ },
+ "5": {
+  "verified": true,
+  "method": "full",
+  "note": "P01 compared line by line with structured extraction; text layer matches image"
+ },
+ "7": {
+  "verified": true,
+  "method": "full",
+  "note": "P01 compared line by line with structured extraction; text layer matches image"
+ },
+ "8": {
+  "verified": true,
+  "method": "full",
+  "note": "P01 compared line by line with structured extraction; text layer matches image"
+ },
+ "6": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads page is a photo; OCR transcription corrected against image (see corrections/P01.json)"
+ },
+ "9": {
+  "verified": true,
+  "method": "full",
+  "note": "Hörverstehen page; text layer complete (statements only, no audio in PDF) — outside website scope"
+ },
+ "10": {
+  "verified": true,
+  "method": "full",
+  "note": "Hörverstehen page; text layer complete (statements only, no audio in PDF) — outside website scope"
+ },
+ "11": {
+  "verified": true,
+  "method": "full",
+  "note": "Hörverstehen Teil 3 statements; text layer complete — outside website scope"
+ },
+ "12": {
+  "verified": true,
+  "method": "full",
+  "note": "Schriftlicher Ausdruck (letter task); text layer complete — outside website scope"
+ },
+ "13": {
+  "verified": true,
+  "method": "full",
+  "note": "Lösungen P01: all keys 1–40 parsed and compared with image; Hören keys present on page"
+ },
+ "14": {
+  "verified": true,
+  "method": "full",
+  "note": "P02 compared with structured extraction; matches image"
+ },
+ "15": {
+  "verified": true,
+  "method": "full",
+  "note": "P02 L1 texts: source itself has missing words (compiler note); reproduced as printed",
+  "uncertain": [
+   "p15: texts 2–5 incomplete in source (compiler note: words missing due to poor image quality) — not reconstructed"
+  ]
+ },
+ "16": {
+  "verified": true,
+  "method": "full",
+  "note": "P02 compared with structured extraction; matches image"
+ },
+ "18": {
+  "verified": true,
+  "method": "full",
+  "note": "P02 compared with structured extraction; matches image"
+ },
+ "17": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo; transcribed manually from 220dpi crops (corrections/P02.json)",
+  "uncertain": [
+   "p17 ad b: phone digits low confidence",
+   "p17 ad a: last line partly under watermark"
+  ]
+ },
+ "19": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hörverstehen; checked on contact sheet + OCR cross-check — outside website scope"
+ },
+ "20": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hörverstehen; checked on contact sheet + OCR cross-check — outside website scope"
+ },
+ "21": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Schriftlicher Ausdruck P02; contact sheet + OCR cross-check — outside website scope"
+ },
+ "22": {
+  "verified": true,
+  "method": "full",
+  "note": "Lösungen P02: keys for L1, L3, SB2, Hören 2–3; Arabic note says missing parts are in the 'basic Andreas model'"
+ },
+ "23": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Compared on legible 2x2 contact sheet against structured extraction; matches"
+ },
+ "30": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Compared on legible 2x2 contact sheet against structured extraction; matches"
+ },
+ "24": {
+  "verified": true,
+  "method": "full",
+  "note": "P03 compared with structured extraction; matches image"
+ },
+ "25": {
+  "verified": true,
+  "method": "full",
+  "note": "P03 compared with structured extraction; matches image"
+ },
+ "26": {
+  "verified": true,
+  "method": "full",
+  "note": "P03 compared with structured extraction; matches image"
+ },
+ "27": {
+  "verified": true,
+  "method": "full",
+  "note": "P03 compared with structured extraction; matches image"
+ },
+ "29": {
+  "verified": true,
+  "method": "full",
+  "note": "P03 compared with structured extraction; matches image"
+ },
+ "28": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo (small print); transcribed manually from 260dpi crops",
+  "uncertain": [
+   "p28 ad a: quote author name low confidence",
+   "p28 ad j: small grey print, some words low confidence"
+  ]
+ },
+ "31": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P03; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "32": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P03; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "33": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P03; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "34": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P03; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "35": {
+  "verified": true,
+  "method": "full",
+  "note": "Lösungen P03 compared with parsed keys"
+ },
+ "36": {
+  "verified": true,
+  "method": "full",
+  "note": "Image-only page; text transcribed from OCR and checked against image (corrections/P04.json manual L1)"
+ },
+ "37": {
+  "verified": true,
+  "method": "full",
+  "note": "Image-only page; text transcribed from OCR and checked against image (corrections/P04.json manual L1)"
+ },
+ "38": {
+  "verified": true,
+  "method": "full",
+  "note": "P04 compared with structured extraction; matches image"
+ },
+ "40": {
+  "verified": true,
+  "method": "full",
+  "note": "P04 compared with structured extraction; matches image"
+ },
+ "39": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P04 L2 questions compared on legible contact sheet; matches"
+ },
+ "41": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo; transcribed manually from 230dpi crops (corrections/P04.json)",
+  "uncertain": [
+   "p41 ad f: small print bullets/e-mail low confidence",
+   "p41 ad j: small grey text partly overlaid, some words low confidence"
+  ]
+ },
+ "42": {
+  "verified": true,
+  "method": "full",
+  "note": "P04 SB1 compared; source sentence around gap 27 incomplete (recorded)",
+  "uncertain": [
+   "p42: text incomplete in source after 'Allerdings (27)' — not reconstructed"
+  ]
+ },
+ "43": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Compared on legible contact sheet against structured extraction; matches"
+ },
+ "49": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Compared on legible contact sheet against structured extraction; matches"
+ },
+ "44": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P04; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "45": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P04; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "46": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P04; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "47": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P04; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "48": {
+  "verified": true,
+  "method": "full",
+  "note": "Lösungen P04; key '2 A' read visually (different font, not in automatic parse)"
+ },
+ "50": {
+  "verified": true,
+  "method": "full",
+  "note": "P05 L1 texts compared; match"
+ },
+ "51": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Compared on legible contact sheet against structured extraction; matches"
+ },
+ "52": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Compared on legible contact sheet against structured extraction; matches"
+ },
+ "53": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Compared on legible contact sheet against structured extraction; matches"
+ },
+ "54": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo; transcribed manually from 230dpi crops (corrections/P05.json)",
+  "uncertain": [
+   "p54 ad i: address/phone unreadable — marked [unleserlich]",
+   "p54 ad f/c/g: small print, moderate/low confidence"
+  ]
+ },
+ "55": {
+  "verified": true,
+  "method": "full",
+  "note": "P05 SB1/SB2 compared; SB1 option 27b stray 'j' removed per image"
+ },
+ "56": {
+  "verified": true,
+  "method": "full",
+  "note": "P05 SB1/SB2 compared; SB1 option 27b stray 'j' removed per image"
+ },
+ "57": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P05; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "58": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P05; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "59": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P05; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "60": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P05; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "61": {
+  "verified": true,
+  "method": "full",
+  "note": "Lösungen P05 compared with parsed keys"
+ },
+ "62": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Compared on legible contact sheet against structured extraction; matches"
+ },
+ "65": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Compared on legible contact sheet against structured extraction; matches"
+ },
+ "66": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Compared on legible contact sheet against structured extraction; matches"
+ },
+ "68": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Compared on legible contact sheet against structured extraction; matches"
+ },
+ "69": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Compared on legible contact sheet against structured extraction; matches"
+ },
+ "74": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Compared on legible contact sheet against structured extraction; matches"
+ },
+ "63": {
+  "verified": true,
+  "method": "full",
+  "note": "P06 compared with structured extraction; L2 subheadings restored"
+ },
+ "64": {
+  "verified": true,
+  "method": "full",
+  "note": "P06 compared with structured extraction; L2 subheadings restored"
+ },
+ "67": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo (angled, partly blurred, edges cropped); legible parts transcribed, rest marked",
+  "uncertain": [
+   "p67 ads a,b,c: BLURRY — body text unreadable, marked [unleserlich], not reconstructed",
+   "p67 ads i,l,j: cut off at page edge — marked [abgeschnitten]"
+  ]
+ },
+ "70": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P06; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "71": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P06; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "72": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P06; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "73": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P06; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "75": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P07 compared on legible contact sheet against structured extraction; matches"
+ },
+ "76": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P07 compared on legible contact sheet against structured extraction; matches"
+ },
+ "77": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P07 compared on legible contact sheet against structured extraction; matches"
+ },
+ "78": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P07 compared on legible contact sheet against structured extraction; matches"
+ },
+ "79": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P07 compared on legible contact sheet against structured extraction; matches"
+ },
+ "81": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P07 SB pages compared on legible contact sheet; match"
+ },
+ "82": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P07 SB pages compared on legible contact sheet; match"
+ },
+ "88": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P07 compared on legible contact sheet against structured extraction; matches"
+ },
+ "80": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same printed ad page as p41; P04 transcription re-checked against this photo",
+  "uncertain": [
+   "p80: same small-print uncertainties as p41 (ads d, f, j)"
+  ]
+ },
+ "83": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P07 (p87: Arabic explanation + model answer for the letter task); contact sheet + OCR cross-check — outside website scope"
+ },
+ "84": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P07 (p87: Arabic explanation + model answer for the letter task); contact sheet + OCR cross-check — outside website scope"
+ },
+ "85": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P07 (p87: Arabic explanation + model answer for the letter task); contact sheet + OCR cross-check — outside website scope"
+ },
+ "86": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P07 (p87: Arabic explanation + model answer for the letter task); contact sheet + OCR cross-check — outside website scope"
+ },
+ "87": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P07 (p87: Arabic explanation + model answer for the letter task); contact sheet + OCR cross-check — outside website scope"
+ },
+ "89": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P08 L1 compared on legible contact sheet; matches"
+ },
+ "90": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P08 L1 compared on legible contact sheet; matches"
+ },
+ "91": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P08 compared on legible contact sheet against structured extraction; matches (p93 = variant question set, p97 = overflow options)"
+ },
+ "92": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P08 compared on legible contact sheet against structured extraction; matches (p93 = variant question set, p97 = overflow options)"
+ },
+ "93": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P08 compared on legible contact sheet against structured extraction; matches (p93 = variant question set, p97 = overflow options)"
+ },
+ "94": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P08 compared on legible contact sheet against structured extraction; matches (p93 = variant question set, p97 = overflow options)"
+ },
+ "96": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P08 compared on legible contact sheet against structured extraction; matches (p93 = variant question set, p97 = overflow options)"
+ },
+ "97": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P08 compared on legible contact sheet against structured extraction; matches (p93 = variant question set, p97 = overflow options)"
+ },
+ "98": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P08 compared on legible contact sheet against structured extraction; matches (p93 = variant question set, p97 = overflow options)"
+ },
+ "103": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P08 compared on legible contact sheet against structured extraction; matches (p93 = variant question set, p97 = overflow options)"
+ },
+ "95": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo; transcribed manually from 250dpi crops (corrections/P08.json)",
+  "uncertain": [
+   "p95 ad b: logo text unreadable",
+   "p95 ad a/h/i: small or slanted print, moderate confidence"
+  ]
+ },
+ "99": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P08; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "100": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P08; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "101": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P08; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "102": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P08; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "104": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)"
+ },
+ "105": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)"
+ },
+ "106": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)"
+ },
+ "107": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)"
+ },
+ "108": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)"
+ },
+ "109": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)"
+ },
+ "110": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)"
+ },
+ "111": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)"
+ },
+ "116": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P09 compared on legible contact sheet; content identical to earlier verified exercises (see notes)"
+ },
+ "112": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P09; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "113": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P09; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "114": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P09; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "115": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P09; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "117": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P10 compared on legible contact sheet against structured extraction; matches"
+ },
+ "118": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P10 compared on legible contact sheet against structured extraction; matches"
+ },
+ "119": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P10 compared on legible contact sheet against structured extraction; matches"
+ },
+ "120": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P10 compared on legible contact sheet against structured extraction; matches"
+ },
+ "121": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P10 compared on legible contact sheet against structured extraction; matches"
+ },
+ "123": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P10 compared on legible contact sheet against structured extraction; matches"
+ },
+ "124": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P10 compared on legible contact sheet against structured extraction; matches"
+ },
+ "129": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P10 compared on legible contact sheet against structured extraction; matches"
+ },
+ "122": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo; transcribed manually from 230-250dpi crops (corrections/P10.json); ad l endings later confirmed from p402",
+  "uncertain": []
+ },
+ "125": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P10; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "126": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P10; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "127": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P10; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "128": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P10; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "130": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P11 compared on legible contact sheet against structured extraction; matches"
+ },
+ "131": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P11 compared on legible contact sheet against structured extraction; matches"
+ },
+ "132": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P11 compared on legible contact sheet against structured extraction; matches"
+ },
+ "133": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P11 compared on legible contact sheet against structured extraction; matches"
+ },
+ "134": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P11 compared on legible contact sheet against structured extraction; matches"
+ },
+ "136": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P11 compared on legible contact sheet against structured extraction; matches"
+ },
+ "137": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P11 compared on legible contact sheet against structured extraction; matches"
+ },
+ "142": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P11 compared on legible contact sheet against structured extraction; matches"
+ },
+ "135": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same printed ad page as p122; P10 transcription re-checked against this photo"
+ },
+ "138": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P11; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "139": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P11; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "140": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P11; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "141": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P11; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "143": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)"
+ },
+ "144": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)"
+ },
+ "145": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)"
+ },
+ "146": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)"
+ },
+ "147": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)"
+ },
+ "149": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)"
+ },
+ "150": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)"
+ },
+ "155": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P12 compared on legible contact sheet against structured extraction; matches (key entries 23, 34, 39 read visually)"
+ },
+ "148": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo; transcribed manually from 230-260dpi crops (corrections/P12.json)",
+  "uncertain": [
+   "p148 ad e/c: small print, moderate confidence"
+  ]
+ },
+ "151": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P12; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "152": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P12; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "153": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P12; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "154": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P12; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "156": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P13 compared on legible contact sheet against structured extraction; matches"
+ },
+ "157": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P13 compared on legible contact sheet against structured extraction; matches"
+ },
+ "158": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P13 compared on legible contact sheet against structured extraction; matches"
+ },
+ "159": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P13 compared on legible contact sheet against structured extraction; matches"
+ },
+ "160": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P13 compared on legible contact sheet against structured extraction; matches"
+ },
+ "162": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P13 compared on legible contact sheet against structured extraction; matches"
+ },
+ "163": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P13 compared on legible contact sheet against structured extraction; matches"
+ },
+ "168": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P13 compared on legible contact sheet against structured extraction; matches"
+ },
+ "161": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo; transcribed manually from 230-250dpi crops (corrections/P13.json)"
+ },
+ "164": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P13; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "165": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P13; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "166": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P13; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "167": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P13; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "169": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 3) model dialogue, third-party notes — outside exam-paper scope; text layer + OCR recorded"
+ },
+ "170": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 3) model dialogue, third-party notes — outside exam-paper scope; text layer + OCR recorded"
+ },
+ "171": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P14 compared on legible contact sheet against structured extraction; matches"
+ },
+ "172": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P14 compared on legible contact sheet against structured extraction; matches"
+ },
+ "173": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P14 compared on legible contact sheet against structured extraction; matches"
+ },
+ "174": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P14 compared on legible contact sheet against structured extraction; matches"
+ },
+ "175": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P14 compared on legible contact sheet against structured extraction; matches"
+ },
+ "177": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P14 compared on legible contact sheet against structured extraction; matches"
+ },
+ "178": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P14 compared on legible contact sheet against structured extraction; matches"
+ },
+ "183": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P14 compared on legible contact sheet against structured extraction; matches"
+ },
+ "176": {
+  "verified": true,
+  "method": "full",
+  "note": "Low-resolution ads photo (other edition of DB ad page); transcribed from 230-300dpi crops (corrections/P14.json)",
+  "uncertain": [
+   "p176: low-resolution photo; ad a street name unreadable; small print in a/g/h moderate-low confidence"
+  ]
+ },
+ "179": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P14; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "180": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P14; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "181": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P14; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "182": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P14; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "184": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)"
+ },
+ "185": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P15 L1 texts compared on legible contact sheet; matches"
+ },
+ "186": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)"
+ },
+ "187": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)"
+ },
+ "188": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)"
+ },
+ "190": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)"
+ },
+ "191": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)"
+ },
+ "196": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)"
+ },
+ "197": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)"
+ },
+ "189": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo; transcribed manually from 250dpi crops (corrections/P15.json)"
+ },
+ "192": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P15; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "193": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P15; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "194": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P15; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "195": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P15; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "198": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; text layer + OCR recorded"
+ },
+ "199": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; text layer + OCR recorded"
+ },
+ "200": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; text layer + OCR recorded"
+ },
+ "201": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "202": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "203": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "204": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "205": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "206": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "207": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "208": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "209": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "210": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "211": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "212": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "213": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "214": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "215": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "216": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "217": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "218": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "219": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "220": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "221": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "222": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded"
+ },
+ "223": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P16 compared on legible contact sheet; content identical to verified P05 exercises"
+ },
+ "224": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P16 compared on legible contact sheet; content identical to verified P05 exercises"
+ },
+ "225": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P16 compared on legible contact sheet; content identical to verified P05 exercises"
+ },
+ "226": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P16 compared on legible contact sheet; content identical to verified P05 exercises"
+ },
+ "227": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P16 compared on legible contact sheet; content identical to verified P05 exercises"
+ },
+ "229": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P16 compared on legible contact sheet; content identical to verified P05 exercises"
+ },
+ "230": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P16 compared on legible contact sheet; content identical to verified P05 exercises"
+ },
+ "235": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P16 compared on legible contact sheet; content identical to verified P05 exercises"
+ },
+ "228": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — clearer photo of the same ad page as p54; P05 transcription re-checked, ad i street resolved"
+ },
+ "231": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P16; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "232": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P16; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "233": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P16; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "234": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P16; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "236": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P17 compared on legible contact sheet; identical to verified P08 (p244 = overflow options)"
+ },
+ "237": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P17 compared on legible contact sheet; identical to verified P08 (p244 = overflow options)"
+ },
+ "238": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P17 compared on legible contact sheet; identical to verified P08 (p244 = overflow options)"
+ },
+ "239": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P17 compared on legible contact sheet; identical to verified P08 (p244 = overflow options)"
+ },
+ "240": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P17 compared on legible contact sheet; identical to verified P08 (p244 = overflow options)"
+ },
+ "241": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P17 compared on legible contact sheet; identical to verified P08 (p244 = overflow options)"
+ },
+ "243": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P17 compared on legible contact sheet; identical to verified P08 (p244 = overflow options)"
+ },
+ "244": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P17 compared on legible contact sheet; identical to verified P08 (p244 = overflow options)"
+ },
+ "245": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P17 compared on legible contact sheet; identical to verified P08 (p244 = overflow options)"
+ },
+ "250": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P17 compared on legible contact sheet; identical to verified P08 (p244 = overflow options)"
+ },
+ "242": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same printed ad page as p95; P08 transcription re-checked"
+ },
+ "246": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P17; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "247": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P17; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "248": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P17; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "249": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P17; legible contact sheet + OCR cross-check — outside website scope"
+ },
+ "251": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes (duplicate of p169-170) — outside exam-paper scope"
+ },
+ "252": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes (duplicate of p169-170) — outside exam-paper scope"
+ },
+ "253": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P18 compared on legible contact sheet; identical to verified P14"
+ },
+ "254": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P18 compared on legible contact sheet; identical to verified P14"
+ },
+ "255": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P18 compared on legible contact sheet; identical to verified P14"
+ },
+ "256": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P18 compared on legible contact sheet; identical to verified P14"
+ },
+ "257": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P18 compared on legible contact sheet; identical to verified P14"
+ },
+ "259": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P18 compared on legible contact sheet; identical to verified P14"
+ },
+ "260": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P18 compared on legible contact sheet; identical to verified P14"
+ },
+ "265": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P18 compared on legible contact sheet; identical to verified P14"
+ },
+ "258": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — identical image to p176 (P14); transcription re-checked"
+ },
+ "261": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P18; legible contact sheet — outside website scope"
+ },
+ "262": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P18; legible contact sheet — outside website scope"
+ },
+ "263": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P18; legible contact sheet — outside website scope"
+ },
+ "264": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P18; legible contact sheet — outside website scope"
+ },
+ "266": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "267": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "268": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "269": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "270": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "271": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P19 compared on legible contact sheet; identical to verified P07"
+ },
+ "272": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P19 compared on legible contact sheet; identical to verified P07"
+ },
+ "273": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P19 compared on legible contact sheet; identical to verified P07"
+ },
+ "274": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P19 compared on legible contact sheet; identical to verified P07"
+ },
+ "275": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P19 compared on legible contact sheet; identical to verified P07"
+ },
+ "277": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P19 compared on legible contact sheet; identical to verified P07"
+ },
+ "278": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P19 compared on legible contact sheet; identical to verified P07"
+ },
+ "284": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P19 compared on legible contact sheet; identical to verified P07"
+ },
+ "276": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same printed ad page as p41/p80/p109; transcription re-checked"
+ },
+ "279": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P19 (p283: Arabic explanation + model letter); legible contact sheet — outside website scope"
+ },
+ "280": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P19 (p283: Arabic explanation + model letter); legible contact sheet — outside website scope"
+ },
+ "281": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P19 (p283: Arabic explanation + model letter); legible contact sheet — outside website scope"
+ },
+ "282": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P19 (p283: Arabic explanation + model letter); legible contact sheet — outside website scope"
+ },
+ "283": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P19 (p283: Arabic explanation + model letter); legible contact sheet — outside website scope"
+ },
+ "285": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P20 compared on legible contact sheet; identical to verified P15"
+ },
+ "286": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P20 compared on legible contact sheet; identical to verified P15"
+ },
+ "287": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P20 compared on legible contact sheet; identical to verified P15"
+ },
+ "288": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P20 compared on legible contact sheet; identical to verified P15"
+ },
+ "289": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P20 compared on legible contact sheet; identical to verified P15"
+ },
+ "291": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P20 compared on legible contact sheet; identical to verified P15"
+ },
+ "292": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P20 compared on legible contact sheet; identical to verified P15"
+ },
+ "298": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P20 compared on legible contact sheet; identical to verified P15"
+ },
+ "290": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same ad page as p189 (P15); transcription re-checked"
+ },
+ "293": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P20 (p297 Arabic explanation + model letter); legible contact sheet — outside website scope"
+ },
+ "294": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P20 (p297 Arabic explanation + model letter); legible contact sheet — outside website scope"
+ },
+ "295": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P20 (p297 Arabic explanation + model letter); legible contact sheet — outside website scope"
+ },
+ "296": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P20 (p297 Arabic explanation + model letter); legible contact sheet — outside website scope"
+ },
+ "297": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P20 (p297 Arabic explanation + model letter); legible contact sheet — outside website scope"
+ },
+ "299": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "300": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "301": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "302": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "303": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "304": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P21 compared on legible contact sheet; identical to verified P02"
+ },
+ "305": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P21 L1 texts; source itself has missing words (compiler note)",
+  "uncertain": [
+   "p305: texts incomplete in source (compiler note) — not reconstructed"
+  ]
+ },
+ "306": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P21 compared on legible contact sheet; identical to verified P02"
+ },
+ "308": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P21 compared on legible contact sheet; identical to verified P02"
+ },
+ "312": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P21 compared on legible contact sheet; identical to verified P02"
+ },
+ "307": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same ad page as p17 (P02); transcription re-checked"
+ },
+ "309": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P21; legible contact sheet — outside website scope"
+ },
+ "310": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P21; legible contact sheet — outside website scope"
+ },
+ "311": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P21; legible contact sheet — outside website scope"
+ },
+ "313": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P22 compared on legible contact sheet; identical to verified P09"
+ },
+ "314": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P22 compared on legible contact sheet; identical to verified P09"
+ },
+ "315": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P22 compared on legible contact sheet; identical to verified P09"
+ },
+ "316": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P22 compared on legible contact sheet; identical to verified P09"
+ },
+ "317": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P22 compared on legible contact sheet; identical to verified P09"
+ },
+ "319": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P22 compared on legible contact sheet; identical to verified P09"
+ },
+ "320": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P22 compared on legible contact sheet; identical to verified P09"
+ },
+ "325": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P22 compared on legible contact sheet; identical to verified P09"
+ },
+ "318": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same printed ad page as p41; transcription re-checked"
+ },
+ "321": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P22; legible contact sheet — outside website scope"
+ },
+ "322": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P22; legible contact sheet — outside website scope"
+ },
+ "323": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P22; legible contact sheet — outside website scope"
+ },
+ "324": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P22; legible contact sheet — outside website scope"
+ },
+ "326": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "327": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "328": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "329": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "330": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "331": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P23 compared on legible contact sheet; identical to verified P12"
+ },
+ "332": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P23 compared on legible contact sheet; identical to verified P12"
+ },
+ "333": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P23 compared on legible contact sheet; identical to verified P12"
+ },
+ "334": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P23 compared on legible contact sheet; identical to verified P12"
+ },
+ "335": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P23 compared on legible contact sheet; identical to verified P12"
+ },
+ "337": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P23 compared on legible contact sheet; identical to verified P12"
+ },
+ "338": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P23 compared on legible contact sheet; identical to verified P12"
+ },
+ "343": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P23 compared on legible contact sheet; identical to verified P12"
+ },
+ "336": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same ad page as p148 (P12); transcription re-checked"
+ },
+ "339": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P23; legible contact sheet — outside website scope"
+ },
+ "340": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P23; legible contact sheet — outside website scope"
+ },
+ "341": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P23; legible contact sheet — outside website scope"
+ },
+ "342": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P23; legible contact sheet — outside website scope"
+ },
+ "344": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "345": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "346": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "347": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "348": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "349": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "350": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "351": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "352": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "353": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "354": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "355": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "356": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Image-only P24 L1 pages; identical to verified P04 L1 (p36-37) — transcription re-checked"
+ },
+ "357": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Image-only P24 L1 pages; identical to verified P04 L1 (p36-37) — transcription re-checked"
+ },
+ "358": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P24 compared on legible contact sheet; identical to verified P04"
+ },
+ "359": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P24 compared on legible contact sheet; identical to verified P04"
+ },
+ "360": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P24 compared on legible contact sheet; identical to verified P04"
+ },
+ "362": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P24 compared on legible contact sheet; identical to verified P04"
+ },
+ "363": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P24 compared on legible contact sheet; identical to verified P04"
+ },
+ "368": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P24 compared on legible contact sheet; identical to verified P04"
+ },
+ "361": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same printed ad page as p41; transcription re-checked"
+ },
+ "364": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P24; legible contact sheet — outside website scope"
+ },
+ "365": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P24; legible contact sheet — outside website scope"
+ },
+ "366": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P24; legible contact sheet — outside website scope"
+ },
+ "367": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P24; legible contact sheet — outside website scope"
+ },
+ "369": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P25 compared on legible contact sheet; identical to verified P01 (automatic diff confirms)"
+ },
+ "370": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P25 compared on legible contact sheet; identical to verified P01 (automatic diff confirms)"
+ },
+ "371": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P25 compared on legible contact sheet; identical to verified P01 (automatic diff confirms)"
+ },
+ "372": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P25 compared on legible contact sheet; identical to verified P01 (automatic diff confirms)"
+ },
+ "373": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P25 compared on legible contact sheet; identical to verified P01 (automatic diff confirms)"
+ },
+ "375": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P25 compared on legible contact sheet; identical to verified P01 (automatic diff confirms)"
+ },
+ "376": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P25 compared on legible contact sheet; identical to verified P01 (automatic diff confirms)"
+ },
+ "381": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P25 compared on legible contact sheet; identical to verified P01 (automatic diff confirms)"
+ },
+ "374": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same ad page as p6; transcription re-checked"
+ },
+ "377": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P25; legible contact sheet — outside website scope"
+ },
+ "378": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P25; legible contact sheet — outside website scope"
+ },
+ "379": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P25; legible contact sheet — outside website scope"
+ },
+ "380": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P25; legible contact sheet — outside website scope"
+ },
+ "382": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)"
+ },
+ "383": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)"
+ },
+ "384": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)"
+ },
+ "385": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)"
+ },
+ "386": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)"
+ },
+ "388": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)"
+ },
+ "389": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)"
+ },
+ "394": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P26 compared on legible contact sheet; identical to verified P13 (automatic diff confirms)"
+ },
+ "387": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same ad page as p161 (P13); transcription re-checked"
+ },
+ "390": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P26; legible contact sheet — outside website scope"
+ },
+ "391": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P26; legible contact sheet — outside website scope"
+ },
+ "392": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P26; legible contact sheet — outside website scope"
+ },
+ "393": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P26; legible contact sheet — outside website scope"
+ },
+ "395": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "396": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "397": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P27 compared on legible contact sheet; identical to verified P10 (automatic diff confirms)"
+ },
+ "398": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P27 compared on legible contact sheet; identical to verified P10 (automatic diff confirms)"
+ },
+ "399": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P27 compared on legible contact sheet; identical to verified P10 (automatic diff confirms)"
+ },
+ "400": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P27 compared on legible contact sheet; identical to verified P10 (automatic diff confirms)"
+ },
+ "401": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P27 compared on legible contact sheet; identical to verified P10 (automatic diff confirms)"
+ },
+ "403": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P27 compared on legible contact sheet; identical to verified P10 (automatic diff confirms)"
+ },
+ "404": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P27 compared on legible contact sheet; identical to verified P10 (automatic diff confirms)"
+ },
+ "402": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — sharper photo of the DB ad page (p122); confirms transcription incl. ad l"
+ },
+ "409": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Lösungen P27 compared; matches parsed key"
+ },
+ "405": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P27; legible contact sheet — outside website scope"
+ },
+ "406": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P27; legible contact sheet — outside website scope"
+ },
+ "407": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P27; legible contact sheet — outside website scope"
+ },
+ "408": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P27; legible contact sheet — outside website scope"
+ },
+ "410": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "411": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "412": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P28 L1 headings compared; identical to verified P11"
+ },
+ "413": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P28 compared on legible contact sheet; identical to verified P11 (automatic diff confirms)"
+ },
+ "414": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P28 compared on legible contact sheet; identical to verified P11 (automatic diff confirms)"
+ },
+ "415": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P28 compared on legible contact sheet; identical to verified P11 (automatic diff confirms)"
+ },
+ "416": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P28 compared on legible contact sheet; identical to verified P11 (automatic diff confirms)"
+ },
+ "418": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P28 compared on legible contact sheet; identical to verified P11 (automatic diff confirms)"
+ },
+ "419": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P28 compared on legible contact sheet; identical to verified P11 (automatic diff confirms)"
+ },
+ "417": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same DB ad page as p402; transcription re-checked"
+ },
+ "420": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hörverstehen P28 — outside website scope"
+ },
+ "421": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P28; legible contact sheet — outside website scope"
+ },
+ "422": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P28; legible contact sheet — outside website scope"
+ },
+ "423": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P28; legible contact sheet — outside website scope"
+ },
+ "424": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Lösungen P28 compared; matches parsed key"
+ },
+ "425": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "426": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "427": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P29 L1 compared on legible contact sheet; identical to verified P03"
+ },
+ "428": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P29 L1 compared on legible contact sheet; identical to verified P03"
+ },
+ "429": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P29 compared on legible contact sheet; identical to verified P03 (automatic diff confirms)"
+ },
+ "430": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P29 compared on legible contact sheet; identical to verified P03 (automatic diff confirms)"
+ },
+ "431": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P29 compared on legible contact sheet; identical to verified P03 (automatic diff confirms)"
+ },
+ "433": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P29 compared on legible contact sheet; identical to verified P03 (automatic diff confirms)"
+ },
+ "434": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P29 compared on legible contact sheet; identical to verified P03 (automatic diff confirms)"
+ },
+ "432": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same ad page as p28 (P03); transcription re-checked"
+ },
+ "435": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hörverstehen P29 — outside website scope"
+ },
+ "436": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hörverstehen P29 — outside website scope"
+ },
+ "437": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P29 — outside website scope"
+ },
+ "438": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P29 — outside website scope"
+ },
+ "439": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "Lösungen P29 compared; matches parsed key"
+ },
+ "440": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "441": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam third-party notes — outside exam-paper scope"
+ },
+ "442": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P30 compared on legible contact sheet; identical to verified P06"
+ },
+ "443": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P30 compared on legible contact sheet; identical to verified P06"
+ },
+ "444": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P30 compared on legible contact sheet; identical to verified P06"
+ },
+ "445": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P30 compared on legible contact sheet; identical to verified P06 (automatic diff confirms)"
+ },
+ "446": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P30 compared on legible contact sheet; identical to verified P06 (automatic diff confirms)"
+ },
+ "448": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P30 compared on legible contact sheet; identical to verified P06 (automatic diff confirms)"
+ },
+ "449": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P30 compared on legible contact sheet; identical to verified P06 (automatic diff confirms)"
+ },
+ "454": {
+  "verified": true,
+  "method": "sheet-legible",
+  "note": "P30 compared on legible contact sheet; identical to verified P06 (automatic diff confirms)"
+ },
+ "447": {
+  "verified": true,
+  "method": "full",
+  "note": "Ads photo — same blurred ad page as p67 (P06); same unreadable areas",
+  "uncertain": [
+   "p447: same blurry top row / cropped edges as p67 — not reconstructed"
+  ]
+ },
+ "450": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P30 — outside website scope"
+ },
+ "451": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P30 — outside website scope"
+ },
+ "452": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P30 — outside website scope"
+ },
+ "453": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Hören/Schreiben P30 — outside website scope"
+ },
+ "455": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "456": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "457": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "458": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "459": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "460": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "461": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "462": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "463": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "464": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "465": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "466": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "467": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "468": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "469": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "470": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "471": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "472": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "473": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "474": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "475": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "476": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "477": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "478": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "479": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "480": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "481": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "482": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "483": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "484": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "485": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "486": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "487": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "488": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "489": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "490": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "491": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "492": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets"
+ },
+ "493": {
+  "verified": true,
+  "method": "sheet",
+  "note": "Closing page (Persian text + Telegram link) — no exam content"
+ }
+}

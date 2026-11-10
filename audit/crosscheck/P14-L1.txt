@@ -1,0 +1,5 @@
+# P14-L1 pages [171, 172] ratio 0.944
+## website words not in OCR:
+folgt Urlaub Laute stört Nachbarn Schlechtes Wetter abgesagt
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests ütuA üddeutsche Zeirun TACESSPIEGEL panfurter rierhundschau TOUKSZETUNG tddeuische teiun Leseverstehen Teil Franhfurler Rundschau TACESSPIEGEL IEPAIGER VOLKSZEITUNG LANGUAGE Tests BERLINER

@@ -1,0 +1,12 @@
+0.090 0.012 1.00	• Am nächsten Samstag,wir können entweder 2-Mal ‚oder 3-Mal pro
+0.128 0.045 0.50	Woche gehen ,was ist deine Meinung?
+0.167 0.012 1.00	• Ich glaube 3-Mal wäre besser ,aber weißt du ‚wie viel der Kurs kostet?
+0.205 0.012 1.00	• Nicht so teuer ,Ungefähr 20 Euro pro Stunde ,passt es dir?
+0.244 0.012 0.50	• Ja ,das passt mir gut ,so treffen wir uns am Samstag ,dann losfahren.
+0.281 0.012 1.00	• Ja ,das klingt gut ,Ich wünsche dir Hals-und Beinbruch.
+0.289 0.189 0.30	elcc
+0.320 0.012 0.50	• Eben falls.
+0.359 0.043 0.50	Bis morgen.
+0.395 0.043 0.50	Bis dann .
+0.473 0.003 0.30	MAH
+0.930 0.010 1.00	www.instagram.com/mahmoudemad007

@@ -1,0 +1,19 @@
+0.076 0.064 1.00	Leseverstehen, Teil 3
+0.092 0.045 1.00	LANGUAGE Tests
+0.153 0.045 1.00	Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können
+0.173 0.043 1.00	jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 - 20 auf dem
+0.193 0.049 1.00	Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+0.265 0.045 1.00	11. Ihr Bekannter ist Sportlehrer und sucht eine Nebenbeschäftigung in einem Verein.
+0.302 0.047 1.00	12. Ein guter Bekannter (39) sucht eine Partnerin. Er ist reiselustig und geht spazieren.
+0.340 0.045 1.00	13.Ihre Freundin ist besonders hübsch, Studentin und sucht für die Semesterferien im Sommer einen
+0.376 0.076 1.00	Job.
+0.414 0.047 1.00	14. Sie suchen für das kommende Wochenende eine Konzertkarte.
+0.452 0.045 1.00	15.Ihre 30-jährige Freundin hat in einem Hotel in Spanien gearbeitet und sucht jetzt eine ähnliche
+0.487 0.078 1.00	Arbeit in Deutschland.
+0.525 0.045 1.00	16.Ihre 55-jährige Nachbarin sucht jemanden, mit dem sie reisen und klassische Konzerte besuchen
+0.559 0.076 1.00	kann.
+0.597 0.047 1.00	17. Sie möchten lernen, wie Sie kleinere Reparaturen an Ihrem Auto selbst machen können.
+0.635 0.047 1.00	18. Die Tochter Ihrer russischen Bekannten sucht eine Au-pair-Stelle in Deutschland. Sie ist erst 18
+0.670 0.074 1.00	Jahre alt.
+0.709 0.045 1.00	19. Ihre 21-jährige Bekannte sucht eine Stelle als Kindergärtnerin.
+0.747 0.047 1.00	20. Eine Freundin braucht ein paar Ratschläge, wie sie erfolgreich eine neue Arbeit finden kann.

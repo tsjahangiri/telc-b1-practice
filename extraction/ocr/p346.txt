@@ -1,0 +1,22 @@
+0.086 0.374 0.50	* Hauskauf*
+0.145 0.012 1.00	Teilnehmer A
+0.189 0.025 1.00	Teilnehmende/r A
+0.216 0.027 1.00	Teil 2 Überein Thema sprechen (ca. 6 Minuten)
+0.235 0.027 1.00	In einer Zeitschrift haben Sie erwas zum Thema „Haoskauf" gelesen, Berichten Sie Ihrer Gesprächspartne-
+0.247 0.027 0.50	rin/ihrem Gesprächspartner darüber
+0.259 0.027 0.50	Ihre Gesprächspartnerin/ihr Gesprachspartner hat eine andere Meinung dazu gelesen und berichitet Ihirien
+0.270 0.025 1.00	auch darüber
+0.279 0.027 0.50	Unterhallen Sie sich damn mit hrer Gesprächspartnerin/Ihrem Gesprächspartner über das Thema.
+0.294 0.025 1.00	Sagen Sie Ihre Meinung und erzahlen Sie von eigenen Erfahrungen.
+0.340 0.062 1.00	Hauskauf
+0.589 0.634 0.50	"Wir haben vor drei Jahren ein Hak
+0.605 0.640 0.50	kauft. Natürlich kostet das senr vi
+0.617 0.640 0.50	aber es ist ja auch teuer, jeden Mol
+0.634 0.644 1.00	te zu zahlen. Außerdem ist es un!
+0.647 0.650 1.00	dass unsere Kinder viel Platz zur
+0.665 0.652 1.00	und einen Garten haben."
+0.704 0.073 1.00	Silke Kühne, 39 Jahre, Rechtsanwältin
+0.745 0.006 1.00	- Ich habe einen Beitrag zum Thema *HausKauf* gelesen.
+0.789 0.008 1.00	- Die Person die sich äußert heißt *Silke Kühne*
+0.831 0.006 1.00	- Sie ist 39 Jahre Alt ,und arbeitet als Rechtsanwältin.
+0.897 0.014 1.00	www.instagram.com/mahmoudemad007

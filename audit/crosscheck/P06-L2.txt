@@ -1,0 +1,5 @@
+# P06-L2 pages [64, 65] ratio 0.961
+## website words not in OCR:
+Etva 800 000 besucht
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests 300000 Manschen schwciz halben schul bssucht könncnaber Leseverstehen Teil LANGUAGE Tests ehschul

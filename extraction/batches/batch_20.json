@@ -1,0 +1,325 @@
+{
+ "batch": 20,
+ "pages": [
+  191,
+  200
+ ],
+ "records": [
+  {
+   "page": 191,
+   "paper": "P15",
+   "section": "SB2",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 2\nLANGUAGE Tests\nLesen sie den Text und schließen Sie\nLücken 31 – 40. Benutzen Sie die Wörter\n(a, o) Jedes Wort passt nur einmal.\nMarkieren Sie Ihre Lösungen für die\nAufgaben 31 – 40 auf dem\nAntwortbogen.\nSehr geehrter Herr Maier,\nich habe Ihre Anzeige in der Zeitung vom letzten (31) gelesen und interessiere mich sehr (32)\ndas Angebot. Ich (33) mit meiner Mutter und ihrer Schwester, die beide schon etwas ältere\nDamen sind, im September ein paar (34) Urlaub machen und benötige daher einige\nInformationen.\nIst die Benutzung des Hallenbads und der Sauna im Preis enthalten oder (35) wir diese extra\nbezahlen? Weiters würde mich noch interessieren, (36) Pensionisten eine Ermäßigung\nbekommen. Sie schreiben darüber leider (37) in Ihrer Anzeige. (38) möchte ich wissen, ob\nman in der Gegend um das Hotel einfache Wanderungen unternehmen kann.\nIch wäre Ihnen sehr dankbar, (39) Sie mir Bildmaterial zum Hotel und der Landschaft sowie\neine Preisliste zukommen lassen könnten.\nIch bedanke mich im (40) für die Informationen.\nMit freundlichen Grüßen\nANNELIESE SCHNEEBERGER\na AUSSERDEM d\nFÜR\ng\nMÜSSEN\nj\nOBWOHL\nm\nVORAUS\nb\nDÜRFEN\ne\nKEINES\nh\nNICHTS\nk\nTAGE\nn\nWENN\nc\nERSTENS\nf\nMÖCHTE\ni\nOB\nl\nÜBER\no\nWOCHENENDE",
+   "arabic_labels_excluded": [
+    "السيد ماير)الفندق("
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.06
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.99,
+    "ocr_words_missing_from_textlayer": 3,
+    "sample_missing": [
+     "altere",
+     "qall",
+     "schu"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)",
+   "uncertain": []
+  },
+  {
+   "page": 192,
+   "paper": "P15",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 1\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.\n…………………………………………………………………………………………………………………………………………………………\n41. Herr Pawliczek erledigt alle seine Einkäufe im Internet.\n42. Frau Zimmermann legt beim Einkaufen großen Wert auf persönlichen Kontakt.\n43. Frau Schmidt findet zu Hause nicht genug Ruhe, um im Internet einzukaufen.\n44. Frau Ruttnigg ist vom Einkaufen im Internet nicht überzeugt.\n45. Herr Krause kauft seine Medikamente am liebsten in der nächsten Stadt.",
+   "arabic_labels_excluded": [
+    "التسوق عبر اإلنترنت)مع إيفا("
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P15; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 193,
+   "paper": "P15",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 2\nLANGUAGE Tests\nSie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.\n……………………………………………………………………………………………………………………………………..\n46. Herr Thurnherr ist Chef in einem großen Reisebüro in Bern.\n47. Jährlich wollen über 100 Personen eine Ausbildung in einem Reisebüro machen.\n48. Während der Ausbildung kann man noch keine Studienreisen machen.\n49. Herr Thurnherr meint, die Arbeit in einem Reisebüro sei anstrengend.\n50. In einem Reisebüro muss man oft Überstunden machen.\n51. In einem Reisebüro verdient man gut.\n52. Auf Studienreisen besichtigt man viele Hotels.\n53. Im schriftlichen Teil des Tests wird vor allem politisches Wissen geprüft.\n54. Jährlich können 50 Jugendliche an einem Eignungstest teilnehmen.\n55. Das Reisebüro muss für die Fehler der Mitarbeitenden bezahlen.",
+   "arabic_labels_excluded": [
+    "السيد تور نهير"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P15; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 194,
+   "paper": "P15",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Regensburg\nHörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. Sie müssen in Ingolstadt die Regionalbahn nach Regensburg nehmen.\n57. Clara kann wegen einer Prüfung die Theaterkarten nicht abholen.\n58. Im Schwarzwald können die Straßen morgen glatt werden.\n59. Der Liederabend findet zu einem späteren Termin statt.\n60. Im Untergeschoss gibt es Winterkleidung zum halben Preis.",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "schull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P15; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 195,
+   "paper": "P15",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nEine Bekannte aus der Schweiz hat eine neue Stelle. Sie hat Ihnen den folgenden Brief geschrieben:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\nwie geht es denn so mit dem Deutsch lernen? Kommst du gut voran, und was machst du im Moment so? Stell\ndir vor, ich habe die neue Stelle bei der Zeitschrift VIA bekommen! ich arbeite jetzt als Journalistin, und das\nwar ja immer mein Traumberuf!\nVIA wird vor allem von jüngeren Leuten gelesen. Deshalb schreiben wir viel über Berufe und Ausbildungen\nund auch über Freizeit und Sport. Für die nächsten Hefte von VIA planen wir jetzt eine neue Serie über Berufs\nwünsche. Was ist eigentlich dein Traumberuf? Wenn du möchtest, schicke ich dir gerne einmal ein Grätschet\nvon VIA, damit du siehst, was ich so mache.\nIch freue mich schon auf deine Antwort.\nHerzliche Grüße\nEva\nSchreiben Sie Ihrer Bekannten nun einen Antwortbrief, der die folgenden Punkte erhält:\n. Fortschritte beim Deutsch Lernen\n. Auf Evas neue Stelle reagieren\n. Was es Neues bei Ihnen gibt\n. Ihr Traumberuf\nBevor Sie den Brief schreiben, überlegen Sie sich eine passende Reihenfolge der punkte, eine passende\nEinleitung und einen passenden Schluss. Vergessen Sie nicht Datum und Anrede.",
+   "arabic_labels_excluded": [
+    "إيفا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.894,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P15; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 196,
+   "paper": "P15",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Liebe Eva,\nvielen Dank für Deinen netten Brief. Ich habe mich sehr darüber gefreut.\nIch freue mich sehr , dass du endlich eine neue Stelle gefunden hast und Deinen Traumberuf machen\nkannst.\nIch habe Fortschritte beim Deutschlehren gemacht.\nIch kann meine  Probleme ohne meinen Mann lösen.\nZ.B .....etw\nIm Momentan bereite ich mich vor, um die Deutsch Zertifikat B1 Prüfung zu machen.\nZur Zeit habe ich keine Neuigkeiten in meinem Leben.\nMein Traumberuf war Kinderlehren , weil ich die Kinder sehr liebe.\n viele Grüße\nLiebe Grüße\nHerzliche Grüße.....etw",
+   "arabic_labels_excluded": [
+    "شرح موضوع ايفا",
+    "صديقتك ايفا باعتلك بريف تتطمن عنك وشو صار معك مستجدات  وكيف صارت لغتك االلمانية  هي صاير معها مستجدات ال قية",
+    "عمل ضمن مجالها  وهاد كان حلمها صحفية  في جريدة VIA وشارحتلك عن عملها وعن الجريدة اللي فيها وراح تبعتل ك تفاصيل",
+    "عن الجريدة اللي تشتغل فيها وعم تسالك عن شو هو حلمك الوظيفي",
+    "وطالبين منك اربع نقاط",
+    "1 كيف مستواك صار باللغة االلمانية",
+    "2 تهني ايفا بوظفيها الجديدة",
+    "3 شو صار معك مستجدات بحياتك",
+    "4 شو حلمك اي وظيفة بالعمل",
+    "نبدأ  اول شي بالبريف نحط التاريخ ع اليمين ونكنت المقدمة وراح نشكر ايفا ع البريف",
+    "ثانيا بدنا نهنيها بوظفيفتها الحلوة نكتب",
+    "هنيناه فيك تضيف جملة صغيرة كمان",
+    "هأل بدك تحكي كيف صارت لغتك االلمانية تكتب",
+    "هأل نجي للنقطة الثالثة",
+    "شو الجديد عندك بحياتك",
+    "تكتب",
+    "خلصنا من المستجدات اللي عندك",
+    "هأل نجي شو حلمك الوظيفة كل واحد منا عندو حلم   تكتب",
+    "طبعا فيكن تضيفو بس المهم توصلو النقاط"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "gruße"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)",
+   "uncertain": []
+  },
+  {
+   "page": 197,
+   "paper": "P15",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\nlachen\nBuschhaus\nEinkäufe im Internet\n21 b\ndass\n1 D\n41 +\n22 b\nmöchten\n2 A\n42 -\n23 b\nnächsten\n3 B\n43 +\n24 a\nmehr\n4 J\n44 -\n25 a\nverlieren\n5 F\n45 -\n26 b\ntrotz\n27 c\nSie\n28 b\nFalls\n29 b\nder\n30 c\nfreundlichen\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nSchlafstörungen\nMaier\nThurnherr\n6\nC\n46 +\n31 O\nWOCHENENDE\n7\nB\n47 +\n32 D\nFÜR\n8\nB\n48 -\n33 F\nMÖCHTE\n9\nA\n49 +\n34 K\nTAGE\n10 A\n50 +\n35 G\nMÜSSEN\n51 -\n36 I\nOB\n52 +\n37 H\nNICHTS\n53 -\n38 A\nAUSSERDEM\n54 -\n39 N\nWENN\n55 +\n40 M VORAUS\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\nsucht\nMeissner\n11 E\n56 -\n12 F\n57 -\n13 H\n58 -\n14 X\n59 +\n15 C\n60 +\n16 A\n17 K\n18 X\n19 I\n20 B",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.967,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "telco"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P15 compared on legible contact sheet against structured extraction; matches (p196: Arabic explanation + model letter, outside scope)",
+   "uncertain": []
+  },
+  {
+   "page": 198,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Schöner Wohnen*\n Teilnehmer A\n- Ich habe einen Beitrag zum Thema *Schöner Wohnen* gelesen.\n- Die Person die sich äußert heißt *Mara weiß*.\n- Sie ist 39 Jahre Alt ,und arbeitet als Teamleiterin.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.54
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 54,
+    "sample_missing": [
+     "alles",
+     "andere",
+     "antiquitäten",
+     "auberdern",
+     "auch",
+     "berichten",
+     "berichtet",
+     "bilderl",
+     "chul",
+     "dann",
+     "darüber",
+     "dazu",
+     "designermöbel",
+     "eigenen",
+     "eine",
+     "einer",
+     "einfach",
+     "erfahrungen",
+     "erzählen",
+     "etwas",
+     "festen",
+     "fühle",
+     "geräumt",
+     "gespr",
+     "gesprächspartner"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 199,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Frau *Weiß* bevorzugt in einer schönen Wohnung zu leben.\n- Sie sagt ,dass sie schöne Möbel und Bilder mag ,deswegen hat sie ,sowohl viele\nAntiquitäten ,als auch moderne Möbel.\n- Ihre Wohnung muss immer aufgeraumt sein ,damit sie sich wohl fühlt.\n***************************************************************\n*Meinung*\n- Ich gehe ganz d´accord ,ich finde es bequemer ,wenn ich in einer\nschönen Wohnung lebe.\n- Falls ich Gäste habe ,möchte ich ,dass mein Haus aufgeräumt und\nsauber ist.\n- Die Hauptsache für mich ist ,wie die wohnung aussieht ,aber die\n  qualität kommt für mich nicht in Frage.\n-Es gibt auch Nachteile ,vielleicht sind die Möbel sehr schön ,aber\nschwach ,und bleiben nicht lange.\n***************************************************************\n*Erfahrung*\n- Bevor ich geheiratet habe ,kaufte ich viele schöne Möbel ,das hat\nmich viel gekostet.\n Obwohl die Möbel sehr teuer sind ,lohnt es sich.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.972,
+    "ocr_words_missing_from_textlayer": 3,
+    "sample_missing": [
+     "antiquitaten",
+     "mobel",
+     "qualitat"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 200,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich mache viele Partys bei mir zu Hause ,und meine Freunde sagen\nmir immer ,dass ich eine schöne Wohnung habe ,und das macht\nmir viel Spaß.\n Je schöner die Wohnung ist ,desto glücklicher fühle ich mich.\n***************************************************************\n***************************************************************\n Teilnehmer B\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.51
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 56,
+    "sample_missing": [
+     "allem",
+     "andere",
+     "auch",
+     "aussehen",
+     "bequem",
+     "berichten",
+     "berichtet",
+     "dann",
+     "darüber",
+     "davon",
+     "dazu",
+     "denn",
+     "egai",
+     "eigenen",
+     "einer",
+     "erfahrungen",
+     "erzählen",
+     "etwas",
+     "geld",
+     "gelesen",
+     "gesprächs",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "gibt",
+     "haben"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; text layer + OCR recorded",
+   "uncertain": []
+  }
+ ]
+}

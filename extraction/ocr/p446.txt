@@ -1,0 +1,17 @@
+0.076 0.064 1.00	Leseverstehen, Teil 3
+0.068 0.819 0.30	Lungall
+0.092 0.045 1.00	LANGUAGE Tests
+0.153 0.045 1.00	Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können
+0.173 0.043 1.00	jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 - 20 auf dem
+0.193 0.047 1.00	Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+0.269 0.045 1.00	11. Während Ihres Sommerurlaubs in der Schweiz möchten Sie ein Konzert besuchen Sie
+0.307 0.074 1.00	interessieren sich für die traditionelle Musik dieses Landes.
+0.347 0.049 1.00	12. Ein Freund von Ihnen interessiert sich für Norwegen. Sie wollen ihm ein passendes Buch.
+0.388 0.047 1.00	13. Sie möchten gerne in einem Restaurant mit Live-Musik essen.
+0.429 0.045 1.00	14. Sie suchen ein Geschenk für die 12-jährige Tochter Ihrer Schweizer Freunde.
+0.468 0.047 1.00	15.Sie suchen für Ihre Freunde ein passendes Geschenk. Ihre Freunde kochen gern selbst und
+0.507 0.078 1.00	probieren oft neue Rezepte.
+0.548 0.049 1.00	16. Sie möchten am Samstagabend griechisch essen gehen.
+0.589 0.047 1.00	17. Sie suchen ein Restaurant, in dem Sie draußen sitzen können .
+0.629 0.047 1.00	18. Sie sind im Juni in München und möchten ein Konzert mit Gesang besuchen .
+0.708 0.049 1.00	20. Sie sind am Flughafen und möchten etwas essen.

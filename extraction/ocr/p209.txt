@@ -1,0 +1,23 @@
+0.093 0.043 1.00	immer in meinem Heimatland.
+0.123 0.012 1.00	• Ich bevorzuge Stabilität und Familienleben ,Das macht mir viel Spaß)
+0.170 0.016 1.00	***************************
+0.170 0.392 1.00	***********************************
+0.211 0.010 1.00	Teilnehmer B
+0.247 0.092 0.30	(O)
+0.262 0.784 0.30	Jjis slji
+0.277 0.006 0.50	TollnehmendelrBX
+0.312 0.010 1.00	Teil 2: Über ein Thema sprechen (ca. 6 Minuten)
+0.337 0.008 1.00	In einer Zeitschrift haben Sie etwas zum Thema Hauskauf gelesen. Berichten Sie Ihrer
+0.352 0.010 1.00	Gesprächspartnerin/ Ihrem Gesprächspartner darüber.
+0.365 0.010 1.00	Ihre Gesprächspartnerin/Ihr Gesprächspartner hat eine andere Meinung dazu gelesen und berichtet Ihnen
+0.379 0.010 1.00	auch darüber.
+0.394 0.012 1.00	Unterhalten Sie sich dann mit Ihrer Gesprächspartnerin/Ihrem Gesprächspartner über das Thema. Sagen Sie
+0.408 0.010 1.00	Ihre Meinung und erzählen Sie von eigenen Erfahrungen.
+0.449 0.010 1.00	Hauskauf
+0.478 0.010 1.00	Ein Haus kaufen? - Nein, das kommt für mich nicht in Frage, Denn ich weiß nicht, wo ich in
+0.497 0.012 1.00	den nächsten Jahren leben werde. Vielleicht muss ich aus beruflichen Gründen ins Ausland
+0.515 0.010 1.00	ziehen. Außerdem lebe ich allein und brauche nicht so viel Platz
+0.754 0.587 1.00	Jörg Göbel, 30 Jahre, Elektroingenieur
+0.812 0.008 1.00	- Ich habe auch einen Beitrag von *Jörg Göbel* gelesen.
+0.849 0.033 1.00	Er ist 30 Jahre Alt .und arbeitet als Elektroingenieur.
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

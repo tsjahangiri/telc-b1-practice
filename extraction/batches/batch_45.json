@@ -1,0 +1,299 @@
+{
+ "batch": 45,
+ "pages": [
+  441,
+  450
+ ],
+ "records": [
+  {
+   "page": 441,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich glaube wir sollten sowohl unsere Freunde aus dem Kurs ,als auch\nunsere Lehrer einladen ,aber welche Aktivitäten können wir machen?\n Wir können nicht nur tanzen ,sondern auch einige Teamspiele spielen ,das\nfinde es sehr interessant ,was meinst du?\n Ja ,ich glaube das wird bestimmt eine tolle Party ,und wir werden viel\nSpaß haben.\n Ich auch ,bis dann.\n Bis bald\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam third-party notes — outside exam-paper scope",
+   "uncertain": []
+  },
+  {
+   "page": 442,
+   "paper": "P30",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\na) Finanzielle Unterstützung für Kunstprojekte mit Schülern\nb) Winterveranstaltung auf dem Eis mit Musik\nc) Aktionsprogramm der Eu:Finanzielle Unterstützung für italienische Künstler\nd) Kunstausstellung von italienischen Schülern\ne) Deutschlernen mit euer Methode im Radio\nf) Geld für gemeinsame europäische Projekte\ng)Elternverein organsiert Kunstausstellung\nh) Mit der Eisenbahn ins winterliche Wien\ni) Mehr Geld für österreichische Musikschulen\nJ) Wie Sprachaufenthalte auswählen?",
+   "arabic_labels_excluded": [
+    "الدعم المالي"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "hschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P30 compared on legible contact sheet; identical to verified P06",
+   "uncertain": []
+  },
+  {
+   "page": 443,
+   "paper": "P30",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. Rund 150,000 Sprachreisen werden von Deutschen jährlich unternommen. Der Wunsch, eine\nandere Sprache zu lernen, kann verschieden Gründe haben: private, schulische oder berufliche.\nDas Angebot an Sprachreisen wächst ständig, über die Qualität ist jedoch wenig oder nichts\nbekannt. Im Marktplatz geht es diesmal um Kriterien für das Lernen mit Erfolg. Welche\nMethoden sind zu empfehlen, welche Anbieter kosten? Ihre Fragen werden am Hörertelefon\nunter 0800-839601 von Fachleuten beantwortet.\n2. Die Metropole Wien lädt zum winterlichen Eisvergnügen vor dem Wiener Rathaus ein: vom 22.\nJanuar bis 7.März kann man auf 1800 Quadratmetern übers Eis fahren. Die Musik dazu bestimmt\nden Fahrstil und reicht vom klassischen Walzer bis zur Diskomusik. Nachts werden auf der\nEisbahn Partys veranstaltet, vom Samba - Fest bis zum Hip-Hop –Event. Speisen und Getränke\ngibt es an verschiedenen Ständen, Schlittschuhe und Stiefel kann man leihen. Informationen:\nWiener Tourismusverband.\n3. Für das Aktionsprogramm der Europäischen Union (EU) zur beruflichen Weiterbildung, Leonardo\nda Vinci, können noch bis zum 31. März Anträge gestellt werden. Ziel des Programms ist es,\neuropäische Projekte zur beruflichen Weiterbildung zu unterstützen Anträge auf finanzielle\nunterstützen können die Institutionen stellen, die mit mindestens zwei weiteren europäischen\nPartnern an einem Projekt arbeiten wollen. Information: Nationale Koordinerungsstelle\nLeonardo da Vinci, Fehrbelliner Platz 3, D-10707 Berlin, Tel, 030/8643-0, Fax- 2637.\n4. Wien(SN.APA). Wie das Unterrichtsministerlum mitteilte, sollen im kommenden. Jahr monatlich\n70,000 Euro für Kulturprojekte an Schulen zur Verfügung gestellt werden. Unterstützt würden\ndamit Veranstaltungen und Projekte, die das Verständnis der Kinder und Jugendlichen für die\nKünste wecken, das Interesse am Musisch – Kreativen verstärken und zu Kontakten und einer\nAuseinandersetzung mit Künstlern führen. Dadurch soll in altersgemäßer Form die ganzheitliche\nEntwicklung der Persönlichkeit von Kindern und Jugendlichen gefördert werden.\n5. Zum sechsten Mal veranstaltet das Comitato Geniton Binnigen/ Bottmingen seine breit\nangelegte multikulturelle Kunstausstellung Arte. An der Veranstaltung nehmen 70 Künstlerinnen\nund Künstler aus der Region sowie Gäste aus Italien, Frankreich, Deutschland und weiteren\nLändern teil. Bei dem vor 18 Jahren gegründeten Comitato handelt es sich um einen\nElternverein, der damals italienischsprachigen Kindern bei ihren Schulprobiemen hilfreich zur\nSeite stand. Da die jetzige dritte Kindergeneration nicht mehr diese Probleme hat, suchte das\nComitato nach neuen Aufgeben und fand in der Organisation der alljährlichen Kunstausstellung\nein neues, interessantes Betätigungsfeld.",
+   "arabic_labels_excluded": [
+    "الدعم المالي"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.995,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "getranke"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P30 compared on legible contact sheet; identical to verified P06",
+   "uncertain": []
+  },
+  {
+   "page": 444,
+   "paper": "P30",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nDie Angst vor Buchstaben abbauen\nEtva 800 000 Menschen in der Schweiz haben zwar die Schule besucht, können aber\nDennoch nicht richtig lesen und schreiben. Einige holen das Versäumte später nach.\nVon Gabriela Baumgartner\nDas Qualifikationsgespräch mit dem Chef sei sehr positiv gewiesen erzählt Kurt Hunziker seiner Gruppe. Auch beim\nSprechen fühle ich mich heute viele sicherer. Der 33-Jährige lächelt und blick noch etwas unsicher in die Runde. Es hat\nsich wirklich gelohnt.\nImmer wieder Angst.\nNeben ihm sitzt Sonja Kündig. Seit bald zwei Jahren sind die Teilnehmerinnen und Teilnehmer dieses Kurses damit\nbeschäftigt nachzubholen, was sie alle im Laufe ihres Lebens irgendwann einmal aufgegeben hatten: Lesen und\nSchreiben. Einmal pro Woche besuchen sie den Kurs über, tauschen Erfahrungen aus, motivieren sich gegenseitig.\nWahrheit lange vertuscht\nFast zehn Jahre lang arbeitete Sonja Kündig bei einer Schweizer Grossbank. Ich verstand einfache Texte wie Witze in\nZeitschriften. Schreiben aber konnte die heute 45-jährige Mutter zweier Söhne nur gerade mal ihre Adresse. Dafür hatte\nsie einen außergewöhnlich Sinn für Genauigkeit und ein gutes Gedächtnis für Zahlen. Problematich wurde es erst, als sie\nihren Mann kennenlernte. Ich hatte furchtbare Angst, ihm die Wahrheit zu sagen. Würde er mich für dumm halten? Ihr\nMitstreiter Michael Feller schwankt noch immer ständig zwischen Hoffnung und Verzweiflung. Weil seine Eltern häufig\nden Wohnort wechselten, hatte der 36- Jährige große Probleme in der Schule. Als ich vor vier Jahren hierher kam,\nkonnte ich gar nichts. Ich schämte mich, lebte sehr zurückgezogen und hatte kaum Bekannte. In der Zwischenzeit hat er\naufgeholt, kann sich jetzt auch mündlich besser verständigen.\nZum ersten Mal in seinem Leben traut er sich, mitzureden und seine Meinung zu sagen. Zufrieden ist Michael Feller aber\nnoch nicht. Beim Lesen einer Zeitung oder eines Buches hat noch immer Probleme. Manchmal verstehe ich einzelne\nWörter nicht, und dann macht. Verzweifelt wirft er in solchen Situationen den Text weg. Manchmal kommt es mir vor,\nals würde ich einen Teufel in meinen Händen halten.\nBesseres Selbstwertgefühl\nLese- und Schreibschwächen drücken auf das Selbstwertgefühls, erklärt Silvia Herdeg, Kursleiterin am Verein Lesen und\nSchreiben für Erwachsenes. In diesen Kursen wird deshalb nicht nur stur Grammatik gelernt, Trainiert wird ein neuer\nKommunikationsstil. Die Leute sind erleichtert, dass sie hier mit ihrem Problem nicht alleine sind. Mit jedem Fortschritt\nöffnen sie sich ein Stück weiter. Nach zwei Jahren sind viele wie verwandelt. Einige Teilnehmende haben überhaupt erst\nnach dem Kurs gewagt, eine anspruchsvollere Stelle zu suchen. Andere haben ihre Unabhängigkeit zurückgewonnen.\nFrüher habe ich nie mit Kollegen über einen Zeitungsartikel diskutieren können, erklärt Christian Koller. Meine Angst\nwar zu gross, ich könnte etwas falsch verstanden haben und mich dadurch lächerlich machen. Heute rede ich mit .",
+   "arabic_labels_excluded": [
+    "الخوف من الحروف"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.984,
+    "ocr_words_missing_from_textlayer": 6,
+    "sample_missing": [
+     "bssucht",
+     "halben",
+     "könncnaber",
+     "manschen",
+     "schul",
+     "schwciz"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P30 compared on legible contact sheet; identical to verified P06",
+   "uncertain": []
+  },
+  {
+   "page": 445,
+   "paper": "P30",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. In der Schweiz gibt es etwa 800.000 Menschen, die\nals Kind Angst vor der Schule hatten.\nA\nbeim Lesen und Schreiben große Schwierigkeiten haben.\nerst als Erwachsene Lesen und Schreiben lernen.\nC\n7. Sonja Kündig\nbesitzt die Fähigkeit, sich Zahlen sehr gut zu merken.\nA\nhat nach dem Kurs eine Stelle bei einer Bank gefunden.\nlernte ihren Mann im Kurs kennen.\nC\n8. Michael Feller\nist heute mit seinen Lernfortschritten zufrieden.\nA\nversucht jetzt, trotz Schwierigkeiten längere Taxte zu lesen.\nwechselte den Wohnort, weil er Probleme in der Schule hatte.\nC\n9. Die Leiterin des Kurses stellt fest, dass\nder Kurs die Teilnehmenden selbstsicherer macht.\nA\ndie Teilnehmenden keinen Grammatikunterricht brauchen.\nsie selbst einen neuen Kommunikationsstil lernen muss.\nC\n10. Christian Koller\ndiskutiert nun auch mit Kollegen über Themen aus der Zeitung.\nA\nhat noch nie einen Zeitungsartikel gelesen.\nwurde früher von seinen Kollegen oft ausgelacht.\nC",
+   "arabic_labels_excluded": [
+    "الخوف من الحروف"
+   ],
+   "images": {
+    "count": 5,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "ehschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P30 compared on legible contact sheet; identical to verified P06 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 446,
+   "paper": "P30",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Während Ihres Sommerurlaubs in der Schweiz möchten Sie ein Konzert besuchen Sie\ninteressieren sich für die traditionelle Musik dieses Landes.\n12. Ein Freund von Ihnen interessiert sich für Norwegen. Sie wollen ihm ein passendes Buch.\n13. Sie möchten gerne in einem Restaurant mit Live-Musik essen.\n14. Sie suchen ein Geschenk für die 12-jährige Tochter Ihrer Schweizer Freunde.\n15. Sie suchen für Ihre Freunde ein passendes Geschenk. Ihre Freunde kochen gern selbst und\nprobieren oft neue Rezepte.\n16. Sie möchten am Samstagabend griechisch essen gehen.\n17. Sie suchen ein Restaurant, in dem Sie draußen sitzen können .\n18. Sie sind im Juni in München und möchten ein Konzert mit Gesang besuchen .\n19. Sie sind in der Schweiz und suchen ein Souvenir für Ihre Freunde.\n20. Sie sind am Flughafen und möchten etwas essen.",
+   "arabic_labels_excluded": [
+    "الموسيقا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.986,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "lungall"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P30 compared on legible contact sheet; identical to verified P06 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 447,
+   "paper": "P30",
+   "section": "L3",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nPAVILLON\nCantino\nIm Saalbau:\nGALAKONZERT\nSamstag, 30. Januar,\nSonienss\nSymohoniscnes Dtssoteneetas\nStadtharmonie Zünen\n17.00 Uhr\nOsrtikon Seebach\nDas Casal Quarfett spielt\nund 18:00 bis 23:00 UM\nLeitung: Erfe Conus\nCart Maria:\nWerke Npn\nSonntag TAPAS-Brunch 12:00 bie 15:00. Uhr\nLudwig van Beethoven,\nEssen Sie Tapar, to viela Sie wollen\nPnitet S4\nGeorg Crumb\nEingaModerngnetatntei Mheseammakanse\nModern\nKarten zu Fr. 19.-, 27 - und 35.-\nAntonin Dvořák\nBullett Seryra Viomms(Cil Soona\nBullettzentrale Tel. 01 221 22 83\nTel. 01 221 1671\nVorverkauf:\nInfo Aarau 062 822 75 2\nh\nMusikhaus Bucher, 8050 Ziwlch.\nAbendkasse am Konzerttag ab 18.00 Uhr\nTel. 01 312 58 43\nAlpenklänge\ng\nDie andere Schweizer Volksmusik\nGastland NORWEGEN\nDo 17. Juli 20 Uhr Oberwalliser Spillit\nHiltl. Vegetarisch\nKULINARISCHE Marchen\nGast: Sina\nnach\naus Fjordiachs\nPaul Locher, Geige Elmar Schmid, Klarinette\nLust und Laune\nVOM 26. MAI BIS 22. JUNI\nKlaus Schmid, Klarinette Oswald Bumann, Bassgei-\nge Sabine Gertschen, Hackbrett Marcel Volken,\nVegetarische Küche liegt im Trend!\nZum Jubiläum des Hitt in Zürich.\nFrisch aus Norwegen und köstlich\nSchwyzerörgeli Edmund Volken, Hackbrett\ndes ersten vegetarischen Restaurants in E\nzubereitet.\nLassen Sie sich von unseren sommer-\nDo 24. Juli 20 Uhr Roots of Communication\nveröffentlicht Rolf Hill über 60 der belie\nlichen Lachskreationen uberraschen.\nRezepte zum Nachkochen,\nGast: Erika Stucky\nHiltl. Vegetarisch nach Lust unc\nCOFFEE SHOP, BINARIO UNO und\nFlughafenrestaurants TOP AIR, ASIA\nRobert Morgenthaler, Posaune, Alphorn, Didgeridoo\n168 Seiten, 120 farbige Abbild\nJean-Jacques Pedretti, Alphorn, Posaune Lukas Niggli,\ngebunden, Fr. 59.-\nBRASSERIE\nWERDERVERLAG\nReservation 01-816 60 60\nSchlagzeug, Perkussion\nPostfach, 8021 Zuric\nHOFKONZERTE\nTel. 0846 860 560, Fax 01 //\nInternet www.werderver\nZentrum am Obertor 8, Winterthur\nJetzt im Buchhandel er\nVorverkauf: Zentrum am Obertor, Tel. 052213 88 88\nJ\nTourist-Service, Tel. 052 26926 66\nBei schlechter Witterung: Neuwiesenhoi-Saa), Wartsti, 17\nNeuburger\nAndrás Adorján\nAuskunft am Veranstaltungstag über Nr. 1600\nFlöte\nGenießen Sie unsere Gastf\ndie sagenhafte Auswah)\nUwe Komischke\nTrompete\nSCHWEIZER HEIMATWERK - Geschenke\nAm Wocher\nFriedmann Winklhofer\nvon hier\nvon heute\nvon Hand\ngriechische St\nCembalo und Leitung\nHier finden Sie das optimale Geschenk für jede und jeden!\nHopfenstraße 19, be\nTraditionelles Kunsthandwerk und Trachten, Panorama-Poster.\nKonzert für Orchester,\nTelefon 01\nTrompeten und Floten\njetzt neu:\nGenf\ngroße Auswahl an CDs\nAarau\nDi., 22.6 20 Uhr\nverschiedenster\nZürich, Tel. 01 211 57 80\nSt. Gallen\nMo.-Fr.: 11:30-14:00\nBei schlechtem Wetter im\nSchweizer Künstler\nSamstag/Sonnta\nhttp://www.heimatwerk.ch\nerkulessaal)",
+   "arabic_labels_excluded": [
+    "الموسيقا"
+   ],
+   "images": {
+    "count": 3,
+    "page_coverage": 0.97
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 210,
+    "sample_missing": [
+     "aarau",
+     "abbild",
+     "abendkasse",
+     "adorj",
+     "alpenklänge",
+     "alphorn",
+     "andere",
+     "andr",
+     "antonin",
+     "asia",
+     "auskunft",
+     "auswah",
+     "auswahl",
+     "bassgei",
+     "beethoven",
+     "belie",
+     "binario",
+     "brasserie",
+     "brunch",
+     "bucher",
+     "buchhandel",
+     "bullett",
+     "bullettzentrale",
+     "bumann",
+     "cantino"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Ads photo — same blurred ad page as p67 (P06); same unreadable areas",
+   "uncertain": [
+    "p447: same blurry top row / cropped edges as p67 — not reconstructed"
+   ]
+  },
+  {
+   "page": 448,
+   "paper": "P30",
+   "section": "SB1",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 1\nLANGUAGE Tests\nLesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.\nMarkieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen\n……………………………………………………………………………………………………………………………………………………\nLiebe Dominique,\nda ich dich telefonisch nicht erreiche, auch nicht per E-Mail, schreibe ich dir einen Brief. Es ist nämlich etwas\nganz Besonderes (21) : Stelle (22) vor, ich habe die Stelle bei der EU in Brüssel bekommen!\nDu weißt noch: Es gab ungefähr 300 Bewerber, und unter denen (23) die besten ausgesucht. Ich hatte mich\nauf das Vorstellungsgespräch schon (24) Zeit vorher vorbereitet. Trotzdem – ohne meine Sprachkenntnisse\nund meine Auslandserfahrung ich die Stelle sicher nicht bekommen. Aber ein bisschen Glück braucht (25)\nauch,(26) so etwas gelingt.\nNun bitte ich dich (27) ein paar gute Tipps. Vielleicht kennst du auch jemanden, von(28) ich Informationen\nüber das Leben in Belgien bekommen kann? Ich würde dich am liebsten kürz (29) , um mit dir persönlich zu\nsprechen. Geht das vielleicht (30) zwei Wochen, Z.B. am übernächsten Wochenende? Bitte gib mir\nBeschreiben.\nHerzlich Grüße\nKatie\nA geschah\nA lange\nA über\n30.\n21.\n24.\n27.\nA\nbis\nin\nB geschehen\nB langem\nB um\nC geschieht\nC langer\nC vor\nan\nC\n22.\nA\ndich\n25.\nA\ner\n28.\nA\ndem\nB\ndir\nB\nich\nden\nB\nDu\nman\ndenen\nC\nC\nC\nA halten\nA als\nA getroffen\n23.\n26.\n29.\nB wären\nB damit\nB treffe\nC wurden\nC ob\nC treffen",
+   "arabic_labels_excluded": [
+    "ل",
+    "دومينيك معد"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 3,
+    "sample_missing": [
+     "hull",
+     "jses",
+     "slinaga"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P30 compared on legible contact sheet; identical to verified P06 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 449,
+   "paper": "P30",
+   "section": "SB2",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 2\nLANGUAGE Tests\nLesen sie den Text und schließen Sie\nLücken 31 – 40. Benutzen Sie die Wörter\n(a, o) Jedes Wort passt nur einmal.\nMarkieren Sie Ihre Lösungen für die\nAufgaben 31 – 40 auf dem\nAntwortbogen.\nSehr geehrte Frau Borner,\nes gibt ganz viele Raschläge, wie man sich ernähren soll, was man essen soll und was nicht. Die meisten\nEmpfehlungen sind aber nicht für etwas, (31) gegen etwas, und zwar immer wieder gegen etwas anderes:\ngegen Fleisch zum Beispiel oder gegen Zucker, aber auch gegen Milch. So (32) man etwa, wer kein Fleisch isst,\nlebt nicht nur gesünder, sondern fühlt sich auch besser.\n(33) ich eine Zeitschrift durchsah, ist mir Ihre Anzeige aufgefallen, und nun habe ich folgende Fragen an Sie:\nVon (34) Nahrungsmitteln darf man eigentlich so viel essen, wie man will? Was (35) jeden Tag gegessen\nwerden? Und wie ist das mit der Milch? Die einen sagen, Milch ist sehr gesund wegen der vielen (36)\nNährstoffe. Andere meinen, wer viel Milch trinkt, kann Probleme mit dem Magen bekommen. Außerdem kann\nman (37) Milch auch Mineralwasser trinken. Was soll ich jetzt glauben?\nFür eine Antwort (38) meine Fragen danke ich Ihnen im Voraus. Könnten Sie mir auch noch eine Broschüre\nschicken? Das Thema Essen und Sport (39) mich besonders interessieren, (40) ich selber viel Sport treibe.\nMit freundlichen Grüßen\nSilvia Schönenberger\na\nALS\nd\nMÖCHTE\ng\nSOLLTE\nj\nWAS\nm\nWICHTIGEN\nb\nAUF\ne\nNENNT\nh\nSONDERN\nk\nWEIL\nn\nWÜRDE\nc DESWEGEN\nf\nSAGT\ni\nSTATT\nl\nWELCHEN\no\nZUM",
+   "arabic_labels_excluded": [
+    "السيدة بورنر معدل ) الطعام الصحي ("
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.06
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "plesl"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P30 compared on legible contact sheet; identical to verified P06 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 450,
+   "paper": "P30",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 1\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.\n…………………………………………………………………………………………………………………………………………………………\n41. Herr Pawliczek erledigt alle seine Einkäufe im Internet gemacht.\n42. Frau Zimmermann legt beim Einkaufen großen Wert auf persönlichen Kontakt.\n43. Frau Schmidt findet zu Hause nicht genug Ruhe, um im Internet einzukaufen.\n44. Frau Ruttnigg ist vom Einkaufen im Internet nicht überzeugt.\n45. Herr Krause kauft seine Medikamente am liebsten in der nächsten Stadt.",
+   "arabic_labels_excluded": [
+    "التسوق عبر اإلنترنت"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "chull"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P30 — outside website scope",
+   "uncertain": []
+  }
+ ]
+}

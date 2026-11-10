@@ -1,0 +1,20 @@
+{
+ "ads": {"page": 6, "boxes": {"a":[0.10,0.20,0.37,0.325],"b":[0.37,0.20,0.62,0.34],"c":[0.62,0.20,0.88,0.33],"d":[0.10,0.325,0.37,0.48],"e":[0.37,0.34,0.63,0.53],"f":[0.63,0.35,0.88,0.53],"g":[0.08,0.48,0.37,0.69],"h":[0.37,0.53,0.64,0.73],"i":[0.64,0.55,0.88,0.68],"j":[0.08,0.69,0.36,0.88],"k":[0.36,0.73,0.65,0.88],"l":[0.65,0.68,0.92,0.88]}},
+ "ad_fixes": [
+  ["a","Und wenn mal\nBesuch kommt...","Und wenn mal\nBesuch kommt ..."],
+  ["a","8 06323/981428","☎ 06323/981428"],
+  ["c","Metali","Metall"],["c","einzein","einzeln"],
+  ["d","Tankstelle\n","Tankstelle –\n"],
+  ["e","direktér","direkter"],
+  ["f","Tagliche Aktivitaten","Tägliche Aktivitäten"],
+  ["f","Bahnhofstr. 7, D-94239 Gotteszell/\nFamilie Schmidt-Kreling\nZachenDerg","Familie Schmidt-Kreling\nBahnhofstr. 7, D-94239 Gotteszell/\nZachenberg"],
+  ["g","zum,Strand","zum Strand"],
+  ["h","gleich hinter den Ostseedünen","... gleich hinter den Ostseedünen"],
+  ["h","• Übernachtung in Doppelwandzelten mit\nLeistungen:","Leistungen:\n• Übernachtung in Doppelwandzelten mit"],
+  ["j","Tel/Fax:","Tel./Fax:"],
+  ["k","*","mit Biergarten\nRestaurant\nRODENHOF\nGrülingsstr. 91\n66113 Saarbrücken\nsucht Kellner/in\n(Vollzeitbeschäftigung)\n☎ 0681/4 45 48"],
+  ["l",". Zubehör","• Zubehör"]
+ ],
+ "notes": {"L3": ["Ads are a photographed magazine page (p6); text transcribed with OCR and corrected against the image. Ad g 'Zugang zum Strand': a speck between 'zum' and 'Strand' was read by OCR as a comma and omitted."]},
+ "verified": {"L1": true, "L2": true, "L3": true, "SB1": true, "SB2": true}
+}

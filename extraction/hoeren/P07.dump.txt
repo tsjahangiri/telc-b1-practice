@@ -1,0 +1,29 @@
+=== P07-H1 [Bus zur Arbeit] p[83] src=text_layer key p88
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören diese Texte nur einmal. / Entscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.
+  41. Die Sprecherin könnte sich vorstellen, mit dem Bus zur Arbeit zu fahren.   [-]
+  42. Die Sprecherin findet es gut, dass sie zur Arbeit ein Stück zu Fuß gehen kann.   [+]
+  43. Der Sprecher fährt nie mit dem Auto zur Arbeit.   [+]
+  44. Der Sprecher benutzt für den Weg zur Arbeit zurzeit verschiedene Verkehrsmittel.   [-]
+  45. Für die Sprecherin ist der Firmenbus die einzige Möglichkeit zur Arbeit zu kommen.   [-]
+  nums=[41, 42, 43, 44, 45] complete=True
+=== P07-H2 [Frau Reiter] p[84] src=text_layer key p88
+INSTR: Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. / Sie hören das Gespräch zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.
+  46. Frau Reiter ist die einzige Lokführerin in Deutschland.   [-]
+  47. Sie wollte schon mit 10 Jahren Lokführerin werden.   [-]
+  48. Frau Reiter hat nach der Schule eine Lehrstell als Elektronikerin gefunden.   [+]
+  49. Nach der Lehre hat Frau Reiter als Automechanikerin gearbeitet.   [-]
+  50. Frau Reiters Eltern waren mit der Berufswahl ihre Tochter einverstanden.   [+]
+  51. Frau Reiter muss manchmal Reparaturen machen.   [+]
+  52. Frau Reiter macht gerne Nachtdienst.   [-]
+  53. Von der Arbeit ist Frau Reiter oft müde.   [+]
+  54. Der Mann von Frau Reiter hat regelmäßige Arbeitszeiten.   [-]
+  55. Frau Reiter möchte später Lokführer und Lokführerinnen ausbilden.   [+]
+  nums=[46, 47, 48, 49, 50, 51, 52, 53, 54, 55] complete=True
+=== P07-H3 [Der Fahrer] p[85] src=text_layer key p88
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören jeden Text zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen.
+  56. Der Fahrer des Wagens mit dem Kennzeichen HB-D 256 soll ins Erdgeschoss kommen.   [+]
+  57. Die Firma liefert das bestellte Sofa am Dienstag ab drei Uhr nachmittags.   [-]
+  58. Der Gasthof Lindner ist neben einer Tankstelle.   [+]
+  59. Der Film Komiker läuft täglich um 20 Uhr.   [+]
+  60. Das Wetter ist am Abend noch gut.   [-]
+  nums=[56, 57, 58, 59, 60] complete=True

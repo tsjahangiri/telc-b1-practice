@@ -1,0 +1,22 @@
+0.076 0.086 1.00	Schriftlicher Ausdruck
+0.093 0.070 1.00	LANGUAGE Tests
+0.128 0.047 1.00	Eine Freundin hat Ihnen den folgenden Brief geschrieben:
+0.272 0.047 1.00	Liebe(r).
+0.307 0.047 1.00	Wie geht es dir und deiner Familie?
+0.339 0.045 1.00	Bei mir läuft alles prima. Endlich habe ich eine neue Arbeitsstelle. Ich habe nur ein kleines Problem: Es ist ein
+0.359 0.049 1.00	bisschen zu weit, um zu Fuß zu gehen.
+0.389 0.049 1.00	Und der Bus fährt nur alle 30 Minuten. Früher bin ich meist mit dem Fahrrad gefahren, aber hier gibt es keine
+0.413 0.049 1.00	Fahrradwege. Und da ist ja auch noch mein Daniel, den ich morgens in den Kindergarten bringen muss.
+0.446 0.055 1.00	Der liegt zum Glück gleich neben meiner neuen Firma. - Wie kommst du denn zur Arbeit oder zum
+0.465 0.049 1.00	Deutschkurs?
+0.496 0.053 1.00	Wollen wir uns nicht mal wieder treffen und alle zusammen was unternehmen? Ich würde mich freuen.
+0.506 0.503 1.00	chschul
+0.565 0.047 1.00	Liebe Grüße
+0.600 0.047 1.00	Vera
+0.672 0.047 1.00	Antworten Sie Vera. Schreiben Sie etwas zu allen vier Punkte:
+0.717 0.045 1.00	• Was es bei Ihnen Neues gibt .
+0.735 0.047 1.00	. Was Sie zur Arbeit kommen.
+0.756 0.047 1.00	.Was Sie über Veras neue Stelle wissen wollen .
+0.776 0.049 1.00	. Vorschlag für gemeinsame Unternehmung?
+0.813 0.049 1.00	Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine
+0.836 0.049 1.00	passende Anrede, Einleitung und einen passenden Schluss.

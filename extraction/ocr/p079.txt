@@ -1,0 +1,19 @@
+0.076 0.064 1.00	Leseverstehen, Teil 3
+0.092 0.045 1.00	LANGUAGE Tests
+0.153 0.045 1.00	Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können
+0.173 0.043 1.00	jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 - 20 auf dem
+0.193 0.047 1.00	Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+0.269 0.045 1.00	11. Sie lieben Krimis und möchten daher einer Krimiautorin beim Vorlesen zuhören.
+0.310 0.045 1.00	12. Ihr Bekannter würde gerne am Wochenende ein Boot mieten.
+0.349 0.047 1.00	13. Sie möchten sich in einem Hotel in den Bergen erholen und mit dem Zug anreisen.
+0.389 0.047 1.00	14. Sie möchten sich eine Märchenvorstellung im Theater ansehen.
+0.432 0.049 1.00	15. Ihre Freundin sucht ein angenehmes Hotel, in dem man auch Sport treiben kann.
+0.471 0.047 1.00	16.Am Sonntag wollen Sie einen kleinen Ausflug mit Kindern machen. Die Kinder mögen
+0.510 0.078 1.00	Tiere.
+0.551 0.045 1.00	17. Ihre Bekannten möchten gerne im Mai eine Schiffsfahrt machen.
+0.592 0.049 1.00	18. Sie möchten gerne am Wochenende tanzen gehen und suchen eine tolle Disco.
+0.631 0.047 1.00	19. Der kleine Sohn von Freunden ist begeistert von der Eisenbahn. Sie möchten am
+0.670 0.074 1.00	Wochenende mit ihm etwas Interessantes machen.
+0.709 0.045 1.00	20.Sie möchten im August eine Woche in den Bergen wandern und brauchen eine erfahren
+0.733 0.801 0.30	V/
+0.750 0.076 1.00	Person, die mit Ihnen geht.

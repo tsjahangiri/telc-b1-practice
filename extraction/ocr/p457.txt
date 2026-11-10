@@ -1,0 +1,27 @@
+0.093 0.014 1.00	• Ich mache viele Partys bei mir zu Hause ,und meine Freunde sagen
+0.123 0.047 1.00	mir immer ,dass ich eine schöne Wohnung habe ,und das macht
+0.156 0.047 1.00	mir viel Spaß.
+0.188 0.014 1.00	• Je schöner die Wohnung ist ,desto glücklicher fühle ich mich.
+0.234 0.016 0.50	************
+0.234 0.458 1.00	******************************
+0.276 0.012 1.00	****
+0.276 0.458 0.50	****
+0.276 0.643 1.00	****************
+0.318 0.012 1.00	Teilnehmer B
+0.365 0.047 1.00	Teil 2 Über ein Thema sprechen (ca. 6 Minuten)
+0.385 0.047 1.00	In einer Zeitschrift haben Sie etwas zum Thema „Schöner Wohnen" gelesen. Berichten Sie Ihrer Gesprächs-
+0.403 0.045 1.00	partnerin/Ihrem Gesprächspartner darüber.
+0.414 0.045 1.00	Ihre Gesprächspartnerin/Ihr Gesprächspartner hat eine andere Meinung dazu gelesen und berichtet Ihnen
+0.428 0.045 0.50	auch darüber.
+0.439 0.045 1.00	Unterhalten Sie sich dann mit Ihrer Gesprächspartnerin/Ihrem Gesprächspartner über das Thema.
+0.454 0.045 1.00	Sagen Sie Ihre Meinung und erzählen Sie von eigenen Erfahrungen.
+0.450 0.415 1.00	hochschul
+0.465 0.441 0.50	lochschu.
+0.508 0.086 1.00	Schöner Wohnen
+0.783 0.563 0.50	_Mir ist es relativ egai, wie meine Möbel
+0.797 0.565 1.00	aussehen. Sie müssen vor allem bequem
+0.811 0.565 1.00	und praktisch sein. Die Qualität ist natürlich
+0.824 0.563 1.00	auch wichtig. Denn wenn man Geld aus-
+0.839 0.563 1.00	gibt, will man ja auch etwas davon haben."
+0.853 0.072 1.00	Stefan Heeg, 38 Jahre, Lehrer
+0.897 0.010 1.00	www.instagram.com/mahmoudemad007

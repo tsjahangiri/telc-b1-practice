@@ -1,0 +1,45 @@
+0.074 0.072 1.00	Sprachausteine, Teil 2
+0.092 0.055 1.00	LANGUAGE Tests
+0.164 0.068 1.00	Lesen sie den Text und schließen Sie
+0.185 0.068 1.00	Lücken 31 - 40. Benutzen Sie die Wörter
+0.205 0.068 1.00	(a, o) Jedes Wort passt nur einmal.
+0.225 0.070 1.00	Markieren Sie Ihre Lösungen für die
+0.246 0.066 1.00	Aufgaben 31 - 40 auf dem
+0.265 0.066 1.00	Antwortbogen.
+0.318 0.043 0.30	sehr gethte Damen und Hetren.
+0.381 0.045 1.00	seit längerem plane ich eine Wanderreise in die Sahara-Länder. Nun ist mir beim Lesen der
+0.404 0.045 1.00	Zeitschrift Berge die Anzeige von Geo-Tours aufgefallen, denn (31) steht, dass Sie auf
+0.427 0.047 1.00	Erlebnisreisen in Wüstenregionen spezialisiert sind. Vielleicht haben Sie das richtige Angebot
+0.451 0.045 1.00	für uns - (32) für mich und meine 17-Jährige Tochter. Unsere Vorstellungen sind im Einzelnen
+0.475 0.047 1.00	diese:
+0.517 0.045 1.00	Zuerst eine Wanderreise, etwa 10 Tage, möglichst leichte Tageswanderungen(ca. 4 - 5
+0.541 0.045 1.00	Stunden), und (33) ein Erholungsurlaub am Meer. Bieten Sie solche Kombinationen an? Und
+0.564 0.045 1.00	(34) ja, zu welchem Preis? Zur Wanderreise (35) ich noch folgende Fragen: Wird das Gepäck
+0.586 0.045 1.00	von einem Übernachtungsort zum nächsten transportiert? Schläft man immer (36) freiem
+0.603 0.624 0.30	Schul
+0.612 0.047 1.00	Himmel? Ich (37) auch wissen, wie die Reisegruppen zusammengesetzt sind, (38) Sprache die
+0.634 0.047 1.00	Reiseleiterin/ der Reiseleiter spricht und ob ein Arzt (39) ist.
+0.676 0.045 0.50	Ich freue mich auf Ihr (40).
+0.721 0.047 1.00	Mit freundlichen Grüßen
+0.744 0.047 1.00	ANNETTE LUCHSINGER
+0.799 0.099 1.00	ANFRAGE
+0.799 0.228 1.00	d
+0.796 0.281 1.00	DAFÜR
+0.802 0.392 0.50	g
+0.799 0.446 1.00	DESHALB
+0.797 0.624 1.00	MÖCHTE
+0.797 0.846 1.00	WÄRE
+0.823 0.057 1.00	b
+0.822 0.098 1.00	ANGEBOT
+0.826 0.228 1.00	e
+0.822 0.271 1.00	DANACH
+0.823 0.388 1.00	h
+0.820 0.456 1.00	HÄTTE
+0.821 0.620 1.00	NÄMLICH
+0.826 0.754 0.50	n
+0.823 0.836 1.00	WELCHE
+0.847 0.107 1.00	DABEI
+0.847 0.283 1.00	DARIN
+0.846 0.470 1.00	MIT
+0.847 0.632 1.00	UNTER
+0.847 0.844 1.00	WENN

@@ -1,0 +1,298 @@
+{
+ "batch": 8,
+ "pages": [
+  71,
+  80
+ ],
+ "records": [
+  {
+   "page": 71,
+   "paper": "P06",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 2\nLANGUAGE Tests\nSie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.\n……………………………………………………………………………………………………………………………………..\n46. Frau Wenger wollte schon immer als Feuerwehrfrau arbeiten.\n47. Frau Wenger und ihr Freund haben nun eine gemeinsame Freizeitbeschäftigung.\n48. Frau Wenger hat bereits einer Freundin geholfen, deren Wohnung brannte.\n49. Probleme mit Geräten werden im Team gelöst.\n50. Die Ausbildung zur Feuerwehrfrau war sehr anstrengend.\n51. Die Kleidung der Feuerwehrleute passt oft nur Männern.\n52. Dass sie jederzeit zu Notfällen gerufen werden, kann ist für Frau Wenger.\n53. Als Feuerwehrfrau hat Frau Wenger schon viele Unfälle gesehen.\n54. Frau Wenger möchte von ihren männlichen Kollegen anders behalten.\n55. Interessenten sollen sich bei Frau Wenger melden.",
+   "arabic_labels_excluded": [
+    "السيدة فينقر"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.962,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P06; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 72,
+   "paper": "P06",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. Sie können zwei Flüge nach Griechenland gewinnen.\n57. Für Ihre Gruppe ist ein Wagen im Zug nach Aschaffenburg reserviert.\n58. Auf der Internetseite kann man auch günstige Angebote für Haushaltsgerät.\n59. Erst morgen Abend bildet sich Nebel..\n60. Am besten fahren Sie ab Northeim mit dem Bus.",
+   "arabic_labels_excluded": [
+    "اليونان"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "hschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P06; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 73,
+   "paper": "P06",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nSie haben von einer Freundin folgenden Brief erhalten:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\ndie Sommerferien kommen rasch näher und ich freue mich sehr, dass du mich besuchen kommst. Ich habe\ntolle Idee:\nIch möchte dich gerne zu einem Musikfestvial einladen, und zwar nach Rüdesheim (ca.50 km von Mainz).\nDort spielen in diesem Sommer die besten internationalen Musikgruppen.\nIch finde Open -Air - Konzerte einfach toll: die friedliche Stimmung unter den Besuchern, die gute Music und\neinfach viele schöne Momente, die man nie mehr vergisst. Vor allem, wenn das Wetter gut ist, kann man das\nso richtig genießen.\nWir könnten mit dem Zug nach Rüdesheim fahren oder auch mein Auto nehmen. Was wäre dir lieber?\nÜbernachten würde ich gern auf dem Festplatz. Was meinst du? Und willst du vielleicht noch jemanden\nmitbringen? Vielleicht hast du noch einen Wunsch, was du sonst noch hier machen möchtest? Schreibe mir\nbitte möglichst bald.\nIch freue mich schon auf deine Antwort.\nHerzliche Grüße\nSonja\nAntworten Sie Sonja. Schreiben Sie in Ihrem Brief etwas zu allen vier Punkten:\nWas sonst noch machen?\n. Wie zum Festival reisen?\n. Jemanden mitbringen?\n. Übernachten: Reaktion auf Sonjas Vorschlag\nÜberlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine\npassende Anrede, Einleitung und einen passenden Schluss.",
+   "arabic_labels_excluded": [
+    "زونيا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "chul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P06; legible contact sheet + OCR cross-check — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 74,
+   "paper": "P06",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\nUnterstützung\nDominique\nEinkäufe im Internet\n21 b\ngeschehen\n1\nJ\n41 +\n22 b\ndir\n2\nB\n42 -\n23 c\nwurden\n3\nF\n43 +\n24 a\nlange\n4\nA\n44 -\n5   G\n25 c\nman\n45 -\n26 b\ndamit\n27 b\num\n28 a\ndem\n29 c\ntreffen\n30 b\nin\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nBuchstaben\nessen\nWenger\n6\nB\n46 -\n31 H\nSONDERN\n7\nA\n47 +\n32 F\nSAGT\n8\nB\n48 -\n9\nA\n33 A\nALS\n49 +\n10 A\n34 L\nWELCHEN\n50 +\n35 G\nSOLLTE\n51 -\n52 +\n36 M WICHTIGEN\n53 -\n37 I\nSTATT\n54 -\n38 B\nAUF\n55 -\n39 N\nWÜRDE\n40 K\nWEIL\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\nMusik\nGriechenland\n11 H\n56 -\n12 X\n57 +\n13 X\n58 +\n14 B\n59 -\n15 I\n60 +\n16 L\n17 E\n18 A\n19 K\n20 G",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "Compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 75,
+   "paper": "P07",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\na) Märchen-Festspiele in Bremen\nb) Griechische Botschaft bietet Sprachkurse für Schüler\nc) Universitätsstadt wird 300 Jahre\nD) Wissenschaft: Von der Körpergröße hängt das Gehalt ab\nE) Durch Handel reich geworden\nF) Interessante Universitätsstadt mit hoher Lebensqualität\nG) Latein in deutschen Schulen wieder beliebter\nh) Wer wenig lacht, verdient auch weniger\ni) Fremdsprachen: Schüler lernen nur Englisch und Französisch\n  J) Griechisch wird in deutschen Schulen kaum unterrichtet",
+   "arabic_labels_excluded": [
+    "ص الخيالية",
+    "ص",
+    "مهرجان الق"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.06
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.967,
+    "ocr_words_missing_from_textlayer": 8,
+    "sample_missing": [
+     "crao",
+     "frola",
+     "guten",
+     "hello",
+     "lebensqualitat",
+     "universitastade",
+     "universitatsstadt",
+     "zhicbla"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P07 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 76,
+   "paper": "P07",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. In Deutschland lernen nur ganz wenige Schüler Griechisch. Es sind insgesamt nur 0.14 aller\nSchüler. Vor 30 Jahren waren es noch 0,48 So berichtet die griechische Botschaft in Berlin in\nihrem Europabericht. Griechisch wird meistens von Zwölftklässlern als dritte Fremdsprache\nneben Französisch und Englisch gewählt. Die wenigen Schüler, die Griechisch wählen, haben\nVerwandte in Griechenland.\n2. Dem Meer verdankt die Hansestadt Bremen ihre Bedeutung. Bremer Kaufleute und Seefahrer\nnutzten die günstige geografische Lage, um in aller Welt heimisch zu werden. Seit\nGenerationenhaben sie Handel getrieben, so dass Geld in die Stadt. Dies steht man der Stadt\nheute noch an: das Alte Rathaus, das Kaufmannhaus, die historische Innenstadt. Außerdem\nwar Bremen auch immer eine Heimat für natürlich das Märchen der Bremer Stadtmusikanten.\n3. Freiburg, die Hauptstadt des Schwarzwaldes, liegt in einer der sonnigsten Gegenden\nDeutschlands. Wo es so viel Sonne gibt , da ist auch viel Lebensfreude, und nicht zuletzt\ngehören auch badische Küche und badischer Wein zum Besten was in Deutschland geboten\nwird. Zum einmaligen Flair gemütlichen Universitätsstadt trägt auch ihre Lage bei. Frankreich\nund die Schweiz sind nicht weit entfernt. Die Stadt selbst lockt mit vielen alten Straßen mit\nzahlreichen Museen und Baudenkmälern. Über alles hinaus ragt die große Kirche, die nach 300\n– jähriger Bauzeit 1513 vollendet wurde.\n4. In einer wissenschaftlichen Untersuchung hat man erforscht, warum bestimme Menschen\nmehr Geld verdienen als andere. Britische Wissenschaftler behaupten, größeren Menschen\nzahlt der Chef mehr. Im Laufe des vergangenen Jahres haben zwei weitere Untersuchungen\nfestgestellt: Wer wenig lacht oder häufig mit Kollegen trinken geht, verdient mehr nur: Nicht\nlachen und mit Kollegen trinken, gehen das kann man lernen. Aber wachsen?\n5. Das Statistische Bundesamt berichtet, dass in deutschen Schulen allgemein wieder mehr Latein\ngelernt wird. Allein in Thüringen hat sich die Anzahl in den letzten beiden Jahren verdoppelt\nWährend der Tiefpunkt bei Latein im vorletzten Jahr erreicht war, wählen zurzeit wieder mehr\nSchüler Latein als erste Fremdsprache. Als vorteilhaft hat sich offenbar vor allem das\nwittenbergische Modell erwiesen, das Latein in der fünften Klasse mit einer modernen\nFremdsprache (Französisch, Englisch usw.) kombiniert Allerdinges sind hier meist nur drei\nStunden für beide Sprachen pro Woche vorgesehen. Das sei bei Weitem zu wenig, Kritisieren\nLateinlehrer Weitem zu wenig kritisieren Lateinlehrer.",
+   "arabic_labels_excluded": [
+    "مهرجان القصص الخيالية"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.01
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "hello"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P07 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 77,
+   "paper": "P07",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nLeben\nDas machen wir mit links\nÜber eine Million Österreicher sind Linkshänder – und langsam setzen sie sich durch in der\nRechtshänder – Welt\nSchau der macht das mit der linken Hand. Solche und ähnliche Kommentare hörte der gelernte Porzellanformer Gerhard\nSpur (51) von Besuchern, die die Porzellanmanufaktur im Wiener Augarten besichtigten und dem Künstler beim\nHerstellen eines Kunstwerkes zusahen – allerdings nur früher, als nur die rechte Hand die so genannte schöne Hand war,\ndie man zum Arbeiten. Schreiben usw. verwenden durfte. Heute ist es offensichtlich normal, dass jemand mit der linken\nHand Vasen aus Porzellan bearbeitet. Gerhard Spur wird jedenfalls nicht mehr bestaunt.\nLinks arbeiten\nGut 15 Prozent der Menschheit sind Linkshänder. Über die Gründe für Linkshändigkeit ist sich die Wissenschaft nicht\neinig. Fest steht nur. Wenn Kinder gezwungen werden, statt mit der linken Hand mit der rechten Hand zu schreiben, hat\ndies schwerwiegende Folgen. Dies führt zu Knoten im Kopf so die Linkshänder-Expertin Johanna Barbara Sattier.\nSpätestens wenn umgeschulte Kinder mit dem Lesen und Schreiben beginnen, macht sich das Chaos im Kopf\nbemerkbar. In der Schule ist es mittlerweile verboten, Linkshänder auf rechts umzuschulen. Probleme machen allerdings\nnoch Arbeitsplätze, die nicht für Linkshänder geeignet sind, erklärt Erich Pospischill, Leiter des arbeitsmedizinischen\nZentrums Mödling: Schon die Computermaus auf der falschen Seite führt zu rascherer Ermüdung, weil das Gehirn durch\ndas ständige Umdenken zusätzlich belastet wird.\nLösungen im Betrieb\nDie Maschine, an der Slata Tanasic tagtäglich arbeitet, funktioniert von links unten nach rechts oben. Genau verkehrt für\ndie 41- Jährige, die seit 21 Jahren im Seibert-Elektronikwerk arbeitet. Ich habe gesagt, dass ich mit der Maschine so nicht\narbeiten kann. Und das wurde akzeptiert. Slata wurde in einen anderen Arbeitsbereich versetzt und macht jetzt\nArbeiten, die auch mit der linken Hand möglich sind: Montieren und Vorbereiten der Bauteile.\nEltern können helfen\nBei Kleinkindern lässt sich nicht sofort erkennen, ob sie links- oder rechtshändig sind, sagt die Expertin Sattler: Viele\nKinder ahmen zuerst die Tätigkeiten in unserer rechtshändigen Welt nach. Deshalb rät Sattler den Eltern, ihren Kinder\nbeim Herausfinden ihrer Händigkeit zu helfen: Blumen gießen mit einer kleinen Kanne, einen Ball werfen – bei diesen\nHandlungen greifen Kinder automatisch mit der starken Hand zu. Und dann sollten Eltern bereits erste Konsequenzen\nziehen.",
+   "arabic_labels_excluded": [
+    "رى س",
+    "اليد الي"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.995,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "jahrige"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P07 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 78,
+   "paper": "P07",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Gerhard Spur\narbeitet heute nur noch mit der rechten Hand.\nA\narbeitet früher mit Linkshändern zusammen.\nstellt seine Kunstwerke mit der linken Hand her.\nC\n7. Heute ist wissenschaftlich bewiesen, dass\nes eine klare Ursache für Linkshändigkeit gibt.\nA\nLinkshänder besser im Lesen und Schreiben sind.\nLinkshänder das Schreiben mit der rechten Hand schadet.\nC\n8. Erich Pospischill meint, dass\nes für Linkshänder sehr oft keine geeigneten Arbeitsplätze gibt.\nA\nLinkshänder vor allem im Computerbereich eingesetzt werden.\nLinkshänder wesentlich öfter krank sind.\nC\n9. Frau Slata Tanasic\narbeitet seit 41 Jahren in der gleichen Firma.\nA\nerledigt alle Arbeiten mit der linken Hand.\nist seit 21 Jahren an der gleichen Maschine beschäftigt.\nC\n10. Laut der Linkshänder-Expertin Johanna Sattier\nhaben Linkshänder meistens auch linkshändige Eltern.\nA\nkann man Linkshändigkeit bei kleinen Kindern nicht gleich entdecken.\nsind linkshändige Kinder besonders gut im Ballspielen.\nC",
+   "arabic_labels_excluded": [
+    "رى س",
+    "اليد الي"
+   ],
+   "images": {
+    "count": 5,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "chschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P07 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 79,
+   "paper": "P07",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Sie lieben Krimis und möchten daher einer Krimiautorin beim Vorlesen zuhören.\n12. Ihr Bekannter würde gerne am Wochenende ein Boot mieten.\n13. Sie möchten sich in einem Hotel in den Bergen erholen und mit dem Zug anreisen.\n14. Sie möchten sich eine Märchenvorstellung im Theater ansehen.\n15. Ihre Freundin sucht ein angenehmes Hotel, in dem man auch Sport treiben kann.\n16. Am Sonntag wollen Sie einen kleinen Ausflug mit Kindern machen. Die Kinder mögen\nTiere.\n17. Ihre Bekannten möchten gerne im Mai eine Schiffsfahrt machen.\n18. Sie möchten gerne am Wochenende tanzen gehen und suchen eine tolle Disco.\n19. Der kleine Sohn von Freunden ist begeistert von der Eisenbahn. Sie möchten am\nWochenende mit ihm etwas Interessantes machen.\n20. Sie möchten im August eine Woche in den Bergen wandern und brauchen eine erfahren\nPerson, die mit Ihnen geht.",
+   "arabic_labels_excluded": [
+    "السكك الحديدية"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P07 compared on legible contact sheet against structured extraction; matches",
+   "uncertain": []
+  },
+  {
+   "page": 80,
+   "paper": "P07",
+   "section": "L3",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\n9\n90 Minaten Leseverstehen and Sprachbausteine\nOBER-GOMS\nb\nWandern Im Wallis\nAusstellung\n18.-25.\n06.-10. Junl\nFr. 425\n_Marchen - Mythen -\nChocolat-Werbung\nKULTURTIPP\n12.-21. September\nPr.730\nErzählungen™\nIm Rahmen der Aussteilung Chocolat-Totler:\nFt.750\nAcht Künstlerinnen zeigen ihre\nDie Geschichte der Schokolade von 1899 bis\nHalt\nWanderungen/Klettertouren mit\nnslon/Führungen/\nArbeiten\nheute\" präsentieren und kommenteren Christian\npeprülten Bergführem\nvom 2. bis 30. Juni in Thun\nJacquet und Fritz Kobi im Komhausforum alln\nDie Arbeiten werden in der Zeit\nund neue Chocolat-Tobler-Werbefilme\nHotel Walser\nvom 2. bis 30. Juni in Schau-\nBern:\n3988 Uinchen\nfenstern der Innenstadt gezeigt.\nKomhausforum 19 UM\nTel: 027/973 21 22\nFax: 027/973 21 29\nVernissage:\nMehr Ausgehtipps in der ,Berner Woche\" und im\n2. Juni, 19.30 Uhr\nIndernet unter www.BernerWoche.ch\nwww.goms.ch/hotel-walser\nSchibenstrasse 21 - Thun\nTel. 033 222 02 47\nd\nsarazena\ne\nDAS ASCHENPUTTEL\nZermatt\nCindenea, Cenerentola, Aschenputtel\n- einmal erzähit, enmal gespieit:\nSCHWEIZER\nHerzlich willkommen in t\npemütichen Fenenhotel in zel\nKULTURTIPP\nFERIENORT\nPerfekt ausgestattete Zimmer\nZERMATT\nmit allem Komfort, Fitnessraum,\nTennishalle, Schwimmbad,\nDie Schriftstellerin\nErholung pur im Naturfreunde-Hotel Zermatt\nreichhaltiges Frühstücksbuffet\nElke Seidenreich\n• Heeriche Wanderwege in den Bergen\nBruno & Catherine Wyrsch Zumiwen\nprasentient\nEigener Bahnanachlovs\nMorzügliche Kiache\nTel 027/967 44 41 - Fax 027/967 63\nzusammen mit der Basel Sinfonietta\n25\nden bekanntén Märchenstoff\nNATURFREUNDE-HOTEL ZERMATT-\ninternet: www.hotei-sarazena.ch\naut der Bühne\nDaniela +René Zimmermann\nTel. 027 907 27 88 Far 967 60 29\nE-Mail: sarazena zermatt@bluewin.ch\nTheaterhaile Bern 20.30 UM\ng\nTierpark Goldau\nh\nDER\nMo.-Ft. 9.00-19. UM Sa 9.00-14.00 Uh\nGeöffnet\nein Besuch, der sich lohnt!\nFEURIGE\nANDREAS TIERWELT\n• Freilautzone\nAbenteuerspielplatz\nELIAS\n• Vogel - Nager - Pilanzen\nRestaurant\n• Warm- und Kaltwasserfische\n365 Tage im Jahr offen\n• Futter und Zubehör für alle Tierarten\nHistorische Lokomotiven und Waggons, jeta!\n• Fachberatung\nAquarion und Terrarien\nEintritt frei für Begleitpersoner\nausgestellt im Bahnmuseum WORB\nvon Gruppen ab 12 Personen\nKreuzgasse 14\nTel 041-855 50 00\nFührungen für Kinder und Erwachsene:\nCH 4500 Solothum\nJeden Samstag und Sonntag 11:00 Uhr und 16:00 Uhr\nTel. 032 622 20 20\nInfos::\nRBS, 3048 Worb\nFax 032 021 52 32\nTelefon: (031) 925 55 55\nJAGIBUCHHANDLUNG\nViking-Tours\nTANZ IMPULSE\nFlossfahrten auf der Aare\nDienstag 8.5, 20 Uhr\ntägliche Fahrten von Mai bis Sep.\nSchule für zeitgenössischen Tanz,\nINGRID NOLL (Live im Loeb)\nAbfahrt der Schiltfe: 11 Uhr, 14 Uhr, 16 Uhr\nklassisches Ballett, Malen und Tanz\ndie erfolgreichste und ungewöhnlichste\nTreffpunkt:\nThun/Schwabis Schifts-\ndeutsche Krimiautorin lest aus ihrem\nLaufendes Kursangetiot für Antänger und\nsteg\nForgoschrittene. Einführup@skurse zum\nunheimlichen Werk \"Selige Witwen\".\nPreise:\n43 Franken\nKennenteerion, peruhistiche Bewegungsschule\nOtlene Gruppeni für Kinder, Jugendiche und\nEintritt Ft. 10,00\nSpezialangebot:\nAbendiahrten (Rückkehd\n23 Uhr), Tarjz an Bord,\nErwachsene, max, 10 Tel\niehmedinnen.\nTiketCorner.ch\nSpezialangebote fur\n0848 800 800\nSenioren\nInfonnation und Beralung\nVorverkaul 2. UG im Loeb Bern\ntanz impulse\nTelefon 031 320:20 20\nTel 01 434 33 66 - Fax: 01 434 33 44\nTel 027 967 18 18\nwww.tatu-impuise-bemich\nEingang Spitalgasse\nviking @viking.ch\nTürotfnung 30 Min, vor Beginn\nwwwviking.ch",
+   "arabic_labels_excluded": [
+    "السكك الحديدية"
+   ],
+   "images": {
+    "count": 3,
+    "page_coverage": 0.99
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 238,
+    "sample_missing": [
+     "aare",
+     "abendiahrten",
+     "abenteuerspielplatz",
+     "abfahrt",
+     "acht",
+     "alle",
+     "allem",
+     "alln",
+     "andreas",
+     "antänger",
+     "aquarion",
+     "arbeiten",
+     "aschenputtel",
+     "ausgehtipps",
+     "ausgestattete",
+     "ausgestellt",
+     "aussteilung",
+     "ausstellung",
+     "bahnanachlovs",
+     "bahnmuseum",
+     "ballett",
+     "basel",
+     "beginn",
+     "begleitpersoner",
+     "bekannt"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Ads photo — same printed ad page as p41; P04 transcription re-checked against this photo",
+   "uncertain": [
+    "p80: same small-print uncertainties as p41 (ads d, f, j)"
+   ]
+  }
+ ]
+}

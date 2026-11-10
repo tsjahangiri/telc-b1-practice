@@ -1,0 +1,5 @@
+# P26-L3 pages [386, 387] ratio 0.559
+## website words not in OCR:
+ACAD Romantik sollten organisieren Betreuung Kanuten Anmeldung Unfall 64 47 33 Heigelstr Leiblstraße München-Neuaubing 8-13 Notfällen Gemeinnützige Landeshauptstadt mbH pflegen Pflege Agnes-Bernauer-Straße GUT FRISCH Allein Kochen Werktags Feiertagen tiefgefroren Diät Nähe
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests 13.Sie schull Leseverstehen Teil LANGUAGE Tests muten Leseverstehen Sprachbausteine Romantk woilen soltten HCAD orpanisieren Befreuung Kamuten Anmeidung Untall lelclon 644733 München-Nesaubing B-13 Nottällen Heigeistr Leibistraße Ayeikochen Semeianützige Landeshauptsta PiZZaAVANTI pfiegen HEIMSERVICEGUTUNDFRISCH Werkfags Pfiege Fefertagen tiefgefforen Djat gern Agnes-Bernauer-Straßle Nahe

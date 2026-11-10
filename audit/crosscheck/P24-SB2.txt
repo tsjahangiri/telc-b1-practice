@@ -1,0 +1,5 @@
+# P24-SB2 pages [363] ratio 0.871
+## website words not in OCR:
+Sehr geehrte Damen Herren
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests sch-zeshirte Darmek Hearen Schul

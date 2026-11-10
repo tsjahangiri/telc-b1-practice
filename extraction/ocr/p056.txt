@@ -1,0 +1,53 @@
+0.074 0.070 1.00	Sprachausteine, Teil 2
+0.080 0.819 0.30	LOTTO
+0.092 0.055 1.00	LANGUAGE Tests
+0.160 0.062 1.00	Lesen sie den Text und schließen Sie
+0.180 0.062 1.00	Lücken 31 - 40. Benutzen Sie die Wörter
+0.201 0.060 1.00	(a, o) Jedes Wort passt nur einmal.
+0.221 0.062 1.00	Markieren Sie Ihre Lösungen für die
+0.240 0.062 0.50	Aufgaben 31 - 40 auf dem
+0.262 0.060 1.00	Antwortbogen.
+0.314 0.220 0.50	%
+0.337 0.351 1.00	QUANTUM-SYSTEM
+0.368 0.392 0.50	Das Lotterie - Systemspiel
+0.387 0.339 1.00	Otto - Suhr-Allee 100. D- 10120 Berlin
+0.443 0.047 1.00	Sehr geehrte Lottospieler,
+0.475 0.049 1.00	wer möchte nicht auch (31) bei sechs Richtigen im Lotto dabei sein? Vertrauen Sie beim Lottospiel nicht (32)
+0.491 0.047 1.00	auf das Glück, denn Sie (33) Ihre Chancen selbst strak verbessern, (34) Sie mit unserem Lotterie-System
+0.509 0.047 1.00	spielen - und das für nur 5 Euro in der Woche!
+0.545 0.047 1.00	(35) allein zu spielen, spielen Sie mit uns in einer starken Spielergemeinschaft. Dadurch erhöhen sich (36)
+0.562 0.047 1.00	automatisch Ihre Chancen!
+0.596 0.053 1.00	Und was Sie gewinnen können? (37). unserem Quantum-System spielen Sie mit einer Chance auf einen
+0.615 0.049 1.00	Gewinn von 1 Million Euro! Alle Gewinne erhalten Sie umgehend und ungekürzt zu 100%- das (38) wir Ihnen!
+0.632 0.049 1.00	Davon habe ich mich selbst überzeugt! Spielen Sie mit uns das Quantum — System: (39) 700 Quantum -
+0.650 0.045 1.00	Systemspielgruppen haben zusammen schon über sieben Millionen Euro gewonnen.
+0.688 0.051 1.00	Herzliche Grülse,
+0.702 0.045 1.00	Ihre SABINE MEIER-PÜTZ
+0.721 0.051 1.00	PS: Als besondere Gewinnchance erhalten Sie heute das. Vier-Richtige-Gratisspiel. (40) Sie hier unbedingt mit
+0.737 0.047 1.00	und gewinnen Sie! Ich drücke Ihnen die Daumen.....
+0.799 0.047 0.50	a
+0.795 0.117 1.00	BEI
+0.797 0.209 1.00	d
+0.795 0.287 1.00	EURE
+0.799 0.402 1.00	g
+0.795 0.456 1.00	GESTRN
+0.797 0.585 1.00	j
+0.795 0.651 1.00	NUR
+0.799 0.756 0.50	m
+0.794 0.848 1.00	ÜBER
+0.821 0.045 1.00	b
+0.820 0.092 1.00	BEREITS
+0.824 0.209 1.00	e
+0.821 0.285 1.00	GANZ
+0.821 0.402 1.00	h
+0.817 0.456 1.00	KÖNNEN
+0.821 0.583 0.30	k
+0.820 0.641 1.00	STATT
+0.821 0.842 1.00	UNSER
+0.846 0.094 1.00	EINMAL
+0.844 0.211 1.00	f
+0.846 0.242 1.00	GARANTIEREN
+0.844 0.407 0.50	i
+0.846 0.456 1.00	MACHEN
+0.846 0.616 1.00	TECHNISCH
+0.846 0.842 0.50	WENN

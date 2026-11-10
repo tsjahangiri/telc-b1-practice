@@ -1,0 +1,19 @@
+0.097 0.129 1.00	Leseverstehen, Teil 1
+0.121 0.162 1.00	LANGUAGE Tests
+0.118 0.696 0.30	anallanalgal jl
+0.173 0.092 0.50	Lesen Sie die Überschriften a - j und die Texte 1-5. Finden Sie für jeden Text die passende
+0.192 0.216 1.00	Überschrift.Sie können jede Überschrift nur einmal benutzen
+0.219 0.092 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+0.347 0.674 0.30	Jues 1ejl
+0.477 0.070 1.00	a) Der öffentliche Verkehr auf einen Blick.
+0.477 0.448 0.30	ochsc
+0.529 0.072 1.00	b) Türen auf für fremde Kulturen.
+0.583 0.070 1.00	c) Ski fahren in der Schweiz.
+0.635 0.070 1.00	d) Schlank werden und trotzdem gut essen.
+0.686 0.072 0.50	e) Herr Ober, es schmeckt mir nicht", sagen nur wenige Gaste
+0.718 0.791 0.30	41
+0.741 0.070 1.00	f) Die schönsten Bahnstrecken in Deutschland.
+0.792 0.072 1.00	g) Die Deutschen beschweren sich sofort
+0.846 0.072 1.00	h) Wanderungen im Schnee.
+0.900 0.068 1.00	i) Hauptsache es schmeckt - Gesundheit ist Nebensache
+0.952 0.068 1.00	j) Immer beliebter: Studienreisen in die Schweiz

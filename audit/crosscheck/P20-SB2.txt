@@ -1,0 +1,5 @@
+# P20-SB2 pages [292] ratio 0.876
+## website words not in OCR:
+ältere
+## OCR words (len>3) not in website:
+Sprachausteine Teil LANGUAGE Tests qall altere Schu

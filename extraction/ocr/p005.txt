@@ -1,0 +1,17 @@
+0.093 0.062 1.00	Leseverstehen, Teil 3
+0.110 0.045 1.00	LANGUAGE Tests
+0.163 0.047 1.00	Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können
+0.182 0.043 1.00	jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 - 20 auf dem
+0.202 0.047 1.00	Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+0.273 0.045 1.00	11. Sie suchen für Ihre beiden Kinder neue Betten und möchten höchstens 200 Euro ausgeben.
+0.313 0.045 1.00	12. Sie haben Probleme mit dem Rücken und suchen ein Gesundheitsbett.
+0.353 0.045 1.00	13. Sie suchen ein schönes Sofa, das man auch als Gästebett benutzen kann.
+0.394 0.045 1.00	14. Vor Ihre Urlaubsreise möchten Sie Ihr Fahrrad überprüfen lassen.
+0.433 0.047 1.00	15. Ihre Freunde möchten eine organisierte Radtour machen und suchen ein geeignetes
+0.472 0.078 0.50	Angebot.
+0.513 0.047 1.00	16. Ihre Verwandten haben eine Woche Urlaub und suchen einen Ferienort am Meer.
+0.552 0.045 1.00	17. Sie suchen für drei Vormittage pro Woche eine Stelle als Küchenhilfe.
+0.594 0.045 1.00	18. Sie suchen eine leichte Arbeit für abends, um sich noch etwas Geld dazuzuverdienen.
+0.634 0.045 1.00	19. Ihre Bekannte möchte als Bedienung in einer Gaststätte arbeiten.
+0.673 0.045 1.00	20.Ihre Freunde wollen Familienurlaub machen und suchen ein Angebot, das auch ein
+0.714 0.076 1.00	Kinderprogramm enthält.

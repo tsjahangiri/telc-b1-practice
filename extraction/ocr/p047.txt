@@ -1,0 +1,24 @@
+0.075 0.084 1.00	Schriftlicher Ausdruck
+0.083 0.799 0.30	Lựi
+0.093 0.070 1.00	LANGUAGE Tests
+0.128 0.047 1.00	Sie haben von einer Freundin folgenden Brief erhalten:
+0.235 0.047 0.50	Liebe(r).
+0.270 0.045 1.00	Wie geht's dir? Hattest du ein schönes Wochenende? Hier hat es die ganze Zeit geregnet,
+0.294 0.047 1.00	deshalb bin ich zuhause geblieben.
+0.328 0.051 1.00	Du hattest vorgeschlagen, dass wir im Sommer zusammen verreisen könnten. Die Idee finde
+0.352 0.043 1.00	ich super! An welches Reiseziel denkst du? Ich bin gerne am Meer, mag aber auch
+0.375 0.045 1.00	Städterreisen. Wichtig ist für mich nur, dass ich auch ein bisschen Sport machen kann. Die
+0.400 0.047 1.00	Reise sollte aber nicht zu viel kosten, denn ich habe vor Kurzem schon viel für eine
+0.422 0.047 1.00	Autoreparatur bezahlen müssen. Was meinst du: wie können wir günstig Urlaub machen? Es
+0.446 0.049 1.00	muss ja kein Luxushotel sein.
+0.481 0.045 1.00	Schreib mir bald, dann können wir anfangen zu planen.
+0.539 0.047 1.00	Viele Grüße
+0.563 0.047 1.00	Annika
+0.606 0.629 0.30	schui
+0.622 0.049 1.00	Antworten Sie Annika. Schreiben Sie etwas zu allen vier Punkten:
+0.666 0.045 1.00	• Was Sie am Wochenende unternommen haben
+0.690 0.045 1.00	• Wohin Sie gerne reisen würden
+0.711 0.045 1.00	• Was Sie im Urlaub gerne machen
+0.735 0.045 1.00	• Wie man beim Reisen Geld sparen kann
+0.776 0.049 1.00	Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine
+0.798 0.049 1.00	passende Anrede, Einleitung und einen passenden Schluss.

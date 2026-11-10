@@ -1,0 +1,25 @@
+0.086 0.343 1.00	*Schöner Wohnen*
+0.139 0.012 1.00	Teilnehmer A
+0.182 0.281 0.30	e/r
+0.182 0.324 0.30	A
+0.199 0.124 0.50	Teil 2 Über ein Thema sprechen (ca. 6 Minuten)
+0.220 0.122 1.00	In einer Zeitschrift haben Sie etwas zum Thema ,Schöner Wohnen" gelesen, Berichten Sie Ihrer Gespr
+0.233 0.120 1.00	partnerin/Ihrem Gesprächspartner darüber.
+0.244 0.118 1.00	Ihre Gesprächspartnerin/Ihr Gesprächspartner hat eine andere Meinung dazu gelesen und berichtet
+0.257 0.116 1.00	auch darüber.
+0.268 0.116 1.00	Unterhalten Sie sich dann mit Ihrer Gesprächspartnerin/Ihrem Gesprächspartner über das Thema.
+0.279 0.114 1.00	Sagen Sie Ihre Meinung und erzählen Sie von eigenen Erfahrungen.
+0.329 0.137 1.00	Schöner Wohnen
+0.586 0.581 0.30	iIch
+0.587 0.622 1.00	llebe schöne Möbel und Bilderl In
+0.598 0.582 0.50	meiner Wohnung habe ich sogar ein paar
+0.610 0.580 1.00	Antiquitäten und moderne Designermöbel.
+0.623 0.576 1.00	AuBerdern ist meine Wohnung immer auf-
+0.636 0.574 1.00	geräumt und alles hat seinen festen Platz.
+0.630 0.666 0.30	Chul
+0.649 0.085 1.00	Mara Weiß, 39 Jahre, Teamleiterin
+0.648 0.566 0.50	So fühle ich mich einfach wohl!"
+0.751 0.008 1.00	- Ich habe einen Beitrag zum Thema *Schöner Wohnen* gelesen.
+0.792 0.008 1.00	- Die Person die sich äußert heißt *Mara weiß*
+0.834 0.008 0.50	- Sie ist 39 Jahre Alt,und arbeitet als Teamleiterin.
+0.897 0.012 1.00	www.instagram.com/mahmoudemad007

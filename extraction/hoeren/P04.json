@@ -1,0 +1,165 @@
+[
+ {
+  "id": "P04-H1",
+  "type": "hoeren",
+  "part": 1,
+  "section": "Hörverstehen, Teil 1",
+  "instructions": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.",
+  "statements": [
+   {
+    "num": 41,
+    "text": "Der Sprecher hätte gern Urlaub wie die anderen Kinder gemacht."
+   },
+   {
+    "num": 42,
+    "text": "Dem Sprecher hat der Wanderurlaub nicht so gut gefallen."
+   },
+   {
+    "num": 43,
+    "text": "Die Sprecherin hat die Ferien bei Verwandten verbracht."
+   },
+   {
+    "num": 44,
+    "text": "Die Sprecherin hat mit ihren Eltern regelmäßig Fahrradausflüge gemacht."
+   },
+   {
+    "num": 45,
+    "text": "Der Sprecher hat den Urlaub mit den Eltern gemeinsam geplant."
+   }
+  ],
+  "pages": [
+   44
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 48,
+  "topic": "Urlaub",
+  "solution": {
+   "41": "+",
+   "42": "+",
+   "43": "-",
+   "44": "-",
+   "45": "+"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ },
+ {
+  "id": "P04-H2",
+  "type": "hoeren",
+  "part": 2,
+  "section": "Hörverstehen, Teil 2",
+  "instructions": "Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.",
+  "statements": [
+   {
+    "num": 46,
+    "text": "Mit einem Praktikum können sich Jugendliche auf das Studium vorbereiten."
+   },
+   {
+    "num": 47,
+    "text": "Herrn Mahlers Firma bietet jungen Leuten in verschiedenen Abteilungen ein Praktikum an."
+   },
+   {
+    "num": 48,
+    "text": "Herrn Mahlers Firma stellt alle Praktikanten nach der Ausbildung ein."
+   },
+   {
+    "num": 49,
+    "text": "Bei einer Bewerbung ist das Schulzeugnis für Herrn Mahler das Wichtigste."
+   },
+   {
+    "num": 50,
+    "text": "Praktikanten sollten selbst erkennen, wo man sie brauchen könnte."
+   },
+   {
+    "num": 51,
+    "text": "Herr Mahler meint, dass die Ideen der Praktikanten bei der Arbeit stören."
+   },
+   {
+    "num": 52,
+    "text": "Herr Mahler legt großen Wert auf Teamarbeit."
+   },
+   {
+    "num": 53,
+    "text": "Nach Frau Bachs Meinung verhalten sich Praktikanten im Betrieb oft wie in der Schule oder an der Universität."
+   },
+   {
+    "num": 54,
+    "text": "Für den Praktikanten ist es gut, wenn er Interesse an der Arbeit zeigt."
+   },
+   {
+    "num": 55,
+    "text": "Herr Mahler empfiehlt den Praktikanten, das Team mit Fleiß und guter Laune zu unterstützen."
+   }
+  ],
+  "pages": [
+   45
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 48,
+  "topic": "Praktikum",
+  "solution": {
+   "46": "-",
+   "47": "+",
+   "48": "-",
+   "49": "-",
+   "50": "+",
+   "51": "-",
+   "52": "+",
+   "53": "+",
+   "54": "+",
+   "55": "+"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ },
+ {
+  "id": "P04-H3",
+  "type": "hoeren",
+  "part": 3,
+  "section": "Hörverstehen, Teil 3",
+  "instructions": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.",
+  "statements": [
+   {
+    "num": 56,
+    "text": "In Norddeutschland steigen die Temperaturen morgen auf 5 bis 7 Grad."
+   },
+   {
+    "num": 57,
+    "text": "Hamburg hat öfter gewonnen als Stuttgart."
+   },
+   {
+    "num": 58,
+    "text": "Nach zwei Monaten müssen Sie für die Zeitschrift bezahlen."
+   },
+   {
+    "num": 59,
+    "text": "Auf dem Mittleren Ring in München wird die Geschwindigkeit kontrolliert."
+   },
+   {
+    "num": 60,
+    "text": "Janas Geburtstagsfest findet nicht im LEO statt."
+   }
+  ],
+  "pages": [
+   46
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 48,
+  "topic": "Norddeutschland",
+  "solution": {
+   "56": "-",
+   "57": "+",
+   "58": "+",
+   "59": "-",
+   "60": "-"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ }
+]

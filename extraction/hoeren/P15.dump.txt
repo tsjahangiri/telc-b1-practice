@@ -1,0 +1,29 @@
+=== P15-H1 [Einkäufe im Internet] p[192] src=text_layer key p197
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören diese Texte nur einmal. / Entscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.
+  41. Herr Pawliczek erledigt alle seine Einkäufe im Internet.   [+]
+  42. Frau Zimmermann legt beim Einkaufen großen Wert auf persönlichen Kontakt.   [-]
+  43. Frau Schmidt findet zu Hause nicht genug Ruhe, um im Internet einzukaufen.   [+]
+  44. Frau Ruttnigg ist vom Einkaufen im Internet nicht überzeugt.   [-]
+  45. Herr Krause kauft seine Medikamente am liebsten in der nächsten Stadt.   [-]
+  nums=[41, 42, 43, 44, 45] complete=True
+=== P15-H2 [Thurnherr] p[193] src=text_layer key p197
+INSTR: Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. / Sie hören das Gespräch zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.
+  46. Herr Thurnherr ist Chef in einem großen Reisebüro in Bern.   [+]
+  47. Jährlich wollen über 100 Personen eine Ausbildung in einem Reisebüro machen.   [+]
+  48. Während der Ausbildung kann man noch keine Studienreisen machen.   [-]
+  49. Herr Thurnherr meint, die Arbeit in einem Reisebüro sei anstrengend.   [+]
+  50. In einem Reisebüro muss man oft Überstunden machen.   [+]
+  51. In einem Reisebüro verdient man gut.   [-]
+  52. Auf Studienreisen besichtigt man viele Hotels.   [+]
+  53. Im schriftlichen Teil des Tests wird vor allem politisches Wissen geprüft.   [-]
+  54. Jährlich können 50 Jugendliche an einem Eignungstest teilnehmen.   [-]
+  55. Das Reisebüro muss für die Fehler der Mitarbeitenden bezahlen.   [+]
+  nums=[46, 47, 48, 49, 50, 51, 52, 53, 54, 55] complete=True
+=== P15-H3 [Meissner] p[194] src=text_layer key p197
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören jeden Text zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen.
+  56. Sie müssen in Ingolstadt die Regionalbahn nach Regensburg nehmen.   [-]
+  57. Clara kann wegen einer Prüfung die Theaterkarten nicht abholen.   [-]
+  58. Im Schwarzwald können die Straßen morgen glatt werden.   [+]
+  59. Der Liederabend findet zu einem späteren Termin statt.   [+]
+  60. Im Untergeschoss gibt es Winterkleidung zum halben Preis.   [-]
+  nums=[56, 57, 58, 59, 60] complete=True

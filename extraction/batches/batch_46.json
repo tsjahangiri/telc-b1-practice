@@ -1,0 +1,324 @@
+{
+ "batch": 46,
+ "pages": [
+  451,
+  460
+ ],
+ "records": [
+  {
+   "page": 451,
+   "paper": "P30",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 2\nLANGUAGE Tests\nSie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.\n……………………………………………………………………………………………………………………………………..\n46. Frau Wenger wollte schon immer als Feuerwehrfrau arbeiten.\n47. Frau Wenger und ihr Freund haben nun eine gemeinsame Freizeitbeschäftigung.\n48. Frau Wenger hat bereits einer Freundin geholfen, deren Wohnung brannte.\n49. Probleme mit Geräten werden im Team gelöst.\n50. Die Ausbildung zur Feuerwehrfrau war sehr anstrengend.\n51. Die Kleidung der Feuerwehrleute passt oft nur Männern.\n52. Dass sie jederzeit zu Notfällen gerufen werden, kann ist für Frau Wenger.\n53. Als Feuerwehrfrau hat Frau Wenger schon viele Unfälle gesehen.\n54. Frau Wenger möchte von ihren männlichen Kollegen anders behalten.\n55. Interessenten sollen sich bei Frau Wenger melden.",
+   "arabic_labels_excluded": [
+    "السيدة فينقر"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.962,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P30 — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 452,
+   "paper": "P30",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 3\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\n…………………………………………………………………………………………………………………………………………..\n56. Sie können zwei Flüge nach Griechenland gewinnen.\n57. Für Ihre Gruppe ist ein Wagen im Zug nach Aschaffenburg reserviert.\n58. Auf der Internetseite kann man auch günstige Angebote für Haushaltsgerät.\n59. Erst morgen Abend bildet sich Nebel..\n60. Am besten fahren Sie ab Northeim mit dem Bus.",
+   "arabic_labels_excluded": [
+    "اليونان"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "hschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P30 — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 453,
+   "paper": "P30",
+   "section": "SCHREIBEN",
+   "text_source": "text_layer",
+   "text": "Schriftlicher Ausdruck\nLANGUAGE Tests\nSie haben von einer Freundin folgenden Brief erhalten:\n………………………………………………………………………………………………………………………………………………..\nLiebe(r)........\ndie Sommerferien kommen rasch näher und ich freue mich sehr, dass du mich besuchen kommst. Ich habe\ntolle Idee:\nIch möchte dich gerne zu einem Musikfestvial einladen, und zwar nach Rüdesheim (ca.50 km von Mainz).\nDort spielen in diesem Sommer die besten internationalen Musikgruppen.\nIch finde Open -Air - Konzerte einfach toll: die friedliche Stimmung unter den Besuchern, die gute Music und\neinfach viele schöne Momente, die man nie mehr vergisst. Vor allem, wenn das Wetter gut ist, kann man das\nso richtig genießen.\nWir könnten mit dem Zug nach Rüdesheim fahren oder auch mein Auto nehmen. Was wäre dir lieber?\nÜbernachten würde ich gern auf dem Festplatz. Was meinst du? Und willst du vielleicht noch jemanden\nmitbringen? Vielleicht hast du noch einen Wunsch, was du sonst noch hier machen möchtest? Schreibe mir\nbitte möglichst bald.\nIch freue mich schon auf deine Antwort.\nHerzliche Grüße\nSonja\nAntworten Sie Sonja. Schreiben Sie in Ihrem Brief etwas zu allen vier Punkten:\nWas sonst noch machen?\n. Wie zum Festival reisen?\n. Jemanden mitbringen?\n. Übernachten: Reaktion auf Sonjas Vorschlag\nÜberlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine\npassende Anrede, Einleitung und einen passenden Schluss.",
+   "arabic_labels_excluded": [
+    "زونيا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "chul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Hören/Schreiben P30 — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 454,
+   "paper": "P30",
+   "section": "LOES",
+   "text_source": "text_layer",
+   "text": "Lösungen\nLeseverstehen (Teil 1)\nSprachbausteine (Teil 1)\nHörverstehen (Teil 1)\nUnterstützung\nDominique\nEinkäufe im Internet\n21 b\ngeschehen\n1\nJ\n41 +\n22 b\ndir\n2\nB\n42 -\n23 c\nwurden\n3\nF\n43 +\n24 a\nlange\n4\nA\n44 -\n5   G\n25 c\nman\n45 -\n26 b\ndamit\n27 b\num\n28 a\ndem\n29 c\ntreffen\n30 b\nin\nLeseverstehen (Teil 2)\nSprachbausteine (Teil 2)\nHörverstehen (Teil 2)\nBuchstaben\nessen\nWenger\n6\nB\n46 -\n31 H\nSONDERN\n7\nA\n47 +\n32 F\nSAGT\n8\nB\n48 -\n9\nA\n33 A\nALS\n49 +\n10 A\n34 L\nWELCHEN\n50 +\n35 G\nSOLLTE\n51 -\n52 +\n36 M WICHTIGEN\n53 -\n37 I\nSTATT\n54 -\n38 B\nAUF\n55 -\n39 N\nWÜRDE\n40 K\nWEIL\nLeseverstehen (Teil 3)\nHörverstehen (Teil 3)\nMusik\nGriechenland\n11 H\n56 -\n12 X\n57 +\n13 X\n58 +\n14 B\n59 -\n15 I\n60 +\n16 L\n17 E\n18 A\n19 K\n20 G",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet-legible",
+   "verification_note": "P30 compared on legible contact sheet; identical to verified P06 (automatic diff confirms)",
+   "uncertain": []
+  },
+  {
+   "page": 455,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Schöner Wohnen*\n Teilnehmer A\n- Ich habe einen Beitrag zum Thema *Schöner Wohnen* gelesen.\n- Die Person die sich äußert heißt *Mara weiß*.\n- Sie ist 39 Jahre Alt ,und arbeitet als Teamleiterin.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.54
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 54,
+    "sample_missing": [
+     "alles",
+     "andere",
+     "antiquitäten",
+     "auberdern",
+     "auch",
+     "berichten",
+     "berichtet",
+     "bilderl",
+     "chul",
+     "dann",
+     "darüber",
+     "dazu",
+     "designermöbel",
+     "eigenen",
+     "eine",
+     "einer",
+     "einfach",
+     "erfahrungen",
+     "erzählen",
+     "etwas",
+     "festen",
+     "fühle",
+     "geräumt",
+     "gespr",
+     "gesprächspartner"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 456,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Frau *Weiß* bevorzugt in einer schönen Wohnung zu leben.\n- Sie sagt ,dass sie schöne Möbel und Bilder mag ,deswegen hat sie ,sowohl viele\nAntiquitäten ,als auch moderne Möbel.\n- Ihre Wohnung muss immer aufgeraumt sein ,damit sie sich wohl fühlt.\n***************************************************************\n*Meinung*\n- Ich gehe ganz d´accord ,ich finde es bequemer ,wenn ich in einer\nschönen Wohnung lebe.\n- Falls ich Gäste habe ,möchte ich ,dass mein Haus aufgeräumt und\nsauber ist.\n- Die Hauptsache für mich ist ,wie die wohnung aussieht ,aber die\n  qualität kommt für mich nicht in Frage.\n-Es gibt auch Nachteile ,vielleicht sind die Möbel sehr schön ,aber\nschwach ,und bleiben nicht lange.\n***************************************************************\n*Erfahrung*\n- Bevor ich geheiratet habe ,kaufte ich viele schöne Möbel ,das hat\nmich viel gekostet.\n Obwohl die Möbel sehr teuer sind ,lohnt es sich.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.972,
+    "ocr_words_missing_from_textlayer": 3,
+    "sample_missing": [
+     "antiquitaten",
+     "mobel",
+     "qualitat"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 457,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich mache viele Partys bei mir zu Hause ,und meine Freunde sagen\nmir immer ,dass ich eine schöne Wohnung habe ,und das macht\nmir viel Spaß.\n Je schöner die Wohnung ist ,desto glücklicher fühle ich mich.\n***************************************************************\n***************************************************************\n Teilnehmer B\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.51
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 56,
+    "sample_missing": [
+     "allem",
+     "andere",
+     "auch",
+     "aussehen",
+     "bequem",
+     "berichten",
+     "berichtet",
+     "dann",
+     "darüber",
+     "davon",
+     "dazu",
+     "denn",
+     "egai",
+     "eigenen",
+     "einer",
+     "erfahrungen",
+     "erzählen",
+     "etwas",
+     "geld",
+     "gelesen",
+     "gesprächs",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "gibt",
+     "haben"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 458,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Ich habe auch einen Beitrag von *Stefan Heeg* gelesen.\n- Er ist 38 Jahre Alt .und arbeitet als Lehrer.\n***************************************************************\n Herr *Heeg* sagt ,dass es ihm egal ist ,ob die Wohnung sehr schön ist oder nicht.\n Die Haubtsache für ihn ist ,dass die Möbel bequem und praktisch sind.\n Er will auch hohe Qualität für den Preis bekommen.\n***************************************************************\n*Meinung*\n- Ich bin derselben Meinung ,wie *Stefen*.\n ich finde es besser ,wenn ich in einem einfachen Haus lebe.\n- Das Haus ist schön mit den Menschen ,nicht mit den Möbeln.\n- Falls ich ein Sofa kaufe ,möchte ich es weder scöne ,noch modern\n,sondern bequem.\n- Die Hauptsache für mich ist ,dass die Wohnung bequem ist ,aber\ndas Aussehen kommt für mich nicht in Frage.\n***************************************************************\n*Erfahrung*\n-Bevor ich geheiratet habe ,kaufte ich viele Möbel auf dem Flohmarkt.\n- Das war geeignet nicht nur für die Wohnung ,sondern auch für mein\n Geld.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 459,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "-Obwohl die Möbel billig waren ,waren sie bequem und praktisch ,\n und ich habe viel Geld gespart ,um etws anderes zu machen ,und das\n hat mir viel Spaß gemacht.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.941,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "nochschul",
+     "telcc"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  },
+  {
+   "page": 460,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Sommerfest*\n Also *Ahmed* du weißt ja ,dass es Sommer ist, und wir können etwas mit\nunseren Kollegen unternehmen ,was denkst du davon?\n Ja,da gehe ich ganz d´accord ,aber hast du einige Vorscläge ,mir fällt\nnichts ein.\n Ja ,wir können einen Ausflug oder ein Sommerfest organisieren ,und\nzusammen richtig Spaß haben ,was denkst du ?\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.54
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 26,
+    "sample_missing": [
+     "arbeiten",
+     "berlegen",
+     "essen",
+     "firma",
+     "gemacht",
+     "gemeinsam",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "getränke",
+     "gleichen",
+     "ihre",
+     "ihrem",
+     "ihrer",
+     "kolleginnnen",
+     "minuten",
+     "musik",
+     "nochsc",
+     "notizen",
+     "planen",
+     "schon",
+     "sich",
+     "sollen",
+     "spiele",
+     "tanz",
+     "wann"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck) third-party model answers — outside exam-paper scope; viewed on contact sheets",
+   "uncertain": []
+  }
+ ]
+}

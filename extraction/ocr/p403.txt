@@ -1,0 +1,66 @@
+0.064 0.076 1.00	Sprachausteine, Teil 1
+0.062 0.752 0.30	u Lull
+0.081 0.062 1.00	LANGUAGE Tests
+0.132 0.047 1.00	Lesen sie den Text und schließen Sie Lücken 21 - 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.
+0.153 0.049 1.00	Markieren sie Ihre Lösungen für die Aufgaben 21 - 30 auf dem Antwortbogen
+0.237 0.045 1.00	Sehr geehrter Herr Samir,
+0.272 0.043 1.00	im Mai habe ich bei (21) für mich und meine Familie Flugtickets nach Indien bestellt und diese
+0.295 0.045 1.00	zwei Tage vor Abflug am 27. Juni auch erhalten. Leider entsprachen die Tickets überhaupt
+0.317 0.045 1.00	nicht dem, was zuvor bei der Buchung am Telefon ausgemacht worden (22).
+0.353 0.049 1.00	(23) ich ausdrücklich einen Direktflug nach Mumbai bestellt hatte, haben Sie mir Tickets (24)
+0.376 0.047 1.00	Zwischenstopp in Delhi ausgestellt. Wir mussten eine Nacht in Delhi verbringen und kamen so
+0.400 0.045 1.00	(25) einen Tag später als geplant in Mumbai an. Doch damit nicht genug. Die Tickets waren
+0.423 0.047 1.00	nämlich nicht nur anders als vereinbart, (26) auch noch viel teurer. Statt der erwarteten 640
+0.446 0.047 1.00	Euro kosteten (27) Tickets 720 Euro.
+0.481 0.049 1.00	Ich darf Sie daher (28) Rückzahlung der zu viel verrechneten Kosten auf mein Konto (29) der
+0.504 0.047 1.00	Bank of India in Mumbai bitten. Meine Bankdaten finden Sie unten.
+0.541 0.045 1.00	Ich bitte Sie, die Angelegenheit bald zu klären und (30) dann zu antworten.
+0.587 0.051 1.00	Mit freundlichen Grüßen
+0.624 0.045 1.00	Luisa Martin
+0.658 0.055 1.00	21.
+0.657 0.147 1.00	A ihnen
+0.658 0.290 1.00	24.
+0.658 0.363 1.00	A
+0.660 0.378 0.30	- für
+0.658 0.489 1.00	27.
+0.657 0.571 1.00	A
+0.661 0.593 1.00	den
+0.658 0.692 1.00	30.
+0.656 0.754 0.50	A mich
+0.678 0.148 0.50	B Ihnen
+0.682 0.363 0.50	B mit
+0.686 0.569 0.30	B
+0.683 0.598 1.00	der
+0.685 0.754 0.50	в mir
+0.703 0.148 0.30	c Sie
+0.708 0.363 0.30	C
+0.702 0.390 1.00	zu
+0.703 0.593 1.00	die
+0.703 0.776 0.50	] sich
+0.747 0.055 1.00	22.
+0.750 0.150 1.00	A hat
+0.749 0.285 1.00	25.
+0.748 0.365 1.00	A erst
+0.750 0.483 1.00	28.
+0.751 0.571 1.00	A
+0.751 0.595 1.00	für
+0.772 0.148 0.50	B war
+0.770 0.366 1.00	B jetzt
+0.775 0.569 0.50	B
+0.775 0.593 1.00	um
+0.789 0.150 1.00	C wäre
+0.790 0.365 0.50	C schon
+0.794 0.589 0.30	1zu
+0.836 0.057 1.00	23.
+0.834 0.150 0.50	A
+0.835 0.174 1.00	Danach
+0.839 0.285 1.00	26.
+0.835 0.363 1.00	A besonders 29.
+0.837 0.571 1.00	A
+0.842 0.595 1.00	an
+0.856 0.148 0.50	B Obwohl
+0.857 0.363 1.00	B sondern
+0.858 0.591 1.00	bei
+0.873 0.174 1.00	Nämlich
+0.874 0.366 0.50	C sonst
+0.878 0.595 0.50	vor

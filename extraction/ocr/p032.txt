@@ -1,0 +1,19 @@
+0.103 0.090 1.00	Hörverstehen, Teil 2
+0.121 0.076 1.00	LANGUAGE Tests
+0.192 0.047 1.00	Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.
+0.211 0.047 1.00	Sie hören das Gespräch zweimal.
+0.231 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 46 - 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.250 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 46 - 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.272 0.047 1.00	falsch auf dem Antwortbogen.
+0.292 0.049 1.00	Lesen Sie jetzt die Aufgaben 46 - 55. Sie haben dazu 30 Sekunden Zeit.
+0.384 0.045 1.00	46. In Deutschland gibt es immer mehr Organisationen, die sich um alte und
+0.429 0.076 1.00	kranke Menschen.
+0.469 0.045 1.00	47. Die Spitex hat versorgt alte oder kranke Menschen im Krankenhaus.
+0.513 0.047 1.00	48. Die Spitex hat zwei große Aufgabenbereiche.
+0.554 0.045 1.00	49. Es gibt Aufgaben, die nur von einer Krankenschwester gemacht werden dürfen.
+0.597 0.047 1.00	50. Die Spitex kümmert sich nur um alte Leute.
+0.638 0.049 1.00	51. Die Spitex bekommt Geld von den Krankenkassen.
+0.679 0.045 1.00	52. Die Krankenkassen geben den größten Teil ihres Geldes für die Spitex aus.
+0.721 0.045 1.00	53. Herr Maurer findet den Preis pro Stunde in Ordnung.
+0.766 0.047 1.00	54. Die Spitex ist in der ganzen Schweiz eine private Organisation.
+0.805 0.045 1.00	55. In Zukunft betreut die Spitex auch die alten Menschen in Deutschland.

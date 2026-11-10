@@ -1,0 +1,16 @@
+0.167 0.092 1.00	Hörverstehen, Teil 2
+0.183 0.076 1.00	LANGUAGE Tests
+0.253 0.047 1.00	Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.
+0.275 0.049 1.00	Sie hören das Gespräch zweimal.
+0.295 0.047 1.00	Lesen Sie jetzt die Aufgaben 46 - 55. Sie haben dazu 30 Sekunden Zeit.
+0.385 0.047 1.00	46. Frau Schäfer hat von dem Verein kurz nach der Gründung zum ersten Mal gehört.
+0.426 0.045 1.00	47. Die Mitglieder des Vereins kommen aus ganz Deutschland.
+0.467 0.045 1.00	48. Die Mitglieder des Vereins wissen über Hausarbeit gut Bescheid.
+0.509 0.047 1.00	49. Im Verein werden oft Feste gefeiert.
+0.551 0.047 1.00	50. Der Verein bietet auch die Organisation von Festen an.
+0.594 0.045 1.00	51. Der Verein vermittelt Senioren, die tagsüber Kinder betreuen.
+0.638 0.045 1.00	52. Laut Frau Schäfer vertrauen viele Familien den Mitarbeiterinnen des
+0.685 0.076 1.00	Vereins mehr alsanderen.
+0.730 0.047 1.00	53. Vereinsmitglied kann nur werden, wer einen Beruf gelernt hat.
+0.770 0.045 1.00	54. Die Mitarbeiterinnen bekommen für ihre Arbeiten 10 Euro pro Stunde.
+0.811 0.047 1.00	55. Kunden mit wenig Geld zahlen für den Service nichts.

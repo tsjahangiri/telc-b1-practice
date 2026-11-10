@@ -1,0 +1,286 @@
+{
+ "batch": 1,
+ "pages": [
+  1,
+  10
+ ],
+ "records": [
+  {
+   "page": 1,
+   "paper": "P01",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\nLesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.\nSie können jede Überschrift nur einmal benutzen.\nMarkieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.\na) Neue Untersuchung über Familien in der Schweiz\nb) Ein Jahr preiswert reisen\nc) Buchtipp: Ausflüge für Familien\nd) Bahnfahren im nächsten Jahr um 25% teurer!\ne) Ein Unternehmen mit vielen beruflichen Möglichkeiten\nf) Neue Kindersendung im Fernsehen\ng) Der Film soll echt sein: Schweizer Filmteam in Indien\nh) Wie man im Zug Leute kennen lernt\ni) Jeden Tag ein Stück Wirklichkeit im Fernsehen\n  J) Filmaufnahmen im Berner Oberland",
+   "arabic_labels_excluded": [
+    "العائالت في سويسرا"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.03
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 1,
+    "sample_missing": [
+     "ihschul"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "P01 compared line by line with structured extraction; text layer matches image",
+   "uncertain": []
+  },
+  {
+   "page": 2,
+   "paper": "P01",
+   "section": "L1",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 1\nLANGUAGE Tests\n1. Immer wieder drehen indische Regisseure Szenen ihrer Kinofilme in den Schweizer Bergen.\nWarum nehmen sie die Strapazen und hoben Kosten einer solch langen Reise auf sich? Das\nHamburger Abendblatt eines dieser Filmteams auf dem Drehplatz im idyllischen Berner\nOberland erhielt spannende und heitere Antworten.\n2. KIDTOURS – Ferien mit Kindern ist ein praktischer Ausflugsführer für Familien: mit 1000 Tipps,\nTricks und Ideen für jeden Geschmack, jedes Alter und jedes Budget. Das übersichtliche,\nhübsch illustrierte Nach- schlage werk erhalten Sie für € 19,50 im Buchhandel oder direkt bei\nWerd Verlag, www.werd.net.\n3. Das Halbtax -Abo ist Ihr Schlüssel zu günstigen Reisen mit Bahn, Bus und Schifft und\npräsentiert sich im praktischen Kreditkartenformat. Schon beim Abo selbst können Sie zünftig\nsparen: Für ein Jahr halbtaxeln bezahlen Sie 150 Schweizer Franken. Und das ist noch nicht\nalles: Mit dem Halbtax-Abo sind Sie gut informiert: Zweimal jährlich erhalten Sie das\nKundenmagazin mit vielen Reise -Ideen und exklusiven Reiseangeboten. Mit Ihrem Halbtax-\nAbo erhalten Sie 25% Preisnachlass auf Zugfahrten von der Schweiz nach Deutschland und\nÖsterreich, wenn Sie Ihre Fahrkarte in der Schweiz kaufen.\nSBB CFF FF\nSBB – Schweizerische Bundesbahnen\n4. Dokumentarfilm und Seifenoper zusammen heißt Doku-Soap, stammt aus England und macht\nsich seit Jahren auch auf deutschen TV Kanälen breit. Vor allem Privatsender haben sich als\nerfolgreiche Doku – Soap- Sender etabliert. In vielen TV- Serien kann man das wirkliche Leben\nvon Menschen verfolgen und mit ihnen mit leben. Zurzeit besonders erfolgreich: die Sendung\nTausche Familie die täglich um 18 Uhr viele Zuschauer vor den Fernseher lockt.\n5. Wir wollen dir bei der Berufswahl helfen: Die deutsche Bahn, ein Unternehmen mit Zukunft.\nViele Berufe ändern sich im Laufe der Zeit. Genauso wie die Interessen im Leben. Und\ntrotzdem gibt es Neigungen und Fähigkeiten, die du lange Zeit in deinem Leben behalten wirst.\nSo zum Beispiel die Freude am Kontakt mit Menschen. Oder die Begeisterung für fremde\nSprachen. Oder das Arbeiten in der freien Natur und im Team. Oder das Interesse an Technik\nund die Freude am Handwerk. Je nachdem, wofür du dich interessierst, kannst du bei der\nDeutschen Bahn aus insgesamt 15 Lehrberufen wählen. Um die richtige Entscheidung zu\ntreffen, lohnt es sich, sich gründlich zu informieren, zum Beispiel aus unserer Website\nwww. Bahn .de",
+   "arabic_labels_excluded": [
+    "العائالت في سويسرا"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "P01 compared line by line with structured extraction; text layer matches image",
+   "uncertain": []
+  },
+  {
+   "page": 3,
+   "paper": "P01",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\nLesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig?\nMarkieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.\n………………………………………………………………………………………………………………………\nDie neue Sir-Karl-Popper-Schule\nEin Schulversuch für besonders Klage Schüler\nWIEN. Es ist eine ganz normale Schulstunde – Geschichte – in einer ganz normale Klasse. Während der Lehrer\neinen Vortrag über das alle Rom hält, unterhalten sich die Schüler über den Schulball, kreieren die Kleidung\ndes Lehrers, reichen Zettel unter der Schulbank weiter.\nGanz normale Kinder\nAuch überdurchschnittlich intelligente Kinder sind ganz normale Kinder, betont Elfriede Wegricht, Psychologin\nin der Sir – Karl Popper Schule, die im vergangen September Ihren Betrieb aufgenommen hat nur weil sie in\nder Schule gut sind, heißt das nicht, dass sie nicht genauso wie alle anderen Schüler Liebeskummer, Ärger mit\nden Eltern und andere Pubertätsporobleme haben Der Unterschied zwischen normalen und hochbegabten in\nihrer bisherigen Schulkarriere nicht besonders anstrengen mussten und es nicht gewohnt sind, mit ihrer Zeit\ngut hauszuhalten\nFörderung durch Forderung\nUm überdurchschnittlich intelligente Kinder nun entsprechend zu fördern, sieht das Konzept der Sir – Karl\nPopper- Schule mehr Fremdsprachen projektorientiertes Arbeiten in kleinen Klassen und vor allem mehr\nEigenverantwortung für den Lernenden vor. Dazu kommt die Förderung der individuellen Fähigkeiten: Wer in\neinem Fach gut ist und sich besonders für ein Thema interessiert bekommt Sonderaufgaben und tiefer gehen\nEnde Unterlagen. Anfangs war der plötzlich Mehr aufwand ein Schock für die Schüler, die eine 40 – Stunden\nWoche zu bewältigen haben Aber es ist besser, sie erleben den Schock jetzt als zu Beginn des Studiums meint\nHerr Peters Lehrer und Schülerbetreuer an der Popper – Schule denn oft scheitern besonders kluge Menschen\nSpäter weil sie mit ihrer Intelligenz nichts anzufangen wissen Denn zumeist erreichten sie mit wenig Aufwand\nund Mitarbeit relativ gute Ergebnisse\nWer ist hochbegabt?\nZielgruppe der Sir – Karl Popper Schule sind Kinder, die in mindestens einem Fach hochbegabt sind und\nüberdurchschnittlich gute Ergebnisse haben, das sind 20 – 30 der Schüler. Nach einer Aufnahmeprüfung\nwurden von 64 Bewerben 28 geteilt sind und von insgesamt 28 Lehren betreut werden In diesen Klassen\nkönnen die über durchschnittliche intelligenten Schüler dann endlich so sein, wie sie sind, ohne bei jeder\nWortmeldung von ihren Klassenkameraden beschimpft zu werden meint die Schulpsychologien Ziel des\nSchulversuchs sei es jedoch laut Peters nicht, besonders kluge Schüler von normalen Kindern zu trennen,\nsondern Erfahrung im Umgang mit überdurchschnittlich die Begabtenförderung in die Normalschule zu\nübernehmen.",
+   "arabic_labels_excluded": [
+    "سة كارل بوبر",
+    "مدر"
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "P01 compared line by line with structured extraction; text layer matches image",
+   "uncertain": []
+  },
+  {
+   "page": 4,
+   "paper": "P01",
+   "section": "L2",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 2\nLANGUAGE Tests\n6. Die Psychologin der Popper-Schule meint, dass\nbesonders intelligente Kinder sich stark von anderen Kindern unterscheiden.\nA\nbesonders intelligente Schüler dieselben Probleme haben wie andere Kinder.\nbesonders intelligente Schüler weniger Probleme im alltäglichen Leben haben.\nC\n7. Für überdurchschnittlich intelligente Schüler ist typisch, dass Sie\nauch ohne viel Anstrengung gute Noten haben.\nA\nnach der Schule immer großen Erfolg im Beruf haben.\nsich die Zeit zum Lernen besser als andere einteilen können.\nC\n8. Im Unterricht der Popper-Schule sollen die Schüler\nimmer in einer Fremdsprache miteinander sprechen.\nA\nin ihren besten Fächern eine spezielle Betreuung bekommen.\nin kleinen Gruppen schwächeren Schülern helfen.\nC\n9. Die erste Zeit in der Popper-Schule war für die Schüler schwer, weil\nsich ihre Noten plötzlich verschlechterten.\nA\nsie auf einmal viel mehr Zeit mit Lernen verbringen mussten.\nsie noch nicht wussten, welche besonderen Talente sie hatten.\nC\n10. In der Popper-Schule werden nur Schüler aufgenommen,\ndie in mindestens einem Fach sehr gut sind.\nA\ndie mindestens 20 bis 30 Prozent der Aufnahmeprüfung erreichen.\ndie von den insgesamt 28 Lehrern als intelligent beschrieben werden.\nC",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 4,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.946,
+    "ocr_words_missing_from_textlayer": 5,
+    "sample_missing": [
+     "aten",
+     "aterencreor",
+     "chul",
+     "stias",
+     "stuien"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "P01 compared line by line with structured extraction; text layer matches image",
+   "uncertain": []
+  },
+  {
+   "page": 5,
+   "paper": "P01",
+   "section": "L3",
+   "text_source": "text_layer",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\nLesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können\njede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem\nAntwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.\n.....................................................................................................................................................................................\n11. Sie suchen für Ihre beiden Kinder neue Betten und möchten höchstens 200 Euro ausgeben.\n12. Sie haben Probleme mit dem Rücken und suchen ein Gesundheitsbett.\n13. Sie suchen ein schönes Sofa, das man auch als Gästebett benutzen kann.\n14. Vor Ihre Urlaubsreise möchten Sie Ihr Fahrrad überprüfen lassen.\n15. Ihre Freunde möchten eine organisierte Radtour machen und suchen ein geeignetes\nAngebot.\n16. Ihre Verwandten haben eine Woche Urlaub und suchen einen Ferienort am Meer.\n17. Sie suchen für drei Vormittage pro Woche eine Stelle als Küchenhilfe.\n18. Sie suchen eine leichte Arbeit für abends, um sich noch etwas Geld dazuzuverdienen.\n19. Ihre Bekannte möchte als Bedienung in einer Gaststätte arbeiten.\n20. Ihre Freunde wollen Familienurlaub machen und suchen ein Angebot, das auch ein\nKinderprogramm enthält.",
+   "arabic_labels_excluded": [
+    "الموبيليا"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "P01 compared line by line with structured extraction; text layer matches image",
+   "uncertain": []
+  },
+  {
+   "page": 6,
+   "paper": "P01",
+   "section": "L3",
+   "text_source": "ocr",
+   "text": "Leseverstehen, Teil 3\nLANGUAGE Tests\n90 Minuten Leseverstehen und Sprachbausteine\na\nUnd wenn mal\nDoppelstöckiges\nBesuch kommt...\nConCon\nKinderbett\nDoppelbett-Couch, Leder,\nWohntextilien\nschwarz, ausklappbar, mit\nbietet Ihnen einfach alles in einer großen\n(fast neuwertig) mit Rück-\nBettkasten, Fußteil und\nedle Bettdecken, feine Tischwäsche,\nAuswahl: schöne Bettwäsche, Kissen,\nund Frontgitter, aus Metali,\nbraun, Kopf- und Fußteil mit\nvier Kissen, neuwertig\nKommen Sie vorbei, wir beraten Sie gern!\nTeppiche, Gardinen und vieles mehr.\nhellem Holzeinsatz, sehr stabil,\nauch einzein aufzustellen.\ninklusive Metallroste,\nLeseverstehen\n650 Euro\nConCon\n8 06323/981428\nGrünwaldstr. 127\nLadenpreis 400 Euro, jetzt\nzum halben Preis abzugeben.\n77340 Anderstadt\nwww.concon.de\nTel.: 06750-762949\nTel.: 06333 - 987 654\nd\nTankstelle\n24-Stunden\nSonderpreis für\nService\nKurzentschlossene\nf\nUrlaub\nSucht für Waschanlage und Shop\n1 Woche Vollpension\n199 € / Person\nauf dem\noder Halbpension 98 € / Person\nBauernhof\nAushilfskräfte\nstundenweise, vorwiegend abends\nBayr. Wald, schönes Haus,\ngroße Apartments, EZ, DZ, 3-4 Bett-\nHallenbad, Sauna, Massage,\nHP (3-Gang-Abendmenü) 25 Euro, 50%\nZimmer, UF (Frühstücksbuffet) 19 Euro.\nBitte melden bei\nKosmetik.\nFr. Schneider\nWander- und Fahrradwege in\nKinderermäßigung bis einschließlich\nTel: 0621 17 98 05 78\ndirektér Umgebung\nKinderklub! Tagliche Aktivitaten! Prospekt\n11 Jahre, großer Abenteuerspielplatz!\nBachmann\nanfordern!\nKallingstr. 2\nFerienwohnungen\nBahnhofstr. 7, D-94239 Gotteszell/\nFamilie Schmidt-Kreling\ng\nFerienwhg. u.\n94535 Eging\nwww.ch-bachmann.de\nTel.: 08544-916044\nZachenDerg\nTel. + Fax: 09929-2323\nHäuser an der\nNordsee\nWinter- u. Frühjahrs-\ngleich hinter den Ostseedünen\nangebote, noch Whg./\nJugendcamp im Ostseebad GRÖMITZ\nKieferhochbett\nHäuser frei mit direktem\nFür Kinder u. Jugendliche von 8-15 Jahre\nStabil, massiv, ca. 2 J.,\nZugang zum,Strand\nSommerferien ... ohne Eltern, viel Spaß haben.\nTreppe, Rutsche, Vorhänge,\nWangerland-Hooksiel\nneue Freunde kennen lernen!!\nnur für großes Kinder-\nIndividuell buchbarer Zeitraum: 20.06.-30.08.\nzimmer geeignet,\nHorumersiel-Schillig\nNeuwert: 800 €,\nHolger Dormann\nTel.: 08532/676567\n• Übernachtung in Doppelwandzelten mit\nLeistungen:\nVerkaufspreis jetzt 300 €\nFax: 08532/676568\nTel.: 06897-7675\n• Vollpension (aktive Mithilfe beim Tisch- und\nHolzböden (Schlafsack mitbringen!)\nwww.h.dormann.de\nGeschirrdienst erforderlich)\n• Sport- und Freizeitprogramm\n• Teambetreuer\nNeue und gebrauchte\nj\nMit dem Rad durch\nPreis p.P./Tag: 19,- €\nMehr Information unter\nFahrräder\ndie Lüneburger Heide\nwww.ostseejugendcamp.de\nWir sind ein kleiner Familienbetrieb\n• Fachhandel\nmitten in der Heide. Rufen Sie uns\nK\nRestaurant\n• Werkstatt\nBiergarten\nan! Wir senden Ihnen gern unseren\nmit\nRODENHOF\n• Reparaturdienst\nHausprospekt mit 20 ausgearbeiteten\nGrülingsstr. 91\n. Zubehör\nVorschlägen (10-40 km pro Tag) zu.\n66113 Saarbrücken\n1\nWESTSPANGE\nAbends Rücktransport möglich.\nsucht Kellner/in\nSt. Johanner Straße 60\n(Vollzeitbeschäftigung)\n66 117 Saarbrücken\nMoosweg 3 - 21274 Undeloh\nFam. Bevensen\n0681 14 93 18\n8 0681/4 45 48\nTel/Fax: 04189-564534",
+   "arabic_labels_excluded": [
+    "الموبيليا"
+   ],
+   "images": {
+    "count": 3,
+    "page_coverage": 0.92
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 223,
+    "sample_missing": [
+     "abendmenü",
+     "abends",
+     "abenteuerspielplatz",
+     "abzugeben",
+     "aktive",
+     "aktivitaten",
+     "alles",
+     "anderstadt",
+     "anfordern",
+     "angebote",
+     "apartments",
+     "auch",
+     "aufzustellen",
+     "ausgearbeiteten",
+     "aushilfskräfte",
+     "ausklappbar",
+     "auswahl",
+     "bachmann",
+     "bahnhofstr",
+     "bauernhof",
+     "bayr",
+     "beim",
+     "beraten",
+     "besuch",
+     "bett"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Ads page is a photo; OCR transcription corrected against image (see corrections/P01.json)",
+   "uncertain": []
+  },
+  {
+   "page": 7,
+   "paper": "P01",
+   "section": "SB1",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 1\nLANGUAGE Tests\nLesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?.\nMarkieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen\n……………………………………………………………………………………………………………………………………………………\nSehr geehrter Herr Schmidt,\nim Januar hatte ich bei (21) für mich und meine Familie einen Flug nach Indien gebucht. Leider\nentsprach unser Flug überhaupt nicht dem, (22)bei der Buchung am Telefon ausgemacht\nworden war.\n(23) ich ausdrücklich einen Direktflug nach Mumbai bestellt hatte, haben Sie mir einen Flug\n(24) Zwischenstopp in Delhi ausgestellt. Wir mussten eine Nacht in Delhi verbringen und\nkamen so (25) einen Tag später als geplant in Mumbai an. Doch damit nicht genug. Der Flug\nwar nicht nur anders als vereinbart, (26) auch noch viel teurer. statt (27) erwarteten 640 Euro\nkostete der Flug 720 Euro.\nIch darf Sie daher (28) Rückzahlung der zu viel verrechneten Kosten auf mein Konto (29) der\nDeutschen Bank in Mumbai bitten. Meine Bankdaten haben Sie bereits.\nIch bitte Sie, die Angelegenheit bald zu klären und (30) dann zu antworten. Mit\nfreundlichen Grüßen\nHarish Khurana\n30.\n21.\nA ihnen\n24.\nA für\n27.\nA der\nA mich\nB\nB\nIhnen\nB\nmit\nB\nderen\nmir\nSie\nzu\ndie\nsich\nC\nC\nC\nC\nA\nA\nA\n22.\ndas\n25.\nerst\n28.\nfür\nwas\nnach\num\nB\nB\nwie\nseit\nzu\nC\nC\nC\nA\nA\n23.\nDanach\n26.\nbesonders\n29.\nan\nA\nObwohl\nsondern\nbei\nNämlich\nsonst\nvor\nC\nC\nC",
+   "arabic_labels_excluded": [
+    "السيد شميت"
+   ],
+   "images": {
+    "count": 11,
+    "page_coverage": 0.02
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "P01 compared line by line with structured extraction; text layer matches image",
+   "uncertain": []
+  },
+  {
+   "page": 8,
+   "paper": "P01",
+   "section": "SB2",
+   "text_source": "text_layer",
+   "text": "Sprachausteine, Teil 2\nLANGUAGE Tests\nLesen sie den Text und schließen Sie\nLücken 31 – 40. Benutzen Sie die Wörter\n(a, o) Jedes Wort passt nur einmal.\nMarkieren Sie Ihre Lösungen für die\nAufgaben 31 – 40 auf dem\nAntwortbogen.\nSehr geehrte Frau Borner,\nes gibt ganz viele Raschläge, wie man sich ernähren soll, was man essen soll und was nicht. Die\nmeisten Empfehlungen sind aber nicht für etwas, (31) gegen etwas, und zwar immer wieder\ngegen etwas anderes: gegen Fleisch zum Beispiel oder gegen Zucker, aber auch gegen Milch.\nso (32) man etwa, wer kein Fleisch isst, lebt nicht nur gesünder, sondern fühlt sich auch\nbesser.\n(33) Durchsehen einer Zeitschrift ist mir Ihre Anzeige aufgefallen, und nun habe ich folgende\nFragen an Sie: Von (34) Nahrungsmitteln darf man eigentlich so viel essen, wie man will? Was\n(35) jeden Tag gegessen werden? Und wie ist das mit der Milch? Die einen sagen, Milch ist\nsehr gesund (36) der vielen wichtigen Nährstoffe. Andere meinen, wer viel Milch trinkt, kann\nProbleme mit dem Magen bekommen. Außerdem kann man anstelle (37) Milch auch\nMineralwasser trinken. Was soll ich jetzt glauben?\nFür eine Antwort (38) meine Fragen danke ich Ihnen im Voraus. Könnten Sie mir auch noch\neine Broschüre schicken? Das Thema Essen und Sport (39) mich besonders interessieren, (40)\nich selber viel Sport treibe.\nMit freundlichen Grüßen\nSilvia Schönenberger\na\nAUF\nd\nMÖCHTE\ng\nSOLLTE\nj\nWAS\nm\nWELCHEN\nb\nBEIM\ne\nNENNT\nh\nSONDERN\nk\nWEGEN\nn\nWÜRDE\nc DESWEGEN\nf\nSAGT\ni\nVON\nl\nWEIL\no\nZUM",
+   "arabic_labels_excluded": [
+    "الطعام الصحي)",
+    "السيدة بورنر("
+   ],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.06
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "P01 compared line by line with structured extraction; text layer matches image",
+   "uncertain": []
+  },
+  {
+   "page": 9,
+   "paper": "P01",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 1\nLANGUAGE Tests\nSie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.\n…………………………………………………………………………………………………………………………………………………………\n41. Der Sprecher hätte gern Urlaub wie die anderen Kinder gemacht.\n42. Dem Sprecher hat der Wanderurlaub nicht so gut gefallen.\n43. Die Sprecherin hat die Ferien bei Verwandten verbracht.\n44. Die Sprecherin hat mit ihren Eltern regelmäßig Fahrradausflüge gemacht.\n45. Der Sprecher hat den Urlaub mit den Eltern gemeinsam geplant.",
+   "arabic_labels_excluded": [
+    "العطلة"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "schul",
+     "ätbeil"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Hörverstehen page; text layer complete (statements only, no audio in PDF) — outside website scope",
+   "uncertain": []
+  },
+  {
+   "page": 10,
+   "paper": "P01",
+   "section": "H",
+   "text_source": "text_layer",
+   "text": "Hörverstehen, Teil 2\nLANGUAGE Tests\nSie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.\n……………………………………………………………………………………………………………………………………..\n46. Herr Schütz arbeitet erst seit kurzer Zeit als Taxifahrer\n47. In der Kleinstadt hatte Herr Schütz keine Geschäftsleute als Kunden.\n48. Herr Schütz hat sich schon einmal in einen Fahrgast verliebt.\n49. Die Fahrgäste erzählen viel, weil sie den Taxifahrer nicht kennen.\n50. Männer sprechen oft über unpersönliche Dinge.\n51. Herr Schütz bekommt von den Fahrgästen manchmal auch einen Tipp.\n52. In der Freizeit steht Sport für Herrn Schütz an erster Stelle.\n53. Beim Schwimmen kann sich Herr Schütz von einem anstrengenden Tag erholen.\n54. Herr Schütz hat sich entschieden, nur am Tag Taxi zu fahren.\n55. Nach Meinung von Herrn Schütz haben jüngere Taxifahrer weniger Angst, nachts zu an.",
+   "arabic_labels_excluded": [
+    "السيد شوتز"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "full",
+   "verification_note": "Hörverstehen page; text layer complete (statements only, no audio in PDF) — outside website scope",
+   "uncertain": []
+  }
+ ]
+}

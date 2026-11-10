@@ -1,0 +1,119 @@
+0.071 0.062 1.00	Leseverstehen, Teil 3
+0.089 0.045 1.00	LANGUAGE Tests
+0.190 0.754 0.50	PAVILLON
+0.297 0.474 1.00	Cantino
+0.317 0.216 0.50	Im Saalbau:
+0.311 0.713 1.00	GALAKONZERT
+0.328 0.175 0.50	Samstag, 30. Januar,
+0.327 0.528 0.30	Sonienss
+0.321 0.708 0.30	Symohoniscnes Dtssoteneetas
+0.327 0.737 0.30	Stadtharmonie Zünen
+0.340 0.226 0.50	17.00 Uhr
+0.333 0.749 0.50	Osrtikon Seebach
+0.353 0.170 0.50	Das Casal Quarfett spielt
+0.346 0.515 0.30	und 18:00 bis 23:00 UM
+0.342 0.747 0.50	Leitung: Erfe Conus
+0.355 0.727 0.30	Cart Maria:
+0.363 0.226 0.30	Werke Npn
+0.366 0.415 0.50	Sonntag TAPAS-Brunch 12:00 bie 15:00. Uhr
+0.376 0.172 1.00	Ludwig van Beethoven,
+0.373 0.415 0.50	Essen Sie Tapar, to viela Sie wollen
+0.366 0.725 0.30	Pnitet S4
+0.387 0.209 1.00	Georg Crumb
+0.385 0.427 0.30	EingaModerngnetatntei Mheseammakanse
+0.387 0.460 0.50	Modern
+0.381 0.692 0.50	Karten zu Fr. 19.-, 27 - und 35.-
+0.397 0.201 0.50	Antonin Dvořák
+0.389 0.719 0.30	Bullett Seryra Viomms(Cil Soona
+0.401 0.743 0.30	Bullettzentrale Tel. 01 221 22 83
+0.394 0.782 0.30	Tel. 01 221 1671
+0.408 0.222 1.00	Vorverkauf:
+0.418 0.164 0.50	Info Aarau 062 822 75 2
+0.416 0.388 1.00	h
+0.408 0.741 0.50	Musikhaus Bucher, 8050 Ziwlch.
+0.422 0.702 1.00	Abendkasse am Konzerttag ab 18.00 Uhr
+0.414 0.789 0.50	Tel. 01 312 58 43
+0.429 0.398 1.00	Alpenklänge
+0.449 0.113 0.30	g
+0.442 0.400 1.00	Die andere Schweizer Volksmusik
+0.455 0.144 1.00	Gastland NORWEGEN
+0.452 0.400 1.00	Do 17. Juli 20 Uhr Oberwalliser Spillit
+0.453 0.752 0.50	Hiltl. Vegetarisch
+0.465 0.142 1.00	KULINARISCHE Marchen
+0.464 0.400 1.00	Gast: Sina
+0.463 0.758 1.00	nach
+0.477 0.138 1.00	aus Fjordiachs
+0.477 0.398 1.00	Paul Locher, Geige Elmar Schmid, Klarinette
+0.474 0.760 1.00	Lust und Laune
+0.491 0.160 0.50	VOM 26. MAI BIS 22. JUNI
+0.485 0.398 1.00	Klaus Schmid, Klarinette Oswald Bumann, Bassgei-
+0.494 0.398 1.00	ge Sabine Gertschen, Hackbrett Marcel Volken,
+0.486 0.766 1.00	Vegetarische Küche liegt im Trend!
+0.496 0.776 0.50	Zum Jubiläum des Hitt in Zürich.
+0.504 0.133 1.00	Frisch aus Norwegen und köstlich
+0.504 0.398 1.00	Schwyzerörgeli Edmund Volken, Hackbrett
+0.504 0.772 1.00	des ersten vegetarischen Restaurants in E
+0.513 0.129 1.00	zubereitet.
+0.522 0.129 1.00	Lassen Sie sich von unseren sommer-
+0.519 0.398 1.00	Do 24. Juli 20 Uhr Roots of Communication
+0.513 0.772 0.50	veröffentlicht Rolf Hill über 60 der belie
+0.531 0.125 1.00	lichen Lachskreationen uberraschen.
+0.523 0.832 1.00	Rezepte zum Nachkochen,
+0.533 0.398 1.00	Gast: Erika Stucky
+0.532 0.782 1.00	Hiltl. Vegetarisch nach Lust unc
+0.554 0.121 1.00	COFFEE SHOP, BINARIO UNO und
+0.546 0.123 1.00	Flughafenrestaurants TOP AIR, ASIA
+0.545 0.398 1.00	Robert Morgenthaler, Posaune, Alphorn, Didgeridoo
+0.541 0.797 1.00	168 Seiten, 120 farbige Abbild
+0.555 0.398 1.00	Jean-Jacques Pedretti, Alphorn, Posaune Lukas Niggli,
+0.548 0.858 0.50	gebunden, Fr. 59.-
+0.564 0.119 1.00	BRASSERIE
+0.558 0.860 1.00	WERDERVERLAG
+0.576 0.113 1.00	Reservation 01-816 60 60
+0.568 0.398 1.00	Schlagzeug, Perkussion
+0.570 0.852 0.50	Postfach, 8021 Zuric
+0.586 0.396 1.00	HOFKONZERTE
+0.578 0.801 0.50	Tel. 0846 860 560, Fax 01 //
+0.590 0.838 1.00	Internet www.werderver
+0.599 0.398 1.00	Zentrum am Obertor 8, Winterthur
+0.599 0.839 1.00	Jetzt im Buchhandel er
+0.607 0.396 1.00	Vorverkauf: Zentrum am Obertor, Tel. 052213 88 88
+0.621 0.068 0.30	J
+0.621 0.396 1.00	Tourist-Service, Tel. 052 26926 66
+0.628 0.396 0.50	Bei schlechter Witterung: Neuwiesenhoi-Saa), Wartsti, 17
+0.635 0.840 1.00	Neuburger
+0.645 0.070 1.00	András Adorján
+0.644 0.396 1.00	Auskunft am Veranstaltungstag über Nr. 1600
+0.661 0.070 1.00	Flöte
+0.656 0.809 1.00	Genießen Sie unsere Gastf
+0.666 0.829 1.00	die sagenhafte Auswah)
+0.677 0.064 1.00	Uwe Komischke
+0.693 0.061 1.00	Trompete
+0.686 0.289 1.00	SCHWEIZER HEIMATWERK - Geschenke
+0.689 0.877 0.50	Am Wocher
+0.711 0.057 1.00	Friedmann Winklhofer
+0.712 0.316 1.00	von hier
+0.709 0.446 0.50	von heute
+0.705 0.602 1.00	von Hand
+0.704 0.844 0.50	griechische St
+0.727 0.053 1.00	Cembalo und Leitung
+0.729 0.275 1.00	Hier finden Sie das optimale Geschenk für jede und jeden!
+0.727 0.836 1.00	Hopfenstraße 19, be
+0.739 0.273 1.00	Traditionelles Kunsthandwerk und Trachten, Panorama-Poster.
+0.756 0.045 1.00	Konzert für Orchester,
+0.749 0.864 1.00	Telefon 01
+0.770 0.047 1.00	Trompeten und Floten
+0.770 0.269 1.00	jetzt neu:
+0.763 0.522 1.00	Genf
+0.775 0.270 1.00	große Auswahl an CDs
+0.775 0.524 1.00	Aarau
+0.786 0.045 0.50	Di., 22.6 20 Uhr
+0.791 0.269 1.00	verschiedenster
+0.790 0.523 1.00	Zürich, Tel. 01 211 57 80
+0.785 0.524 1.00	St. Gallen
+0.777 0.835 0.50	Mo.-Fr.: 11:30-14:00
+0.801 0.043 1.00	Bei schlechtem Wetter im
+0.800 0.269 1.00	Schweizer Künstler
+0.792 0.871 1.00	Samstag/Sonnta
+0.800 0.523 1.00	http://www.heimatwerk.ch
+0.816 0.045 1.00	erkulessaal)

@@ -1,0 +1,10 @@
+0.282 0.014 0.30	3- tilbe te cil cilas eü.
+0.381 0.012 0.30	Lüki
+0.411 0.014 1.00	Vielen Dank für deine nette E-Mail. Ich habe mich sehr darüber gefreut.
+0.472 0.014 1.00	Sehr schön, dass Du in einen neuen Arbeitskollegen in Deinen Büro hast.
+0.503 0.014 1.00	Ich schlage dir vor, dass Du Deinem neuen Arbeitskollegen hilfst, er hat ja wenig Erfahrung .
+0.533 0.016 1.00	Kannst Du ihn am PC einarbeiten, damit er schnell arbeiten kann.
+0.621 0.016 1.00	Am liebsten ich arbeite gerne in einem Team, weil ich es sehr interessant finde.
+0.680 0.016 1.00	Nach ich aus meinem Urlaub zurück gekommen bin, hatte ich viel zu tun besonders in der Arbeit.
+0.738 0.014 1.00	Bei mir gibt's Neuigkeiten, ich habe ein neues Auto gekauft und es wird bestimmt Dir gefallen.
+0.799 0.016 1.00	Bis bald und Liebe Gruße

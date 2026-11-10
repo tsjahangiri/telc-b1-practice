@@ -1,0 +1,14 @@
+0.103 0.084 1.00	Hörverstehen, Teil 3
+0.097 0.813 0.30	jmgå
+0.121 0.068 1.00	LANGUAGE Tests
+0.187 0.047 1.00	Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.
+0.208 0.047 1.00	Sie hören jeden Text zweimal.
+0.227 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 56 - 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.247 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 56 - 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.267 0.045 1.00	falsch auf dem Antwortbogen.
+0.359 0.047 1.00	56. Der nächste Zug nach Füssen fährt um 11:56 Uhr.
+0.408 0.047 1.00	57. Die Firma befindet sich in der Bellmondstraße.
+0.459 0.047 1.00	58. Im City-Kino werden im Untergeschoss alte Filme gezeigt.
+0.489 0.464 0.50	øchschul
+0.510 0.047 1.00	59. Das Zugteam bringt Ihnen Südtiroler Käsespezialitäten an Ihren Platz.
+0.561 0.047 1.00	60. Die Großmutter kann heute nicht kommen.

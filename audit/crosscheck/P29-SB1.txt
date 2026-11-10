@@ -1,0 +1,5 @@
+# P29-SB1 pages [433] ratio 0.844
+## website words not in OCR:
+Zwischen
+## OCR words (len>3) not in website:
+Sprachausteine Neui LANGUAGE Tests cZwischen

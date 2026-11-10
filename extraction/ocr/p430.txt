@@ -1,0 +1,14 @@
+0.074 0.057 1.00	Leseverstehen, Teil 2
+0.092 0.041 0.50	LANGUAGE Tests
+0.164 0.049 1.00	6. Die Kinderbetreuerinnen kümmern sich um
+0.203 0.133 1.00	Kinder, die auf dem Flughafen warten müssen.
+0.237 0.123 1.00	Kinder, die im Flugzeug krank wurden.
+0.247 0.103 0.30	B
+0.272 0.105 1.00	c Kinder, die ohne Eltern fliegen müssen.
+0.311 0.047 1.00	7. Die Flughafen Zürich-Kloten ist besonders familienfreundlich,
+0.353 0.129 1.00	seit Alice Martin dort arbeitet.
+0.387 0.129 1.00	weil die Wartezeit kürzer ist als auf anderen Flughäfen.
+0.422 0.129 1.00	weil es Räume gibt, in denen Kinder spielen können.
+0.802 0.127 1.00	die Arbeit auf dem Flughafen interessant und abwechslungsreich.
+0.837 0.129 1.00	die Arbeit auf dem Flughafen nicht so vielseitig wie die Arbeit im Spital.
+0.871 0.103 1.00	c die Kontakte zu den Kindern auf dem Flughafen sehr intensiv.

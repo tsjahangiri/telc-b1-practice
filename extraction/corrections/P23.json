@@ -1,0 +1,74 @@
+{
+ "fixes": [
+  [
+   "L1",
+   "{\"key\": \"i\", \"text\": \"Straßenbahn",
+   "{\"key\": \"j\", \"text\": \"Straßenbahn"
+  ]
+ ],
+ "solution_fixes": {
+  "SB1": {
+   "23": "a"
+  },
+  "SB2": {
+   "34": "i",
+   "39": "l"
+  }
+ },
+ "ads_manual": {
+  "page": 336,
+  "ads": {
+   "a": "Feiern im\nCafe-Restaurant\nWEBERKNECHT\nGroßer Festsaal (bis zu 100 Gäste)\nmit Musikanlage, Buffet und\nGetränken,\nalles inklusive ab 198 Euro.\nBei mitgebrachten Speisen\nund Getränken\nzahlen Sie nur die Saalmiete!\nNähere Informationen unter:\n313 43 56",
+   "b": "Noch 3 freie Plätze im\nPrivatkindergarten\nBAMBI!!!\nPädagogisches Top-Team\nHelle, kindergerechte Räume\nEigene Spielwiese\nGanzjährig geöffnet\nBetreuung Mo–Fr 6–18 Uhr\nWir freuen uns auf Ihren Liebling!\nTel: 533 12 43",
+   "c": "KINO-CENTER\n312 45 89\nSaal 1,\n15.30, 19.00 : Shrek 2\n(in englischer Originalversion)\nSaal 2,\n16.00, 20.15 : Das Komplott\n(Inter. Thriller)\nSaal 3,\n14.30 : Mäusejagd\n(ab 6 Jahren)\nSaal 4,\n20.15 : Besser geht's nicht\n(Oscar-Gewinner!)",
+   "d": "Sie wollen\nein unvergessliches Fest feiern?\nDann holen Sie den\nPartyservice!\nWir kümmern uns um Speisen und\nGetränke für jedes Fest, Geburtstag,\nHochzeit, Kinderparties, etc.\nReservierungen spätestens\n4 Wochen vor dem Fest!\nTel: 214 34 65, Frau Kern",
+   "e": "AirPlus\n(Austrian Airlines/Diners Club Kreditkarte)\nsucht\nSachbearbeiter(in)\nfür Kundendienst\n22- bis 26-Jährige mit Maturaniveau und Berufserfahrung\n(Computer-Kenntnisse)\nSind Sie genau und zuverlässig und haben Interesse an\ntelefonischem Kontakt mit unseren Kunden, dann sollten\nSie uns Ihre Bewerbungsunterlagen mit Foto rasch\nzusenden.\nAirPlus, A-1107 Wien, Fontanastraße 1\n(01) 1766/3661",
+   "f": "23-jährige Psychologie-\nstudentin, kinderliebend,\nzeitlich flexibel und im\nUmgang mit Kindern erfahren,\nkümmert sich stundenweise gerne\num Ihre Kinder!\n10 Euro / Stunde!\nIch freue mich auf Ihren Anruf:\nLisa, Tel: 312 04 23",
+   "g": "Studentenhit in Wien!\n1-Zimmer-Wohnung, 30 m², Bad,\nWC, Uni-Nähe, keine Ablöse,\nbefristet für 1 Jahr, monatl.\n300 Euro inkl. Betriebskosten\nUni-Real, 5533-0",
+   "h": "Studenteneigentum\nA-1030 Wien · Hangmayerstrasse\n1-Zi.-Wohnung, Kü., Bad, Blk.,\n29 m², ruhige Lage, sof. anrufen,\nKP 50.000 Euro\nTel. 38 80 44",
+   "i": "KINO UNTER STERNEN\nOPEN AIR IM AUGARTEN\nDer Film heute:\nMEET ME IN ST. LOUIS\nMusical über die 4 Jahreszeiten einer\nFamilie, mit Judy Garland / 21.30",
+   "j": "STADTKINO\nsucht\nfür die Sommermonate\nJuli – September\njunge MitarbeiterInnen\nfür den Kartenverkauf und\ndas Buffet,\n10 Stunden / Woche,\nabends, guter Verdienst,\nnähere Auskünfte:\nKarin Moor, Tel.: 712 6276",
+   "k": "„PC-Kenntnisse\nnotwendig“ –\nsteht das auch in der Anzeige\nfür Ihren Traumjob?\nDie\nVolkshochschule Simmering\nbietet\nberufsorientierte PC-Kurse\n(Abend- und Wochenendkurse)",
+   "l": "Familie sucht\nBabysitterin bzw. Kindermädchen\n(zuverlässig, erfahren, freundlich)\nArbeitszeit nach Absprache.\nFamilie Hock, Tel. 217 354"
+  }
+ },
+ "uncertain": {
+  "L3": [
+   {
+    "location": "p336, ad e (small print)",
+    "note": "Small text partly under watermark: '22- bis 26-Jährige mit Maturaniveau ...' and the paragraph below read with moderate confidence."
+   },
+   {
+    "location": "p336, ad c (show times)",
+    "note": "Very small times '15.30, 19.00', '16.00, 20.15' low confidence."
+   }
+  ]
+ },
+ "notes": {
+  "L1": [
+   "The last heading is printed as 'i)' a second time in the source (should be j); stored with key j so that each heading is selectable. The key on p343 does not use i or j."
+  ],
+  "L2": [
+   "In the source (p334) the correct options are printed in blue italics, revealing the answers; formatting not reproduced."
+  ],
+  "L3": [
+   "Ads page p336 is a photo with handwritten marks by a previous user, including the words 'Kein Problem!' written over ad k — not part of the ad, omitted."
+  ],
+  "SB1": [
+   "Key entry 23 (a 'hat') was not parsed automatically (different font); read visually from p343."
+  ],
+  "SB2": [
+   "Key entries 34 (I MIT) and 39 (L PRO) read visually from p343. Word bank prints 'KENIE' (sic, for 'KEINE') — kept as printed."
+  ]
+ },
+ "verified": {
+  "L1": true,
+  "L2": true,
+  "L3": true,
+  "SB1": true,
+  "SB2": true
+ },
+ "paper_notes": [
+  "P23 is a duplicate of P12 (identical exercises and answer key)."
+ ]
+}

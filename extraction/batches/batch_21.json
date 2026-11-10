@@ -1,0 +1,377 @@
+{
+ "batch": 21,
+ "pages": [
+  201,
+  210
+ ],
+ "records": [
+  {
+   "page": 201,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Ich habe auch einen Beitrag von *Stefan Heeg* gelesen.\n- Er ist 38 Jahre Alt .und arbeitet als Lehrer.\n***************************************************************\n Herr *Heeg* sagt ,dass es ihm egal ist ,ob die Wohnung sehr schön ist oder nicht.\n Die Haubtsache für ihn ist ,dass die Möbel bequem und praktisch sind.\n Er will auch hohe Qualität für den Preis bekommen.\n***************************************************************\n*Meinung*\n- Ich bin derselben Meinung ,wie *Stefen*.\n ich finde es besser ,wenn ich in einem einfachen Haus lebe.\n- Das Haus ist schön mit den Menschen ,nicht mit den Möbeln.\n- Falls ich ein Sofa kaufe ,möchte ich es weder scöne ,noch modern\n,sondern bequem.\n- Die Hauptsache für mich ist ,dass die Wohnung bequem ist ,aber\ndas Aussehen kommt für mich nicht in Frage.\n***************************************************************\n*Erfahrung*\n-Bevor ich geheiratet habe ,kaufte ich viele Möbel auf dem Flohmarkt.\n- Das war geeignet nicht nur für die Wohnung ,sondern auch für mein\n Geld.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 202,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "-Obwohl die Möbel billig waren ,waren sie bequem und praktisch ,\n und ich habe viel Geld gespart ,um etws anderes zu machen ,und das\n hat mir viel Spaß gemacht.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.941,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "nochschul",
+     "telcc"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 203,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Kindergarten verscönern*\n Also *Mahmoud* du weißt ja ,wir bei der Verscönerung des\nKindergartens helfen sollen ,was hältst du davon?\n Ja,da gehe ich ganz d´accord ,aber welche Räume sollen wir verschönern?\n 3 Räume ,das Musikzimmer ,das Theaterzimmer ,und das Esszimmer.\n Das klingt gut ,aber sollten wir auch den Spielplatz renovieren?\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.56
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 36,
+    "sample_missing": [
+     "alle",
+     "denselben",
+     "dieser",
+     "einen",
+     "eitern",
+     "etwas",
+     "gebäude",
+     "gemacht",
+     "gemeinsam",
+     "gesprachspartner",
+     "gesprächsparther",
+     "gesprächspartnerin",
+     "haben",
+     "hochsch",
+     "ihre",
+     "ihrem",
+     "ihrer",
+     "kann",
+     "kinder",
+     "machen",
+     "materialien",
+     "minuten",
+     "mithelfen",
+     "notizen",
+     "planen"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 204,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ja stimmt ,wir können auch neue Spiele für Kinder hinzufügen ,was\ndenkst du?\n Ja ,ich bin derselben Meinung ,aber dafür brauchen wir einige Werkzeuge\n,hast du Vorschläge?\n Wie wäre es mit unserem freund Thomas ,weil er in diesem Bereich\nKindergarten.\n Ja ,supper ,ich wünsche dir Hals und Beinbruch ,bis morgen.\n Eben falls ,bis dann.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [
+    " Ja ,ich kann sowohl eine Leiter **سلم ,als auch Malwerkzeuge mitbringen",
+    ",aber was ist mit dem Material? **ماذا عن الماتيريال",
+    " Wir brauchen Farben ,Tapete **ورق حائط ,und Farbroller ,das kann ich mit",
+    "bringen ,aber wer kann die Tapete aufhängen **يعلق?",
+    "arbeitet? **يعمل في هذا المجال ,ich kann auch die Möbel reparieren.",
+    " Ja ,das ist ein guter Vorschlag ,ich kann auch die Wände streichen *يده ن",
+    "*الجدران ,so rufe ich Thomas an ,dann treffen wir uns morgen im"
+   ],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 24,
+    "sample_missing": [
+     "arbeitet",
+     "aufhängen",
+     "bringen",
+     "eine",
+     "farben",
+     "farbroller",
+     "guter",
+     "ischul",
+     "kann",
+     "leiter",
+     "lila",
+     "malwerkzeuge",
+     "material",
+     "mitbringen",
+     "möbel",
+     "reparieren",
+     "rufe",
+     "sowohl",
+     "streichen",
+     "tapete",
+     "treffen",
+     "uülail",
+     "vorschlag",
+     "wände"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 205,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "*Musikinstrument*\n Also *Mahmoud* du weißt ja ,wir jetzt viel Freizeit haben ,und wir\nkönnen zusammen Musik lernen ,was hältst du davon?\n Ja,da gehe ich ganz d´accord ,aber welches Instrument können wir lernen?\n,mir fällt nichts ein.\n Ja , Wir können entweder Gitarre ,oder Violine lernen ,was denkst du\ndarüber?\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.52
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.933,
+    "ocr_words_missing_from_textlayer": 29,
+    "sample_missing": [
+     "andt",
+     "einen",
+     "etwas",
+     "finden",
+     "gemacht",
+     "gemeinsam",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "ihre",
+     "ihrem",
+     "ihrer",
+     "jetal",
+     "kaufen",
+     "kosten",
+     "lehrer",
+     "mahnour",
+     "minuten",
+     "musikinstrumer",
+     "musikschule",
+     "nehmen",
+     "notizen",
+     "planen",
+     "schon",
+     "sich",
+     "teil"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 206,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": " Ich glaube eine Gitarre wäre besser ,und einfacher zu lernen , Aber wie\nkönnen wir eine Gitarre bekommen ?\n Es gibt in der Blumenstraße einen Laden für Musikinstrumente ,wir\nkönnen eine genüstige Gittare Kaufen ,was meinst du?\n Ich bin derselben Meinung ,aber dafür brauchen wir Unterrichte zu\nnehmen ,hast du einige Vorschläge?\n Ich schlage vor ,dass wir entweder eine Musikschule ,oder einen\nPrivatlehrer besuchen ,was ist deine Meinung?\n Ich bevorzuge eine Musikschule ,damit wir mit anderen Leuten spielen\n,aber weißt du ,wie viel der Kurs kostet?\n Ja ,ungefähr 25 Euro pro Stunde ,passt es dir?\n Ja ,das passt mir gut ,so treffen wir uns morgen ,dann zum Kurs gehen.\n Gut ,so machen wir es ,Ich wünsche dir Hals-und Beinbruch.\n Eben falls.\n Bis morgen.\n Bis dann .\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.984,
+    "ocr_words_missing_from_textlayer": 2,
+    "sample_missing": [
+     "hschul",
+     "instagr"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 207,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "* Hauskauf *\n Teilnehmer A\n- Ich habe einen Beitrag zum Thema *HausKauf* gelesen.\n- Die Person die sich äußert heißt *Silke Kühne*.\n- Sie ist 39 Jahre Alt ,und arbeitet als Rechtsanwältin.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.53
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 51,
+    "sample_missing": [
+     "aber",
+     "andere",
+     "auch",
+     "außerdem",
+     "berichitet",
+     "berichten",
+     "damn",
+     "darüber",
+     "dass",
+     "dazu",
+     "drei",
+     "eigenen",
+     "eine",
+     "einer",
+     "erfahrungen",
+     "erwas",
+     "erzahlen",
+     "garten",
+     "gesprachspartner",
+     "gesprächspartne",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "haben",
+     "haoskauf",
+     "hrer"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 208,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "- Frau *Kühne* bevorzugt ihr eigenes Haus zu besitzen.\n- Sie hat seit 3 Jahren ein neues Haus gekauft.\n- Obwohl das Haus sehr teuer ist ,bleibet es besser als jeden Monate zu zahlen.\n- Es gibt sowohl viele Plätze für die Kinder ,als auch einen scönen Garten davor.\n***************************************************************\n*Meinung*\n- Ich habe eine ähnliche Meinung wie *Silke* ,es ist besser ,wenn ich\nmein eigenes Haus habe ,weil ich Stabilität mag .\n- Ich möchte nicht nur eine große Familie gründen ,sondern auch viele\nKinder haben ,deshalb brauche ich ein großes Haus.\n- Ich bevorzuge auch mein Geld an meinem eigenen Haus zu anlegen\n ,statt jeden Monat eine Miete zu zahlen.\n***************************************************************\n*Erfahrung*\n Mein Väter hat sein eigenes Haus gekauft ,damit ich nach meiner\nHeirat bei ihm wohne.\n Ich arbeite in der Nähe von zu Hause ,und lebe also mit meiner\n  Familie in unserem eigenen Haus.\n Ich möchte auch eine große Familie gründen ,das machen wir\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 0.986,
+    "ocr_words_missing_from_textlayer": 4,
+    "sample_missing": [
+     "stabilitat",
+     "yyyy",
+     "yyyyy",
+     "yyyyyy"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 209,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "immer in meinem Heimatland.\n Ich bevorzuge Stabilität und Familienleben ,Das macht mir viel Spaß.\n***************************************************************\n Teilnehmer B\n- Ich habe auch einen Beitrag von *Jörg Göbel* gelesen.\n- Er ist 30 Jahre Alt .und arbeitet als Elektroingenieur.\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 1,
+    "page_coverage": 0.51
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 57,
+    "sample_missing": [
+     "allein",
+     "andere",
+     "ausland",
+     "außerdem",
+     "berichten",
+     "berichtet",
+     "beruflichen",
+     "brauche",
+     "dann",
+     "darüber",
+     "dazu",
+     "denn",
+     "eigenen",
+     "eine",
+     "einer",
+     "erfahrungen",
+     "erzählen",
+     "etwas",
+     "frage",
+     "gesprächspartner",
+     "gesprächspartnerin",
+     "gründen",
+     "haben",
+     "haus",
+     "hauskauf"
+    ]
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  },
+  {
+   "page": 210,
+   "paper": "SPEAKING",
+   "section": "MUENDLICH",
+   "text_source": "text_layer",
+   "text": "***************************************************************\n Herr *Göbel* bevorzugt kein eigenes Haus zu besitzen.\n Wegen seiner Arbeit bleibt er nicht lange in derselben Wohnung.\n Er hat weder Frau ,noch Kinder ,deswegen braucht er nicht so viel Plätz zu leben.\n***************************************************************\n*Meinung*\n* Ich gehe ganz d´accord ,ich finde es besser ,wenn ich ein Haus miete.\n* Ich mag viel reisen ,damit ich verschiedene Kulturen kennenlerne\n   ,deshalb bleibe ich nicht lange in derselben Wohnung.\n* Ich bin auch am Anfang meiner Karriere ,deswegen habe ich nicht\n  genug Geld ,um mein eigenes Haus zu kaufen.\n* Ich habe weder Frau noch Kinder ,falls ich in eine neue Stadt reisen\n möchte ,wird es einfach ,eine Wohnung für eine Person zu finden\n ,aber das ist sehr schwer wenn ich eine große Familie lebe.\n***************************************************************\nwww.instagram.com/mahmoudemad007",
+   "arabic_labels_excluded": [],
+   "images": {
+    "count": 0,
+    "page_coverage": 0.0
+   },
+   "crosscheck": {
+    "textlayer_words_found_in_ocr": 1.0,
+    "ocr_words_missing_from_textlayer": 0,
+    "sample_missing": []
+   },
+   "extracted": true,
+   "verified": true,
+   "verification_method": "sheet",
+   "verification_note": "Speaking-exam (Mündlicher Ausdruck Teil 2/3) third-party model answers — outside exam-paper scope; viewed on contact sheets, text layer + OCR recorded",
+   "uncertain": []
+  }
+ ]
+}

@@ -1,0 +1,165 @@
+[
+ {
+  "id": "P23-H1",
+  "type": "hoeren",
+  "part": 1,
+  "section": "Hörverstehen, Teil 1",
+  "instructions": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören diese Texte nur einmal.\nEntscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.\nLesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.",
+  "statements": [
+   {
+    "num": 41,
+    "text": "Die Sprecherin wünscht sich einen Arbeitsplatz für ihren Vater."
+   },
+   {
+    "num": 42,
+    "text": "Der Sprecher ist kein besonders guter Schüler."
+   },
+   {
+    "num": 43,
+    "text": "Die Sprecherin möchte nicht immer gestört werden."
+   },
+   {
+    "num": 44,
+    "text": "Der Sprecher versteht sich nicht gut mit seiner Mutter."
+   },
+   {
+    "num": 45,
+    "text": "Die Sprecherin ist am liebsten mit ihren Eltern zusammen."
+   }
+  ],
+  "pages": [
+   339
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 343,
+  "topic": "Arbeitsplatz für ihren Vater",
+  "solution": {
+   "41": "-",
+   "42": "+",
+   "43": "+",
+   "44": "+",
+   "45": "-"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ },
+ {
+  "id": "P23-H2",
+  "type": "hoeren",
+  "part": 2,
+  "section": "Hörverstehen, Teil 2",
+  "instructions": "Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.\nSie hören das Gespräch zweimal.\nLesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.",
+  "statements": [
+   {
+    "num": 46,
+    "text": "Frau Schäfer hat von dem Verein kurz nach der Gründung zum ersten Mal gehört."
+   },
+   {
+    "num": 47,
+    "text": "Die Mitglieder des Vereins kommen aus ganz Deutschland."
+   },
+   {
+    "num": 48,
+    "text": "Die Mitglieder des Vereins wissen über Hausarbeit gut Bescheid."
+   },
+   {
+    "num": 49,
+    "text": "Im Verein werden oft Feste gefeiert."
+   },
+   {
+    "num": 50,
+    "text": "Der Verein bietet auch die Organisation von Festen an."
+   },
+   {
+    "num": 51,
+    "text": "Der Verein vermittelt Senioren, die tagsüber Kinder betreuen."
+   },
+   {
+    "num": 52,
+    "text": "Laut Frau Schäfer vertrauen viele Familien den Mitarbeiterinnen des Vereins mehr als anderen."
+   },
+   {
+    "num": 53,
+    "text": "Vereinsmitglied kann nur werden, wer einen Beruf gelernt hat."
+   },
+   {
+    "num": 54,
+    "text": "Die Mitarbeiterinnen bekommen für ihre Arbeiten 10 Euro pro Stunde."
+   },
+   {
+    "num": 55,
+    "text": "Kunden mit wenig Geld zahlen für den Service nichts."
+   }
+  ],
+  "pages": [
+   340
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 343,
+  "topic": "Frau Schäfer",
+  "solution": {
+   "46": "-",
+   "47": "-",
+   "48": "+",
+   "49": "-",
+   "50": "+",
+   "51": "+",
+   "52": "+",
+   "53": "+",
+   "54": "-",
+   "55": "-"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ },
+ {
+  "id": "P23-H3",
+  "type": "hoeren",
+  "part": 3,
+  "section": "Hörverstehen, Teil 3",
+  "instructions": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.\nSie hören jeden Text zweimal.\nEntscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen\nAuf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich\nfalsch auf dem Antwortbogen.",
+  "statements": [
+   {
+    "num": 56,
+    "text": "Sie sollen um 19:30 Uhr bei Georg und Claudia sein ."
+   },
+   {
+    "num": 57,
+    "text": "Im südlichen Österreich ist es tagsüber sonnig, später windig und regnerisch."
+   },
+   {
+    "num": 58,
+    "text": "Der Speisewagen befindet sich im hinteren Teil des Zuges."
+   },
+   {
+    "num": 59,
+    "text": "Die Schweizer geben für Urlaub mehr Geld aus als für ihre Gesundheit."
+   },
+   {
+    "num": 60,
+    "text": "Der Sänger beginnt seine Konzertreise mit einer Vorstellung in Wien."
+   }
+  ],
+  "pages": [
+   341
+  ],
+  "text_source": "text_layer",
+  "answer_key_page": 343,
+  "topic": "Georg und Claudia",
+  "solution": {
+   "56": "-",
+   "57": "+",
+   "58": "-",
+   "59": "-",
+   "60": "+"
+  },
+  "solution_complete": true,
+  "notes": [],
+  "uncertain": [],
+  "verified": false
+ }
+]

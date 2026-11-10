@@ -1,0 +1,29 @@
+=== P24-H1 [Urlaub] p[364] src=text_layer key p368
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören diese Texte nur einmal. / Entscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.
+  41. Der Sprecher hätte gern Urlaub wie die anderen Kinder gemacht.   [+]
+  42. Dem Sprecher hat der Wanderurlaub nicht so gut gefallen.   [+]
+  43. Die Sprecherin hat die Ferien bei Verwandten verbracht.   [-]
+  44. Die Sprecherin hat mit ihren Eltern regelmäßig Fahrradausflüge gemacht.   [-]
+  45. Der Sprecher hat den Urlaub mit den Eltern gemeinsam geplant.   [+]
+  nums=[41, 42, 43, 44, 45] complete=True
+=== P24-H2 [Praktikum] p[365] src=text_layer key p368
+INSTR: Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. / Sie hören das Gespräch zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.
+  46. Mit einem Praktikum können sich Jugendliche auf das Studium vorbereiten.   [-]
+  47. Herrn Mahlers Firma bietet jungen Leuten in verschiedenen Abteilungen ein Praktikum an.   [+]
+  48. Herrn Mahlers Firma stellt alle Praktikanten nach der Ausbildung ein.   [-]
+  49. Bei einer Bewerbung ist das Schulzeugnis für Herrn Mahler das Wichtigste.   [-]
+  50. Praktikanten sollten selbst erkennen, wo man sie brauchen könnte.   [+]
+  51. Herr Mahler meint, dass die Ideen der Praktikanten bei der Arbeit stören.   [-]
+  52. Herr Mahler legt großen Wert auf Teamarbeit.   [+]
+  53. Nach Frau Bachs Meinung verhalten sich Praktikanten im Betrieb oft wie in der Schule oder an der Universität.   [+]
+  54. Für den Praktikanten ist es gut, wenn er Interesse an der Arbeit zeigt.   [+]
+  55. Herr Mahler empfiehlt den Praktikanten, das Team mit Fleiß und guter Laune zu unterstützen.   [+]
+  nums=[46, 47, 48, 49, 50, 51, 52, 53, 54, 55] complete=True
+=== P24-H3 [Norddeutschland] p[366] src=text_layer key p368
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören jeden Text zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen.
+  56. In Norddeutschland steigen die Temperaturen morgen auf 5 bis 7 Grad.   [-]
+  57. Hamburg hat öfter gewonnen als Stuttgart.   [+]
+  58. Nach zwei Monaten müssen Sie für die Zeitschrift bezahlen.   [+]
+  59. Auf dem Mittleren Ring in München wird die Geschwindigkeit kontrolliert.   [-]
+  60. Janas Geburtstagsfest findet nicht im LEO statt.   [-]
+  nums=[56, 57, 58, 59, 60] complete=True

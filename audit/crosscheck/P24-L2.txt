@@ -1,0 +1,5 @@
+# P24-L2 pages [358, 359] ratio 0.968
+## website words not in OCR:
+beobachtet
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests Uses vsule Leseverstehen Teil LANGUAGE Tests Uses chschul ehen beob achtet

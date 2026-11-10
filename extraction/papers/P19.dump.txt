@@ -1,0 +1,108 @@
+##### P19 pages [271, 284] key p284 sections {'L1': [271, 272], 'L2': [273, 274], 'L3': [275, 276], 'SB1': [277], 'SB2': [278], 'H': [279, 280, 281], '?': [282, 283], 'LOES': [284]}
+
+=== P19-L1 [Märchenfestspiele] pages [271, 272] verified=True
+INSTR: Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+  a) Märchen-Festspiele in Bremen
+  b) Griechische Botschaft bietet Sprachkurse für Schüler
+  c) Universitätsstadt wird 300 Jahre
+  d) Wissenschaft: Von der Körpergröße hängt das Gehalt ab
+  e) Durch Handel reich geworden
+  f) Interessante Universitätsstadt mit hoher Lebensqualität
+  g) Latein in deutschen Schulen wieder beliebter
+  h) Wer wenig lacht, verdient auch weniger
+  i) Fremdsprachen: Schüler lernen nur Englisch und Französisch
+  j) Griechisch wird in deutschen Schulen kaum unterrichtet
+  1. In Deutschland lernen nur ganz wenige Schüler Griechisch. Es sind insgesamt nur 0.14 aller Schüler. Vor 30 Jahren waren es noch 0,48 So berichtet die griechische Botschaft in Berlin in ihrem Europabericht. Griechisch wird meistens von Zwölftklässlern als dritte Fremdsprache neben Französisch und Englisch gewählt. Die wenigen Schüler, die Griechisch wählen, haben Verwandte in Griechenland.
+  2. Dem Meer verdankt die Hansestadt Bremen ihre Bedeutung. Bremer Kaufleute und Seefahrer nutzten die günstige geografische Lage, um in aller Welt heimisch zu werden. Seit Generationenhaben sie Handel getrieben, so dass Geld in die Stadt. Dies steht man der Stadt heute noch an: das Alte Rathaus, das Kaufmannhaus, die historische Innenstadt. Außerdem war Bremen auch immer eine Heimat für natürlich das Märchen der Bremer Stadtmusikanten.
+  3. Freiburg, die Hauptstadt des Schwarzwaldes, liegt in einer der sonnigsten Gegenden Deutschlands. Wo es so viel Sonne gibt , da ist auch viel Lebensfreude, und nicht zuletzt gehören auch badische Küche und badischer Wein zum Besten was in Deutschland geboten wird. Zum einmaligen Flair gemütlichen Universitätsstadt trägt auch ihre Lage bei. Frankreich und die Schweiz sind nicht weit entfernt. Die Stadt selbst lockt mit vielen alten Straßen mit zahlreichen Museen und Baudenkmälern. Über alles hinaus ragt die große Kirche, die nach 300 – jähriger Bauzeit 1513 vollendet wurde.
+  4. In einer wissenschaftlichen Untersuchung hat man erforscht, warum bestimme Menschen mehr Geld verdienen als andere. Britische Wissenschaftler behaupten, größeren Menschen zahlt der Chef mehr. Im Laufe des vergangenen Jahres haben zwei weitere Untersuchungen festgestellt: Wer wenig lacht oder häufig mit Kollegen trinken geht, verdient mehr nur: Nicht lachen und mit Kollegen trinken, gehen das kann man lernen. Aber wachsen?
+  5. Das Statistische Bundesamt berichtet, dass in deutschen Schulen allgemein wieder mehr Latein gelernt wird. Allein in Thüringen hat sich die Anzahl in den letzten beiden Jahren verdoppelt Während der Tiefpunkt bei Latein im vorletzten Jahr erreicht war, wählen zurzeit wieder mehr Schüler Latein als erste Fremdsprache. Als vorteilhaft hat sich offenbar vor allem das wittenbergische Modell erwiesen, das Latein in der fünften Klasse mit einer modernen Fremdsprache (Französisch, Englisch usw.) kombiniert Allerdinges sind hier meist nur drei Stunden für beide Sprachen pro Woche vorgesehen. Das sei bei Weitem zu wenig, Kritisieren Lateinlehrer Weitem zu wenig kritisieren Lateinlehrer.
+  SOLUTION(complete): 1j 2e 3f 4d 5g
+
+=== P19-L2 [Linkshänder] pages [273, 274] verified=True
+INSTR: Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+  TITLE: Leben / Das machen wir mit links
+  Über eine Million Österreicher sind Linkshänder – und langsam setzen sie sich durch in der Rechtshänder – Welt
+  Schau der macht das mit der linken Hand. Solche und ähnliche Kommentare hörte der gelernte Porzellanformer Gerhard Spur (51) von Besuchern, die die Porzellanmanufaktur im Wiener Augarten besichtigten und dem Künstler beim Herstellen eines Kunstwerkes zusahen – allerdings nur früher, als nur die rechte Hand die so genannte schöne Hand war, die man zum Arbeiten. Schreiben usw. verwenden durfte. Heute ist es offensichtlich normal, dass jemand mit der linken Hand Vasen aus Porzellan bearbeitet. Gerhard Spur wird jedenfalls nicht mehr bestaunt.
+  ## Links arbeiten
+  Gut 15 Prozent der Menschheit sind Linkshänder. Über die Gründe für Linkshändigkeit ist sich die Wissenschaft nicht einig. Fest steht nur. Wenn Kinder gezwungen werden, statt mit der linken Hand mit der rechten Hand zu schreiben, hat dies schwerwiegende Folgen. Dies führt zu Knoten im Kopf so die Linkshänder-Expertin Johanna Barbara Sattier. Spätestens wenn umgeschulte Kinder mit dem Lesen und Schreiben beginnen, macht sich das Chaos im Kopf bemerkbar. In der Schule ist es mittlerweile verboten, Linkshänder auf rechts umzuschulen. Probleme machen allerdings noch Arbeitsplätze, die nicht für Linkshänder geeignet sind, erklärt Erich Pospischill, Leiter des arbeitsmedizinischen Zentrums Mödling: Schon die Computermaus auf der falschen Seite führt zu rascherer Ermüdung, weil das Gehirn durch das ständige Umdenken zusätzlich belastet wird.
+  ## Lösungen im Betrieb
+  Die Maschine, an der Slata Tanasic tagtäglich arbeitet, funktioniert von links unten nach rechts oben. Genau verkehrt für die 41- Jährige, die seit 21 Jahren im Seibert-Elektronikwerk arbeitet. Ich habe gesagt, dass ich mit der Maschine so nicht arbeiten kann. Und das wurde akzeptiert. Slata wurde in einen anderen Arbeitsbereich versetzt und macht jetzt Arbeiten, die auch mit der linken Hand möglich sind: Montieren und Vorbereiten der Bauteile.
+  ## Eltern können helfen
+  Bei Kleinkindern lässt sich nicht sofort erkennen, ob sie links- oder rechtshändig sind, sagt die Expertin Sattler: Viele Kinder ahmen zuerst die Tätigkeiten in unserer rechtshändigen Welt nach. Deshalb rät Sattler den Eltern, ihren Kinder beim Herausfinden ihrer Händigkeit zu helfen: Blumen gießen mit einer kleinen Kanne, einen Ball werfen – bei diesen Handlungen greifen Kinder automatisch mit der starken Hand zu. Und dann sollten Eltern bereits erste Konsequenzen ziehen.
+  Q6. Gerhard Spur
+     a) arbeitet heute nur noch mit der rechten Hand.
+     b) arbeitet früher mit Linkshändern zusammen.
+     c) stellt seine Kunstwerke mit der linken Hand her.
+  Q7. Heute ist wissenschaftlich bewiesen, dass
+     a) es eine klare Ursache für Linkshändigkeit gibt.
+     b) Linkshänder besser im Lesen und Schreiben sind.
+     c) Linkshänder das Schreiben mit der rechten Hand schadet.
+  Q8. Erich Pospischill meint, dass
+     a) es für Linkshänder sehr oft keine geeigneten Arbeitsplätze gibt.
+     b) Linkshänder vor allem im Computerbereich eingesetzt werden.
+     c) Linkshänder wesentlich öfter krank sind.
+  Q9. Frau Slata Tanasic
+     a) arbeitet seit 41 Jahren in der gleichen Firma.
+     b) erledigt alle Arbeiten mit der linken Hand.
+     c) ist seit 21 Jahren an der gleichen Maschine beschäftigt.
+  Q10. Laut der Linkshänder-Expertin Johanna Sattier
+     a) haben Linkshänder meistens auch linkshändige Eltern.
+     b) kann man Linkshändigkeit bei kleinen Kindern nicht gleich entdecken.
+     c) sind linkshändige Kinder besonders gut im Ballspielen.
+  SOLUTION(complete): 6c 7c 8a 9c 10b
+
+=== P19-L3 [Eisenbahn] pages [275, 276] verified=True
+INSTR: Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+  11. Sie lieben Krimis und möchten daher einer Krimiautorin beim Vorlesen zuhören.
+  12. Ihr Bekannter würde gerne am Wochenende ein Boot mieten.
+  13. Sie möchten sich in einem Hotel in den Bergen erholen und mit dem Zug anreisen.
+  14. Sie möchten sich eine Märchenvorstellung im Theater ansehen.
+  15. Ihre Freundin sucht ein angenehmes Hotel, in dem man auch Sport treiben kann.
+  16. Am Sonntag wollen Sie einen kleinen Ausflug mit Kindern machen. Die Kinder mögen Tiere.
+  17. Ihre Bekannten möchten gerne im Mai eine Schiffsfahrt machen.
+  18. Sie möchten gerne am Wochenende tanzen gehen und suchen eine tolle Disco.
+  19. Der kleine Sohn von Freunden ist begeistert von der Eisenbahn. Sie möchten am Wochenende mit ihm etwas Interessantes machen.
+  20. Sie möchten im August eine Woche in den Bergen wandern und brauchen eine erfahren Person, die mit Ihnen geht.
+  [a] OBER-GOMS / Wandern im Wallis / 08.–10. Juni Fr. 425 / 18.–25. August Fr. 750 / 22.–28. September Fr. 750 / Halbpension/Führungen/ / Wanderungen/Klettertouren mit / geprüften Bergführern / Hotel Walser / 3988 Ulrichen / Tel.: 027/973 21 22 / Fax: 027/973 21 29 / www.goms.ch/hotel-walser
+  [b] Ausstellung / „Märchen – Mythen – / Erzählungen“ / Acht Künstlerinnen zeigen ihre / Arbeiten / vom 2. bis 30. Juni in Thun / Die Arbeiten werden in der Zeit / vom 2. bis 30. Juni in Schau- / fenstern der Innenstadt gezeigt. / Vernissage: / 2. Juni, 19.30 Uhr / Schibenstrasse 21 – Thun / Tel. 033 222 02 47
+  [c] Chocolat-Werbung / KULTURTIPP: / Im Rahmen der Ausstellung „Chocolat-Tobler: / Die Geschichte der Schokolade von 1899 bis / heute“ präsentieren und kommentieren Christian / Jacquet und Fritz Kobi im Kornhausforum alte / und neue Chocolat-Tobler-Werbefilme. / Bern: / Kornhausforum 19 Uhr / Mehr Ausgehtipps in der „Berner Woche“ und im / Internet unter www.BernerWoche.ch
+  [d] Sarazena / Zermatt / Herzlich willkommen in unserem / gemütlichen Ferienhotel in zentraler Lage! / Perfekt ausgestattete Zimmer / mit allem Komfort, Fitnessraum, / Tennishalle, Schwimmbad, / reichhaltiges Frühstücksbuffet. / Bruno & Catherine Wyrsch-Zurniwen / Tel. 027/967 44 41 · Fax 027/967 63 / 25 / Internet: www.hotel-sarazena.ch / E-Mail: sarazena.zermatt@bluewin.ch
+  [e] DAS ASCHENPUTTEL / Cinderella, Cenerentola, Aschenputtel / – einmal erzählt, einmal gespielt: / KULTURTIPP: / Die Schriftstellerin / Elke Seidenreich / präsentiert / zusammen mit der Basel Sinfonietta / den bekannten Märchenstoff / auf der Bühne / Theaterhalle Bern, 20.30 Uhr
+  [f] SCHWEIZER / FERIENORT / ZERMATT / Erholung pur im Naturfreunde-Hotel Zermatt / • Herrliche Wanderwege in den Bergen / • Vorzügliche Küche / • Eigener Bahnanschluss / NATURFREUNDE-HOTEL ZERMATT / Daniela + René Zimmermann / Tel. 027 967 27 88 · Fax 967 60 29 / zermatt@spectraweb.ch
+  [g] Tierpark Goldau / ... ein Besuch, der sich lohnt! / • Freilaufzone / • Abenteuerspielplatz / • Restaurant / • 365 Tage im Jahr offen / Eintritt frei für Begleitpersonen / von Gruppen ab 12 Personen / Tel. 041-855 50 00 / www.tierpark.ch
+  [h] DER / FEURIGE / ELIAS / Historische Lokomotiven und Waggons, jetzt / ausgestellt im Bahnmuseum WORB / Führungen für Kinder und Erwachsene: / Jeden Samstag und Sonntag 11:00 Uhr und 16:00 Uhr / Infos: RBS, 3048 Worb / Telefon: (031) 925 55 55
+  [i] Geöffnet: / Mo.–Fr. 9.00–19. Uhr Sa. 9.00–14.00 Uhr / ANDREAS TIERWELT / • Vögel – Nager – Pflanzen / • Warm- und Kaltwasserfische / • Futter und Zubehör für alle Tierarten / • Aquarien und Terrarien / • Fachberatung / Kreuzgasse 14 / CH 4500 Solothurn / Tel. 032 622 20 20 / Fax 032 621 52 32
+  [j] TANZ IMPULSE / Schule für zeitgenössischen Tanz, / klassisches Ballett, Malen und Tanz / Laufendes Kursangebot für Anfänger und / Fortgeschrittene, Einführungskurse zum / Kennenlernen, ganzheitliche Bewegungsschule. / Offene Gruppen für Kinder, Jugendliche und / Erwachsene, max. 10 Teilnehmerinnen. / Information und Beratung: / tanz impulse / Tel. 027 967 18 18 / www.tanz-impulse-bern.ch
+  [k] JÄGGI BUCHHANDLUNG / Dienstag 8.5., 20 Uhr / INGRID NOLL (Live im Loeb) / die erfolgreichste und ungewöhnlichste / deutsche Krimiautorin liest aus ihrem / unheimlichen Werk „Selige Witwen“. / Eintritt Fr. 10,00 / TiketCorner.ch / 0848 800 800 / Vorverkauf 2. UG im Loeb Bern / Telefon 031 320 20 20 / Eingang Spitalgasse / Türöffnung 30 Min. vor Beginn
+  [l] Viking-Tours / Flussfahrten auf der Aare / tägliche Fahrten von Mai bis Sep. / Abfahrt der Schiffe: 11 Uhr, 14 Uhr, 16 Uhr / Treffpunkt: Thun/Schwäbis Schiffs- / steg / Preise: 43 Franken / Spezialangebot: Abendfahrten (Rückkehr / 23 Uhr), Tanz an Bord, / Spezialangebote für / Senioren / Tel. 01 434 33 66 · Fax: 01 434 33 44 / viking@viking.ch / www.viking.ch
+  SOLUTION(complete): 11k 12x 13f 14e 15d 16g 17l 18x 19h 20a
+
+=== P19-SB1 [Jelena] pages [277] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen
+  Liebe Jelena,
+  ich hab dir doch schon vom Deutschkurs erzählt, [[21]] ich hier besuche. Der ist wirklich ganz gut. Wir haben jetzt eine neue Aufgabe bekommen. Wir müssen Informationen [[22]] Thema Gesundheit und Ernährung suchen und schauen, was es dazu Interessantes [[23]] Internet gibt. Die interessanteste Internetseite, die ich finden [[24]] , ist www.gesund.ch . Diese Seite ist für [[25]] Leute gemacht, die gern mehr über gesunde Ernährung erfahren möchten. Fachleute beschreiben hier genau, [[26]] Lebensmittel für unseren Körper wichtig und gesund sind und wie oft und wie viel man pro Tag essen sollte. Außerdem kann man [[27]] seinen persönlichen Speiseplan selbst erstellen und dafür passende Rezepte [[28]] . Für Menschen, [[29]] ein paar Kilos zu viel haben, gibt es auch Tipps zum Abnehmen und Links zu verschiedenen Fitnesszentren in der Schweiz.
+  Und was gibt es bei dir Neues? [[30]] mir doch möglichst bald zurück!
+  Bis dann und viele Grüße
+  Paola
+  21: a) das | b) den | c) der
+  22: a) zu | b) zum | c) zur
+  23: a) am | b) im | c) mit
+  24: a) können | b) könnten | c) konnte
+  25: a) junge | b) jungen | c) junges
+  26: a) welche | b) welchen | c) welcher
+  27: a) mir | b) dir | c) sich
+  28: a) fand | b) finden | c) gefunden
+  29: a) denen | b) deren | c) die
+  30: a) Schreibe | b) Schreiben | c) Schreibt
+  SOLUTION(complete): 21b 22b 23b 24c 25a 26a 27c 28b 29c 30a
+
+=== P19-SB2 [Gauberger] pages [278] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.
+  Sehr geehrter Herr Gauberger,
+  ihre Anzeige habe ich mit Interesse gelesen. Ich bin [[31]] lange Rentner und bekomme monatlich nur wenig Geld. Wenn ich die Möglichkeit [[32]] , noch ein wenig zu verdienen, würde mir das sehr helfen. Ich bin [[33]] schon 72 Jahre alt, aber noch bei sehr guter Gesundheit. Daher denke ich, dass ich die Arbeit [[34]] Probleme machen kann. Seit über dreißig Jahren treibe ich [[35]] Tag Sport. Auch das frühe Aufstehen macht mir gar [[36]] aus.
+  Einige Fragen hätte ich trotzdem noch: Müssen die Zeitungen [[37]] ausgetragen werden und wie lange ist man unterwegs? Außerdem möchte ich natürlich wissen, [[38]] man verdient. Ich bin gerne bereit, mich bei [[39]] vorzustellen, damit Sie sehen können, dass ich für die Tätigkeit [[40]] bin.
+  Mit freundlichen Grüßen
+  EBERHARD SPITZWEG
+  WORDS: a=BEOUEM b=GEEIGNET c=HÄTTE d=IHNEN e=JEDEN f=KÖNNTE g=MEHR h=NICHTS i=OHNE j=SCHON k=SIE l=TÄGLICH m=WIE HOCH n=WIE VIEL o=ZWAR
+  SOLUTION(complete): 31j 32c 33o 34i 35e 36h 37l 38n 39d 40b

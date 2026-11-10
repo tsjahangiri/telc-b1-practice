@@ -1,0 +1,29 @@
+=== P06-H1 [Einkäufe im Internet] p[70] src=text_layer key p74
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören diese Texte nur einmal. / Entscheiden Sie beim Hören, ob die Aussagen 41 – 45 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 41 – 45. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 41 – 45. Sie haben dazu 30 Sekunden Zeit.
+  41. Herr Pawliczek erledigt alle seine Einkäufe im Internet gemacht.   [+]
+  42. Frau Zimmermann legt beim Einkaufen großen Wert auf persönlichen Kontakt.   [-]
+  43. Frau Schmidt findet zu Hause nicht genug Ruhe, um im Internet einzukaufen.   [+]
+  44. Frau Ruttnigg ist vom Einkaufen im Internet nicht überzeugt.   [-]
+  45. Herr Krause kauft seine Medikamente am liebsten in der nächsten Stadt.   [-]
+  nums=[41, 42, 43, 44, 45] complete=True
+=== P06-H2 [Wenger] p[71] src=text_layer key p74
+INSTR: Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. / Sie hören das Gespräch zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 46 – 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 46 – 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen. / Lesen Sie jetzt die Aufgaben 46 – 55. Sie haben dazu 30 Sekunden Zeit.
+  46. Frau Wenger wollte schon immer als Feuerwehrfrau arbeiten.   [-]
+  47. Frau Wenger und ihr Freund haben nun eine gemeinsame Freizeitbeschäftigung.   [+]
+  48. Frau Wenger hat bereits einer Freundin geholfen, deren Wohnung brannte.   [-]
+  49. Probleme mit Geräten werden im Team gelöst.   [+]
+  50. Die Ausbildung zur Feuerwehrfrau war sehr anstrengend.   [+]
+  51. Die Kleidung der Feuerwehrleute passt oft nur Männern.   [-]
+  52. Dass sie jederzeit zu Notfällen gerufen werden, kann ist für Frau Wenger.   [+]
+  53. Als Feuerwehrfrau hat Frau Wenger schon viele Unfälle gesehen.   [-]
+  54. Frau Wenger möchte von ihren männlichen Kollegen anders behalten.   [-]
+  55. Interessenten sollen sich bei Frau Wenger melden.   [-]
+  nums=[46, 47, 48, 49, 50, 51, 52, 53, 54, 55] complete=True
+=== P06-H3 [Griechenland] p[72] src=text_layer key p74
+INSTR: Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. / Sie hören jeden Text zweimal. / Entscheiden Sie beim Hören, ob die Aussagen 56 – 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen / Auf dem Antwortbogen bei den Aufgaben 56 – 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich / falsch auf dem Antwortbogen.
+  56. Sie können zwei Flüge nach Griechenland gewinnen.   [-]
+  57. Für Ihre Gruppe ist ein Wagen im Zug nach Aschaffenburg reserviert.   [+]
+  58. Auf der Internetseite kann man auch günstige Angebote für Haushaltsgerät.   [+]
+  59. Erst morgen Abend bildet sich Nebel..   [-]
+  60. Am besten fahren Sie ab Northeim mit dem Bus.   [+]
+  nums=[56, 57, 58, 59, 60] complete=True

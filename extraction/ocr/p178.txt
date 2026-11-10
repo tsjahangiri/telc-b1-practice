@@ -1,0 +1,50 @@
+0.076 0.084 1.00	Sprachausteine, Teil 2
+0.092 0.068 1.00	LANGUAGE Tests
+0.163 0.068 1.00	Lesen sie den Text und schließen Sie
+0.183 0.068 1.00	Lücken 31 - 40. Benutzen Sie die Wörter
+0.203 0.068 1.00	(a, o) Jedes Wort passt nur einmal.
+0.224 0.070 1.00	Markieren Sie Ihre Lösungen für die
+0.243 0.068 1.00	Aufgaben 31 - 40 auf dem
+0.265 0.066 1.00	Antwortbogen.
+0.302 0.043 0.30	Crize 062 9305
+0.375 0.045 1.00	Sehr geehrter Unbekannter,
+0.408 0.049 1.00	mein Mann und ich haben Ihre Anzeige in den Mitteilungen des Deutschen. Alpenvereins (31). Wir
+0.429 0.047 1.00	wohnen etwa 40 km außerhalb von Nürnberg und schreiben Ihnen, (32) wir Lust hätten, etwas in
+0.448 0.049 1.00	einer Gruppe zu machen.
+0.478 0.053 1.00	Unseren Sommerurlaub verbringen wir eigentlich regelmäßig in den Bergen. Und (33) es unser
+0.496 0.049 1.00	Terminkalender erlaubt, gehen wir auch noch am Wochenende wandern, (34) fahren wir in die
+0.516 0.049 1.00	Gegend vom Wilden Kaiser, wo wir inzwischen alle Wanderwege (35).
+0.546 0.053 1.00	Wir fahren zwar beide auch Ski, (36) der Winter den Bergen ist nicht so unbedingt unsere Sache.
+0.577 0.049 1.00	Dagegen macht es (37) viel Spaß. Fahrrad zu fahren,; hier in Leupoldstein haben wir tolle Radwege,
+0.596 0.049 1.00	die durch die Felder führen. Daher (38) wir uns auch auf gemeinsame Radtouren hier bei uns freuen.
+0.599 0.628 0.50	schul,
+0.626 0.053 1.00	Zum Schluss noch ein (39) Worte zu uns selbst. Wir sind 64 und 62. Jahre alt, lieben Musik und gehen
+0.647 0.045 1.00	ab und zu gern ins Theater.
+0.676 0.047 1.00	Rufen Sie uns doch einfach (40) an: Tel.: 09243/7448.
+0.708 0.051 1.00	Viele Grüße
+0.738 0.045 1.00	Ilka und Heiner Grossmann
+0.813 0.049 0.50	a
+0.810 0.111 1.00	ABER
+0.810 0.216 1.00	d
+0.809 0.255 1.00	ENTDECKT
+0.813 0.384 1.00	g
+0.809 0.439 1.00	KENNEN
+0.809 0.630 1.00	PAAR
+0.813 0.741 0.50	m
+0.810 0.842 1.00	WEIL
+0.833 0.047 1.00	b
+0.833 0.096 1.00	AUSSEN
+0.837 0.218 1.00	e
+0.832 0.271 1.00	ETWAS
+0.833 0.380 1.00	h
+0.834 0.441 1.00	LERNEN
+0.834 0.637 1.00	UNS
+0.837 0.745 1.00	n
+0.834 0.836 1.00	WENN
+0.860 0.047 0.30	C
+0.857 0.099 1.00	EINMAL
+0.858 0.220 0.50	f
+0.858 0.265 1.00	HATTEN
+0.858 0.456 1.00	OFT
+0.858 0.624 1.00	WANN
+0.856 0.821 1.00	WÜRDEN

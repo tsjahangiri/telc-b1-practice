@@ -1,0 +1,54 @@
+0.074 0.070 1.00	Sprachausteine, Teil 2
+0.092 0.055 1.00	LANGUAGE Tests
+0.089 0.687 1.00	MSUNG
+0.166 0.068 1.00	Lesen sie den Text und schließen Sie
+0.186 0.068 1.00	Lücken 31 - 40. Benutzen Sie die Wörter
+0.206 0.066 1.00	(a, o) Jedes Wort passt nur einmal.
+0.225 0.070 1.00	Markieren Sie Ihre Lösungen für die
+0.246 0.068 1.00	Aufgaben 31 - 40 auf dem
+0.266 0.066 1.00	Antwortbogen.
+0.323 0.045 1.00	Frankfurter Allianz,
+0.341 0.045 1.00	Bahnstr. 99
+0.362 0.047 1.00	Max Kuhne
+0.382 0.045 1.00	60322 Frankfurt
+0.403 0.045 1.00	Tel.: 069-951670
+0.403 0.682 0.50	Frankfurt, den ......
+0.443 0.049 1.00	Neuer Berater für Ihre Versicherungen
+0.474 0.047 1.00	Sehr geehrter Herr Frankel,
+0.504 0.047 1.00	wir möchten Sie darüber informieren, (31) Ihre Versicherungen künftig von Herrn Max Kuhne bearbeitet
+0.525 0.047 1.00	werden. Ihm wurden (32) Unterlangen übergeben.
+0.567 0.053 1.00	Alle Kundendaten (33) selbstverständlich streng vertraulich behandelt. Wenn Sie also (34) zu Ihren
+0.586 0.047 1.00	Versicherungen haben, wenden Sie sich in Zukunft bitte an Herrn Kuhne. Er berät und (35) Sie gern. Auch im
+0.605 0.047 1.00	Schadensfall (36) er Ihnen schnell und zuverlässig weiter. Im Übrigen möchten wir uns (37) einen Fehler in
+0.625 0.049 1.00	unserer letzten Beitragsrechnung entschuldigen. Leider ist (38) die Adresse von Herrn Kuhne nicht korrekt.
+0.645 0.045 1.00	Seine (39) Anschrift und Telefonnummer finden Sie auf diesem Brief oben rechts.
+0.686 0.051 1.00	Wir danken (40) für Ihr Vertrauen.
+0.708 0.778 0.30	4,
+0.730 0.047 1.00	Mit freundlichen Grüßen
+0.749 0.045 1.00	Ihre Frankfurter Allianz
+0.811 0.049 0.50	a
+0.807 0.078 1.00	ANTWORTEN
+0.808 0.230 1.00	d
+0.806 0.289 1.00	DORT
+0.810 0.390 1.00	g
+0.808 0.454 1.00	HABEN
+0.808 0.639 1.00	IHRE
+0.811 0.749 0.50	m
+0.807 0.825 1.00	RICHTIGE
+0.831 0.047 1.00	b
+0.830 0.121 1.00	AUF
+0.834 0.232 1.00	e
+0.830 0.277 0.50	FRAGEN
+0.831 0.390 1.00	h
+0.831 0.456 1.00	HILFT
+0.833 0.571 0.30	K
+0.831 0.600 1.00	INFORMIERT
+0.834 0.754 1.00	n
+0.831 0.825 1.00	WERDEN
+0.853 0.117 1.00	DASS
+0.856 0.234 1.00	f
+0.852 0.296 1.00	FÜR
+0.855 0.394 0.50	i
+0.855 0.454 1.00	IHNEN
+0.856 0.649 0.30	ОB
+0.856 0.856 1.00	ZU

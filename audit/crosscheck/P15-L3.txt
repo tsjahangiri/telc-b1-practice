@@ -1,0 +1,5 @@
+# P15-L3 pages [188, 189] ratio 0.526
+## website words not in OCR:
+kultur Müller Bewerbungs Termin zeitlich flexibel sympatisch freund lich zwischen 35 überdurchschnittliche Arbeitsverhältnis Arbeitsatmosphäre Neuerscheinung Au-pair Erika Meier-Krause neuen Jugendtrainer Volleyball Basketball Fußball Nachmittage pro Woche ferne Großes Modeschauen ganz Österreich Monaten Juli freier Reise Kost Logis Hokuspokus Hokuspokus Bürgern erleichtern zusammengestellt Banken erhältlich schlecht gemacht es doch Heribert Pawa Hausarbeiten Referenzen Töchtern
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests 13.Ihre 15.Ihre 16.Ihre Leseverstehen Teil LANGUAGE Tests Minuten Leseverstehen Sprachbausteine Termia sine Mülller eyuschen armarts trund berdurchschnittlighe bleten ubeitsverhältnis gutr Milleniums-Veriag kuftur atmosph Neverscheinung pair Erka Malet-Kraus entrainer richtiger feme Volleybal HoRuspokus Croßes Modeochauen garz Monaton Jull heier Hakuspokus Reparatures schlecat genacht dach seibst Bürgem Studentia pute Raferenzen Hausarbetten ereichtern Koribert Panse Töchtem zusammengestelit Aute Bankon orhältlich

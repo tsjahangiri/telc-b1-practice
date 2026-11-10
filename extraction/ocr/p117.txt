@@ -1,0 +1,16 @@
+0.070 0.088 1.00	Leseverstehen, Teil 1
+0.089 0.072 1.00	LANGUAGE Tests
+0.179 0.047 1.00	Lesen Sie die Überschriften a - j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift.
+0.198 0.047 1.00	Sie können jede Überschrift nur einmal benutzen.
+0.218 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+0.378 0.055 1.00	__a) Eine Karte - viele Vorteile
+0.439 0.070 1.00	_b) Endlich Ferien ohne Kinder
+0.479 0.457 1.00	öchschul
+0.496 0.051 1.00	_c) Günstiger Urlaub für Vereinsmitglieder
+0.551 0.053 1.00	d) Meer statt Berge
+0.602 0.057 1.00	__e) Neues Wohnprojekt für Alleinerziehende
+0.649 0.055 1.00	f) Reisebüros weltweit vernetzt
+0.706 0.064 1.00	_g) Schweizer Seen weiterhin sehr beliebt
+0.754 0.060 1.00	__h) Söhne schenken mehr als Töchter
+0.805 0.053 1.00	—i) Schöne werden großzügiger beschenkt
+0.860 0.053 1.00	_J) Tipps: Wo auch Kinder ihren Spaß haben

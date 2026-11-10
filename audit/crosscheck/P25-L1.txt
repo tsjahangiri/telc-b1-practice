@@ -1,0 +1,5 @@
+# P25-L1 pages [369, 370] ratio 0.965
+## website words not in OCR:
+www de
+## OCR words (len>3) not in website:
+Leseverstehen Teil LANGUAGE Tests ihschul Leseverstehen Teil LANGUAGE Tests www.Bahn.de

@@ -1,0 +1,23 @@
+0.129 0.086 1.00	Schriftlicher Ausdruck
+0.147 0.072 1.00	LANGUAGE Tests
+0.268 0.047 1.00	Eine Bekannte hat Ihnen folgenden Brief geschrieben:
+0.325 0.218 0.30	%
+0.379 0.045 0.30	Liebe(r)....
+0.413 0.045 1.00	Ich habe eine tolle Uberraschung. stelle dir vor, was mir mein Onkel angeboten hat. Er rief
+0.438 0.047 1.00	mich am Samstag an. Er hat ein großes Ferienhaus im Schwarzwald. Das Haus kann ich für die
+0.461 0.047 1.00	Ferien kostenlos haben. Ich kann auch Freunde mitbringen! Wäre das nichts für uns? Wir
+0.484 0.047 1.00	könnten uns alle dort treffen. Du, deine Eltern und Freunde, und ich mit meiner Familie und
+0.507 0.047 1.00	meinen Freunden. Ich würde mich wahnsinnig freuen, wenn das klappen würde. Bitte schreibe
+0.531 0.047 1.00	mir so schnell du kannst, damit wir alles planen können. Urlaub im Schwarzwald - das wird
+0.529 0.523 0.30	chsC
+0.554 0.045 1.00	traumhaft schön!
+0.590 0.047 1.00	Herzliche Grüße
+0.626 0.047 1.00	Petra
+0.693 0.047 1.00	Antworten sie auf den Brief. Schreiben Sie etwas zu den folgenden Punkten: /
+0.718 0.045 1.00	. Warum Sie gern nach Deutschland kommen möchten
+0.743 0.045 1.00	• Wie Sie anreisen wollen
+0.763 0.045 1.00	• Was Sie gemeinsam machen könnten
+0.789 0.045 1.00	• Wen Sie mitbringen möchten
+0.831 0.049 1.00	Bevor Sie den Brief schreiben, überlegen Sie sich eine passende Reihenfolge der punkte, eine passende
+0.852 0.049 1.00	Einleitung und einen passenden Schluss. Vergessen Sie nicht Datum und Anrede.
+0.872 0.047 1.00	Schreiben Sie mindestens 100 Wörter.

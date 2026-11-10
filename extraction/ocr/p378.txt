@@ -1,0 +1,18 @@
+0.103 0.090 1.00	Hörverstehen, Teil 2
+0.121 0.076 1.00	LANGUAGE Tests
+0.192 0.049 1.00	Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen.
+0.211 0.047 1.00	Sie hören das Gespräch zweimal.
+0.231 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 46 - 55 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.250 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 46 - 55. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.272 0.047 1.00	falsch auf dem Antwortbogen.
+0.292 0.049 1.00	Lesen Sie jetzt die Aufgaben 46 - 55. Sie haben dazu 30 Sekunden Zeit.
+0.382 0.045 1.00	46. Herr Schütz arbeitet erst seit kurzer Zeit als Taxifahrer
+0.423 0.045 1.00	47. In der Kleinstadt hatte Herr Schütz keine Geschäftsleute als Kunden.
+0.464 0.045 1.00	48. Herr Schütz hat sich schon einmal in einen Fahrgast verliebt.
+0.504 0.045 1.00	49. Die Fahrgäste erzählen viel, weil sie den Taxifahrer nicht kennen.
+0.545 0.045 1.00	50. Männer sprechen oft über unpersönliche Dinge.
+0.584 0.045 1.00	51. Herr Schütz bekommt von den Fahrgästen manchmal auch einen Tipp.
+0.623 0.045 0.50	52. In der Freizeit steht Sport für Herrn Schütz an erster Stelle.
+0.666 0.045 1.00	53. Beim Schwimmen kann sich Herr Schütz von einem anstrengenden Tag erholen.
+0.706 0.045 1.00	54. Herr Schütz hat sich entschieden, nur am Tag Taxi zu fahren.
+0.747 0.045 1.00	55. Nach Meinung von Herrn Schütz haben jüngere Taxifahrer weniger Angst, nachts zu an.

@@ -1,0 +1,17 @@
+0.075 0.086 1.00	Schriftlicher Ausdruck
+0.093 0.070 1.00	LANGUAGE Tests
+0.129 0.047 1.00	Eine Freundin hat Ihnen den folgenden Brief geschrieben:
+0.271 0.047 1.00	Liebe(r).
+0.307 0.047 1.00	wie geht es Dir? Du hast mir schon so lange nicht mehr geschrieben, dass ich mir Sorgen
+0.326 0.047 1.00	mache. Hoffentlich ist bei Euch alles in Ordnung. Es wird wirklich Zeit, dass wir uns
+0.348 0.049 1.00	wiedersehen.
+0.379 0.047 1.00	Anfang des Jahres habe ich meinen Arbeitsplatz gewechselt. Meine neue Stelle ist sehr
+0.401 0.047 1.00	interessant, aber auch anstrengend.
+0.432 0.051 1.00	Ich bin nun beruflich sehr viel unterwegs. Demnächst muss ich auch in Eure Gegend reisen.
+0.452 0.049 1.00	Dann könnten wir uns doch einmal am Abend treffen und gemeinsam etwas unternehmen.
+0.472 0.047 1.00	Wie findest Du meine Idee? Ich würde auch sehr gerne Deine Familie kennenlernen.
+0.506 0.055 1.00	Bitte antworte mir bald!
+0.536 0.049 1.00	Herzliche Grüße
+0.568 0.047 1.00	Deine Tamara
+0.791 0.049 1.00	Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der punkte, eine passende Betreff, eine
+0.811 0.049 1.00	passende Anrede, Einleitung und einen passenden Schluss.

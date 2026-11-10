@@ -1,0 +1,122 @@
+##### P26 pages [382, 394] key p394 sections {'L1': [382, 383], 'L2': [384, 385], 'L3': [386, 387], 'SB1': [388], 'SB2': [389], 'H': [390, 391, 392], '?': [393], 'LOES': [394]}
+
+=== P26-L1 [lachen] pages [382, 383] verified=True
+INSTR: Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.
+  a) Zufriedenheit im Job schützt vor Stress
+  b) Erfolgreiche Männer können auch gute Väter sein
+  c) Keiner lacht so fröhlich wie der Weihnachtsmann
+  d) Wie Männer und Frauen lachen
+  e) Weniger Arbeit – weniger Stress
+  f) Schlechte Nachrichten? Sagen Sie es mit einem Lächeln
+  g) Der Beruf ist für Männer wichtiger als die Familie
+  h) Auch ältere Menschen leiden unter Stress
+  i) Frauen reagieren besser auf schlechte Nachrichten als Männer
+  j) Mit 70 Jahren macht das Leben am meistens Spaß
+  1. Frauen lachen auf viele Arten Sie kichern glucksen und manchmal singen sie fast Bei Männern dagegen kommt das viel seltener vor. Aber gemeinsam ist Männern und Frauen, dass sie in Vokalen lachen die im Mundzentrum gebildet werden. Und das ist entscheidend: Nur wenn die Vokale im Mundzentrum gebildet werden, ist das Lachen für uns fröhlich und positiv. Damit ist bewiesen, dass das Lachen vom Weihnachtsmann, dass wie eine tiefes Ho, ho , ho klingt. Kaum als fröhlich empfunden wird. Denn dieser Laut wird im hinteren Teil des Mundraums gebildet.
+(aus einer deutschen Zeitung)
+  2. Viel Arbeit, viel Stress. Wer viel arbeitet muss nicht unbedingt gestresst sein. Frauen in medizinischen Berufen zum Beispiel klagen trotz teilweise hoher Belastung deutlich weniger über stressbedingte Krankheiten als Raumpflegerinnen, Kindergärtnerinnen oder Berufsschullehrerinnen. Dies zeigt eine Untersuchung des Hamburger IPO – Instituts, das für eine Studie 1000 Frauen und Männer befragt hat. Vor Stress schützen laut Studie ein angenehmes Betriebsklima, ein gutes Verhältnis zur Chefin oder zum Chef und die Möglichkeit, die eigene Arbeit selbstständig zu planen.
+(aus einer deutschen Zeitung)
+  3. Ein neues Buch zeigt, wie Männer Fähigkeiten aus dem Arbeitsleben auf die Erziehung übertragen können und so zu erfolgreichen Vätern werden. Da wird die gemeinsame Kindererziehung zur Partnerarbeit (oder sogar zum Joint Venture) geschicktes Verhandeln heißt, das Kind zu überzeugen, dass sie Zähne geputzt werden müssen, und der Familienurlaub hat alle Qualitäten einer Tagung oder eines Seminars: Man erhält die Gelegenheit, die Kinder intensiv zu studieren. (aus einer deutschen Zeitung)
+  4. Eine Studie der Universität Essex hat ergeben dass wir mit siebzig Jahren am glücklichsten sind. Zwar haben die meisten Menschen in diesem Alter gesundheitliche Probleme, aber dafür genießen sie viel Freizeit und haben keinen Stress mehr. Deshalb macht ihnen das Leben so viel Spaß wie nie zuvor. Die Studie besagt auch, dass wir einen ersten Höhepunkt der Lebensfreude mit fünfzehn Jahren erreichen. Danach geht es bergab zwischen dreißig und fünfzig Jahren tragen wir am meisten Verantwortung das Leben ist geprägt von Sachzwängen.
+(aus einer deutschen Zeitung)
+  5. Warum bleiben manche Managerinnen erfolgreich, obwohl sie Nachrichten mitteilen, die ihr Publikum lieber nicht hören möchte? Ganz einfach: Sie verkaufen die schlechte Nachricht mit Humor. Ein Londoner Soziologe hat während einer Studie beobachtet, dass gerade bei Reden unangenehmen Inhalts oft heiter gelacht wird. Das Lachen wird bewusst provoziert, etwa durch bestimmte Wörter oder durch ein eigenes breites Lächeln. Die fröhliche Stimmung soll dafür sorgen, dass die Zuhörenden das Gefühl haben würden mehr wissen als alle anderen.
+(aus einer deutschen Zeitung)
+  SOLUTION(complete): 1d 2a 3b 4j 5f
+
+=== P26-L2 [Informationsverhaltungen] pages [384, 385] verified=True
+INSTR: Lesen Sie den Text und die Aufgaben 6 – 10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+  TITLE: Informationsverhaltungen sind wichtige Grundlagen für die Berufswahl / 
+  Die Entscheidung, welchen Beruf man erlernen will, ist nicht leicht. Große) Firmen bieten spezielle Information Veranstaltung für Schülerinnen und Schüler an. Wir haben einen Info – Nachmittag der Bank Credit Suisse in Bern beucht und uns danach bei den Jugendlichen umgehört.
+  20 Schülerinnen und Schüler kann Irene Leiser um Punkt 13 Uhr zu diesem Info – Nachmittag Begrüßen. Die jugendlichen kommen aus dem ganzen Kanton Bern und haben sich vorher bei der Bank angemeldet. Viermal im Frühling und zwei weitere Male im August werden diese Info Veranstaltungen bei der Credit Suisse durchgeführt. Sie richten sich vor allem an Schülerinnen und Schüler aus der 8. Klasse. Irene Leiser hat gute Erfahrungen mit diesen Veranstaltungen gemacht die Jugendlichen können danach ihre Erwartungen an den Beruf und die Ausbildung an die Realität anpassen.
+  Im ersten Teil des Nachmittags erklärt Frau Leiser die Hauptaufgaben einer Bank und stellt die Firma vor. Danach treten die Lehrlinge in Aktion: Daniel Sommer und Linda Schmidt sind im Zweiten Lehrjahre und erzählen aus ihrem Berufsalltag. Dieser Teil gefällt den Schülerinnen und Schülern besonders gut.
+  Die Jugendlichen identifizieren sich mit den Lehrringe und sehen, wo sie selber in zwei Jahren beruflich stehen könnten. Das fasziniert sehr zum Schluss folge Informationen darüber, welche Voraussetzungen man mitbringen muss und wie man sich bewirbt. Um 16:30 Uhr schließt Frau Leiser die Veranstaltung. Sie ist zufrieden mit dem Nachmittag. Die Gruppe war sehr aufmerksam. Interessierten Schülerinnen und Schüler gibt sie folgenden Tipp: Gehen Sie auch noch zu anderen Firmen. Fragen Sie dort möglichst viele Lehrlinge und Mitarbeiter nach ihren Erfahrungen Wir haben danach eine Schülerin und einen Schüler befragt wie sie den Nachmittag erlebt haben:
+  ## Tugba Kaptan aus Biel, 8. Klasse
+  Mich fasziniert das Umfeld einer Bank. Ich hätte mehr Leute bei der Arbeit sehen wollen zum Beispiel am Schalter. Aber der Tag hat mir weiter geholfen. Ich habe viele Dinge erfahren die ich bis her nicht gewusst habe. Solche Nachmittag ist ideal weil da schulfrei ist.
+  ## Alan Blank aus Mühleberg,8. Klasse
+  Die Bank ist eigentlich mein Traumbiet und bietet mir nach der Lehre viele Entscheidungsmöglichkeiten. Ich habe mich umgeschaut und mich über viele Beruf informiert. Jetzt weiß ich, dass ich eine Lehre in diesem Bereich machen will. Ich suche nach der optimalen Lehrestelle. Eine Großbank wäre toll für mich. Dieser Nachmittag hat mir gefallen. Alles war sehr gut organisiert. Ich kann solche Veranstaltungen nur empfehlen . Was mir persönlich gefehlt hat, ist eine Führung durch den Betrieb. Es ist wichtig zu sehen, wie das alles genau vor sich geht.
+  Q6. Um Berufe kennenzulernen,
+     a) arbeiten Berner Schüler in den Ferien bei großen Firmen.
+     b) nehmen Berner Schüler an Informationsveranstaltungen von großen Firmen teil.
+     c) sollen Berner Schüler zweimal jährlich ein Praktikum machen.
+  Q7. Frau Leiser
+     a) erzählt aus ihrem Berufsalltag in der Bank.
+     b) stellt die wichtigsten Aufgaben der Bank vor.
+     c) zeigt den Jugendlichen die ganze Firma.
+  Q8. An dem Informationsnachmittag
+     a) bekamen die Jugendlichen eine Liste mit Bewerbungstipps.
+     b) war die Gruppe interessiert und hat gut zugehört.
+     c) wurden viele Fragen gestellt.
+  Q9. Tugba Kaptan
+     a) fand es gut, dass sie am Schalter arbeiten durfte.
+     b) fand es schade, dass an diesem Nachmittag die Schule ausgefallen ist.
+     c) hat viele Informationen bekommen.
+  Q10. Alan Blank
+     a) möchte später gern bei einer Bank arbeiten.
+     b) möchte viele Dinge besser nicht selbst entscheiden.
+     c) weiß noch nicht, was er machen will.
+  SOLUTION(complete): 6b 7b 8b 9c 10a
+
+=== P26-L3 [Sprachkurs] pages [386, 387] verified=True
+INSTR: Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+  11. Ihre Freund wollen einen Sprachkurs in Spanien machen und ihre Kinder mitnehmen.
+  12. Ihr Auto ist kaputt und Sie brauchen jemanden, der es repariert.
+  13. Sie wollen mit einem Videoprogramm Deutsch lernen.
+  14. Sie wollen Ihrer Kursleiterin eine Kursabschlussreise vorschlagen.
+  15. Ihr Fernseher ist kaputt. Sie wollen ihn reparieren lassen.
+  16. Eine Bekannte hat eine neue Wohnung. Sie möchten ihr etwas für die Küche schenken.
+  17. Sie suchen ein Geschenk für ein 6- jähriges Kind.
+  18. Ihr Kind ist krank. Sie suchen einen Kinderarzt.
+  19. Ihre Tante ist operiert worden. Jetzt ist sie wieder zu Hause und braucht spezielles Essen.
+  20. Sie haben sich beim Tennis den Fuß verletzt und brauchen einen Arzt.
+  [a] ••• Spanisch lernen ••• / Andalusien: Sevilla/Conil / Equador: Quito / Kombiangebot: / Kurs plus Unterkunft / • ganzjährig, alle Niveaus / • Bildungsurlaub / 2 Wochen ab 280 Euro / ACADÉMIA ATLANTIKA / seit 1984 / Elbbecken 7 · 22299 Hamburg / Tel. 040/477587 / Fax 040/477539 / www.atlantika.net / E-mail: spanisch@atlantika.net
+  [b] Can Ribes / Spanischkurse · Urlaub · Seminare / Spanischkurse mit Kinderbetreuung / Kurse für Schüler / in altem Landhaus in Katalonien / Kontakt: / Ch. Eckhardt, Dellstr. 13, / 47051 Duisburg / Telefon: (0203) 287588 / Fax: (0203) 21715
+  [c] Einmal was erleben! / Wenn Sie mit Ihrer Klasse Abenteuer, Romantik, Natur / pur und Gemeinschaftssport erleben wollen, dann sollten / Sie mit uns Kanu fahren. / • wir organisieren für Sie die komplette Tour / • Versicherungsschutz auf dem Wasser durch uns / • Betreuung der Tour durch einen erfahrenen Kanuten / Anmeldung und ausführliche Information: / Am Sportplatz 70 · 49459 Lembruch / Tel.: 05447-525 · Fax: 05447-1772
+  [d] Autoreparatur / schnell / und günstig / Auspuff · Bremsen · AU / Kupplung · TÜV · Unfall / kaum Wartezeit / Rufen Sie uns an: / Fa. ASS / Landsberger Str. 328 / Telefon 54 64 47 33
+  [e] Schrott-Autos / Unfall-Autos / Wir erledigen alles für Sie: / • ANKAUF / • ABHOLEN / • ABMELDEN / ☎ (089) 8 63 39 75, 9–18 Uhr
+  [f] Radio- und Fernsehtechnik GmbH / SCHMIDT & MÜLLER / TV – HiFi – Video / Reparaturen, Kabelanschlüsse, / Antennenbau, Satellitenanlagen / Limesstraße 103 / 81243 München / Tel. 089-8 71 20 20 / Mail: / Fernseh-Schmidt@muenchen.de
+  [g] Liebevolle Geschenkideen / für Klein und Groß im / Harlachinger / Kinderladen / Puppendoktor – Wir reparieren Puppen / und Stofftiere jeder Art / Heigelstr. 1 · Ecke Naupliastraße / Telefon 089-644838
+  [h] FACHHANDEL / GRÜN / Haushaltsgeräte · Einbauküchen / Haushaltswaren · Bestecke / Porzellan und Glaswaren / Geschenke · Geschenkgutscheine / und Hochzeitslisten / Leiblstraße 9 / 82166 Lochham/München / Tel. 089-87 53 23
+  [i] Praxis Dr. W. Penners / Orthopäde · Chirotherapie · Sportmedizin / Rothenfelserstraße 4 · München-Neuaubing / geöffnet von Montag bis Donnerstag 8–13 Uhr. / Termine nach Vereinbarung / Telefon 87 04 01 / Vertretung in dringenden Notfällen: / Dr. Heyn · Telefon 8344025
+  [j] Gemeinnützige Gesellschaft der Landeshauptstadt mbH / MÜNCHENSTIFT / wohnen und pflegen in der Stadt / Pflege zu Hause / Ambulanter Dienst in Laim/Pasing: / Alfons-Hoffmann-Haus / Agnes-Bernauer-Straße 185, 80687 München / Telefon (089) 5 46 47-230
+  [k] Pizza AVANTI / HEIMSERVICE GUT UND FRISCH / CHICKEN-AKTION / • Chicken-Chips-Menü / • Chicken-Wings-Menü / jeweils mit gem. Salat und Getränk 6,20 Euro / • Firmen-Menü, Pizza n. Wahl / mit gem. Salat und Getränk 7,20 Euro / * * * / Tel. 89 66 90 99 / Landsberger Straße 487 bei der Offenbachstr., / Mo.–Fr. 10–23 Uhr · Sa./So./Feiertag 11–23 Uhr / Pizza AVANTI / Heimservice mit Stehimbiss
+  [l] Allein Kochen?? / Nein! Danke! / auch Sa + So warmes Essen / Wir bringen zu Ihnen ins Haus: / • Werktags eine warme Mahlzeit (mit / oder ohne Suppe) / • an Samstagen, Sonntagen, Feiertagen / auf Wunsch tiefgefroren / • Normalkost, Schonkost, Diät, vegeta- / risch oder LUXUS – à la carte / • weit über 100 abwechslungsreiche / Menüs / Telefon / 89 11 66-17 / oder / 89 11 66-18 / Caritas-Zentrum Menzing / Ökumenische Sozialstation / Pippinger Str. 97/Nähe Verdistraße
+  SOLUTION(complete): 11b 12d 13x 14c 15f 16h 17g 18x 19l 20i
+
+=== P26-SB1 [Maria] pages [388] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 21 – 30. Welche Lösungen (a, b oder c) ist jeweils richtig?. Markieren sie Ihre Lösungen für die Aufgaben 21 – 30 auf dem Antwortbogen
+  Schwarzenbek, den ……..
+  Liebe Maria,
+  danke vielmals für die Einladung. Nächste Woche werde ich also [[21]] dir in Berlin sein. Ich freue mich schon sehr [[22]] , denn schließlich haben wir uns fast ein [[23]] Jahr nicht gesehen. Wie du ja weißt, wohne ich jetzt auf dem Land hier in der Nähe von Hamburg und das finde ich ganz toll. [[24]] ich würde gern auch mal wieder in eine richtige Disko gehen. Mal wieder eine ganze Nascht tanzen, das [[25]] mein Traum! Und zu zwei macht es viel [[26]] Spaß!
+  Weißt du eigentlich, ob die Disko am Wittenberger Platz [[27]] existiert?
+  Leider habe ich noch keine Ahnung, [[28]] ich in Berlin ankommen werde. Jedenfalls [[29]] ich versuchen, eine Mitfahrgelegenheit zu finden. Es gibt ja im Internet die Mitfahrzentrale, [[30]] so etwas organisiert. Also mache dir keine Sorgen, wenn ich etwas später komme!
+  Ich freue mich sehr auf dich!
+  Alexandra
+  21: a) bei | b) nach | c) zu
+  22: a) darauf | b) darum | c) dazu
+  23: a) halbe | b) halben | c) halbes
+  24: a) Aber | b) Sondern | c) Trotzdem
+  25: a) hätte | b) wäre | c) würde
+  26: a) am meisten | b) ganz | c) mehr
+  27: a) auch | b) noch | c) nur
+  28: a) als | b) wann | c) wenn
+  29: a) darf | b) soll | c) will
+  30: a) das | b) die | c) der
+  SOLUTION(complete): 21a 22a 23c 24a 25b 26c 27b 28b 29c 30b
+
+=== P26-SB2 [Versicherungen] pages [389] verified=True
+INSTR: Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.
+  Frankfurter Allianz
+  Bahnstr. 99
+  Max Kuhne
+  60322 Frankfurt
+  Tel.: 069-951670
+  Frankfurt, den …….
+  ## Neuer Berater für Ihre Versicherungen
+  Sehr geehrter Herr Frankel,
+  wir möchten Sie darüber informieren, [[31]] Ihre Versicherungen künftig von Herrn Max Kuhne bearbeitet werden. Ihm wurden [[32]] Unterlangen übergeben.
+  Alle Kundendaten [[33]] selbstverständlich streng vertraulich behandelt. Wenn Sie also [[34]] zu Ihren Versicherungen haben, wenden Sie sich in Zukunft bitte an Herrn Kuhne. Er berät und [[35]] Sie gern. Auch im Schadensfall [[36]] er Ihnen schnell und zuverlässig weiter. Im Übrigen möchten wir uns [[37]] einen Fehler in unserer letzten Beitragsrechnung entschuldigen. Leider ist [[38]] die Adresse von Herrn Kuhne nicht korrekt. Seine [[39]] Anschrift und Telefonnummer finden Sie auf diesem Brief oben rechts.
+  Wir danken [[40]] für Ihr Vertrauen.
+  Mit freundlichen Grüßen
+  Ihre Frankfurter Allianz
+  WORDS: a=ANTWORTEN b=AUF c=DASS d=DORT e=FRAGEN f=FÜR g=HABEN h=HILFT i=IHNEN j=IHRE k=INFORMIERT l=OB m=RICHTIGE n=WERDEN o=ZU
+  SOLUTION(complete): 31c 32j 33n 34e 35k 36h 37f 38d 39m 40i

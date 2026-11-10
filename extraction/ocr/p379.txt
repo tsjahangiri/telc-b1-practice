@@ -1,0 +1,14 @@
+0.105 0.084 1.00	Hörverstehen, Teil 3
+0.099 0.795 0.30	Filfila
+0.122 0.068 1.00	LANGUAGE Tests
+0.187 0.047 1.00	Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen.
+0.209 0.047 1.00	Sie hören jeden Text zweimal.
+0.227 0.047 1.00	Entscheiden Sie beim Hören, ob die Aussagen 56 - 60 richtig oder falsch sind. Markieren Sie Ihre Lösungen
+0.247 0.047 1.00	Auf dem Antwortbogen bei den Aufgaben 56 - 60. Markieren Sie PLUS (+) gleich richtig und MINUS (-) gleich
+0.269 0.045 1.00	falsch auf dem Antwortbogen.
+0.359 0.045 1.00	56. Der Zug nach Mannheim fährt um 13:14 Uhr ab.
+0.410 0.045 1.00	57. Dr. Hoffmann ist um Urlaub unter der Nummer 957 30 75 zu erreichen.
+0.461 0.045 1.00	58. Sie können den Film das Leben ist schön um 18: 15 Uhr im Central sehen.
+0.454 0.417 1.00	nochschul
+0.512 0.045 0.50	59. Heute Abend beginnt es zu schneien.
+0.562 0.045 1.00	60. Katrin hätte am Dreiundzwanzigsten Zeit.

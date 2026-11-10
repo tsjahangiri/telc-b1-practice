@@ -1,0 +1,33 @@
+0.089 0.086 1.00	Leseverstehen, Teil 1
+0.099 0.801 1.00	Hello
+0.107 0.070 1.00	LANGUAGE Tests
+0.205 0.088 1.00	1. In Deutschland lernen nur ganz wenige Schüler Griechisch. Es sind insgesamt nur 0.14 aller
+0.227 0.117 1.00	Schüler. Vor 30 Jahren waren es noch 0,48 So berichtet die griechische Botschaft in Berlin in
+0.243 0.115 1.00	ihrem Europabericht. Griechisch wird meistens von Zwölftklässlern als dritte Fremdsprache
+0.260 0.117 1.00	neben Französisch und Englisch gewählt. Die wenigen Schüler, die Griechisch wählen, haben
+0.278 0.117 1.00	Verwandte in Griechenland.
+0.327 0.086 1.00	2. Dem Meer verdankt die Hansestadt Bremen ihre Bedeutung. Bremer Kaufleute und Seefahrer
+0.349 0.115 1.00	nutzten die günstige geografische Lage, um in aller Welt heimisch zu werden. Seit
+0.366 0.117 1.00	Generationenhaben sie Handel getrieben, so dass Geld in die Stadt. Dies steht man der Stadt
+0.382 0.117 1.00	heute noch an: das Alte Rathaus, das Kaufmannhaus, die historische Innenstadt. Außerdem
+0.400 0.117 1.00	war Bremen auch immer eine Heimat für natürlich das Märchen der Bremer Stadtmusikanten.
+0.451 0.086 1.00	3. Freiburg, die Hauptstadt des Schwarzwaldes, liegt in einer der sonnigsten Gegenden
+0.472 0.117 1.00	Deutschlands. Wo es so viel Sonne gibt , da ist auch viel Lebensfreude, und nicht zuletzt
+0.488 0.117 1.00	gehören auch badische Küche und badischer Wein zum Besten was in Deutschland geboten
+0.506 0.117 1.00	wird. Zum einmaligen Flair gemütlichen Universitätsstadt trägt auch ihre Lage bei. Frankreich
+0.523 0.115 1.00	und die Schweiz sind nicht weit entfernt. Die Stadt selbst lockt mit vielen alten Straßen mit
+0.537 0.115 1.00	zahlreichen Museen und Baudenkmälern. Über alles hinaus ragt die große Kirche, die nach 300
+0.558 0.113 1.00	- jähriger Bauzeit 1513 vollendet wurde.
+0.603 0.086 1.00	4. In einer wissenschaftlichen Untersuchung hat man erforscht, warum bestimme Menschen
+0.623 0.117 1.00	mehr Geld verdienen als andere. Britische Wissenschaftler behaupten, größeren Menschen
+0.641 0.117 1.00	zahlt der Chef mehr. Im Laufe des vergangenen Jahres haben zwei weitere Untersuchungen
+0.657 0.113 1.00	festgestellt: Wer wenig lacht oder häufig mit Kollegen trinken geht, verdient mehr nur: Nicht
+0.674 0.115 1.00	lachen und mit Kollegen trinken, gehen das kann man lernen. Aber wachsen?
+0.721 0.088 1.00	5. Das Statistische Bundesamt berichtet, dass in deutschen Schulen allgemein wieder mehr Latein
+0.743 0.115 1.00	gelernt wird. Allein in Thüringen hat sich die Anzahl in den letzten beiden Jahren verdoppelt
+0.759 0.115 1.00	Während der Tiefpunkt bei Latein im vorletzten Jahr erreicht war, wählen zurzeit wieder mehr
+0.776 0.117 1.00	Schüler Latein als erste Fremdsprache. Als vorteilhaft hat sich offenbar vor allem das
+0.794 0.117 1.00	wittenbergische Modell erwiesen, das Latein in der fünften Klasse mit einer modernen
+0.811 0.117 1.00	Fremdsprache (Französisch, Englisch usw.) kombiniert Allerdinges sind hier meist nur drei
+0.828 0.117 1.00	Stunden für beide Sprachen pro Woche vorgesehen. Das sei bei Weitem zu wenig, Kritisieren
+0.846 0.117 1.00	Lateinlehrer Weitem zu wenig kritisieren Lateinlehrer.

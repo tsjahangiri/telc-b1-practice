@@ -1,0 +1,17 @@
+0.093 0.060 1.00	Leseverstehen, Teil 3
+0.110 0.045 1.00	LANGUAGE Tests
+0.163 0.045 1.00	Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können
+0.183 0.043 1.00	jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 - 20 auf dem
+0.203 0.047 1.00	Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.
+0.275 0.045 1.00	11.Sie haben von einer noch unbekannten Schauspielerin gehört und möchten gern einen Film
+0.310 0.076 1.00	sehen.
+0.347 0.047 1.00	12. Sie haben bereits in einem Hotel gearbeitet und suchen wieder eine neue interessante Stelle.
+0.361 0.039 0.30	1.Sseimnersien sch tof Umweteshutz und suchen the psende serdung.
+0.423 0.045 1.00	14. Ihr Freund, der am Institut für Film und Bild studiert, sucht einen geeigneten Praktikumsplatz.
+0.461 0.049 1.00	15.In einer Sendereihe wird im Fernsehen über die neue politische Entwicklung in Deutschland
+0.496 0.078 1.00	berichtet. Sie wollen sich informieren.
+0.535 0.047 1.00	16. Sie interessieren sich für moderne Stadtentwicklung und suchen dazu eine Sendung im Rundfunk.
+0.574 0.047 1.00	17.Sie wollen bei der Deutschen Bahn eine Ausbildung machen.
+0.615 0.049 1.00	18.Sie interessieren sich für politisches Theater und möchten am Wochenende dazu etwas hören
+0.650 0.078 1.00	oder sehen.
+0.688 0.047 1.00	19. Sie arbeiten gern mit anderen zusammen und suchen eine Tätigkeit bei einer Werbefirma.

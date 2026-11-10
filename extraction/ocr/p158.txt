@@ -1,0 +1,35 @@
+0.078 0.092 1.00	Leseverstehen, Teil 2
+0.097 0.076 1.00	LANGUAGE Tests
+0.151 0.047 1.00	Lesen Sie den Text und die Aufgaben 6 - 10. Welche Lösung (a, b oder c) ist jeweils richtig?
+0.145 0.778 0.30	ähaglesl Egiu
+0.168 0.049 1.00	Markieren Sie Ihre Lösungen für die Aufgaben 6-10. Auf dem Antwortbogen.
+0.222 0.045 1.00	Informationsverhaltungen sind wichtige Grundlagen für die
+0.256 0.047 0.50	Berufswahl
+0.298 0.049 1.00	Die Entscheidung, welchen Beruf man erlernen will, ist nicht leicht. Große) Firmen bieten spezielle Information
+0.317 0.047 1.00	Veranstaltung für Schülerinnen und Schüler an. Wir haben einen Info - Nachmittag der Bank Credit Suisse in Bern
+0.334 0.047 1.00	beucht und uns danach bei den Jugendlichen umgehört.
+0.365 0.047 1.00	20 Schülerinnen und Schüler kann Irene Leiser um Punkt 13 Uhr zu diesem Info - Nachmittag Begrüßen. Die
+0.384 0.045 1.00	jugendlichen kommen aus dem ganzen Kanton Bern und haben sich vorher bei der Bank angemeldet. Viermal im
+0.401 0.047 1.00	Frühling und zwei weitere Male im August werden diese Info Veranstaltungen bei der Credit Suisse durchgeführt. Sie
+0.420 0.047 1.00	richten sich vor allem an Schülerinnen und Schüler aus der 8. Klasse. Irene Leiser hat gute Erfahrungen mit diesen
+0.439 0.047 1.00	Veranstaltungen gemacht die Jugendlichen können danach ihre Erwartungen an den Beruf und die Ausbildung an die
+0.458 0.049 1.00	Realität anpassen.
+0.487 0.047 1.00	Im ersten Teil des Nachmittags erklärt Frau Leiser die Hauptaufgaben einer Bank und stellt die Firma vor. Danach treten
+0.506 0.049 1.00	die Lehrlinge in Aktion: Daniel Sommer und Linda Schmidt sind im Zweiten Lehrjahre und erzählen aus ihrem
+0.523 0.049 1.00	Berufsalltag. Dieser Teil gefällt den Schülerinnen und Schülern besonders gut.
+0.554 0.049 1.00	Die Jugendlichen identifizieren sich mit den Lehrringe und sehen, wo sie selber in zwei Jahren beruflich stehen könnten.
+0.573 0.049 1.00	Das fasziniert sehr zum Schluss folge Informationen darüber, welche Voraussetzungen man mitbringen muss und wie
+0.592 0.049 1.00	man sich bewirbt. Um 16:30 Uhr schließt Frau Leiser die Veranstaltung. Sie ist zufrieden mit dem Nachmittag. Die
+0.609 0.049 1.00	Gruppe war sehr aufmerksam. Interessierten Schülerinnen und Schüler gibt sie folgenden Tipp: Gehen Sie auch noch zu
+0.628 0.047 1.00	anderen Firmen. Fragen Sie dort möglichst viele Lehrlinge und Mitarbeiter nach ihren Erfahrungen Wir haben danach
+0.647 0.045 1.00	eine Schülerin und einen Schüler befragt wie sie den Nachmittag erlebt haben:
+0.677 0.045 1.00	Tugba Kaptan aus Biel, 8. Klasse
+0.708 0.049 1.00	Mich fasziniert das Umfeld einer Bank. Ich hätte mehr Leute bei der Arbeit sehen wollen zum Beispiel am Schalter. Aber
+0.727 0.049 1.00	der Tag hat mir weiter geholfen. Ich habe viele Dinge erfahren die ich bis her nicht gewusst habe. Solche Nachmittag ist
+0.744 0.047 1.00	ideal weil da schulfrei ist.
+0.776 0.047 1.00	Alan Blank aus Mühleberg,8. Klasse
+0.807 0.049 1.00	Die Bank ist eigentlich mein Traumbiet und bietet mir nach der Lehre viele Entscheidungsmöglichkeiten. Ich habe mich
+0.826 0.047 1.00	umgeschaut und mich über viele Beruf informiert. Jetzt weiß ich, dass ich eine Lehre in diesem Bereich machen will. Ich
+0.843 0.047 1.00	suche nach der optimalen Lehrestelle. Eine Großbank wäre toll für mich. Dieser Nachmittag hat mir gefallen. Alles war
+0.860 0.045 1.00	sehr gut organisiert. Ich kann solche Veranstaltungen nur empfehlen . Was mir persönlich gefehlt hat, ist eine Führung
+0.879 0.047 1.00	durch den Betrieb. Es ist wichtig zu sehen, wie das alles genau vor sich geht.

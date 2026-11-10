@@ -1,0 +1,11 @@
+0.092 0.010 1.00	• Ich glaube wir sollten sowohl unsere Freunde aus dem Kurs ,als auch
+0.128 0.045 1.00	unsere Lehrer einladen ‚aber welche Aktivitäten können wir machen?
+0.167 0.012 1.00	• Wir können nicht nur tanzen ,sondern auch einige Teamspiele spielen ,das
+0.203 0.043 1.00	finde es sehr interessant ,was meinst du?
+0.243 0.012 1.00	• Ja ,ich glaube das wird bestimmt eine tolle Party ,und wir werden viel
+0.279 0.045 1.00	Spaß haben.
+0.320 0.014 0.50	• Ich auch ,bis dann.
+0.355 0.043 1.00	Bis
+0.356 0.086 0.30	bald
+0.473 0.009 0.30	МАH
+0.930 0.010 1.00	www.instagram.com/mahmoudemad007

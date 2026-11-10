@@ -1,0 +1,353 @@
+{
+ "id": "P21",
+ "pages": [
+  304,
+  312
+ ],
+ "answer_key_page": 312,
+ "page_sections": {
+  "L1": [
+   304,
+   305
+  ],
+  "L3": [
+   306,
+   307
+  ],
+  "SB2": [
+   308
+  ],
+  "H": [
+   309,
+   310
+  ],
+  "?": [
+   311
+  ],
+  "LOES": [
+   312
+  ]
+ },
+ "exercises": [
+  {
+   "type": "lesen1",
+   "instructions": "Lesen Sie die Überschriften a – j und die Texte 1-5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1-5. Auf dem Antwortbogen.",
+   "headings": [
+    {
+     "key": "a",
+     "text": "Bilder mit dem Computer bearbeiten"
+    },
+    {
+     "key": "b",
+     "text": "Kirche bietet Backkurs für Kinder an"
+    },
+    {
+     "key": "c",
+     "text": "Kirche eröffnet neuen Treffpunkt"
+    },
+    {
+     "key": "d",
+     "text": "Neu: Kochbuch über Weiner Fleischgerichte"
+    },
+    {
+     "key": "e",
+     "text": "Neue Computerprogramme werden getestet"
+    },
+    {
+     "key": "f",
+     "text": "Preis für bestes Lernprogramm"
+    },
+    {
+     "key": "g",
+     "text": "Rezepte für Kuchen und Torten"
+    },
+    {
+     "key": "h",
+     "text": "Studie zeigt: Kaffeetrinker sind glücklicher"
+    },
+    {
+     "key": "i",
+     "text": "Warum die Wiener ins Café gehen"
+    },
+    {
+     "key": "j",
+     "text": "Zürcher Fotografen stellen aus"
+    }
+   ],
+   "texts": [
+    {
+     "num": 1,
+     "text": "Die Kunst – und Medienschule F+ F Zürich bietet bereits zum dritten Mal den Computerkurs Digitale Bildbearbeitung an im neuen Semester steht für zehn Samstage Fotografie nach der Fotografie also die digitale Bearbeitung von Bildern im Mittelpunkt Dabei kommen verschiedene Softwareprodukte zum Einsatz Der Kurs befasst sich aber nicht nur mit dem Vermitteln auch Themen – und Problembereiche rund um die digitale Foto – und Bildbearbeitung kurskosten 800Franken Nähere Informationen und Anmeldung zu diesem Kurs www.f- f.ch."
+    },
+    {
+     "num": 2,
+     "text": "Neuperlach-Süd – Nach dem Einkaufen eine Kaffee genießen, mit anderen ins Gespräch Immen, sich mit Bekannten treffen oder einfach spannen – all das geht ab 11 Juli immer dienstags zwischen 14 und 18 Uhr im neuen Eiscafé der Dietrich – Bonhoeffer – Kirche Wir hotten damit einen Ort der Begegnung für Jung und Alt anbieten und zur Belebung des Stadtteils beitragen erklärt Pfarrer Sebastian Kühnen. Neben kalten und heißen Getränken sowie Kuchen steht während der Öffnungszeiten auch eine Mitarbeiten für Gespräch zur Verfügung."
+    },
+    {
+     "num": 3,
+     "text": "Geheimnisse der modernen Konditorkunst der Meister des Süßen, Herwig Gasser, in Jahre hinweg sammelte der Bäcker des berühmten Wiener Café Landmann Mehlspeisenrezepte. Von der Birnentorte über den Apfelstrudel bis hin zum Heidelbeerstolle Verlag Kettel, 110 Fotos, 300 Seiten.\nISBAN 3 – 85134 – 014 -0"
+    },
+    {
+     "num": 4,
+     "text": "Am Montag wird in Stuttgart die BildungsDidacta eröffnet. Dort werden vor allem Lehrmaterialien vorgestellt. Bei vielen sich um Bildungssoftware. Für ein gelungenes Softwareprojekt wird am der Bildungssoftwarepreis digital vergeben Dabei handelt es sich um die wichtige Auszeichnung für Lehr – und Lernprogramm deutschsprachigen Raum Die verzeichnen mit dem digital multimediale Gebote aus, die inhaltlich und formal als ragend und beispielgebend gelten können."
+    },
+    {
+     "num": 5,
+     "text": "Des Gallup – Instituts hat sich mit Kaffeehausverhaltens der Wiener Ein Vorurteil hat sich dabei bestätigt Kaffeehaus und der Wiener Seine Melange Ergebnisse der Studie 27 der an, zumindest einmal im Monat der Nähe ihrer Wohnung zu gehen. Durchschnittlich 54 Minuten Befragten in ihrem Stamm Café Kundschaft umso länger wird gegessen. Der Grund ein Kaffeehaus wichtiger ist das Plaudern und Freunden. 77 der Befragten Grund für den Besuch im Kaffeehaus."
+    }
+   ],
+   "id": "P21-L1",
+   "section": "Leseverstehen, Teil 1",
+   "pages": [
+    304,
+    305
+   ],
+   "topic": "Kirche",
+   "solution": {
+    "1": "a",
+    "2": "c",
+    "3": "g",
+    "4": "e",
+    "5": "i"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Heading letters printed in mixed case (A, C, E, G, I uppercase) — normalized to lowercase keys; wording unchanged."
+   ],
+   "uncertain": [
+    {
+     "location": "p305, texts 2–5",
+     "note": "Source texts are themselves incomplete/garbled: the compiler's Arabic note on p15 says some words are missing from the texts because of poor image quality. Text reproduced exactly as printed; missing words NOT reconstructed."
+    }
+   ],
+   "verified": true
+  },
+  {
+   "type": "lesen3",
+   "instructions": "Lesen sie die Situationen 11-20 und die Anzeigen a-l. Finden sie für jede die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren sie Ihre Lösungen für die Aufgaben 11 – 20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie x.",
+   "situations": [
+    {
+     "num": 11,
+     "text": "Sie mögen thailändisches Essen und möchten lernen, einige Speisen selbst zu kochen."
+    },
+    {
+     "num": 12,
+     "text": "Sie müssen umziehen und brauchen jemand, der Ihnen hilft."
+    },
+    {
+     "num": 13,
+     "text": "Ihr Kind hat in Mathematik schlechte Noten bekommen und braucht Nachhilfe."
+    },
+    {
+     "num": 14,
+     "text": "Ihre Freundin hat Geburtstag. Sie möchten ihr einen Blumenstrauß schicken lassen."
+    },
+    {
+     "num": 15,
+     "text": "Am Samstag wollen sie mit Ihrer Tante eine Blumenausstellung besuchen."
+    },
+    {
+     "num": 16,
+     "text": "Ihr Kollege heiratet. Sie möchten ihm etwas für die Küche schenken."
+    },
+    {
+     "num": 17,
+     "text": "Sie wollen für eine Hochzeit einen Luxuswagen mieten."
+    },
+    {
+     "num": 18,
+     "text": "Am nächsten Montag möchten Sie mit Ihren Freunden thailändisch essen gehen."
+    },
+    {
+     "num": 19,
+     "text": "Für Ihre Geburtstagfeier suchen Sie jemanden, der bei Ihnen zu Hause kocht."
+    },
+    {
+     "num": 20,
+     "text": "Sie wollen sich über Wohnwagen informieren."
+    }
+   ],
+   "ads": [
+    {
+     "key": "a",
+     "text": "PLANA Badeland\nMehr Bad für weniger Geld!\nBei PLANA Badeland bekommen\nSie immer mehr als Sie erwarten:\nmehr Beratung, mehr Service\nund mehr Bad fürs Geld. So werden\naus Bädern echte Traumbäder, die\nnicht gleich die Welt kosten.\nÜber 100 Badideen auf 1000 qm\nAusstellungsfläche,\nMo–Sa. 10.00–19.00 Uhr,\nSo. 10.00–14.00 Uhr\nHanauer Straße 56\n69720 Frankfurt\nTel. 069/14 31 49-0\nwww.plana.de\nAchtung: Unser PLANA Küchenland ist\nderzeit wegen Umbaus geschlossen!"
+    },
+    {
+     "key": "b",
+     "text": "Lernstudio Barbarossa\nNACHHILFE &\nHAUSAUFGABENBETREUUNG\n– von der Grundschule bis zum Abitur\n– alle Fächer, alle Klassen\n– kostenloser Probeunterricht\nWolfsschlucht 19\n(Eingang Theaterstraße)\nTel.: 0561/7 66 79 94\nLernstudio Barbarossa\nBeratung:\nMo.–Do. 9–12 und 14–19 Uhr,\nFreitag 14–19 Uhr"
+    },
+    {
+     "key": "c",
+     "text": "NAKORN\nThai Restaurant\nSieben Jahre\nOriginal thailändische Küche\nsind für uns ein Grund zu feiern\nauf alle Gerichte 20% Rabatt *\n* nur bei Barzahlung – keine Kreditkarten\nNeu!\nJeden Sonntag Brunch\npro Person nur Euro 9,–\nWilhelmshöher Allee 42 – Kassel\nTelefon (0561) 10 49 28\ndienstags–sonntags,\n12.00–22.00 Uhr geöffnet"
+    },
+    {
+     "key": "d",
+     "text": "Sopha's\nThai-Gourmet\nKassels exotischer Partyservice\nAb 10 Menüs Lieferung in beheizten\nSilber-Woks, Catering und\nFingerfood. Wir kochen auch bei\nIhnen unsere original Thai-Gerichte!\nWir faxen unsere Menü- und\nSpeisekarten.\nTel.: 0561/802971\nFax: 0564/4612091\nwww.thai-partyservice.de"
+    },
+    {
+     "key": "e",
+     "text": "BUGA\nVom 28.4. bis 9.10. sind die Pforten der\nBundesgartenschau für Besucher geöffnet.\n200 Hektar Landschaftspark und\nca. 2 Millionen Blumen – das und noch mehr\nhat die BUGA zu bieten.\nBesuchen Sie auch unsere\nAusstellungshallen, z. B. das Orchideen-Haus.\nGeöffnet tägl. 9.00–20.00 Uhr\nTageskarten: Erw. 14,– Euro,\nKinder bis 12 J. 7,– Euro,\nspezielles Abendticket ab 17.00 Uhr 7,– Euro\nwww.buga.de"
+    },
+    {
+     "key": "f",
+     "text": "Exotische\nPfannengerichte\nMit feurigen Gewürzen und erntefrischem\nGemüse kochen wir Gerichte, die schnell\nzubereitet und preiswert sind:\nThai-Gemüsepfanne, Weizen-Curry mit\nBananen, Blumenkohl und Pilzpfanne auf\nthailändische Art.\nDas Essen genießen Sie am selben Abend\nmit uns in der Gruppe.\nFreitagsseminar mit Andrea Passenberg\nFreitag 12.11., 17.00 bis 21.00 Uhr,\n18,50 Euro\nVolkshochschule Wuppertal\nBäckerstr. 14\nTel: 06715-212 64 20"
+    },
+    {
+     "key": "g",
+     "text": "Kindervortrag\nFür 8 bis 12jährige Kinder bietet das\nMathematikum etwas Besonderes:\nAn einem Samstag im Monat hält Prof.\nBeutelspacher einen speziellen Vortrag für\nKinder. In spielerischer Weise stellt er\nThemen wie Geheimcodes, Zauber der\nZahlen, Licht und Schatten sowie optische\nTäuschungen vor.\nKarten im Vorverkauf.\nMathematikum Gießen, Liebigstr. 8,\n35390 Gießen\nwww.mathematikum.de"
+    },
+    {
+     "key": "h",
+     "text": "Volkshochschule Wuppertal-Süd\nBlumenzauber\nSamstagswerkstatt mit Waltraud Maisch\nSa 16.10., 10.00–18.00 Uhr\nMit Blumen, Blättern, Früchten und allem,\nwas die Natur zu bieten hat, lernen Sie\nIhren persönlichen Blumenschmuck\nherzustellen, verschiedene Kompositions-\ntechniken, kreatives Arbeiten – das richtige\nGeschenk für jede Gelegenheit\nVHS Wuppertal-Süd\nMax-Reinhardt-Weg 29\n49278 Wuppertal"
+    },
+    {
+     "key": "i",
+     "text": "Viehmann\nIhr Partner für moderne Floristik\nBlumen, Pflanzen, Sträucher\nRosen in allen Farben\nHochzeitsschmuck\nBüro-, Messe- und\nAusstellungsdekoration\nLieferservice\nViehmann – Floristikfachgeschäft\nWartekuppe 3\n69936 Frankfurt\nTelefon 069-41 24 04"
+    },
+    {
+     "key": "j",
+     "text": "KUNO'S\nMobile Freizeit\nReisemobile vom Kleinwohnwagen bis zur\nLuxusausführung, Zubehör, alles auf über\n3000 qm Ausstellungsgelände;\nfachmännische Beratung\nWir laden Sie ein zum FRÜHLINGSFEST mit\nverkaufsoffenem Sonntag am 22. / 23.3.\n34295 Edermünde / Holzhausen\nTel. 0 56 65 / 68 46\nDirekt an der A 49\nwww.kuno-mobil.de"
+    },
+    {
+     "key": "k",
+     "text": "HARTMANN & SCHRÖDER\n• Zuverlässig und kompetent\n• Transporter- / Minibus-Verleih für Ihren\nUmzug\n• Tagestarife, Wochentarife,\nWochenendpauschale.\n• Zusätzliches Angebot: 2 starke Männer\nplus Lkw 48,– Euro/Stunde, jeder\nweitere Mann 29,– Euro/Stunde.\nBad Vilbeler Str. 83–85,\n37155 Kassel,\nTel. 0561784073"
+    },
+    {
+     "key": "l",
+     "text": "Wir ziehen um –\nprofitieren Sie jetzt von\nunseren Angeboten!\nTraumhafte Möbel und Accessoires:\nPorzellan, Lampen, Geschirr,\nKeramik, handgewebte Teppiche,\nTisch- und Bettwäsche.\nMÖBELZENTRUM OBERWESER\n34359 Reinhardshagen\n6000 m² Ausstellung\nTelefon 0 55 44 / 3 07"
+    }
+   ],
+   "ads_image_page": 307,
+   "id": "P21-L3",
+   "section": "Leseverstehen, Teil 3",
+   "pages": [
+    306,
+    307
+   ],
+   "topic": "thailändisches",
+   "solution": {
+    "11": "f",
+    "12": "k",
+    "13": "b",
+    "14": "i",
+    "15": "e",
+    "16": "l",
+    "17": "x",
+    "18": "x",
+    "19": "d",
+    "20": "j"
+   },
+   "solution_complete": true,
+   "notes": [
+    "Ads page p307 is a photo of a printed page with handwritten pencil marks (11, 12, 13, 15) by a previous user; those marks are not part of the exam. Ads transcribed manually from zoomed image (OCR too unreliable on this page)."
+   ],
+   "uncertain": [
+    {
+     "location": "p307, ad b phone number",
+     "note": "Handwriting-style font; digits read as 'Tel.: 0561/7 66 79 94' (low confidence)."
+    },
+    {
+     "location": "p307, ad a last line",
+     "note": "Partly covered by watermark; read as 'Achtung: Unser PLANA Küchenland ist derzeit wegen Umbaus geschlossen!'"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "type": "sprach2",
+   "instructions": "Lesen sie den Text und schließen Sie Lücken 31 – 40. Benutzen Sie die Wörter (a, o) Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31 – 40 auf dem Antwortbogen.",
+   "text": "Neuendorf, den….\nSehr geehrte Frau Bauer,\nich habe Ihre Anzeige in der Neuen Presse gelesen und bin an dem Filmprojekt sehr [[31]].\nich war schon [[32]] für einige Wochen im Ausland. Vor allem im Sommer habe ich während meines Studiums viele Sprachkurse besucht. Länger als ein halbes Jahr habe ich [[33]] einmal im Ausland gelebt, und zwar [[34]] zwei Jahren. Mein Chef machte mir damals das Angebot, acht Monate im Tochterunternehmen der Firma in Portugal zu [[35]] , was ich dann auch getan habe.\nAm Anfang war es sehr schwer, weil ich niemanden kannte und alles sehr neu und [[36]] für mich war. Eigentlich wollte ich so schnell wie [[37]] wieder zurück. Aber dann habe ich nette Kollegen kennen gelernt, die mir auch über die Kultur und das Leben in Portugal [[38]] haben.\nIch glaube, dass meine Erfahrungen für viele andere Menschen, die auch im Ausland leben wollen, sehr interessant sein könnten, und ich [[39]] gerne auch vor der Kamera darüber erzählen. [[40]] Sie noch weitere Fragen an mich haben, können Sie mich gerne anrufen, meine Telefonnummer ist 07612/64788980.\nIch würde mich freuen, bald von Ihnen zu hören.\nMit freundlichen Grüßen\nKAROLINE POINTNER",
+   "words": [
+    {
+     "key": "a",
+     "word": "ALS"
+    },
+    {
+     "key": "b",
+     "word": "ANFANGEN"
+    },
+    {
+     "key": "c",
+     "word": "ARBEITEN"
+    },
+    {
+     "key": "d",
+     "word": "ERZÄHLT"
+    },
+    {
+     "key": "e",
+     "word": "FALLS"
+    },
+    {
+     "key": "f",
+     "word": "INFORMIERT"
+    },
+    {
+     "key": "g",
+     "word": "INTERESSIERT"
+    },
+    {
+     "key": "h",
+     "word": "MÖCHTEN"
+    },
+    {
+     "key": "i",
+     "word": "MÖGLICH"
+    },
+    {
+     "key": "j",
+     "word": "NUR"
+    },
+    {
+     "key": "k",
+     "word": "ÖFTER"
+    },
+    {
+     "key": "l",
+     "word": "UNBEKANNT"
+    },
+    {
+     "key": "m",
+     "word": "VOR"
+    },
+    {
+     "key": "n",
+     "word": "WÜRDE"
+    },
+    {
+     "key": "o",
+     "word": "ZWISCHEN"
+    }
+   ],
+   "id": "P21-SB2",
+   "section": "Sprachbausteine, Teil 2",
+   "pages": [
+    308
+   ],
+   "topic": "Frau Bauer",
+   "solution": {
+    "31": "g",
+    "32": "k",
+    "33": "j",
+    "34": "m",
+    "35": "c",
+    "36": "l",
+    "37": "i",
+    "38": "d",
+    "39": "n",
+    "40": "e"
+   },
+   "solution_complete": true,
+   "notes": [],
+   "uncertain": [],
+   "verified": true
+  }
+ ],
+ "missing_sections": [
+  "L2",
+  "SB1"
+ ],
+ "paper_notes": [
+  "P21 is a duplicate of P02 (same three sections and key); like P02 it contains no Leseverstehen Teil 2 and no Sprachbausteine Teil 1."
+ ]
+}

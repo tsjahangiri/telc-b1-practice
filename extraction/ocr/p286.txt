@@ -1,0 +1,36 @@
+0.078 0.072 1.00	Leseverstehen, Teil 1
+0.096 0.057 1.00	LANGUAGE Tests
+0.208 0.088 1.00	1. Frauen lachen auf viele Arten Sie kichern glucksen und manchmal singen sie fast Bei Männern dagegen
+0.228 0.117 1.00	kommt das viel seltener vor. Aber gemeinsam ist Männern und Frauen, dass sie in Vokalen lachen die
+0.243 0.115 1.00	im Mundzentrum gebildet werden. Und das ist entscheidend: Nur wenn die Vokale im Mundzentrum
+0.259 0.117 1.00	gebildet werden, ist das Lachen für uns fröhlich und positiv. Damit ist bewiesen, dass das Lachen vom
+0.275 0.117 1.00	Weihnachtsmann, dass wie eine tiefes Ho, ho , ho klingt. Kaum als fröhlich empfunden wird. Denn
+0.289 0.117 1.00	dieser Laut wird im hinteren Teil des Mundraums gebildet.
+0.289 0.667 1.00	(aus einer deutschen Zeitung)
+0.336 0.084 1.00	2. Viel Arbeit, viel Stress. Wer viel arbeitet muss nicht unbedingt gestresst sein. Frauen in medizinischen
+0.356 0.117 1.00	Berufen zum Beispiel klagen trotz teilweise hoher Belastung deutlich weniger über stressbedingte
+0.371 0.117 1.00	Krankheiten als Raumpflegerinnen, Kindergärtnerinnen oder Berufsschullehrerinnen. Dies zeigt eine
+0.388 0.117 1.00	Untersuchung des Hamburger IPO - Instituts, das für eine Studie 1000 Frauen und Männer befragt hat.
+0.403 0.117 1.00	Vor Stress schützen laut Studie ein angenehmes Betriebsklima, ein gutes Verhältnis zur Chefin oder
+0.418 0.117 1.00	zum Chef und die Möglichkeit, die eigene Arbeit selbstständig zu planen.
+0.435 0.115 1.00	(aus einer deutschen Zeitung)
+0.488 0.086 1.00	3. Ein neues Buch zeigt, wie Männer Fähigkeiten aus dem Arbeitsleben auf die Erziehung übertragen
+0.509 0.117 1.00	können und so zu erfolgreichen Vätern werden. Da wird die gemeinsame Kindererziehung zur
+0.525 0.117 1.00	Partnerarbeit (oder sogar zum Joint Venture) geschicktes Verhandeln heißt, das Kind zu überzeugen,
+0.539 0.117 1.00	dass sie Zähne geputzt werden müssen, und der Familienurlaub hat alle Qualitäten einer Tagung oder
+0.555 0.117 1.00	eines Seminars: Man erhält die Gelegenheit, die Kinder intensiv zu studieren.
+0.571 0.115 1.00	(aus einer deutschen Zeitung)
+0.616 0.086 1.00	4. Eine Studie der Universität Essex hat ergeben dass wir mit siebzig Jahren am glücklichsten sind. Zwar
+0.637 0.117 1.00	haben die meisten Menschen in diesem Alter gesundheitliche Probleme, aber dafür genießen sie viel
+0.653 0.117 1.00	Freizeit und haben keinen Stress mehr. Deshalb macht ihnen das Leben so viel Spaß wie nie zuvor. Die
+0.667 0.117 1.00	Studie besagt auch, dass wir einen ersten Höhepunkt der Lebensfreude mit fünfzehn Jahren erreichen.
+0.683 0.117 1.00	Danach geht es bergab zwischen dreißig und fünfzig Jahren tragen wir am meisten Verantwortung das
+0.698 0.117 1.00	Leben ist geprägt von Sachzwängen.
+0.699 0.575 1.00	(aus einer deutschen Zeitung)
+0.753 0.088 1.00	5. Warum bleiben manche Managerinnen erfolgreich, obwohl sie Nachrichten mitteilen, die ihr Publikum
+0.773 0.115 1.00	lieber nicht hören möchte? Ganz einfach: Sie verkaufen die schlechte Nachricht mit Humor. Ein
+0.788 0.117 1.00	Londoner Soziologe hat während einer Studie beobachtet, dass gerade bei Reden unangenehmen
+0.804 0.115 1.00	Inhalts oft heiter gelacht wird. Das Lachen wird bewusst provoziert, etwa durch bestimmte Wörter
+0.820 0.117 1.00	oder durch ein eigenes breites Lächeln. Die fröhliche Stimmung soll dafür sorgen, dass die Zuhörenden
+0.836 0.117 1.00	das Gefühl haben würden mehr wissen als alle anderen.
+0.836 0.632 1.00	(aus einer deutschen Zeitung)
